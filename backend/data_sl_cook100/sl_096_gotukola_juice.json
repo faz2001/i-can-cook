@@ -1,0 +1,37 @@
+{
+  "id": "sl_096",
+  "name_en": "Gotukola Juice (Herbal Centella Drink)",
+  "name_si": "ගොටුකොළ ජූස්",
+  "regional_origin": "Island-wide",
+  "cuisine": "Sri Lankan",
+  "course": "Breakfast",
+  "servings": 2,
+  "prep_time_min": 10,
+  "cook_time_min": 0,
+  "total_time_min": 10,
+  "ingredients": [
+    {"canonical_id": "ing_gotukola", "name": "Fresh gotukola leaves (Centella asiatica)", "quantity": 60, "unit": "g", "notes": "about 2 large handfuls of leaves and tender stems; washed very thoroughly in several changes of water -- gotukola grows low to the ground and can carry soil and insects"},
+    {"canonical_id": "ing_coconut_milk", "name": "Thin coconut milk", "quantity": 120, "unit": "ml", "notes": "1/2 cup; softens the juice and adds creaminess; plain water or fresh coconut water can substitute"},
+    {"canonical_id": "ing_water", "name": "Water", "quantity": 120, "unit": "ml", "notes": "1/2 cup; for blending"},
+    {"canonical_id": "ing_sugar", "name": "Sugar or honey", "quantity": 2, "unit": "tsp", "notes": "to taste; gotukola is quite bitter on its own -- adjust to preference"},
+    {"canonical_id": "ing_salt", "name": "Salt", "quantity": 1, "unit": "pinch", "notes": "a tiny pinch enhances the flavour"},
+    {"canonical_id": "ing_lime", "name": "Lime", "quantity": 0.5, "unit": "count", "notes": "juiced; optional but brightens the flavour"}
+  ],
+  "steps": [
+    {"step": 1, "instruction": "Wash the gotukola leaves very thoroughly in at least 3-4 changes of cold water, checking carefully for insects, soil, or debris -- the leaves grow close to the ground and must be cleaned meticulously.", "duration_min": 5},
+    {"step": 2, "instruction": "Place the washed gotukola leaves and tender stems into a blender. Add the thin coconut milk, water, and a pinch of salt.", "duration_min": 1},
+    {"step": 3, "instruction": "Blend on high speed for 1-2 minutes until very smooth.", "duration_min": 2},
+    {"step": 4, "instruction": "Strain through a fine mesh sieve or a clean muslin cloth, pressing to extract as much green juice as possible. Discard the fibrous pulp.", "duration_min": 2},
+    {"step": 5, "instruction": "Add sugar (or honey) to the strained juice and stir to dissolve. Add lime juice if using. Taste and adjust sweetness. Serve immediately over ice or at room temperature -- the juice oxidises and loses colour quickly, so drink within 15-20 minutes of making.", "duration_min": 1}
+  ],
+  "tags": ["breakfast", "everyday", "vegan", "vegetarian", "gluten-free", "dairy-free", "raw", "under-30-min"],
+  "ayurvedic_balance": "tridoshic",
+  "nutrition_per_serving": {"calories": 55, "protein_g": 1, "carbs_g": 8, "fat_g": 3, "fibre_g": 1},
+  "trust_score": 0.92,
+  "source_url": "https://www.hungrylankan.com/recipes/gotukola-juice-recipe/",
+  "source_site": "hungrylankan.com, cross-checked against serendipdelights.com, backtonature.lk, lakpura.com, foodcnr.com, and ceylonheritage.lk",
+  "collection_method": "scraped, cross-checked across 6+ independent sources; very strong agreement on the coconut milk base and the strain-after-blending technique",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "Gotukola juice is sold on every street corner and at every market in Sri Lanka, consumed daily by millions for its Ayurvedic health properties -- it is considered one of the most important medicinal herbs in Sri Lankan traditional medicine (Hela Wedakama), valued for improving memory, reducing inflammation, and supporting skin health. The same gotukola leaves are used in gotukola sambol (sl_002) and kola kenda (sl_046), making this a useful cross-reference in the dataset. The juice oxidises very quickly after blending -- the bright green colour turns darker within 15-20 minutes -- so it should be consumed immediately. The addition of thin coconut milk is the most distinctly Sri Lankan characteristic of this drink, setting it apart from similar centella drinks in other South Asian cuisines that use plain water. A popular variant adds a small piece of fresh ginger for extra warmth."
+}

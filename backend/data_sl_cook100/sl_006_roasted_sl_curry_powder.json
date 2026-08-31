@@ -1,0 +1,131 @@
+{
+  "id": "sl_006",
+  "name_en": "Roasted Sri Lankan Curry Powder",
+  "name_si": "රෝස්ට් කරපු ශ්‍රී ලාංකික කරපිටි",
+  "regional_origin": "Galle (Sun House)",
+  "cuisine": "Sri Lankan",
+  "course": "Condiment",
+  "servings": 12,
+  "prep_time_min": 5,
+  "cook_time_min": 15,
+  "total_time_min": 20,
+  "ingredients": [
+    {
+      "canonical_id": "ing_rice_raw_uncooked",
+      "name": "Uncooked long-grain or basmati rice",
+      "quantity": 1,
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_coriander_seeds",
+      "name": "Coriander seeds",
+      "quantity": 50,
+      "unit": "g",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_fennel_seeds",
+      "name": "Fennel seeds",
+      "quantity": 25,
+      "unit": "g",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_cinnamon",
+      "name": "Cinnamon stick",
+      "quantity": 7.5,
+      "unit": "cm",
+      "notes": "broken into 2-3 pieces"
+    },
+    {
+      "canonical_id": "ing_fenugreek",
+      "name": "Fenugreek seeds",
+      "quantity": 1.5,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_cloves",
+      "name": "Cloves",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_cardamom",
+      "name": "Cardamom pods",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": "seeds from about 10 green pods"
+    },
+    {
+      "canonical_id": "ing_mustard_seeds",
+      "name": "Black mustard seeds",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_chilli_powder",
+      "name": "Dried Kashmiri chillies",
+      "quantity": 3,
+      "unit": "count",
+      "notes": "whole, dried"
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "instruction": "Heat a dry, heavy-based frying pan over a low-medium heat with no oil. Add the rice, coriander seeds, fennel seeds, cinnamon, fenugreek, cloves, cardamom seeds and mustard seeds.",
+      "duration_min": 1
+    },
+    {
+      "step": 2,
+      "instruction": "Dry-roast the spices, stirring or shaking the pan constantly, until they turn a shade darker and release a strong aromatic smell. Watch closely as they can burn quickly once they start to colour.",
+      "duration_min": 7
+    },
+    {
+      "step": 3,
+      "instruction": "Add the whole dried Kashmiri chillies for the final minute of roasting, tossing them through the other spices until fragrant.",
+      "duration_min": 1
+    },
+    {
+      "step": 4,
+      "instruction": "Tip the roasted spices onto a plate or tray and allow to cool completely, about 5 minutes, before grinding.",
+      "duration_min": 5
+    },
+    {
+      "step": 5,
+      "instruction": "Grind the cooled spices to a fine powder using a spice grinder, coffee grinder, or mortar and pestle, working in batches if necessary.",
+      "duration_min": 5
+    },
+    {
+      "step": 6,
+      "instruction": "Tip the curry powder into an airtight jar. Store in a cool, dry place away from direct sunlight; use within 2-3 months for best flavour.",
+      "duration_min": 1
+    }
+  ],
+  "tags": [
+    "condiment",
+    "temper",
+    "everyday",
+    "meal-prep-friendly",
+    "under-30-min"
+  ],
+  "ayurvedic_balance": "tridoshic",
+  "nutrition_per_serving": {
+    "calories": 28,
+    "protein_g": 1,
+    "carbs_g": 4,
+    "fat_g": 1,
+    "fibre_g": 2
+  },
+  "trust_score": 0.88,
+  "source_url": "https://www.getaway.co.za/food/sri-lankan-green-bean-potato-and-cashew-nut-curry-recipe/",
+  "source_site": "getaway.co.za, cross-checked against foodblogandthedog.wordpress.com and kenmarefoodies.com (recipe originally published as 'Roasted Sri Lankan Curry Powder' in Rick Stein's 'Far Eastern Odyssey', associated with Chef Publis Silva's home region of Sri Lanka and recipes gathered during Rick Stein's filmed visit to the Sun House, Galle)",
+  "collection_method": "scraped, cross-checked across 3 independent blog reproductions of the same published cookbook recipe for ingredient-quantity consistency",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-25",
+  "notes": "This is the foundational roasted curry powder spice mix from Rick Stein's 'Far Eastern Odyssey', gathered during his Sri Lanka filming trip where he was introduced to Sri Lankan cooking by Chef Publis Silva. It underpins several other Sri Lankan curry recipes in this collection and is reusable as a pantry staple — store a batch and reference it as 'curry_powder_roasted' in other recipes' ingredient lists. Note: exact attribution to Chef Publis personally (versus other Sri Lankan chefs/cooks Stein met on the same trip, including those at the Sun House hotel in Galle) could not be fully confirmed from available sources; treat the Chef Publis connection as contextual/regional rather than a confirmed personal authorship credit, and verify against the physical cookbook if a direct authorship claim is required for the dataset."
+}

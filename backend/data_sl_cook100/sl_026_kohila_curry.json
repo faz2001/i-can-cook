@@ -1,0 +1,176 @@
+{
+  "id": "sl_026",
+  "name_en": "Kohila Curry",
+  "name_si": "කොහිල කරිය",
+  "regional_origin": "Low country wetlands (Western/Southern provinces)",
+  "cuisine": "Sri Lankan",
+  "course": "Main",
+  "servings": 4,
+  "prep_time_min": 20,
+  "cook_time_min": 20,
+  "total_time_min": 40,
+  "ingredients": [
+    {
+      "canonical_id": "ing_kohila",
+      "name": "Kohila (lasia spinosa stem/root)",
+      "quantity": 500,
+      "unit": "g",
+      "notes": "thorny outer skin peeled away, flesh cut into bite-sized pieces and soaked briefly in salted water to reduce the itchy/irritant sap"
+    },
+    {
+      "canonical_id": "ing_onion",
+      "name": "Onion",
+      "quantity": 0.5,
+      "unit": "count",
+      "notes": "sliced"
+    },
+    {
+      "canonical_id": "ing_garlic",
+      "name": "Garlic",
+      "quantity": 2,
+      "unit": "cloves",
+      "notes": "sliced"
+    },
+    {
+      "canonical_id": "ing_green_chilli",
+      "name": "Green chilli",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "sliced"
+    },
+    {
+      "canonical_id": "ing_curry_leaves",
+      "name": "Curry leaves",
+      "quantity": 8,
+      "unit": "count",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_fenugreek",
+      "name": "Fenugreek seeds",
+      "quantity": 0.25,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_turmeric",
+      "name": "Turmeric powder",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_chilli_powder",
+      "name": "Chilli powder",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_curry_powder_unroasted",
+      "name": "Unroasted Sri Lankan curry powder",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_goraka",
+      "name": "Goraka",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "small piece; can substitute a wedge of tomato or a little tamarind"
+    },
+    {
+      "canonical_id": "ing_water",
+      "name": "Water",
+      "quantity": 180,
+      "unit": "ml",
+      "notes": "enough to cook the kohila until tender"
+    },
+    {
+      "canonical_id": "ing_coconut_milk",
+      "name": "Thick coconut milk",
+      "quantity": 240,
+      "unit": "ml",
+      "notes": "1 cup"
+    },
+    {
+      "canonical_id": "ing_salt",
+      "name": "Salt",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": "to taste"
+    },
+    {
+      "canonical_id": "ing_coconut_oil",
+      "name": "Coconut oil",
+      "quantity": 1,
+      "unit": "tbsp",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "instruction": "Carefully peel the thorny outer skin from the kohila stem/root using gloves if possible, as the sap can be irritating to bare skin. Cut the flesh into bite-sized pieces.",
+      "duration_min": 12
+    },
+    {
+      "step": 2,
+      "instruction": "Soak the cut kohila pieces briefly in salted water for about 5 minutes, then rinse well -- this helps reduce the itchy compounds in the vegetable.",
+      "duration_min": 5
+    },
+    {
+      "step": 3,
+      "instruction": "Heat the coconut oil in a saucepan. Add the onion, garlic, green chilli, curry leaves, and fenugreek, and sauté for 2-3 minutes until the onion softens.",
+      "duration_min": 3
+    },
+    {
+      "step": 4,
+      "instruction": "Add the turmeric, chilli powder, and curry powder. Stir for a few seconds to combine with the aromatics.",
+      "duration_min": 1
+    },
+    {
+      "step": 5,
+      "instruction": "Add the kohila pieces, goraka, salt, and water. Cover and simmer over medium heat for about 15 minutes, until the kohila is tender.",
+      "duration_min": 15
+    },
+    {
+      "step": 6,
+      "instruction": "Add the thick coconut milk and simmer for a further 5 minutes, until the gravy thickens to your liking. Taste and adjust salt.",
+      "duration_min": 5
+    },
+    {
+      "step": 7,
+      "instruction": "Serve hot with rice.",
+      "duration_min": 1
+    }
+  ],
+  "tags": [
+    "lunch",
+    "dinner",
+    "curry",
+    "everyday",
+    "vegan",
+    "vegetarian",
+    "gluten-free",
+    "coconut-milk",
+    "goraka",
+    "30-60-min"
+  ],
+  "ayurvedic_balance": "pitta-pacifying",
+  "nutrition_per_serving": {
+    "calories": 140,
+    "protein_g": 2,
+    "carbs_g": 12,
+    "fat_g": 9,
+    "fibre_g": 3
+  },
+  "trust_score": 0.78,
+  "source_url": "https://www.essenceofceylon.com/uncategorized/lasia-root-curry/",
+  "source_site": "essenceofceylon.com, cross-checked against rasai.lk, inside.lk, and srilankanmenu.blogspot.com for technique consistency",
+  "collection_method": "scraped, cross-checked across 4 sources; lower trust score reflects this being a less common, harder-to-verify regional vegetable with fewer detailed English-language sources than mainstream curries",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "Kohila (Lasia spinosa) is a thorny aquatic/wetland plant whose root and stem are eaten as a vegetable, mostly in Sri Lanka's low-country wet zone. It is far less internationally documented than most dishes in this collection, so quantities here are a reasonable synthesis across available sources rather than a single high-confidence reference -- treat this entry as a solid starting point rather than a definitive household recipe. The vegetable's natural sap can be mildly irritating to skin and mouth if undercooked or improperly cleaned, so thorough peeling, the brief salt-water soak, and full cooking are considered important food-safety steps, not just flavour preferences. A related dish, 'kohila bola curry,' uses grated kohila formed into fried balls cooked in a similar gravy."
+}

@@ -1,0 +1,42 @@
+{
+  "id": "sl_061",
+  "name_en": "Cabbage Mallung",
+  "name_si": "ගෝවා මැල්ලුම",
+  "regional_origin": "Island-wide",
+  "cuisine": "Sri Lankan",
+  "course": "Main",
+  "servings": 4,
+  "prep_time_min": 10,
+  "cook_time_min": 8,
+  "total_time_min": 18,
+  "ingredients": [
+    {"canonical_id": "ing_cabbage", "name": "Green cabbage", "quantity": 400, "unit": "g", "notes": "about half a medium cabbage; finely shredded -- the finer the shred, the better the texture"},
+    {"canonical_id": "ing_coconut_grated", "name": "Freshly grated coconut", "quantity": 80, "unit": "g", "notes": "about 1 cup; unsweetened desiccated coconut works but gives a drier result"},
+    {"canonical_id": "ing_shallot", "name": "Shallots or small red onion", "quantity": 2, "unit": "count", "notes": "finely sliced"},
+    {"canonical_id": "ing_green_chilli", "name": "Green chillies", "quantity": 2, "unit": "count", "notes": "finely sliced; adjust to taste"},
+    {"canonical_id": "ing_curry_leaves", "name": "Curry leaves", "quantity": 6, "unit": "count", "notes": ""},
+    {"canonical_id": "ing_turmeric", "name": "Turmeric powder", "quantity": 0.25, "unit": "tsp", "notes": ""},
+    {"canonical_id": "ing_maldive_fish", "name": "Maldive fish flakes", "quantity": 1, "unit": "tsp", "notes": "optional; omit for a fully vegan mallung"},
+    {"canonical_id": "ing_mustard_seeds", "name": "Mustard seeds", "quantity": 0.5, "unit": "tsp", "notes": "optional; for the tempered version"},
+    {"canonical_id": "ing_coconut_oil", "name": "Coconut oil", "quantity": 1, "unit": "tbsp", "notes": "optional; some households make this with no oil at all"},
+    {"canonical_id": "ing_lime", "name": "Lime", "quantity": 0.5, "unit": "count", "notes": "juiced; added at the end"},
+    {"canonical_id": "ing_salt", "name": "Salt", "quantity": 0.5, "unit": "tsp", "notes": "to taste"}
+  ],
+  "steps": [
+    {"step": 1, "instruction": "Shred the cabbage as finely as possible -- thin, uniform shreds cook quickly and evenly.", "duration_min": 6},
+    {"step": 2, "instruction": "In a bowl, combine the shredded cabbage, grated coconut, shallots, green chillies, curry leaves, turmeric, Maldive fish (if using), and salt. Toss and rub together with your fingertips so the coconut and seasonings coat the cabbage evenly.", "duration_min": 3},
+    {"step": 3, "instruction": "Heat the coconut oil (if using) in a wide pan over medium heat. If making the tempered version, add mustard seeds first and let them splutter, then add the cabbage mixture. If making the oil-free version, add the cabbage mixture directly to a dry pan.", "duration_min": 1},
+    {"step": 4, "instruction": "Cook over medium heat, stirring frequently, for 5-6 minutes until the cabbage is just wilted and cooked through but still has a slight crunch. Do not cover the pan -- covering causes the cabbage to steam and turn soft and watery. The mallung should be dry, not wet.", "duration_min": 6},
+    {"step": 5, "instruction": "Remove from heat immediately when the cabbage is wilted but still bright in colour. Stir in the lime juice. Taste and adjust salt. Serve warm or at room temperature alongside rice and curry.", "duration_min": 1}
+  ],
+  "tags": ["lunch", "dinner", "everyday", "vegan", "vegetarian", "gluten-free", "dairy-free", "raw", "under-30-min", "comfort-food"],
+  "ayurvedic_balance": "kapha-pacifying",
+  "nutrition_per_serving": {"calories": 90, "protein_g": 2, "carbs_g": 7, "fat_g": 7, "fibre_g": 3},
+  "trust_score": 0.91,
+  "source_url": "https://www.islandsmile.org/cabbage-mallung/",
+  "source_site": "islandsmile.org, cross-checked against hungrylankan.com, loveandotherspices.com, foodcnr.com, and maggi.lk",
+  "collection_method": "scraped, cross-checked across 5+ independent sources; universal agreement on fine shredding, no lid during cooking, and stopping while still bright coloured",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "Cabbage mallung is one of the most frequently cooked everyday vegetable dishes in Sri Lankan homes, using the same technique as mukunuwenna mallung (sl_043) but with cabbage as the green. Unlike many other Sri Lankan vegetable dishes, mallung uses very little or no oil and no coconut milk, relying instead on fresh coconut for richness and moisture. The key technique points are identical to sl_043: cook uncovered, stop while still bright green and slightly crunchy, and do not overcook or the dish turns dull and watery. The absence of oil is not a mistake -- it is the traditional technique for mallung, and the coconut provides sufficient fat. Purple (red) cabbage can substitute for a more visually striking dish."
+}

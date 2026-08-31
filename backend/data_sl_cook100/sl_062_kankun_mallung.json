@@ -1,0 +1,42 @@
+{
+  "id": "sl_062",
+  "name_en": "Kankun Mallung (Water Spinach Stir-Fry)",
+  "name_si": "කංකුන් මැල්ලුම",
+  "regional_origin": "Island-wide (especially coastal low-country wet zones)",
+  "cuisine": "Sri Lankan",
+  "course": "Main",
+  "servings": 4,
+  "prep_time_min": 10,
+  "cook_time_min": 8,
+  "total_time_min": 18,
+  "ingredients": [
+    {"canonical_id": "ing_kankun", "name": "Kankun (water spinach)", "quantity": 300, "unit": "g", "notes": "leaves and tender stems, washed thoroughly and roughly chopped; Chinese water spinach or morning glory are the same plant; regular spinach can substitute"},
+    {"canonical_id": "ing_coconut_grated", "name": "Freshly grated coconut", "quantity": 80, "unit": "g", "notes": "about 1 cup; unsweetened desiccated coconut rehydrated in a little warm water works as a substitute"},
+    {"canonical_id": "ing_shallot", "name": "Shallots or red onion", "quantity": 2, "unit": "count", "notes": "finely sliced"},
+    {"canonical_id": "ing_garlic", "name": "Garlic", "quantity": 3, "unit": "cloves", "notes": "sliced"},
+    {"canonical_id": "ing_green_chilli", "name": "Green chillies", "quantity": 2, "unit": "count", "notes": "sliced"},
+    {"canonical_id": "ing_chilli_powder", "name": "Chilli flakes or powder", "quantity": 0.5, "unit": "tsp", "notes": "optional, for extra heat"},
+    {"canonical_id": "ing_turmeric", "name": "Turmeric powder", "quantity": 0.25, "unit": "tsp", "notes": ""},
+    {"canonical_id": "ing_maldive_fish", "name": "Maldive fish flakes", "quantity": 1, "unit": "tsp", "notes": "optional; omit for vegan version"},
+    {"canonical_id": "ing_coconut_oil", "name": "Coconut oil", "quantity": 1, "unit": "tbsp", "notes": "optional; traditional mallung uses little or no oil"},
+    {"canonical_id": "ing_lime", "name": "Lime", "quantity": 0.5, "unit": "count", "notes": "juiced"},
+    {"canonical_id": "ing_salt", "name": "Salt", "quantity": 0.5, "unit": "tsp", "notes": "to taste"}
+  ],
+  "steps": [
+    {"step": 1, "instruction": "Wash the kankun thoroughly -- water spinach grows in water and can carry grit and sediment, so rinse in several changes of water. Separate the leaves from the thicker stalks; finely chop the stalks (they take longer to cook) and roughly chop the leaves. Keep them separate.", "duration_min": 7},
+    {"step": 2, "instruction": "In a bowl, combine the coconut, shallots, garlic, green chillies, turmeric, chilli flakes (if using), Maldive fish (if using), and salt. Mix together well.", "duration_min": 2},
+    {"step": 3, "instruction": "Heat the coconut oil (if using) in a wide pan over medium-high heat. Add the chopped stalks first and stir-fry for 1-2 minutes until they begin to soften.", "duration_min": 2},
+    {"step": 4, "instruction": "Add the coconut-spice mixture along with the chopped leaves. Toss everything together over medium-high heat, stirring continuously, for about 3-4 minutes until the leaves are just wilted and the coconut is lightly toasted.", "duration_min": 4},
+    {"step": 5, "instruction": "Remove from the heat immediately while the kankun is still bright green -- overcooking turns it dull and slimy. Stir in the lime juice. Taste and adjust salt. Serve warm alongside rice and curry.", "duration_min": 1}
+  ],
+  "tags": ["lunch", "dinner", "everyday", "vegan", "vegetarian", "gluten-free", "dairy-free", "under-30-min", "comfort-food"],
+  "ayurvedic_balance": "pitta-pacifying",
+  "nutrition_per_serving": {"calories": 75, "protein_g": 2, "carbs_g": 5, "fat_g": 6, "fibre_g": 2},
+  "trust_score": 0.9,
+  "source_url": "https://www.sbs.com.au/food/recipes/water-spinach-and-coconut-stir-fry-kankun-mallung",
+  "source_site": "sbs.com.au, cross-checked against islandsmile.org, chhayasfood.com, ankierenique.wordpress.com, grokipedia.com, and Wikipedia (Mallung)",
+  "collection_method": "scraped, cross-checked across 6+ independent sources; strong agreement on the quick stir-fry technique and stopping while still bright green",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "Kankun (Ipomoea aquatica) is a semi-aquatic leafy green widely cultivated in Sri Lanka's wet low-country zones; it is sold in bundles at most local markets. The same plant is called water morning glory, water convolvulus, swamp cabbage, or kangkung across Asia. It has a mild, slightly grassy flavour and wilts very quickly -- 3-4 minutes is typically enough. Like all mallung preparations, the key is to stop cooking while the greens are still bright and retain slight bite; overcooked kankun turns dark, slimy, and unappetising. The plant's hollow stems cook faster than the leaves, so adding them first (as in step 3) ensures even cooking."
+}

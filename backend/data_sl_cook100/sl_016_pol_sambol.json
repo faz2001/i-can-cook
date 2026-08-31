@@ -1,0 +1,134 @@
+{
+  "id": "sl_016",
+  "name_en": "Pol Sambol (Coconut Sambol)",
+  "name_si": "පොල් සම්බෝල",
+  "regional_origin": "Island-wide",
+  "cuisine": "Sri Lankan",
+  "course": "Condiment",
+  "servings": 4,
+  "prep_time_min": 15,
+  "cook_time_min": 0,
+  "total_time_min": 15,
+  "ingredients": [
+    {
+      "canonical_id": "ing_coconut_grated",
+      "name": "Freshly grated coconut",
+      "quantity": 180,
+      "unit": "g",
+      "notes": "about 2 cups; or 85g dried grated coconut soaked in 120ml warm water for 20 minutes"
+    },
+    {
+      "canonical_id": "ing_shallot",
+      "name": "Shallots or red onion",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "small red onion or a handful of shallots, finely chopped"
+    },
+    {
+      "canonical_id": "ing_garlic",
+      "name": "Garlic",
+      "quantity": 1,
+      "unit": "clove",
+      "notes": "optional, for extra flavour"
+    },
+    {
+      "canonical_id": "ing_chilli_powder",
+      "name": "Chilli powder",
+      "quantity": 1.5,
+      "unit": "tsp",
+      "notes": "adjust to taste; the colour and heat of the sambol depend on this"
+    },
+    {
+      "canonical_id": "ing_black_pepper",
+      "name": "Black pepper",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_sugar",
+      "name": "Sugar",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": "balances the heat"
+    },
+    {
+      "canonical_id": "ing_maldive_fish",
+      "name": "Maldive fish flakes",
+      "quantity": 1,
+      "unit": "tbsp",
+      "notes": "optional, for umami depth; omit for a vegan sambol"
+    },
+    {
+      "canonical_id": "ing_lime",
+      "name": "Lime",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "juiced"
+    },
+    {
+      "canonical_id": "ing_salt",
+      "name": "Salt",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": "to taste"
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "instruction": "If using dried grated coconut, mix with the warm water and soak for 20 minutes to rehydrate before use. Fresh coconut can be used straight away.",
+      "duration_min": 20
+    },
+    {
+      "step": 2,
+      "instruction": "In a mortar and pestle (or bowl, if mixing by hand), grind or crush the shallots and garlic to a coarse paste.",
+      "duration_min": 3
+    },
+    {
+      "step": 3,
+      "instruction": "Add the grated coconut, black pepper, chilli powder, and sugar to the onion-garlic paste. Mix or pound well, until the coconut takes on the colour of the chilli.",
+      "duration_min": 5
+    },
+    {
+      "step": 4,
+      "instruction": "If using Maldive fish flakes, add them now and mix or grind through evenly.",
+      "duration_min": 1
+    },
+    {
+      "step": 5,
+      "instruction": "Squeeze in the lime juice and add the salt. Mix or pound well, tasting and adjusting salt and lime as needed.",
+      "duration_min": 2
+    },
+    {
+      "step": 6,
+      "instruction": "Serve immediately, traditionally alongside dhal curry, hoppers, string hoppers, kiribath, or bread.",
+      "duration_min": 1
+    }
+  ],
+  "tags": [
+    "condiment",
+    "breakfast",
+    "everyday",
+    "raw",
+    "spicy",
+    "coconut-milk",
+    "under-30-min",
+    "crowd-pleaser"
+  ],
+  "ayurvedic_balance": "kapha-pacifying",
+  "nutrition_per_serving": {
+    "calories": 165,
+    "protein_g": 2,
+    "carbs_g": 8,
+    "fat_g": 15,
+    "fibre_g": 4
+  },
+  "trust_score": 0.87,
+  "source_url": "https://www.196flavors.com/sri-lanka-pol-sambol-coconut-sambol/",
+  "source_site": "196flavors.com, cross-checked against hungrylankan.com and islandsmile.org for ratio and technique consistency",
+  "collection_method": "scraped, cross-checked across multiple independent sources; this dish has high natural household variation in exact ratios",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "Pol sambol is considered the most essential, ever-present condiment in Sri Lankan cuisine -- eaten with virtually every meal, breakfast through dinner. It is distinguished from lunu miris (sl_017) by the inclusion of grated coconut as the bulk of the dish; lunu miris is a pure onion-chilli paste without coconut. Traditionally made with a stone mortar called a 'miris gala', though a mortar and pestle or even hand-mixing works well. Onion and garlic are not strictly necessary, but most home cooks consider them essential for freshness. This is a raw, no-cook dish meant to be eaten fresh; leftovers should be refrigerated and used within a day, as the lime juice and moisture in the coconut spoil quickly at room temperature."
+}

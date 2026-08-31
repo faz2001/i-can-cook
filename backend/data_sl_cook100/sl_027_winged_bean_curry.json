@@ -1,0 +1,189 @@
+{
+  "id": "sl_027",
+  "name_en": "Winged Bean Curry (Dambala Curry)",
+  "name_si": "දම්බල කරිය",
+  "regional_origin": "Island-wide",
+  "cuisine": "Sri Lankan",
+  "course": "Main",
+  "servings": 4,
+  "prep_time_min": 10,
+  "cook_time_min": 15,
+  "total_time_min": 25,
+  "ingredients": [
+    {
+      "canonical_id": "ing_winged_bean",
+      "name": "Winged bean (dambala)",
+      "quantity": 300,
+      "unit": "g",
+      "notes": "ends trimmed, sliced into 1cm pieces"
+    },
+    {
+      "canonical_id": "ing_coconut_oil",
+      "name": "Coconut oil",
+      "quantity": 1.5,
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_mustard_seeds",
+      "name": "Mustard seeds",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_onion",
+      "name": "Onion",
+      "quantity": 0.5,
+      "unit": "count",
+      "notes": "sliced"
+    },
+    {
+      "canonical_id": "ing_garlic",
+      "name": "Garlic",
+      "quantity": 2,
+      "unit": "cloves",
+      "notes": "sliced or made into a paste with ginger"
+    },
+    {
+      "canonical_id": "ing_ginger",
+      "name": "Ginger",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": "finely grated"
+    },
+    {
+      "canonical_id": "ing_green_chilli",
+      "name": "Green chilli",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "sliced"
+    },
+    {
+      "canonical_id": "ing_curry_leaves",
+      "name": "Curry leaves",
+      "quantity": 8,
+      "unit": "count",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_pandan",
+      "name": "Pandan leaf",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "small piece"
+    },
+    {
+      "canonical_id": "ing_fenugreek",
+      "name": "Fenugreek seeds",
+      "quantity": 0.25,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_cinnamon",
+      "name": "Cinnamon stick",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "small piece"
+    },
+    {
+      "canonical_id": "ing_curry_powder_unroasted",
+      "name": "Unroasted Sri Lankan curry powder",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_chilli_powder",
+      "name": "Chilli powder",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": "optional"
+    },
+    {
+      "canonical_id": "ing_maldive_fish",
+      "name": "Maldive fish flakes",
+      "quantity": 1,
+      "unit": "tbsp",
+      "notes": "optional"
+    },
+    {
+      "canonical_id": "ing_salt",
+      "name": "Salt",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": "to taste"
+    },
+    {
+      "canonical_id": "ing_coconut_grated",
+      "name": "Scraped coconut",
+      "quantity": 30,
+      "unit": "g",
+      "notes": "optional, for a mallum-style finish instead of coconut milk"
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "instruction": "Wash and trim the ends of the winged beans, then slice diagonally into 1cm pieces.",
+      "duration_min": 6
+    },
+    {
+      "step": 2,
+      "instruction": "Heat the coconut oil in a pan over medium heat. Add the mustard seeds and let them splutter, then add the ginger, garlic, curry leaves, and pandan leaf.",
+      "duration_min": 1
+    },
+    {
+      "step": 3,
+      "instruction": "Add the sliced onion and green chilli. Sauté until the onion turns golden, about 3-4 minutes.",
+      "duration_min": 4
+    },
+    {
+      "step": 4,
+      "instruction": "Add the sliced winged beans and mix well, frying for 2-3 minutes until they turn slightly tender.",
+      "duration_min": 3
+    },
+    {
+      "step": 5,
+      "instruction": "Add the curry powder, chilli powder (if using), fenugreek, and cinnamon stick. Mix well to coat the beans in the spices.",
+      "duration_min": 1
+    },
+    {
+      "step": 6,
+      "instruction": "Add the salt and Maldive fish flakes (if using). Cover and cook over low-medium heat for 5-8 minutes, stirring occasionally, until the winged beans are cooked through but still hold a slight bite.",
+      "duration_min": 7
+    },
+    {
+      "step": 7,
+      "instruction": "If finishing as a dry stir-fry (mallum-style), stir in the scraped coconut at the end and cook for 1-2 more minutes. Serve hot with rice.",
+      "duration_min": 2
+    }
+  ],
+  "tags": [
+    "lunch",
+    "dinner",
+    "stir-fry",
+    "everyday",
+    "vegan",
+    "vegetarian",
+    "gluten-free",
+    "dry",
+    "under-30-min"
+  ],
+  "ayurvedic_balance": "vata-pacifying",
+  "nutrition_per_serving": {
+    "calories": 105,
+    "protein_g": 3,
+    "carbs_g": 9,
+    "fat_g": 7,
+    "fibre_g": 3
+  },
+  "trust_score": 0.82,
+  "source_url": "https://foodcnr.com/sri-lankan-winged-bean-stir-fry-dambala-thel-dala/",
+  "source_site": "foodcnr.com, cross-checked against hive.blog winged bean malluma and srilankancuisine.org for technique consistency",
+  "collection_method": "scraped, cross-checked across 3 sources for consistent stir-fry/tempering technique",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "Dambala is most commonly prepared as a dry stir-fry or 'thel dala' (tempered) dish rather than a wet coconut-milk curry, distinguishing it from many other vegetable curries in this collection. The version with grated coconut stirred in at the end is sometimes called 'dambala mallum'. Maldive fish flakes are a common but optional addition for extra umami; omit for a fully vegan dish. Winged beans should be cooked until just tender but not mushy, retaining a slight crunch -- overcooking causes them to release excess water and turn soft and unappealing."
+}

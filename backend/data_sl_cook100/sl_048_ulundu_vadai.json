@@ -1,0 +1,140 @@
+{
+  "id": "sl_048",
+  "name_en": "Ulundu Vadai",
+  "name_si": "උළුන්දු වඩේ",
+  "regional_origin": "Tamil Sri Lanka (Northern and Eastern provinces)",
+  "cuisine": "Sri Lankan",
+  "course": "Snack",
+  "servings": 4,
+  "prep_time_min": 480,
+  "cook_time_min": 20,
+  "total_time_min": 500,
+  "ingredients": [
+    {
+      "canonical_id": "ing_urad_dal",
+      "name": "Urad dal (split white/black lentils)",
+      "quantity": 200,
+      "unit": "g",
+      "notes": "about 1 cup; soaked in cold water for at least 4-6 hours (or overnight) before grinding"
+    },
+    {
+      "canonical_id": "ing_onion",
+      "name": "Onion or shallots",
+      "quantity": 0.5,
+      "unit": "count",
+      "notes": "finely chopped; do not add too much or the batter will become wet and soft"
+    },
+    {
+      "canonical_id": "ing_green_chilli",
+      "name": "Green chillies",
+      "quantity": 2,
+      "unit": "count",
+      "notes": "finely chopped"
+    },
+    {
+      "canonical_id": "ing_ginger",
+      "name": "Ginger",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": "finely grated or chopped"
+    },
+    {
+      "canonical_id": "ing_curry_leaves",
+      "name": "Curry leaves",
+      "quantity": 8,
+      "unit": "count",
+      "notes": "finely sliced"
+    },
+    {
+      "canonical_id": "ing_black_pepper",
+      "name": "Black pepper",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": "coarsely crushed"
+    },
+    {
+      "canonical_id": "ing_salt",
+      "name": "Salt",
+      "quantity": 0.75,
+      "unit": "tsp",
+      "notes": "to taste; add just before frying, not to the soaked dal"
+    },
+    {
+      "canonical_id": "ing_water",
+      "name": "Water",
+      "quantity": 60,
+      "unit": "ml",
+      "notes": "added gradually while grinding, just enough to make a smooth thick batter -- use as little as possible"
+    },
+    {
+      "canonical_id": "ing_coconut_oil",
+      "name": "Oil for deep frying",
+      "quantity": 500,
+      "unit": "ml",
+      "notes": "enough to deep-fry; vegetable oil works, coconut oil gives extra flavour"
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "instruction": "Wash the urad dal thoroughly in several changes of water, then soak in cold water for at least 4-6 hours, or overnight. The dal should double in size and become very soft.",
+      "duration_min": 480
+    },
+    {
+      "step": 2,
+      "instruction": "Drain the soaked dal completely, shaking off as much water as possible. Transfer to a blender or wet grinder. Grind to a smooth, thick, fluffy batter, adding water only one tablespoon at a time -- use as little as possible. The batter is ready when it is light, airy, and holds its shape when a spoonful is dropped onto a wet palm.",
+      "duration_min": 10
+    },
+    {
+      "step": 3,
+      "instruction": "Transfer the ground batter to a bowl. Add the chopped onion, green chillies, ginger, curry leaves, black pepper, and salt. Mix well.",
+      "duration_min": 3
+    },
+    {
+      "step": 4,
+      "instruction": "Heat the oil for deep frying to about 175-180C (350F).",
+      "duration_min": 5
+    },
+    {
+      "step": 5,
+      "instruction": "Wet your hands with water. Take a small portion of batter (about 2 tablespoons), place it on your wet palm, and flatten into a disc about 1cm thick. Poke a hole through the centre with your wet thumb to make the traditional doughnut shape.",
+      "duration_min": 2
+    },
+    {
+      "step": 6,
+      "instruction": "Gently slide the shaped vadai into the hot oil. Fry in small batches without crowding, turning once or twice, for about 3-4 minutes per batch until deep golden brown and crisp on the outside.",
+      "duration_min": 8
+    },
+    {
+      "step": 7,
+      "instruction": "Drain on paper towels. Serve hot with coconut sambol, pol sambol, or a thin coconut chutney.",
+      "duration_min": 1
+    }
+  ],
+  "tags": [
+    "breakfast",
+    "snack",
+    "street-food",
+    "festival",
+    "vegan",
+    "vegetarian",
+    "gluten-free",
+    "dairy-free",
+    "over-60-min"
+  ],
+  "ayurvedic_balance": "vata-pacifying",
+  "nutrition_per_serving": {
+    "calories": 280,
+    "protein_g": 10,
+    "carbs_g": 28,
+    "fat_g": 15,
+    "fibre_g": 4
+  },
+  "trust_score": 0.9,
+  "source_url": "https://www.islandsmile.org/ulundu-wadei-vada-recipe/",
+  "source_site": "islandsmile.org, cross-checked against hungrylankan.com, topsrilankanrecipe.com, and mylankanfoodjournal.com for soaking time and grinding technique",
+  "collection_method": "scraped, cross-checked across 5+ independent sources; universal agreement on overnight soak and minimal water during grinding as essential technique",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "Ulundu vadai (also spelled ulundu wade, urad dal vada) is a staple Tamil Sri Lankan breakfast and festival food, eaten especially during Pongal, Diwali, and other Hindu festivals, as well as sold at roadside stalls island-wide. The total_time_min reflects the 4-8 hour soaking period, which is non-negotiable -- undersoaked dal produces a dense, hard vadai rather than the characteristically airy, crisp result. Using minimal water during grinding is the other critical technique: a too-wet batter produces flat, oily, non-fluffy vadai. The hole in the centre is both traditional and practical -- it ensures even frying all the way through without burning the outside. Vadai that are not consumed immediately will lose their crispness; they are best eaten fresh from the oil."
+}

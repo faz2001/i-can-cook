@@ -1,0 +1,102 @@
+{
+  "id": "sl_017",
+  "name_en": "Lunu Miris (Onion Chilli Sambol)",
+  "name_si": "ලුණු මිරිස්",
+  "regional_origin": "Island-wide",
+  "cuisine": "Sri Lankan",
+  "course": "Condiment",
+  "servings": 4,
+  "prep_time_min": 10,
+  "cook_time_min": 0,
+  "total_time_min": 10,
+  "ingredients": [
+    {
+      "canonical_id": "ing_shallot",
+      "name": "Shallots or red onion",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "large red onion, finely chopped by hand (not in a food processor, to preserve texture); shallots are the more traditional choice"
+    },
+    {
+      "canonical_id": "ing_chilli_powder",
+      "name": "Red chilli powder",
+      "quantity": 2,
+      "unit": "tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "canonical_id": "ing_chilli_powder",
+      "name": "Red chilli flakes",
+      "quantity": 1,
+      "unit": "tbsp",
+      "notes": "coarser chilli flakes in addition to the powder above, for texture; adjust to taste"
+    },
+    {
+      "canonical_id": "ing_maldive_fish",
+      "name": "Maldive fish flakes",
+      "quantity": 1,
+      "unit": "tbsp",
+      "notes": "optional; coarsely ground. Adding this technically renders the dish katta sambol rather than plain lunu miris"
+    },
+    {
+      "canonical_id": "ing_salt",
+      "name": "Salt",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": "to taste"
+    },
+    {
+      "canonical_id": "ing_lime",
+      "name": "Lime",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "juiced, about 1-2 tsp"
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "instruction": "Place the chilli powder, chilli flakes, Maldive fish flakes (if using), and salt into a mortar and pestle. Pound to a coarse, even mixture -- the salt helps the grinding process.",
+      "duration_min": 2
+    },
+    {
+      "step": 2,
+      "instruction": "Add the chopped onion. Pound with the pestle until the onion and chillies are thoroughly mixed into a rough paste, taking care not to over-grind into a smooth puree.",
+      "duration_min": 4
+    },
+    {
+      "step": 3,
+      "instruction": "Add the lime juice and mix well. Taste and adjust salt and lime as needed -- the finished sambol should have a prominent citrus flavour balanced against the heat and salt.",
+      "duration_min": 2
+    },
+    {
+      "step": 4,
+      "instruction": "Serve immediately, traditionally alongside kiribath (milk rice), hoppers, string hoppers, or coconut roti.",
+      "duration_min": 1
+    }
+  ],
+  "tags": [
+    "condiment",
+    "breakfast",
+    "everyday",
+    "raw",
+    "spicy",
+    "very-spicy",
+    "under-30-min"
+  ],
+  "ayurvedic_balance": "pitta-pacifying",
+  "nutrition_per_serving": {
+    "calories": 35,
+    "protein_g": 1,
+    "carbs_g": 7,
+    "fat_g": 0,
+    "fibre_g": 1
+  },
+  "trust_score": 0.85,
+  "source_url": "https://www.hungrylankan.com/recipes/sri-lankan-lunu-miris/",
+  "source_site": "hungrylankan.com, cross-checked against islandsmile.org, joyofeatingtheworld.com, and culinaryconnoisseur.wordpress.com for ratio and definitional consistency",
+  "collection_method": "scraped, cross-checked across 4 independent sources for both technique and the lunu-miris-vs-katta-sambol distinction",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "The name literally translates to 'salt chilli' (lunu = salt, miris = chilli). Strictly traditional lunu miris contains no Maldive fish; adding it technically makes the dish 'katta sambol' instead, though many modern households use the two names interchangeably. This is the classic accompaniment to kiribath on New Year's morning and other celebratory milk-rice occasions, and is distinct from pol sambol (sl_016), which is bulked out with grated coconut -- lunu miris is a pure onion-and-chilli paste with no coconut."
+}

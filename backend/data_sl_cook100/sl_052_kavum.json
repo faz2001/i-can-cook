@@ -1,0 +1,125 @@
+{
+  "id": "sl_052",
+  "name_en": "Kavum (Konda Kavum / Oil Cakes)",
+  "name_si": "කවුම්",
+  "regional_origin": "Island-wide (Avurudu festival)",
+  "cuisine": "Sri Lankan",
+  "course": "Dessert",
+  "servings": 6,
+  "prep_time_min": 20,
+  "cook_time_min": 30,
+  "total_time_min": 50,
+  "ingredients": [
+    {
+      "canonical_id": "ing_flour_rice",
+      "name": "White rice flour",
+      "quantity": 200,
+      "unit": "g",
+      "notes": "sifted; must be dry and free-flowing"
+    },
+    {
+      "canonical_id": "ing_flour_wheat",
+      "name": "All-purpose wheat flour",
+      "quantity": 200,
+      "unit": "g",
+      "notes": "combined with rice flour for structure; some recipes use rice flour only"
+    },
+    {
+      "canonical_id": "ing_treacle_kithul",
+      "name": "Kithul treacle",
+      "quantity": 200,
+      "unit": "ml",
+      "notes": "about 3/4 cup; substitute with kithul jaggery dissolved in a little warm water"
+    },
+    {
+      "canonical_id": "ing_cardamom",
+      "name": "Cardamom powder",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_salt",
+      "name": "Salt",
+      "quantity": 0.25,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_water",
+      "name": "Water",
+      "quantity": 60,
+      "unit": "ml",
+      "notes": "added only if the batter is too thick; use sparingly"
+    },
+    {
+      "canonical_id": "ing_coconut_oil",
+      "name": "Oil for deep frying",
+      "quantity": 500,
+      "unit": "ml",
+      "notes": "coconut oil is traditional; vegetable oil works as a substitute"
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "instruction": "Sift the rice flour and wheat flour together into a large bowl. Add the cardamom powder and salt and mix well.",
+      "duration_min": 3
+    },
+    {
+      "step": 2,
+      "instruction": "Add the kithul treacle gradually, stirring as you go. Mix until the batter is smooth and thick -- it should fall off a spoon in a thick ribbon, not a thin drizzle. If too thick add water a tablespoon at a time; if too thin add a little more flour.",
+      "duration_min": 5
+    },
+    {
+      "step": 3,
+      "instruction": "Rest the batter for 10-15 minutes to allow the flour to fully hydrate.",
+      "duration_min": 12
+    },
+    {
+      "step": 4,
+      "instruction": "Heat oil in a deep small wok over medium-low heat. Test with a drop of batter -- it should sizzle gently but not brown instantly. Kavum must fry slowly on low heat.",
+      "duration_min": 5
+    },
+    {
+      "step": 5,
+      "instruction": "Ladle about 2-3 tablespoons of batter into the centre of the hot oil. Let it settle naturally. Insert a long wooden skewer or ekle (coconut midrib) through the centre and rotate it slowly in the oil to create the traditional konda (hair bun) dome shape.",
+      "duration_min": 2
+    },
+    {
+      "step": 6,
+      "instruction": "Fry gently for 5-7 minutes on low heat, spooning oil over the top continuously, until deep golden brown and firm all the way through. Do not raise the heat.",
+      "duration_min": 7
+    },
+    {
+      "step": 7,
+      "instruction": "Drain on paper towels. Repeat with the remaining batter one or two at a time. Cool before serving -- kavum taste better at room temperature. Store in an airtight container for up to one week.",
+      "duration_min": 5
+    }
+  ],
+  "tags": [
+    "dessert",
+    "snack",
+    "festival",
+    "new-year-avurudu",
+    "vegan",
+    "vegetarian",
+    "dairy-free",
+    "30-60-min"
+  ],
+  "ayurvedic_balance": "kapha-pacifying",
+  "nutrition_per_serving": {
+    "calories": 310,
+    "protein_g": 3,
+    "carbs_g": 48,
+    "fat_g": 13,
+    "fibre_g": 1
+  },
+  "trust_score": 0.84,
+  "source_url": "https://www.elanka.com.au/traditional-konda-kavum-recipe-sri-lankan-oil-cakes/",
+  "source_site": "elanka.com.au, cross-checked against peckishme.com, theculinaryc0rner.blogspot.com, infolanka.com, and sltraditionaldishes.blogspot.com",
+  "collection_method": "scraped, cross-checked across 6+ independent sources; moderate trust score reflects that shaping correctly takes significant practice and sources disagree on exact flour ratios",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "Kavum (konda kavum) is one of the most technically demanding traditional Sri Lankan sweets -- the characteristic konda (hair bun) dome shape requires a specific ekle-rotation technique that takes practice to execute well. Trust score is lower than most entries not due to sourcing quality but because the dish's success depends heavily on hand skill: batter consistency, oil temperature (low not high), and the rotating skewer technique must all work together. First attempts often produce irregular shapes that taste correct even without looking traditional. Store in an airtight container; kavum traditionally kept for several weeks after New Year, dipped in treacle at tea time."
+}

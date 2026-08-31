@@ -1,0 +1,38 @@
+{
+  "id": "sl_055",
+  "name_en": "Aggala (Sweet Roasted Rice Flour Balls)",
+  "name_si": "අග්ගලා",
+  "regional_origin": "Southern Sri Lanka / Island-wide",
+  "cuisine": "Sri Lankan",
+  "course": "Snack",
+  "servings": 5,
+  "prep_time_min": 15,
+  "cook_time_min": 10,
+  "total_time_min": 25,
+  "ingredients": [
+    {"canonical_id": "ing_flour_rice", "name": "Roasted rice flour", "quantity": 300, "unit": "g", "notes": "dry-roasted on low heat until lightly golden; reserve 1/4 cup for coating"},
+    {"canonical_id": "ing_coconut_grated", "name": "Freshly grated coconut", "quantity": 80, "unit": "g", "notes": "fresh is best; dried desiccated coconut can substitute"},
+    {"canonical_id": "ing_treacle_kithul", "name": "Kithul treacle or jaggery",  "quantity": 0.5, "unit": "cup", "notes": "adjust to desired sweetness; jaggery should be dissolved in a little warm water first"},
+    {"canonical_id": "ing_black_pepper", "name": "Black pepper", "quantity": 0.5, "unit": "tsp", "notes": "coarsely ground; gives the characteristic peppery warmth"},
+    {"canonical_id": "ing_salt", "name": "Salt", "quantity": 1, "unit": "pinch", "notes": ""},
+    {"canonical_id": "ing_water", "name": "Hot water", "quantity": 30, "unit": "ml", "notes": "a tablespoon or two if the mixture is too dry to roll into balls"}
+  ],
+  "steps": [
+    {"step": 1, "instruction": "Dry-roast the rice flour in a pan over low-medium heat, stirring constantly, until it turns lightly golden and smells nutty -- about 7-10 minutes. Do not let it burn. Reserve about 1/4 cup of the roasted flour in a separate bowl for coating.", "duration_min": 8},
+    {"step": 2, "instruction": "In a mixing bowl, combine the remaining roasted rice flour, grated coconut, black pepper, and salt. Mix together.", "duration_min": 2},
+    {"step": 3, "instruction": "Gently heat the treacle in a small pan until it warms and becomes pourable. Add the warm treacle to the flour-coconut mixture gradually, stirring and folding until the mixture comes together into a slightly sticky, moldable paste. If too dry to hold together, add a tablespoon of hot water at a time.", "duration_min": 5},
+    {"step": 4, "instruction": "When the mixture has cooled enough to handle, take a small portion (about 1 tablespoon) and roll between your palms into a smooth ball. Repeat until all the mixture is used.", "duration_min": 8},
+    {"step": 5, "instruction": "Roll each ball in the reserved roasted rice flour to coat, giving them a dry, matte exterior. Optionally also roll in toasted sesame seeds for extra aroma.", "duration_min": 3},
+    {"step": 6, "instruction": "Arrange on a plate and let cool completely before serving or storing. Serve with Ceylon tea.", "duration_min": 5}
+  ],
+  "tags": ["snack", "dessert", "festival", "new-year-avurudu", "everyday", "vegan", "vegetarian", "gluten-free", "dairy-free", "under-30-min", "comfort-food"],
+  "ayurvedic_balance": "vata-pacifying",
+  "nutrition_per_serving": {"calories": 185, "protein_g": 2, "carbs_g": 36, "fat_g": 4, "fibre_g": 2},
+  "trust_score": 0.88,
+  "source_url": "https://srilankancuisine.org/2016/02/25/aggala/",
+  "source_site": "srilankancuisine.org, cross-checked against elanka.com.au, thefoodsnaps.com, rasakama.wordpress.com, infolanka.com, foodcnr.com, and Wikipedia (Aggala)",
+  "collection_method": "scraped, cross-checked across 7+ independent sources; strong agreement on roasted rice flour, treacle/jaggery sweetener, pepper, and coconut as the four core components",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "Aggala are one of the simplest and most ancient Sri Lankan sweets -- essentially a no-bake, no-fry snack made from pantry staples. Traditionally made from sun-dried leftover cooked rice that is then roasted and ground into flour; this entry uses the more common modern shortcut of store-bought rice flour dry-roasted in a pan, which produces an almost identical result. The characteristic peppery flavour from black pepper is considered essential and not optional -- it is what distinguishes aggala from other rice flour sweets. Adding fresh grated coconut reduces shelf life to 1-2 days; making them without coconut (or with only a little desiccated coconut) extends shelf life to 1-2 weeks in an airtight container. Can optionally be rolled in roasted sesame seeds instead of or in addition to rice flour coating."
+}

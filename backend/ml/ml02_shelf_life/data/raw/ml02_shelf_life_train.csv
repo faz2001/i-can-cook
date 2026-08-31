@@ -1,0 +1,543 @@
+ingredient_name,ingredient_subtitle,category,subcategory,storage_condition,shelf_life_min_days,shelf_life_max_days,shelf_life_days,recommended_temp_c,data_source,confidence,notes
+Cream,"whipped, sweetened",Dairy Products & Eggs,,Refrigerated,1.0,1.0,1.0,,USDA FoodKeeper,sourced,
+Cream,"whipped, sweetened",Dairy Products & Eggs,,Frozen,30.0,60.0,45.0,,USDA FoodKeeper,sourced,
+Eggs,"raw whites, yolks",Dairy Products & Eggs,,Refrigerated,2.0,4.0,3.0,,USDA FoodKeeper,sourced,
+Eggs,"raw whites, yolks",Dairy Products & Eggs,,Frozen,360.0,360.0,360.0,,USDA FoodKeeper,sourced,
+Eggs,hard boiled cooked,Dairy Products & Eggs,,Refrigerated,7.0,7.0,7.0,,USDA FoodKeeper,sourced,
+Egg dishes,,Dairy Products & Eggs,,Refrigerated,3.0,4.0,3.5,,USDA FoodKeeper,sourced,
+Egg dishes,,Dairy Products & Eggs,,Frozen,60.0,90.0,75.0,,USDA FoodKeeper,sourced,
+Whipped topping,tub,Dairy Products & Eggs,,Frozen,420.0,420.0,420.0,,USDA FoodKeeper,sourced,
+Yogurt,,Dairy Products & Eggs,,Frozen,30.0,60.0,45.0,,USDA FoodKeeper,sourced,
+Jerky,homemade,Meat,Shelf Stable Foods,Pantry,30.0,60.0,45.0,,USDA FoodKeeper,sourced,
+Jerky,homemade,Meat,Shelf Stable Foods,Refrigerated,30.0,60.0,45.0,,USDA FoodKeeper,sourced,
+"Stuffed, raw chicken breasts",,Poultry,Stuffed or Assembled,Refrigerated,1.0,2.0,1.5,,USDA FoodKeeper,sourced,
+"Stuffed, raw chicken breasts",,Poultry,Stuffed or Assembled,Frozen,270.0,270.0,270.0,,USDA FoodKeeper,sourced,
+Raw kabobs with vegetables,,Poultry,Stuffed or Assembled,Refrigerated,1.0,2.0,1.5,,USDA FoodKeeper,sourced,
+Raw kabobs with vegetables,,Poultry,Stuffed or Assembled,Frozen,90.0,120.0,105.0,,USDA FoodKeeper,sourced,
+Cooked poultry dishes,,Poultry,Cooked or Processed,Refrigerated,3.0,4.0,3.5,,USDA FoodKeeper,sourced,
+Cooked poultry dishes,,Poultry,Cooked or Processed,Frozen,120.0,180.0,150.0,,USDA FoodKeeper,sourced,
+Fried chicken,,Poultry,Cooked or Processed,Refrigerated,3.0,4.0,3.5,,USDA FoodKeeper,sourced,
+Fried chicken,,Poultry,Cooked or Processed,Frozen,120.0,120.0,120.0,,USDA FoodKeeper,sourced,
+Poultry pieces,covered with gravy or broth,Deli & Prepared Foods,,Refrigerated,3.0,4.0,3.5,,USDA FoodKeeper,sourced,
+Poultry pieces,covered with gravy or broth,Deli & Prepared Foods,,Frozen,30.0,60.0,45.0,,USDA FoodKeeper,sourced,
+Cooked fish,all,Seafood,Fresh,Refrigerated,3.0,4.0,3.5,,USDA FoodKeeper,sourced,
+Cooked fish,all,Seafood,Fresh,Frozen,30.0,60.0,45.0,,USDA FoodKeeper,sourced,
+Crab meat,fresh,Seafood,Shellfish,Refrigerated,1.0,3.0,2.0,,USDA FoodKeeper,sourced,
+Crab meat,fresh,Seafood,Shellfish,Frozen,60.0,120.0,90.0,,USDA FoodKeeper,sourced,
+Cooked shellfish,all,Seafood,Shellfish,Refrigerated,3.0,4.0,3.5,,USDA FoodKeeper,sourced,
+Re-hydrated textured soy protein,(TSP),Vegetarian Proteins,,Refrigerated,3.0,4.0,3.5,,USDA FoodKeeper,sourced,
+Leftovers,"with meat, fish, poultry, or egg",Deli & Prepared Foods,,Refrigerated,3.0,4.0,3.5,,USDA FoodKeeper,sourced,
+Leftovers,"with meat, fish, poultry, or egg",Deli & Prepared Foods,,Frozen,60.0,90.0,75.0,,USDA FoodKeeper,sourced,
+Leftovers,"without meat, fish, poultry, or egg (such as cooked vegitables, rice, or potatoes)",Deli & Prepared Foods,,Refrigerated,3.0,4.0,3.5,,USDA FoodKeeper,sourced,
+Leftovers,"without meat, fish, poultry, or egg (such as cooked vegitables, rice, or potatoes)",Deli & Prepared Foods,,Frozen,30.0,60.0,45.0,,USDA FoodKeeper,sourced,
+Leftovers,pizza,Deli & Prepared Foods,,Refrigerated,3.0,4.0,3.5,,USDA FoodKeeper,sourced,
+Leftovers,pizza,Deli & Prepared Foods,,Frozen,30.0,60.0,45.0,,USDA FoodKeeper,sourced,
+Cooked pasta,,Deli & Prepared Foods,,Refrigerated,3.0,5.0,4.0,,USDA FoodKeeper,sourced,
+Cooked pasta,,Deli & Prepared Foods,,Frozen,30.0,60.0,45.0,,USDA FoodKeeper,sourced,
+Cooked rice,,Deli & Prepared Foods,,Refrigerated,4.0,6.0,5.0,,USDA FoodKeeper,sourced,
+Cooked rice,,Deli & Prepared Foods,,Frozen,180.0,180.0,180.0,,USDA FoodKeeper,sourced,
+Guacamole,,Deli & Prepared Foods,,Refrigerated,3.0,4.0,3.5,,USDA FoodKeeper,sourced,
+Guacamole,,Deli & Prepared Foods,,Frozen,90.0,120.0,105.0,,USDA FoodKeeper,sourced,
+Hummus,"traditional (no preservatives, not pasteurized)",Deli & Prepared Foods,,Refrigerated,7.0,7.0,7.0,,USDA FoodKeeper,sourced,
+Luncheon meat or poultry,store-sliced,Deli & Prepared Foods,,Frozen,30.0,60.0,45.0,,USDA FoodKeeper,sourced,
+Main dishes or meals,hot or refrigerated,Deli & Prepared Foods,,Frozen,60.0,90.0,75.0,,USDA FoodKeeper,sourced,
+Meats,covered with gravy or broth,Deli & Prepared Foods,,Refrigerated,3.0,4.0,3.5,,USDA FoodKeeper,sourced,
+Meats,covered with gravy or broth,Deli & Prepared Foods,,Frozen,180.0,180.0,180.0,,USDA FoodKeeper,sourced,
+Pate,,Deli & Prepared Foods,,Frozen,30.0,60.0,45.0,,USDA FoodKeeper,sourced,
+"Soup, stews",,Deli & Prepared Foods,,Refrigerated,3.0,4.0,3.5,,USDA FoodKeeper,sourced,
+"Soup, stews",,Deli & Prepared Foods,,Frozen,60.0,90.0,75.0,,USDA FoodKeeper,sourced,
+Casseroles,,Deli & Prepared Foods,,Refrigerated,3.0,4.0,3.5,,USDA FoodKeeper,sourced,
+Fruit pies,"apple, peach, blueberry, apricot, cherry, blackberry",Baked Goods,Bakery,Pantry,1.0,2.0,1.5,,USDA FoodKeeper,sourced,
+Fruit pies,"apple, peach, blueberry, apricot, cherry, blackberry",Baked Goods,Bakery,Frozen,240.0,240.0,240.0,,USDA FoodKeeper,sourced,
+Pies,mincemeat,Baked Goods,Bakery,Pantry,0.08,0.08,0.08,,USDA FoodKeeper,sourced,
+Pies,mincemeat,Baked Goods,Bakery,Frozen,240.0,240.0,240.0,,USDA FoodKeeper,sourced,
+Pies,pecan,Baked Goods,Bakery,Pantry,0.08,0.08,0.08,,USDA FoodKeeper,sourced,
+Pies,pecan,Baked Goods,Bakery,Frozen,30.0,60.0,45.0,,USDA FoodKeeper,sourced,
+Pies,pumpkin,Baked Goods,Bakery,Pantry,0.08,0.08,0.08,,USDA FoodKeeper,sourced,
+Pies,pumpkin,Baked Goods,Bakery,Frozen,30.0,60.0,45.0,,USDA FoodKeeper,sourced,
+Quiche,,Baked Goods,Bakery,Pantry,0.08,0.08,0.08,,USDA FoodKeeper,sourced,
+Quiche,,Baked Goods,Bakery,Frozen,60.0,90.0,75.0,,USDA FoodKeeper,sourced,
+Apples,,Produce,Fresh Fruits,Frozen,240.0,240.0,240.0,,USDA FoodKeeper,sourced,
+Apricots,,Produce,Fresh Fruits,Refrigerated,2.0,5.0,3.5,,USDA FoodKeeper,sourced,
+Avocados,,Produce,Fresh Fruits,Refrigerated,3.0,4.0,3.5,,USDA FoodKeeper,sourced,
+Bananas,,Produce,Fresh Fruits,Refrigerated,3.0,3.0,3.0,,USDA FoodKeeper,sourced,
+Bananas,,Produce,Fresh Fruits,Frozen,60.0,90.0,75.0,,USDA FoodKeeper,sourced,
+Berries,"cherries, goose berries, lychee",Produce,Fresh Fruits,Frozen,360.0,360.0,360.0,,USDA FoodKeeper,sourced,
+Berries,"blackberries, boysenberries, currant",Produce,Fresh Fruits,Frozen,360.0,360.0,360.0,,USDA FoodKeeper,sourced,
+Blueberries,,Produce,Fresh Fruits,Frozen,240.0,360.0,300.0,,USDA FoodKeeper,sourced,
+Cherimoya,,Produce,Fresh Fruits,Refrigerated,4.0,4.0,4.0,,USDA FoodKeeper,sourced,
+Cherimoya,,Produce,Fresh Fruits,Frozen,300.0,360.0,330.0,,USDA FoodKeeper,sourced,
+Coconut,shredded,Produce,Fresh Fruits,Frozen,365.0,365.0,365.0,,USDA FoodKeeper,sourced,
+Cranberries,,Produce,Fresh Fruits,Frozen,360.0,360.0,360.0,,USDA FoodKeeper,sourced,
+Dates,,Produce,Fresh Fruits,Frozen,365.0,730.0,547.5,,USDA FoodKeeper,sourced,
+Grapes,,Produce,Fresh Fruits,Frozen,30.0,30.0,30.0,,USDA FoodKeeper,sourced,
+Guava,,Produce,Fresh Fruits,Refrigerated,2.0,4.0,3.0,,USDA FoodKeeper,sourced,
+Kiwi fruit,,Produce,Fresh Fruits,Refrigerated,3.0,6.0,4.5,,USDA FoodKeeper,sourced,
+Melons,,Produce,Fresh Fruits,Frozen,30.0,30.0,30.0,,USDA FoodKeeper,sourced,
+"Papaya, mango, feijoa, passionfruit, casaha melon",,Produce,Fresh Fruits,Frozen,180.0,240.0,210.0,,USDA FoodKeeper,sourced,
+"Peaches, nectarines, plums, pears, sapote",,Produce,Fresh Fruits,Refrigerated,3.0,5.0,4.0,,USDA FoodKeeper,sourced,
+"Peaches, nectarines, plums, pears, sapote",,Produce,Fresh Fruits,Frozen,60.0,60.0,60.0,,USDA FoodKeeper,sourced,
+Pineapple,,Produce,Fresh Fruits,Refrigerated,5.0,7.0,6.0,,USDA FoodKeeper,sourced,
+Pineapple,,Produce,Fresh Fruits,Frozen,300.0,360.0,330.0,,USDA FoodKeeper,sourced,
+Plantains,,Produce,Fresh Fruits,Refrigerated,3.0,5.0,4.0,,USDA FoodKeeper,sourced,
+Plantains,,Produce,Fresh Fruits,Frozen,300.0,360.0,330.0,,USDA FoodKeeper,sourced,
+Pomegranate,,Produce,Fresh Fruits,Frozen,300.0,360.0,330.0,,USDA FoodKeeper,sourced,
+Potatoes,,Produce,Fresh Vegetables,Frozen,300.0,360.0,330.0,,USDA FoodKeeper,sourced,
+Tamarind,,Produce,Fresh Vegetables,Frozen,365.0,365.0,365.0,,USDA FoodKeeper,sourced,
+Dough,commercial (bread or cookie),Food Purchased Frozen,,Refrigerated,3.0,4.0,3.5,,USDA FoodKeeper,sourced,
+Egg substitutes,,Food Purchased Frozen,,Refrigerated,3.0,4.0,3.5,,USDA FoodKeeper,sourced,
+Fish,raw but headed and gutted,Food Purchased Frozen,,Refrigerated,3.0,4.0,3.5,,USDA FoodKeeper,sourced,
+Frozen pretzels,,Food Purchased Frozen,,Refrigerated,3.0,4.0,3.5,,USDA FoodKeeper,sourced,
+Lobster tails,,Food Purchased Frozen,,Refrigerated,3.0,4.0,3.5,,USDA FoodKeeper,sourced,
+Sausages,uncooked,Food Purchased Frozen,,Refrigerated,3.0,4.0,3.5,,USDA FoodKeeper,sourced,
+Sausages,precooked,Food Purchased Frozen,,Refrigerated,3.0,4.0,3.5,,USDA FoodKeeper,sourced,
+"Shrimp, shellfish",,Food Purchased Frozen,,Refrigerated,3.0,4.0,3.5,,USDA FoodKeeper,sourced,
+Soy crumbles and hot dogs,,Food Purchased Frozen,,Refrigerated,3.0,4.0,3.5,,USDA FoodKeeper,sourced,
+Soy meat substitutes,,Food Purchased Frozen,,Refrigerated,3.0,4.0,3.5,,USDA FoodKeeper,sourced,
+Tempeh,,Food Purchased Frozen,,Refrigerated,3.0,4.0,3.5,,USDA FoodKeeper,sourced,
+Vegetables,,Food Purchased Frozen,,Refrigerated,3.0,4.0,3.5,,USDA FoodKeeper,sourced,
+Fresh pasta,,"Grains, Beans & Pasta",,Refrigerated,1.0,2.0,1.5,,USDA FoodKeeper,sourced,
+Fresh pasta,,"Grains, Beans & Pasta",,Frozen,60.0,60.0,60.0,,USDA FoodKeeper,sourced,
+Dry gravy mixes,,"Condiments, Sauces & Canned Goods",,Refrigerated,1.0,2.0,1.5,,USDA FoodKeeper,sourced,
+Pesto,jarred,"Condiments, Sauces & Canned Goods",,Frozen,30.0,30.0,30.0,,USDA FoodKeeper,sourced,
+Crackers,,Shelf Stable Foods,,Frozen,90.0,120.0,105.0,,USDA FoodKeeper,sourced,
+Nuts,jars or cans,Shelf Stable Foods,,Frozen,180.0,360.0,270.0,,USDA FoodKeeper,sourced,
+Coffee,"home ground, non-vacuum",Beverages,,Frozen,365.0,730.0,547.5,,USDA FoodKeeper,sourced,
+Kumquats,,Produce,Fresh Fruits,Refrigerated,21.0,21.0,21.0,,USDA FoodKeeper,sourced,
+Bagged greens,"leaf, spinach, lettuce, etc.",Produce,Fresh Vegetables,Refrigerated,3.0,5.0,4.0,,USDA FoodKeeper,sourced,
+Egg salad,,Deli & Prepared Foods,,Refrigerated,3.0,4.0,3.5,,USDA FoodKeeper,sourced,
+Potato salad,,Deli & Prepared Foods,,Refrigerated,3.0,5.0,4.0,,USDA FoodKeeper,sourced,
+Seafood salads,"(tuna salad, shrimp salad, salmon salad, mixed seafood salad, etc.)",Deli & Prepared Foods,,Refrigerated,3.0,4.0,3.5,,USDA FoodKeeper,sourced,
+Chicken salad,,Deli & Prepared Foods,,Refrigerated,3.0,4.0,3.5,,USDA FoodKeeper,sourced,
+Ham salad,,Deli & Prepared Foods,,Refrigerated,3.0,4.0,3.5,,USDA FoodKeeper,sourced,
+Pasta salad,,Deli & Prepared Foods,,Refrigerated,3.0,5.0,4.0,,USDA FoodKeeper,sourced,
+Quinoa,cooked,"Grains, Beans & Pasta",,Refrigerated,6.0,7.0,6.5,,USDA FoodKeeper,sourced,
+Quinoa,cooked,"Grains, Beans & Pasta",,Frozen,180.0,360.0,270.0,,USDA FoodKeeper,sourced,
+Fruit cocktail,canned ,Shelf Stable Foods,,Pantry,,540.0,540.0,,USDA FoodKeeper,sourced,
+Bagel,fresh baked,Baked Goods,Bakery,Pantry,1.0,2.0,1.5,,USDA FoodKeeper,sourced,
+Bagel,fresh baked,Baked Goods,Bakery,Frozen,90.0,90.0,90.0,,USDA FoodKeeper,sourced,
+Bagel ,commercially frozen,Baked Goods,Bakery,Frozen,90.0,90.0,90.0,,USDA FoodKeeper,sourced,
+Muffin,"homemade - including bran, blueberry, banana, corn, chocolate chip",Baked Goods,Bakery,Pantry,3.0,7.0,5.0,,USDA FoodKeeper,sourced,
+Muffin,"homemade - including bran, blueberry, banana, corn, chocolate chip",Baked Goods,Bakery,Frozen,60.0,90.0,75.0,,USDA FoodKeeper,sourced,
+Muffin,commercially packaged,Baked Goods,Bakery,Pantry,3.0,7.0,5.0,,USDA FoodKeeper,sourced,
+Muffin,commercially packaged,Baked Goods,Bakery,Frozen,90.0,90.0,90.0,,USDA FoodKeeper,sourced,
+Muffin,"mix, dry, commercially packaged",Baked Goods,Bakery,Pantry,270.0,270.0,270.0,,USDA FoodKeeper,sourced,
+Coconut oil,,Shelf Stable Foods,,Pantry,1095.0,1095.0,1095.0,,USDA FoodKeeper,sourced,
+Orange juice,freshly squeezed,Beverages,,Refrigerated,2.0,3.0,2.5,,USDA FoodKeeper,sourced,
+Orange juice,freshly squeezed,Beverages,,Frozen,14.0,21.0,17.5,,USDA FoodKeeper,sourced,
+Roasted red peppers,jar,Shelf Stable Foods,,Refrigerated,120.0,180.0,150.0,,USDA FoodKeeper,sourced,
+Whole wheat flour,,Baked Goods,Baking and Cooking,Pantry,360.0,360.0,360.0,,USDA FoodKeeper,sourced,
+Whole wheat flour,,Baked Goods,Baking and Cooking,Refrigerated,730.0,730.0,730.0,,USDA FoodKeeper,sourced,
+Whole wheat flour,,Baked Goods,Baking and Cooking,Frozen,730.0,730.0,730.0,,USDA FoodKeeper,sourced,
+Whole wheat bread,homemade,"Grains, Beans & Pasta",,Pantry,3.0,5.0,4.0,,USDA FoodKeeper,sourced,
+Whole wheat bread,homemade,"Grains, Beans & Pasta",,Frozen,90.0,90.0,90.0,,USDA FoodKeeper,sourced,
+Whole wheat bread,commercially baked & pre-sliced,"Grains, Beans & Pasta",,Pantry,3.0,5.0,4.0,,USDA FoodKeeper,sourced,
+Whole wheat bread,commercially baked & pre-sliced,"Grains, Beans & Pasta",,Frozen,90.0,90.0,90.0,,USDA FoodKeeper,sourced,
+Red wine,,Beverages,,Pantry,1095.0,1825.0,1460.0,,USDA FoodKeeper,sourced,
+White wine,,Beverages,,Pantry,365.0,730.0,547.5,,USDA FoodKeeper,sourced,
+Dry stuffing mix,commercially packaged,Shelf Stable Foods,,Pantry,270.0,360.0,315.0,,USDA FoodKeeper,sourced,
+Powdered milk,,Dairy Products & Eggs,,Pantry,1095.0,1825.0,1460.0,,USDA FoodKeeper,sourced,
+Almond butter,,Shelf Stable Foods,,Pantry,365.0,365.0,365.0,,USDA FoodKeeper,sourced,
+Cashew butter,,Shelf Stable Foods,,Pantry,90.0,90.0,90.0,,USDA FoodKeeper,sourced,
+Star fruit,,Produce,Fresh Fruits,Pantry,7.0,7.0,7.0,,USDA FoodKeeper,sourced,
+Star fruit,,Produce,Fresh Fruits,Frozen,300.0,360.0,330.0,,USDA FoodKeeper,sourced,
+Prickly pear ,,Produce,Fresh Fruits,Pantry,2.0,5.0,3.5,,USDA FoodKeeper,sourced,
+Prickly pear ,,Produce,Fresh Fruits,Frozen,300.0,360.0,330.0,,USDA FoodKeeper,sourced,
+Pitaya/dragon fruit,,Produce,Fresh Fruits,Pantry,2.0,5.0,3.5,,USDA FoodKeeper,sourced,
+Pitaya/dragon fruit,,Produce,Fresh Fruits,Frozen,300.0,360.0,330.0,,USDA FoodKeeper,sourced,
+Strawberries,,Produce,Fresh Fruits,Frozen,240.0,360.0,300.0,,USDA FoodKeeper,sourced,
+Raspberries,,Produce,Fresh Fruits,Frozen,240.0,360.0,300.0,,USDA FoodKeeper,sourced,
+Cherries,,Produce,Fresh Fruits,Frozen,240.0,360.0,300.0,,USDA FoodKeeper,sourced,
+Broth,homemade,"Condiments, Sauces & Canned Goods",,Refrigerated,3.0,4.0,3.5,,USDA FoodKeeper,sourced,
+Broth,homemade,"Condiments, Sauces & Canned Goods",,Frozen,60.0,90.0,75.0,,USDA FoodKeeper,sourced,
+Beef broth/stock/consommé ,commercially produced,"Condiments, Sauces & Canned Goods",,Refrigerated,7.0,7.0,7.0,,USDA FoodKeeper,sourced,
+Beef broth/stock/consommé ,commercially produced,"Condiments, Sauces & Canned Goods",,Frozen,60.0,90.0,75.0,,USDA FoodKeeper,sourced,
+Chicken broth/stock/consommé ,commercially produced,"Condiments, Sauces & Canned Goods",,Refrigerated,7.0,7.0,7.0,,USDA FoodKeeper,sourced,
+Chicken broth/stock/consommé ,commercially produced,"Condiments, Sauces & Canned Goods",,Frozen,60.0,90.0,75.0,,USDA FoodKeeper,sourced,
+Vegetable stock/broth ,commercially produced,"Condiments, Sauces & Canned Goods",,Refrigerated,7.0,7.0,7.0,,USDA FoodKeeper,sourced,
+Vegetable stock/broth ,commercially produced,"Condiments, Sauces & Canned Goods",,Frozen,60.0,90.0,75.0,,USDA FoodKeeper,sourced,
+Baby carrots,,Produce,Fresh Vegetables,Frozen,90.0,90.0,90.0,,USDA FoodKeeper,sourced,
+Kohlrabi,,Produce,Fresh Vegetables,Frozen,240.0,360.0,300.0,,USDA FoodKeeper,sourced,
+Watermelon,,Produce,Fresh Fruits,Frozen,360.0,360.0,360.0,,USDA FoodKeeper,sourced,
+Cantaloupe,,Produce,Fresh Fruits,Frozen,360.0,360.0,360.0,,USDA FoodKeeper,sourced,
+Honeydew,,Produce,Fresh Fruits,Frozen,360.0,360.0,360.0,,USDA FoodKeeper,sourced,
+Tomato paste,,Shelf Stable Foods,,Frozen,60.0,90.0,75.0,,USDA FoodKeeper,sourced,
+Flaxseed,ground,Shelf Stable Foods,,Frozen,360.0,360.0,360.0,,USDA FoodKeeper,sourced,
+Cilantro,,Produce,Fresh Vegetables,Pantry,7.0,14.0,10.5,,USDA FoodKeeper,sourced,
+Cilantro,,Produce,Fresh Vegetables,Refrigerated,14.0,21.0,17.5,,USDA FoodKeeper,sourced,
+Mint,,Produce,Fresh Vegetables,Pantry,7.0,14.0,10.5,,USDA FoodKeeper,sourced,
+Mint,,Produce,Fresh Vegetables,Refrigerated,14.0,21.0,17.5,,USDA FoodKeeper,sourced,
+Basil,dried,Produce,Fresh Vegetables,Pantry,360.0,360.0,360.0,,USDA FoodKeeper,sourced,
+Basil,fresh,Produce,Fresh Vegetables,Pantry,5.0,5.0,5.0,,USDA FoodKeeper,sourced,
+Basil,fresh,Produce,Fresh Vegetables,Refrigerated,10.0,10.0,10.0,,USDA FoodKeeper,sourced,
+Oregano,,Produce,Fresh Vegetables,Pantry,7.0,14.0,10.5,,USDA FoodKeeper,sourced,
+Oregano,,Produce,Fresh Vegetables,Refrigerated,14.0,21.0,17.5,,USDA FoodKeeper,sourced,
+Rosemary,,Produce,Fresh Vegetables,Pantry,7.0,14.0,10.5,,USDA FoodKeeper,sourced,
+Rosemary,,Produce,Fresh Vegetables,Refrigerated,14.0,21.0,17.5,,USDA FoodKeeper,sourced,
+Chives,,Produce,Fresh Vegetables,Pantry,7.0,14.0,10.5,,USDA FoodKeeper,sourced,
+Chives,,Produce,Fresh Vegetables,Refrigerated,14.0,21.0,17.5,,USDA FoodKeeper,sourced,
+Thyme,,Produce,Fresh Vegetables,Pantry,7.0,14.0,10.5,,USDA FoodKeeper,sourced,
+Thyme,,Produce,Fresh Vegetables,Refrigerated,14.0,21.0,17.5,,USDA FoodKeeper,sourced,
+Canadian bacon,whole,Deli & Prepared Foods,,Refrigerated,14.0,14.0,14.0,,USDA FoodKeeper,sourced,
+Canadian bacon,whole,Deli & Prepared Foods,,Frozen,60.0,60.0,60.0,,USDA FoodKeeper,sourced,
+Canadian bacon,sliced,Deli & Prepared Foods,,Refrigerated,10.0,10.0,10.0,,USDA FoodKeeper,sourced,
+Canadian bacon,sliced,Deli & Prepared Foods,,Frozen,360.0,360.0,360.0,,USDA FoodKeeper,sourced,
+Duck fat,,"Condiments, Sauces & Canned Goods",,Refrigerated,30.0,30.0,30.0,,USDA FoodKeeper,sourced,
+Bacon grease,,"Condiments, Sauces & Canned Goods",,Refrigerated,180.0,180.0,180.0,,USDA FoodKeeper,sourced,
+Bacon grease,,"Condiments, Sauces & Canned Goods",,Frozen,360.0,360.0,360.0,,USDA FoodKeeper,sourced,
+Frying oil,re-used,"Condiments, Sauces & Canned Goods",,Refrigerated,30.0,30.0,30.0,,USDA FoodKeeper,sourced,
+Frying oil,re-used,"Condiments, Sauces & Canned Goods",,Frozen,180.0,270.0,225.0,,USDA FoodKeeper,sourced,
+Almond extract,,Baked Goods,Baking and Cooking,Pantry,730.0,730.0,730.0,,USDA FoodKeeper,sourced,
+Cinnamon extract,,Baked Goods,Baking and Cooking,Pantry,730.0,730.0,730.0,,USDA FoodKeeper,sourced,
+Lemon extract,,Baked Goods,Baking and Cooking,Pantry,730.0,730.0,730.0,,USDA FoodKeeper,sourced,
+Pure vanilla extract,,Baked Goods,Baking and Cooking,Pantry,730.0,730.0,730.0,,USDA FoodKeeper,sourced,
+Butter flavor,,Baked Goods,Baking and Cooking,Pantry,730.0,730.0,730.0,,USDA FoodKeeper,sourced,
+Coconut flavor,,Baked Goods,Baking and Cooking,Pantry,730.0,730.0,730.0,,USDA FoodKeeper,sourced,
+"""Genuine"" Maple syrup","unopened, glass",Shelf Stable Foods,,Pantry,1460.0,1460.0,1460.0,,USDA FoodKeeper,sourced,
+"""Genuine"" Maple syrup","unopened, plastic",Shelf Stable Foods,,Pantry,730.0,730.0,730.0,,USDA FoodKeeper,sourced,
+"""Genuine"" Maple syrup","unopened, plastic",Shelf Stable Foods,,Refrigerated,540.0,720.0,630.0,,USDA FoodKeeper,sourced,
+Lemon juice,fresh squeezed,Beverages,,Refrigerated,6.0,6.0,6.0,,USDA FoodKeeper,sourced,
+Lemon juice,fresh squeezed,Beverages,,Frozen,360.0,360.0,360.0,,USDA FoodKeeper,sourced,
+Apple juice,fresh squeezed,Beverages,,Refrigerated,6.0,6.0,6.0,,USDA FoodKeeper,sourced,
+Apple juice,fresh squeezed,Beverages,,Frozen,360.0,360.0,360.0,,USDA FoodKeeper,sourced,
+Carrot juice,fresh squeezed,Beverages,,Refrigerated,6.0,6.0,6.0,,USDA FoodKeeper,sourced,
+Carrot juice,fresh squeezed,Beverages,,Frozen,360.0,360.0,360.0,,USDA FoodKeeper,sourced,
+Cream liquors,unopened,Beverages,,Pantry,180.0,240.0,210.0,,USDA FoodKeeper,sourced,
+Coffee,"commercial ground, non-vacuum",Beverages,,Frozen,180.0,360.0,270.0,,USDA FoodKeeper,sourced,
+Macaroons,french,Baked Goods,Bakery,Pantry,1.0,2.0,1.5,,USDA FoodKeeper,sourced,
+Macaroons,french,Baked Goods,Bakery,Frozen,90.0,90.0,90.0,,USDA FoodKeeper,sourced,
+Quark,fresh cheese,Dairy Products & Eggs,,Refrigerated,7.0,10.0,8.5,,USDA FoodKeeper,sourced,
+Zucchini,"fresh, whole",Produce,Fresh Vegetables,Refrigerated,7.0,7.0,7.0,,USDA FoodKeeper,sourced,
+Zucchini,"fresh, whole",Produce,Fresh Vegetables,Frozen,300.0,300.0,300.0,,USDA FoodKeeper,sourced,
+Hot peppers,,Produce,Fresh Vegetables,Frozen,270.0,270.0,270.0,,USDA FoodKeeper,sourced,
+Puff pastry,,Baked Goods,Refrigerated Dough,Frozen,360.0,360.0,360.0,,USDA FoodKeeper,sourced,
+Pie crust,refrigerated,Baked Goods,Refrigerated Dough,Frozen,60.0,60.0,60.0,,USDA FoodKeeper,sourced,
+Granola,,Shelf Stable Foods,,Pantry,180.0,270.0,225.0,,USDA FoodKeeper,sourced,
+Pork rinds,,Shelf Stable Foods,,Pantry,120.0,120.0,120.0,,USDA FoodKeeper,sourced,
+Hot sauce,,"Condiments, Sauces & Canned Goods",,Pantry,180.0,180.0,180.0,,USDA FoodKeeper,sourced,
+Yeast,packaged,Baked Goods,Baking and Cooking,Frozen,180.0,180.0,180.0,,USDA FoodKeeper,sourced,
+Applesauce,homemade,Produce,Fresh Fruits,Refrigerated,21.0,21.0,21.0,,USDA FoodKeeper,sourced,
+Applesauce,homemade,Produce,Fresh Fruits,Frozen,240.0,360.0,300.0,,USDA FoodKeeper,sourced,
+Pate,meat ,Meat,Smoked or Processed,Refrigerated,7.0,7.0,7.0,,USDA FoodKeeper,sourced,
+Pate,poultry,Poultry,Cooked or Processed,Refrigerated,7.0,7.0,7.0,,USDA FoodKeeper,sourced,
+Cranberry sauce,homemade,"Condiments, Sauces & Canned Goods",,Refrigerated,7.0,10.0,8.5,,USDA FoodKeeper,sourced,
+Vegetable juice,"commercial, sold refrigerated",Beverages,,Refrigerated,30.0,30.0,30.0,,USDA FoodKeeper,sourced,
+Marinated vegetables,in oil,Produce,Fresh Vegetables,Refrigerated,3.0,4.0,3.5,,USDA FoodKeeper,sourced,
+Pizza,frozen,Food Purchased Frozen,,Refrigerated,3.0,4.0,3.5,,USDA FoodKeeper,sourced,
+Pizza,frozen,Food Purchased Frozen,,Frozen,360.0,360.0,360.0,,USDA FoodKeeper,sourced,
+Salsa,fresh,Deli & Prepared Foods,,Refrigerated,4.0,7.0,5.5,,USDA FoodKeeper,sourced,
+Chia seeds,,Shelf Stable Foods,,Pantry,540.0,540.0,540.0,,USDA FoodKeeper,sourced,
+Bread,homemade,Baked Goods,Bakery,Pantry,3.0,5.0,4.0,,USDA FoodKeeper,sourced,
+Bread,homemade,Baked Goods,Bakery,Refrigerated,60.0,90.0,75.0,,USDA FoodKeeper,sourced,
+Amaranth,whole grain,"Grains, Beans & Pasta",,Pantry,120.0,120.0,120.0,,USDA FoodKeeper,sourced,
+Amaranth,whole grain,"Grains, Beans & Pasta",,Frozen,240.0,240.0,240.0,,USDA FoodKeeper,sourced,
+Amaranth,"flour, meal",Baked Goods,Baking and Cooking,Pantry,60.0,60.0,60.0,,USDA FoodKeeper,sourced,
+Amaranth,"flour, meal",Baked Goods,Baking and Cooking,Frozen,120.0,120.0,120.0,,USDA FoodKeeper,sourced,
+Barley,whole grain,"Grains, Beans & Pasta",,Pantry,180.0,180.0,180.0,,USDA FoodKeeper,sourced,
+Barley,whole grain,"Grains, Beans & Pasta",,Frozen,360.0,360.0,360.0,,USDA FoodKeeper,sourced,
+Barley,"flour, meal",Baked Goods,Baking and Cooking,Pantry,90.0,90.0,90.0,,USDA FoodKeeper,sourced,
+Barley,"flour, meal",Baked Goods,Baking and Cooking,Frozen,180.0,180.0,180.0,,USDA FoodKeeper,sourced,
+Buckwheat,whole grain,"Grains, Beans & Pasta",,Pantry,60.0,60.0,60.0,,USDA FoodKeeper,sourced,
+Buckwheat,whole grain,"Grains, Beans & Pasta",,Frozen,120.0,120.0,120.0,,USDA FoodKeeper,sourced,
+Buckwheat,"flour, meal",Baked Goods,Baking and Cooking,Pantry,30.0,30.0,30.0,,USDA FoodKeeper,sourced,
+Buckwheat,"flour, meal",Baked Goods,Baking and Cooking,Frozen,60.0,60.0,60.0,,USDA FoodKeeper,sourced,
+Farro,whole grain,"Grains, Beans & Pasta",,Pantry,180.0,180.0,180.0,,USDA FoodKeeper,sourced,
+Farro,whole grain,"Grains, Beans & Pasta",,Frozen,360.0,360.0,360.0,,USDA FoodKeeper,sourced,
+Farro,"flour, meal",Baked Goods,Baking and Cooking,Pantry,90.0,90.0,90.0,,USDA FoodKeeper,sourced,
+Farro,"flour, meal",Baked Goods,Baking and Cooking,Frozen,180.0,180.0,180.0,,USDA FoodKeeper,sourced,
+Millet,whole grain,"Grains, Beans & Pasta",,Pantry,60.0,60.0,60.0,,USDA FoodKeeper,sourced,
+Millet,whole grain,"Grains, Beans & Pasta",,Frozen,120.0,120.0,120.0,,USDA FoodKeeper,sourced,
+Millet,"flour, meal",Baked Goods,Baking and Cooking,Pantry,30.0,30.0,30.0,,USDA FoodKeeper,sourced,
+Millet,"flour, meal",Baked Goods,Baking and Cooking,Frozen,60.0,60.0,60.0,,USDA FoodKeeper,sourced,
+Oats,whole grain,"Grains, Beans & Pasta",,Pantry,120.0,120.0,120.0,,USDA FoodKeeper,sourced,
+Oats,whole grain,"Grains, Beans & Pasta",,Frozen,240.0,240.0,240.0,,USDA FoodKeeper,sourced,
+Oats,"flour, meal",Baked Goods,Baking and Cooking,Pantry,60.0,60.0,60.0,,USDA FoodKeeper,sourced,
+Oats,"flour, meal",Baked Goods,Baking and Cooking,Frozen,120.0,120.0,120.0,,USDA FoodKeeper,sourced,
+Rye,whole grain,"Grains, Beans & Pasta",,Pantry,180.0,180.0,180.0,,USDA FoodKeeper,sourced,
+Rye,whole grain,"Grains, Beans & Pasta",,Frozen,360.0,360.0,360.0,,USDA FoodKeeper,sourced,
+Rye,"flour, meal",Baked Goods,Baking and Cooking,Pantry,90.0,90.0,90.0,,USDA FoodKeeper,sourced,
+Rye,"flour, meal",Baked Goods,Baking and Cooking,Frozen,180.0,180.0,180.0,,USDA FoodKeeper,sourced,
+Sorghum,whole grain,"Grains, Beans & Pasta",,Pantry,120.0,120.0,120.0,,USDA FoodKeeper,sourced,
+Sorghum,whole grain,"Grains, Beans & Pasta",,Frozen,240.0,240.0,240.0,,USDA FoodKeeper,sourced,
+Sorghum,"flour, meal",Baked Goods,Baking and Cooking,Pantry,60.0,60.0,60.0,,USDA FoodKeeper,sourced,
+Sorghum,"flour, meal",Baked Goods,Baking and Cooking,Frozen,120.0,120.0,120.0,,USDA FoodKeeper,sourced,
+Spelt,whole grain,"Grains, Beans & Pasta",,Pantry,180.0,180.0,180.0,,USDA FoodKeeper,sourced,
+Spelt,whole grain,"Grains, Beans & Pasta",,Frozen,360.0,360.0,360.0,,USDA FoodKeeper,sourced,
+Spelt,"flour, meal",Baked Goods,Baking and Cooking,Pantry,90.0,90.0,90.0,,USDA FoodKeeper,sourced,
+Spelt,"flour, meal",Baked Goods,Baking and Cooking,Frozen,180.0,180.0,180.0,,USDA FoodKeeper,sourced,
+Teff,whole grain,"Grains, Beans & Pasta",,Pantry,120.0,120.0,120.0,,USDA FoodKeeper,sourced,
+Teff,whole grain,"Grains, Beans & Pasta",,Frozen,240.0,240.0,240.0,,USDA FoodKeeper,sourced,
+Teff,"flour, meal",Baked Goods,Baking and Cooking,Pantry,60.0,60.0,60.0,,USDA FoodKeeper,sourced,
+Teff,"flour, meal",Baked Goods,Baking and Cooking,Frozen,120.0,120.0,120.0,,USDA FoodKeeper,sourced,
+Rabbit,"whole, fresh",Meat,Fresh,Refrigerated,2.0,2.0,2.0,,USDA FoodKeeper,sourced,
+Rabbit,"whole, fresh",Meat,Fresh,Frozen,270.0,270.0,270.0,,USDA FoodKeeper,sourced,
+Spaghetti squash,whole,Produce,Fresh Vegetables,Pantry,60.0,60.0,60.0,,USDA FoodKeeper,sourced,
+Spaghetti squash,whole,Produce,Fresh Vegetables,Refrigerated,7.0,14.0,10.5,,USDA FoodKeeper,sourced,
+Spaghetti squash,cut,Produce,Fresh Vegetables,Refrigerated,4.0,5.0,4.5,,USDA FoodKeeper,sourced,
+Garam masala,,Baked Goods,Baking and Cooking,Pantry,365.0,365.0,365.0,,USDA FoodKeeper,sourced,
+Cherry tomatoes,,Produce,Fresh Vegetables,Pantry,10.0,10.0,10.0,,USDA FoodKeeper,sourced,
+Cherry tomatoes,,Produce,Fresh Vegetables,Refrigerated,5.0,5.0,5.0,,USDA FoodKeeper,sourced,
+Coconut cream,canned,Shelf Stable Foods,,Frozen,90.0,90.0,90.0,,USDA FoodKeeper,sourced,
+Coconut milk,canned,Shelf Stable Foods,,Frozen,90.0,90.0,90.0,,USDA FoodKeeper,sourced,
+Coleslaw,"homemade, prepared",Deli & Prepared Foods,,Refrigerated,3.0,5.0,4.0,,USDA FoodKeeper,sourced,
+Pumpkin seeds,"raw, no shell",Shelf Stable Foods,,Pantry,180.0,180.0,180.0,,USDA FoodKeeper,sourced,
+Pumpkin seeds,"raw, no shell",Shelf Stable Foods,,Refrigerated,180.0,180.0,180.0,,USDA FoodKeeper,sourced,
+Pumpkin seeds,"raw, in-shell",Shelf Stable Foods,,Pantry,180.0,180.0,180.0,,USDA FoodKeeper,sourced,
+Pumpkin seeds,"roasted, no-shell",Shelf Stable Foods,,Pantry,180.0,180.0,180.0,,USDA FoodKeeper,sourced,
+Pumpkin seeds,"roasted, in-shell",Shelf Stable Foods,,Pantry,180.0,180.0,180.0,,USDA FoodKeeper,sourced,
+Sunflower seeds,"raw, unsalted, no shell",Shelf Stable Foods,,Pantry,360.0,360.0,360.0,,USDA FoodKeeper,sourced,
+Parsley,fresh,Produce,Fresh Vegetables,Refrigerated,2.0,3.0,2.5,,USDA FoodKeeper,sourced,
+Parsley,fresh,Produce,Fresh Vegetables,Frozen,90.0,120.0,105.0,,USDA FoodKeeper,sourced,
+Sesame seeds,,Shelf Stable Foods,,Pantry,1825.0,1825.0,1825.0,,USDA FoodKeeper,sourced,
+Tuna,canned,Shelf Stable Foods,,Pantry,1095.0,1095.0,1095.0,,USDA FoodKeeper,sourced,
+Seafood,canned,Shelf Stable Foods,,Pantry,365.0,365.0,365.0,,USDA FoodKeeper,sourced,
+Bison,whole,Meat,Fresh,Refrigerated,3.0,5.0,4.0,,USDA FoodKeeper,sourced,
+Bison,whole,Meat,Fresh,Frozen,180.0,270.0,225.0,,USDA FoodKeeper,sourced,
+Bison,ground,Meat,Fresh,Refrigerated,1.0,2.0,1.5,,USDA FoodKeeper,sourced,
+Bison,ground,Meat,Fresh,Frozen,90.0,120.0,105.0,,USDA FoodKeeper,sourced,
+Salad dressing,"vinaigrette,homemade","Condiments, Sauces & Canned Goods",,Refrigerated,14.0,21.0,17.5,,USDA FoodKeeper,sourced,
+Cheese Curds,"fresh, unaged",Dairy Products & Eggs,,Refrigerated,14.0,14.0,14.0,,USDA FoodKeeper,sourced,
+Cheese Curds,"fresh, unaged",Dairy Products & Eggs,,Frozen,120.0,120.0,120.0,,USDA FoodKeeper,sourced,
+Vegetable soup,homemade,Deli & Prepared Foods,,Refrigerated,3.0,4.0,3.5,,USDA FoodKeeper,sourced,
+Vegetable soup,homemade,Deli & Prepared Foods,,Frozen,90.0,90.0,90.0,,USDA FoodKeeper,sourced,
+Chorizo,fresh,Meat,Fresh,Refrigerated,1.0,2.0,1.5,,USDA FoodKeeper,sourced,
+Chorizo,fresh,Meat,Fresh,Frozen,30.0,60.0,45.0,,USDA FoodKeeper,sourced,
+Chorizo,"smoked and processed, uncooked",Meat,Smoked or Processed,Refrigerated,7.0,7.0,7.0,,USDA FoodKeeper,sourced,
+Chorizo,"smoked and processed, uncooked",Meat,Smoked or Processed,Frozen,30.0,60.0,45.0,,USDA FoodKeeper,sourced,
+Chorizo,"smoked and processed, cooked",Meat,Smoked or Processed,Pantry,365.0,365.0,365.0,,USDA FoodKeeper,sourced,
+Chorizo,"smoked and processed, cooked",Meat,Smoked or Processed,Frozen,180.0,180.0,180.0,,USDA FoodKeeper,sourced,
+Beets,pickled,Shelf Stable Foods,,Pantry,365.0,365.0,365.0,,USDA FoodKeeper,sourced,
+Cinnamon rolls,baked,Baked Goods,Baking and Cooking,Pantry,1.0,3.0,2.0,,USDA FoodKeeper,sourced,
+Cinnamon rolls,baked,Baked Goods,Baking and Cooking,Frozen,90.0,90.0,90.0,,USDA FoodKeeper,sourced,
+Bulgur,,"Grains, Beans & Pasta",,Pantry,180.0,360.0,270.0,,USDA FoodKeeper,sourced,
+Bratwurst,fresh,Meat,Fresh,Refrigerated,2.0,3.0,2.5,,USDA FoodKeeper,sourced,
+Bratwurst,fresh,Meat,Fresh,Frozen,60.0,90.0,75.0,,USDA FoodKeeper,sourced,
+Bratwurst,smoked and processed,Meat,Smoked or Processed,Refrigerated,5.0,7.0,6.0,,USDA FoodKeeper,sourced,
+Bratwurst,smoked and processed,Meat,Smoked or Processed,Frozen,60.0,90.0,75.0,,USDA FoodKeeper,sourced,
+Edamame,fresh,Produce,Fresh Vegetables,Refrigerated,4.0,5.0,4.5,,USDA FoodKeeper,sourced,
+Edamame,"salted, dry roasted, out of pod",Shelf Stable Foods,,Pantry,360.0,360.0,360.0,,USDA FoodKeeper,sourced,
+Edamame,"salted, dry roasted, out of pod",Shelf Stable Foods,,Refrigerated,180.0,180.0,180.0,,USDA FoodKeeper,sourced,
+Breadcrumbs,commercial,Shelf Stable Foods,,Pantry,180.0,180.0,180.0,,USDA FoodKeeper,sourced,
+Salsa,"homemade, fresh",Deli & Prepared Foods,,Refrigerated,5.0,7.0,6.0,,USDA FoodKeeper,sourced,
+Salsa,"homemade, fresh",Deli & Prepared Foods,,Frozen,360.0,360.0,360.0,,USDA FoodKeeper,sourced,
+Salsa,"homemade, canned","Condiments, Sauces & Canned Goods",,Pantry,270.0,360.0,315.0,,USDA FoodKeeper,sourced,
+Tomato Sauce,"homemade, canned","Condiments, Sauces & Canned Goods",,Pantry,270.0,360.0,315.0,,USDA FoodKeeper,sourced,
+Barbecue Sauce,"homemade, canned","Condiments, Sauces & Canned Goods",,Pantry,270.0,360.0,315.0,,USDA FoodKeeper,sourced,
+Ghee,,Dairy Products & Eggs,,Pantry,180.0,240.0,210.0,,USDA FoodKeeper,sourced,
+Ghee,,Dairy Products & Eggs,,Refrigerated,365.0,730.0,547.5,,USDA FoodKeeper,sourced,
+Corn syrup,,Shelf Stable Foods,,Pantry,1095.0,1095.0,1095.0,,USDA FoodKeeper,sourced,
+Instant breakfast drinks,bottled,Shelf Stable Foods,,Pantry,180.0,180.0,180.0,,USDA FoodKeeper,sourced,
+Pine nuts,,Shelf Stable Foods,,Pantry,14.0,21.0,17.5,,USDA FoodKeeper,sourced,
+Pine nuts,,Shelf Stable Foods,,Refrigerated,90.0,90.0,90.0,,USDA FoodKeeper,sourced,
+Pine nuts,,Shelf Stable Foods,,Frozen,270.0,270.0,270.0,,USDA FoodKeeper,sourced,
+Coconut flour,,Baked Goods,Baking and Cooking,Refrigerated,270.0,360.0,315.0,,USDA FoodKeeper,sourced,
+Coconut flour,,Baked Goods,Baking and Cooking,Frozen,270.0,360.0,315.0,,USDA FoodKeeper,sourced,
+Pecans,chopped,Shelf Stable Foods,,Refrigerated,360.0,360.0,360.0,,USDA FoodKeeper,sourced,
+Pecans,chopped,Shelf Stable Foods,,Frozen,730.0,730.0,730.0,,USDA FoodKeeper,sourced,
+Polenta,frozen,Food Purchased Frozen,,Frozen,360.0,360.0,360.0,,USDA FoodKeeper,sourced,
+Cereal or granola bars,,Shelf Stable Foods,,Pantry,180.0,360.0,270.0,,USDA FoodKeeper,sourced,
+Milk ,ultra-pasteurized,Shelf Stable Foods,,Refrigerated,30.0,90.0,60.0,,USDA FoodKeeper,sourced,
+Celery root,,Produce,Fresh Vegetables,Refrigerated,7.0,7.0,7.0,,USDA FoodKeeper,sourced,
+Apple cider,fresh,Beverages,,Pantry,2.0,3.0,2.5,,USDA FoodKeeper,sourced,
+Apple cider,fresh,Beverages,,Refrigerated,14.0,21.0,17.5,,USDA FoodKeeper,sourced,
+Yuzu juice,,Beverages,,Frozen,365.0,730.0,547.5,,USDA FoodKeeper,sourced,
+Yuzu,"fruit, fresh",Beverages,,Refrigerated,5.0,7.0,6.0,,USDA FoodKeeper,sourced,
+Pastrami,,Meat,Smoked or Processed,Refrigerated,40.0,40.0,40.0,,USDA FoodKeeper,sourced,
+Kugel,commercial,Food Purchased Frozen,,Frozen,365.0,365.0,365.0,,USDA FoodKeeper,sourced,
+Kugel,homemade,Deli & Prepared Foods,,Refrigerated,3.0,4.0,3.5,,USDA FoodKeeper,sourced,
+Kugel,homemade,Deli & Prepared Foods,,Frozen,30.0,30.0,30.0,,USDA FoodKeeper,sourced,
+Aioli,homemade,"Condiments, Sauces & Canned Goods",,Refrigerated,3.0,4.0,3.5,,USDA FoodKeeper,sourced,
+Anchovies,canned,"Condiments, Sauces & Canned Goods",,Pantry,1825.0,1825.0,1825.0,,USDA FoodKeeper,sourced,
+Anchovies,canned,"Condiments, Sauces & Canned Goods",,Frozen,60.0,60.0,60.0,,USDA FoodKeeper,sourced,
+Radicchio,,Produce,Fresh Vegetables,Refrigerated,14.0,21.0,17.5,,USDA FoodKeeper,sourced,
+Prosciutto,,Meat,Smoked or Processed,Refrigerated,60.0,90.0,75.0,,USDA FoodKeeper,sourced,
+Prosciutto,,Meat,Smoked or Processed,Frozen,30.0,30.0,30.0,,USDA FoodKeeper,sourced,
+Ham ,"uncured, fresh, cooked",Meat,Smoked or Processed,Refrigerated,3.0,4.0,3.5,,USDA FoodKeeper,sourced,
+Ham ,"uncured, fresh, cooked",Meat,Smoked or Processed,Frozen,90.0,120.0,105.0,,USDA FoodKeeper,sourced,
+Ham ,"uncured, fresh, uncooked",Meat,Fresh,Refrigerated,3.0,5.0,4.0,,USDA FoodKeeper,sourced,
+Ham ,"uncured, fresh, uncooked",Meat,Fresh,Frozen,180.0,180.0,180.0,,USDA FoodKeeper,sourced,
+Arugula,,Produce,Fresh Vegetables,Refrigerated,3.0,7.0,5.0,,USDA FoodKeeper,sourced,
+Mung bean,sprouts,"Grains, Beans & Pasta",,Refrigerated,28.0,42.0,35.0,,USDA FoodKeeper,sourced,
+Mung bean,"dry, food-grade bags","Grains, Beans & Pasta",,Pantry,365.0,365.0,365.0,,USDA FoodKeeper,sourced,
+Mung bean,"dry, food-grade bags","Grains, Beans & Pasta",,Refrigerated,365.0,365.0,365.0,,USDA FoodKeeper,sourced,
+Mung bean,"dry, food-grade bags","Grains, Beans & Pasta",,Frozen,365.0,365.0,365.0,,USDA FoodKeeper,sourced,
+Mung bean,"dry, vacuum-sealed","Grains, Beans & Pasta",,Pantry,2920.0,3650.0,3285.0,,USDA FoodKeeper,sourced,
+Croutons,,Shelf Stable Foods,,Pantry,150.0,180.0,165.0,,USDA FoodKeeper,sourced,
+Croutons,,Shelf Stable Foods,,Refrigerated,150.0,180.0,165.0,,USDA FoodKeeper,sourced,
+Croutons,,Shelf Stable Foods,,Frozen,330.0,360.0,345.0,,USDA FoodKeeper,sourced,
+Bacon,uncured,Meat,Smoked or Processed,Refrigerated,4.0,7.0,5.5,,USDA FoodKeeper,sourced,
+Bacon,uncured,Meat,Smoked or Processed,Frozen,21.0,28.0,24.5,,USDA FoodKeeper,sourced,
+Mustard,"dried, ground",Shelf Stable Foods,,Pantry,180.0,180.0,180.0,,USDA FoodKeeper,sourced,
+Mustard,"dried, ground",Shelf Stable Foods,,Frozen,365.0,730.0,547.5,,USDA FoodKeeper,sourced,
+Jackfruit (ripe),,Produce,,Refrigerated,14.0,42.0,28.0,13,"FAO Agricultural Services Bulletin 151, Table 5 (direct match)",sourced,"FAO Table 5 direct match. Young/green jackfruit (polos) typically used within days of purchase, not stored ripe."
+Young/green jackfruit (polos),,Produce,,Refrigerated,14.0,42.0,28.0,13,"FAO Agricultural Services Bulletin 151, Table 5 (direct match)",sourced,"FAO Table 5 ""Jackfruit"" direct match; unripe fruit used for curry, similar handling window to ripe."
+Breadfruit,,Produce,,Refrigerated,14.0,42.0,28.0,13-15,"FAO Agricultural Services Bulletin 151, Table 5 (direct match)",sourced,FAO Table 5 direct match.
+Manioc (cassava/tapioca root),,Produce,,Refrigerated,30.0,60.0,45.0,0-5,"FAO Agricultural Services Bulletin 151, Table 5 (direct match)",sourced,"FAO Table 5 ""Cassava"" direct match. Note: cassava deteriorates fast at room temp (internal discolouration within 1-2 days) - refrigeration range shown; unrefrigerated pantry life is much shorter and not covered by this table."
+Okra (bandakka),,Produce,,Refrigerated,7.0,10.0,8.5,7-10,"FAO Agricultural Services Bulletin 151, Table 5 (direct match)",sourced,FAO Table 5 direct match.
+Eggplant (brinjal/aubergine),,Produce,,Refrigerated,7.0,7.0,7.0,8-12,"FAO Agricultural Services Bulletin 151, Table 5 (direct match)",sourced,"FAO Table 5 ""Eggplant"" direct match."
+Ginger,,Produce,,Refrigerated,180.0,180.0,180.0,13,"FAO Agricultural Services Bulletin 151, Table 5 (direct match)",sourced,FAO Table 5 direct match.
+Garlic,,Produce,,Refrigerated,180.0,210.0,195.0,0,"FAO Agricultural Services Bulletin 151, Table 5 (direct match)",sourced,"FAO Table 5 direct match (dry storage, not refrigerated)."
+Raw green mango (unripe),,Produce,,Refrigerated,14.0,21.0,17.5,13,"FAO Agricultural Services Bulletin 151, Table 5 (direct match)",sourced,"FAO Table 5 ""Mango"" direct match."
+Coconut,,Produce,,Refrigerated,30.0,60.0,45.0,0-1.5,"FAO Agricultural Services Bulletin 151, Table 5 (direct match)",sourced,"FAO Table 5 direct match (whole, unhusked)."
+Beetroot,,Produce,,Refrigerated,10.0,14.0,12.0,0,"FAO Agricultural Services Bulletin 151, Table 5 (direct match)",sourced,"FAO Table 5 ""Beet (bunched)"" direct match."
+Cabbage,,Produce,,Refrigerated,150.0,180.0,165.0,0,"FAO Agricultural Services Bulletin 151, Table 5 (direct match)",sourced,FAO Table 5 direct match.
+Leek,,Produce,,Refrigerated,60.0,90.0,75.0,0,"FAO Agricultural Services Bulletin 151, Table 5 (direct match)",sourced,FAO Table 5 direct match.
+Shallots (small onion),,Produce,,Refrigerated,30.0,240.0,135.0,0,"FAO Agricultural Services Bulletin 151, Table 5 (direct match)",sourced,"FAO Table 5 ""Onions (dry)"" direct match."
+Onion,,Produce,,Refrigerated,30.0,240.0,135.0,0,"FAO Agricultural Services Bulletin 151, Table 5 (direct match)",sourced,"FAO Table 5 ""Onions (dry)"" direct match."
+Green bell pepper,,Produce,,Refrigerated,14.0,21.0,17.5,7-13,"FAO Agricultural Services Bulletin 151, Table 5 (direct match)",sourced,"FAO Table 5 ""Pepper (bell)"" direct match."
+Green beans,,Produce,,Refrigerated,7.0,10.0,8.5,4-7,"FAO Agricultural Services Bulletin 151, Table 5 (direct match)",sourced,"FAO Table 5 ""Snapbeans"" direct match."
+Green peas,,Produce,,Refrigerated,7.0,14.0,10.5,0,"FAO Agricultural Services Bulletin 151, Table 5 (direct match)",sourced,"FAO Table 5 ""Peas"" direct match."
+"Mushrooms (oyster, button, or cremini)",,Produce,,Refrigerated,5.0,7.0,6.0,0-1.5,"FAO Agricultural Services Bulletin 151, Table 5 (direct match)",sourced,FAO Table 5 direct match.
+Lime,,Produce,,Refrigerated,42.0,56.0,49.0,9-10,"FAO Agricultural Services Bulletin 151, Table 5 (direct match)",sourced,FAO Table 5 direct match.
+Wood apple / bael fruit (diwul / limonia acidissima),,Produce,,Refrigerated,14.0,28.0,21.0,13,"FAO Agricultural Services Bulletin 151, Table 5 (direct match)",sourced,"FAO Table 5 has no direct entry for wood apple; using the ""hard-shelled tropical fruit"" cluster (mango/guava/mandarin range) as closest analogy — wood apple has a very hard rind and is traditionally stored far longer than soft tropical fruit at ambient temperature, so this range is likely conservative. Flagged for local sourcing."
+Curry leaves,,Produce,,Refrigerated,7.0,14.0,10.5,0-2,"FAO Agricultural Services Bulletin 151, Table 5 (direct match)",sourced,"No direct FAO entry. Analogy to leafy herb cluster (parsley/basil: FAO Table 5) — curry leaves are markedly more durable fresh than parsley due to leaf structure; range given is a cautious estimate. Freezes well (whole sprigs), which is the common Sri Lankan household practice for longer storage."
+Lemongrass,,Produce,,Refrigerated,14.0,21.0,17.5,0-5,"FAO Agricultural Services Bulletin 151, Table 5 (direct match)",sourced,"No direct FAO entry. Analogy to fennel (bulb/stalk vegetable, FAO Table 5) given similar fibrous stalk structure and moderate water content."
+Pandan leaves (rampe),,Produce,,Refrigerated,7.0,10.0,8.5,0-5,"FAO Agricultural Services Bulletin 151, Table 5 (direct match)",sourced,No direct FAO entry. Analogy to leafy herb cluster; pandan is commonly frozen for extended use in Sri Lankan households.
+Coriander leaves,,Produce,,Refrigerated,7.0,10.0,8.5,0-2,"FAO Agricultural Services Bulletin 151, Table 5 (direct match)",sourced,"No direct FAO entry, but this is functionally identical to common coriander/cilantro; treated as a leafy herb per FAO parsley/basil cluster."
+Gotu kola (pennywort / Centella asiatica),,Produce,,Refrigerated,2.0,4.0,3.0,0-4,Estimated by botanical/culinary analogy — no direct source found,estimate_needs_local_sourcing,"ESTIMATE. No published day-count source found. Analogy to tender leafy greens (FAO ""Amaranth"": 0-2C, 10-14 days) adjusted down — gotukola wilts noticeably faster than amaranth in practice; treat as short-life leafy green."
+"Mukunuwenna (sessile joyweed) or substitute leafy green (kale, spinach)",,Produce,,Refrigerated,3.0,5.0,4.0,0-4,Estimated by botanical/culinary analogy — no direct source found,estimate_needs_local_sourcing,"ESTIMATE by analogy to FAO ""Spinach"" (0C, 10-14 days) adjusted down for a more tender tropical leaf and typical unrefrigerated Sri Lankan kitchen handling."
+Kankun (water spinach / Ipomoea aquatica),,Produce,,Refrigerated,2.0,4.0,3.0,0-4,Estimated by botanical/culinary analogy — no direct source found,estimate_needs_local_sourcing,"ESTIMATE. Very high water content stem/leaf vegetable; wilts fast. Analogy to watercress (FAO: 0C, 14-21 days) adjusted sharply down based on known rapid post-harvest wilting of water spinach."
+Snake gourd (pathola),,Produce,,Refrigerated,5.0,7.0,6.0,7-10,Estimated by botanical/culinary analogy — no direct source found,estimate_needs_local_sourcing,"ESTIMATE by analogy to FAO ""Cucumber"" (10-13C, 10-14 days), adjusted down — snake gourd has thinner skin and higher spoilage rate in tropical humidity."
+Bitter gourd (karawila),,Produce,,Refrigerated,7.0,10.0,8.5,7-10,Estimated by botanical/culinary analogy — no direct source found,estimate_needs_local_sourcing,"ESTIMATE by analogy to FAO ""Cucumber""/""Summer squash"" cluster (5-10C, 7-14 days) — bitter gourd's thicker ridged skin gives it comparable or slightly longer life than snake gourd."
+Ridge gourd / luffa (watakolu),,Produce,,Refrigerated,5.0,7.0,6.0,7-10,Estimated by botanical/culinary analogy — no direct source found,estimate_needs_local_sourcing,"ESTIMATE by analogy to snake gourd/cucumber cluster; thin-skinned gourd, similar rapid softening."
+Ash plantain (unripe green plantain),,Produce,,Refrigerated,7.0,14.0,10.5,13-15,Estimated by botanical/culinary analogy — no direct source found,estimate_needs_local_sourcing,"ESTIMATE by analogy to FAO ""Banana - Plantain"" (13-15C, 7-28 days); unripe/green state stores toward the longer end of that range before ripening begins."
+Banana flower (banana blossom / kesel muwa),,Produce,,Refrigerated,2.0,3.0,2.5,0-4,Estimated by botanical/culinary analogy — no direct source found,estimate_needs_local_sourcing,ESTIMATE. Highly perishable cut flower/bud tissue; no FAO entry. Treated as short-life like cut leafy greens/herbs.
+Winged bean (dambala),,Produce,,Refrigerated,5.0,7.0,6.0,4-7,Estimated by botanical/culinary analogy — no direct source found,estimate_needs_local_sourcing,"ESTIMATE by analogy to FAO ""Snapbeans"" (4-7C, 7-10 days), adjusted slightly down for a thinner-podded regional legume."
+Long bean / yard-long bean (ma karal),,Produce,,Refrigerated,5.0,7.0,6.0,4-7,Estimated by botanical/culinary analogy — no direct source found,estimate_needs_local_sourcing,"ESTIMATE by analogy to FAO ""Snapbeans"" cluster; comparable pod structure."
+Drumstick (moringa pods),,Produce,,Refrigerated,5.0,7.0,6.0,7-10,Estimated by botanical/culinary analogy — no direct source found,estimate_needs_local_sourcing,"ESTIMATE by analogy to FAO ""Okra"" (7-10C, 7-10 days) — comparable pod vegetable with moderate perishability."
+Thibbatu (turkey berry / pea eggplant / Solanum torvum),,Produce,,Refrigerated,5.0,7.0,6.0,8-12,Estimated by botanical/culinary analogy — no direct source found,estimate_needs_local_sourcing,"ESTIMATE by analogy to FAO ""Eggplant"" (8-12C, 7 days) — same Solanum genus, small-fruited variant, similar or slightly longer life given lower moisture content per fruit."
+Kohila (lasia spinosa root/stem),,Produce,,Refrigerated,14.0,21.0,17.5,7-10,Estimated by botanical/culinary analogy — no direct source found,estimate_needs_local_sourcing,"ESTIMATE by analogy to FAO root/rhizome vegetables of similar structure (e.g. ""Taro"": 7-10C, 120-150 days, scaled down heavily) — kohila is used fresher and more quickly in practice than taro; treat this as a rough placeholder pending local sourcing."
+Lotus root (nelum ala),,Produce,,Refrigerated,14.0,21.0,17.5,0-5,Estimated by botanical/culinary analogy — no direct source found,estimate_needs_local_sourcing,"ESTIMATE by analogy to other aquatic root vegetables; genuinely under-documented for this crop, flagged for local/regional sourcing."
+Goraka (Gamboge),,Produce,,Pantry,180.0,365.0,272.5,ambient,Estimated by botanical/culinary analogy — no direct source found,estimate_needs_local_sourcing,"ESTIMATE. Goraka is near-universally sold and stored dried/smoked (not fresh) in Sri Lankan kitchens, giving it pantry-stable shelf life comparable to other dried souring agents (tamarind: FAO 21-28 days refrigerated is for the FRESH pod; dried goraka is much more stable, closer to dried-spice shelf life)."
+Green chilli,,Produce,,Refrigerated,7.0,10.0,8.5,7-10,Estimated by botanical/culinary analogy — no direct source found,estimate_needs_local_sourcing,"ESTIMATE by analogy to FAO ""Pepper (bell)"" cluster, adjusted down slightly — thinner-skinned small chillies typically soften faster than bell peppers."
+"Chicken (whole, fresh)",,Meat/Seafood,,Refrigerated,1.0,2.0,1.5,4 (40F) or below,FDA Refrigerator & Freezer Storage Chart / FSIS,sourced,FDA storage chart.
+"Chicken (whole, fresh)",,Meat/Seafood,,Frozen,270.0,360.0,315.0,-18 (0F) or below,FDA Refrigerator & Freezer Storage Chart / FSIS,sourced,"FDA storage chart. Freezer times are for quality, not safety — food stored continuously at 0F/-18C stays safe indefinitely."
+Chicken parts (fresh),,Meat/Seafood,,Refrigerated,1.0,2.0,1.5,4 (40F) or below,FDA Refrigerator & Freezer Storage Chart / FSIS,sourced,FDA storage chart.
+Chicken parts (fresh),,Meat/Seafood,,Frozen,270.0,270.0,270.0,-18 (0F) or below,FDA Refrigerator & Freezer Storage Chart / FSIS,sourced,"FDA storage chart. Freezer times are for quality, not safety — food stored continuously at 0F/-18C stays safe indefinitely."
+Mutton,,Meat/Seafood,,Refrigerated,3.0,5.0,4.0,4 (40F) or below,FDA Refrigerator & Freezer Storage Chart / FSIS,sourced,"No separate USDA category for mutton; using ""fresh lamb/veal roasts, chops, steaks"" figures (same species group as lamb)."
+Mutton,,Meat/Seafood,,Frozen,120.0,360.0,240.0,-18 (0F) or below,FDA Refrigerator & Freezer Storage Chart / FSIS,sourced,"No separate USDA category for mutton; using ""fresh lamb/veal roasts, chops, steaks"" figures (same species group as lamb). Freezer times are for quality, not safety — food stored continuously at 0F/-18C stays safe indefinitely."
+"Pork (fatty cuts, e.g. shoulder or belly)",,Meat/Seafood,,Refrigerated,3.0,5.0,4.0,4 (40F) or below,FDA Refrigerator & Freezer Storage Chart / FSIS,sourced,"FDA storage chart, ""pork chops/roasts."""
+"Pork (fatty cuts, e.g. shoulder or belly)",,Meat/Seafood,,Frozen,120.0,180.0,150.0,-18 (0F) or below,FDA Refrigerator & Freezer Storage Chart / FSIS,sourced,"FDA storage chart, ""pork chops/roasts."" Freezer times are for quality, not safety — food stored continuously at 0F/-18C stays safe indefinitely."
+Beef (ground),,Meat/Seafood,,Refrigerated,1.0,2.0,1.5,4 (40F) or below,FDA Refrigerator & Freezer Storage Chart / FSIS,sourced,"FDA storage chart, ""hamburger & stew meats."""
+Beef (ground),,Meat/Seafood,,Frozen,90.0,120.0,105.0,-18 (0F) or below,FDA Refrigerator & Freezer Storage Chart / FSIS,sourced,"FDA storage chart, ""hamburger & stew meats."" Freezer times are for quality, not safety — food stored continuously at 0F/-18C stays safe indefinitely."
+Beef (steaks/roasts),,Meat/Seafood,,Refrigerated,3.0,5.0,4.0,4 (40F) or below,FDA Refrigerator & Freezer Storage Chart / FSIS,sourced,FDA storage chart.
+Beef (steaks/roasts),,Meat/Seafood,,Frozen,180.0,360.0,270.0,-18 (0F) or below,FDA Refrigerator & Freezer Storage Chart / FSIS,sourced,"FDA storage chart. Freezer times are for quality, not safety — food stored continuously at 0F/-18C stays safe indefinitely."
+Mackerel,,Meat/Seafood,,Refrigerated,1.0,2.0,1.5,4 (40F) or below,FDA Refrigerator & Freezer Storage Chart / FSIS,sourced,"FDA storage chart, ""fatty fish"" category (mackerel explicitly listed)."
+Mackerel,,Meat/Seafood,,Frozen,60.0,90.0,75.0,-18 (0F) or below,FDA Refrigerator & Freezer Storage Chart / FSIS,sourced,"FDA storage chart, ""fatty fish"" category (mackerel explicitly listed). Freezer times are for quality, not safety — food stored continuously at 0F/-18C stays safe indefinitely."
+Lean fish (general),,Meat/Seafood,,Refrigerated,1.0,2.0,1.5,4 (40F) or below,FDA Refrigerator & Freezer Storage Chart / FSIS,sourced,FDA storage chart.
+Lean fish (general),,Meat/Seafood,,Frozen,180.0,240.0,210.0,-18 (0F) or below,FDA Refrigerator & Freezer Storage Chart / FSIS,sourced,"FDA storage chart. Freezer times are for quality, not safety — food stored continuously at 0F/-18C stays safe indefinitely."
+Shrimp / Prawns,,Meat/Seafood,,Refrigerated,1.0,2.0,1.5,4 (40F) or below,FDA Refrigerator & Freezer Storage Chart / FSIS,sourced,"FDA storage chart, ""fresh shrimp, scallops, crawfish, squid."""
+Shrimp / Prawns,,Meat/Seafood,,Frozen,90.0,180.0,135.0,-18 (0F) or below,FDA Refrigerator & Freezer Storage Chart / FSIS,sourced,"FDA storage chart, ""fresh shrimp, scallops, crawfish, squid."" Freezer times are for quality, not safety — food stored continuously at 0F/-18C stays safe indefinitely."
+"Crab (mud crab or blue swimmer, whole)",,Meat/Seafood,,Refrigerated,1.0,2.0,1.5,4 (40F) or below,FDA Refrigerator & Freezer Storage Chart / FSIS,sourced,"FDA storage chart, ""crab (in shell)."""
+"Crab (mud crab or blue swimmer, whole)",,Meat/Seafood,,Frozen,60.0,90.0,75.0,-18 (0F) or below,FDA Refrigerator & Freezer Storage Chart / FSIS,sourced,"FDA storage chart, ""crab (in shell)."" Freezer times are for quality, not safety — food stored continuously at 0F/-18C stays safe indefinitely."
+Uncooked long-grain or basmati rice,,Pantry/Dry Goods,,Pantry,365.0,730.0,547.5,ambient,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,"unopened, white/brown/wild rice."
+White rice,,Pantry/Dry Goods,,Pantry,365.0,730.0,547.5,ambient,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,unopened.
+Red rice,,Pantry/Dry Goods,,Pantry,180.0,365.0,272.5,ambient,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,"Whole-grain (unmilled/less-milled) rice has higher oil content than white rice and turns rancid faster; using the ""brown rice"" analogue rather than white rice figure."
+Rice flour,,Pantry/Dry Goods,,Pantry,180.0,240.0,210.0,ambient,NDSU Extension FN579 Food Storage Guide (USDA-based),estimate_needs_local_sourcing,"No direct NDSU entry; using ""flour (white), opened pantry"" range as the closest analogue for a milled rice product."
+Semolina (rawa),,Pantry/Dry Goods,,Pantry,180.0,240.0,210.0,ambient,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,"Analogy to milled wheat flour opened-pantry range; semolina has a slightly higher fat content from the germ, so treat toward the lower end."
+Chana dal (split chickpea lentils),,Pantry/Dry Goods,,Pantry,365.0,365.0,365.0,ambient,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,"NDSU ""peas, beans (dried)""."
+Chickpeas,,Pantry/Dry Goods,,Pantry,365.0,365.0,365.0,ambient,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,"NDSU ""peas, beans (dried)""."
+Green gram (mung dal),,Pantry/Dry Goods,,Pantry,365.0,365.0,365.0,ambient,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,"NDSU ""peas, beans (dried)""."
+Red lentils (masoor dal),,Pantry/Dry Goods,,Pantry,365.0,365.0,365.0,ambient,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,"NDSU ""peas, beans (dried)""."
+Urad dal (split black lentils / white lentils),,Pantry/Dry Goods,,Pantry,365.0,365.0,365.0,ambient,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,"NDSU ""peas, beans (dried)""."
+"Whole urad dal (black gram, for thosai batter)",,Pantry/Dry Goods,,Pantry,365.0,365.0,365.0,ambient,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,"NDSU ""peas, beans (dried)""."
+Salt,,Pantry/Dry Goods,,Pantry,3650.0,3650.0,3650.0,ambient,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,Indefinite / effectively unlimited; capped at 10 years as a nominal regression value rather than leaving unbounded.
+Sugar,,Pantry/Dry Goods,,Pantry,540.0,730.0,635.0,ambient,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,"NDSU ""sugar - brown, confectioners, granulated"": 18-24 months."
+Black pepper,,Pantry/Dry Goods,,Pantry,1095.0,1460.0,1277.5,ambient,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,"NDSU ""spices and herbs - ground"": 2-3 years. (Whole peppercorns run longer, 3-4 years, per the ""whole"" row.)"
+Cardamom pods,,Pantry/Dry Goods,,Pantry,1095.0,1460.0,1277.5,ambient,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,"NDSU ""spices and herbs - whole"": 3-4 years."
+Chilli powder,,Pantry/Dry Goods,,Pantry,730.0,1095.0,912.5,ambient,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,"NDSU ""spices and herbs - ground"": 2-3 years."
+Cinnamon stick,,Pantry/Dry Goods,,Pantry,730.0,1460.0,1095.0,ambient,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,"NDSU ""spices and herbs - whole"": 3-4 years (cinnamon sticks explicitly noted to exceed even that)."
+Cloves,,Pantry/Dry Goods,,Pantry,730.0,1460.0,1095.0,ambient,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,"NDSU ""spices and herbs - whole"": 3-4 years (whole cloves explicitly noted to exceed even that)."
+Coriander seeds,,Pantry/Dry Goods,,Pantry,1095.0,1460.0,1277.5,ambient,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,"NDSU ""spices and herbs - whole"": 3-4 years."
+Cumin seeds,,Pantry/Dry Goods,,Pantry,1095.0,1460.0,1277.5,ambient,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,"NDSU ""spices and herbs - whole"": 3-4 years."
+Fennel seeds,,Pantry/Dry Goods,,Pantry,1095.0,1460.0,1277.5,ambient,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,"NDSU ""spices and herbs - whole"": 3-4 years."
+Fenugreek seeds,,Pantry/Dry Goods,,Pantry,1095.0,1460.0,1277.5,ambient,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,"NDSU ""spices and herbs - whole"": 3-4 years."
+Roasted curry powder,,Pantry/Dry Goods,,Pantry,180.0,365.0,272.5,ambient,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,"Treated as a spice blend: NDSU ""herb/spice blends"": 6 months. Roasting shortens shelf life vs raw ground spice, so kept toward the low end (widened slightly to 12 months to reflect common practice of longer real-world use)."
+Unroasted curry powder,,Pantry/Dry Goods,,Pantry,730.0,1095.0,912.5,ambient,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,"NDSU ""spices and herbs - ground"": 2-3 years."
+Turmeric powder,,Pantry/Dry Goods,,Pantry,730.0,1095.0,912.5,ambient,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,"NDSU ""spices and herbs - ground"": 2-3 years."
+Jaggery (hakuru),,Pantry/Dry Goods,,Pantry,180.0,365.0,272.5,ambient,NDSU Extension FN579 Food Storage Guide (USDA-based),estimate_needs_local_sourcing,"No direct NDSU/FDA entry for jaggery specifically. Analogy to raw/unrefined cane sugar products; softens and reabsorbs moisture faster than refined sugar in humid conditions, so given a shorter range than the ""sugar"" entry above."
+Kithul treacle,,Pantry/Dry Goods,,Pantry,365.0,730.0,547.5,ambient,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,"Analogy to NDSU ""honey"": 2 years — both are supersaturated sugar syrups with similar preservation chemistry."
+Sweetened condensed milk,,Pantry/Dry Goods,,Pantry,365.0,365.0,365.0,ambient,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,"NDSU ""milk - condensed or evaporated, unopened"": 12 months."
+Sweetened condensed milk,,Pantry/Dry Goods,,Refrigerated,4.0,5.0,4.5,4 (40F) or below,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,"NDSU ""milk - sweetened condensed, opened"": 4-5 days."
+Unsalted butter,,Pantry/Dry Goods,,Refrigerated,30.0,60.0,45.0,4 (40F) or below,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,"NDSU ""butter"": 1-2 months."
+Unsalted butter,,Pantry/Dry Goods,,Frozen,180.0,270.0,225.0,-18 (0F) or below,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,"NDSU ""butter"": 6-9 months."
+Cornflour (cornstarch),,Pantry/Dry Goods,,Pantry,540.0,730.0,635.0,ambient,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,"NDSU ""cornstarch, opened"": 18 months (unopened slightly longer at 18-24 months; midpoint range used)."
+Soy sauce,,Pantry/Dry Goods,,Pantry,1095.0,1095.0,1095.0,ambient,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,"NDSU ""soy sauce, unopened"": 3 years."
+Soy sauce,,Pantry/Dry Goods,,Refrigerated,30.0,30.0,30.0,4 (40F) or below,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,"NDSU: use within 1 month after opening (quality guidance, not a safety cutoff)."
+Tomato ketchup,,Pantry/Dry Goods,,Pantry,365.0,365.0,365.0,ambient,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,"NDSU ""ketchup, chili sauce, unopened"": 12 months."
+Tomato ketchup,,Pantry/Dry Goods,,Refrigerated,180.0,180.0,180.0,4 (40F) or below,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,"NDSU ""ketchup, chili sauce, opened"": 6 months (quality guidance; safe well past this per FDA/USDA)."
+Chilli sauce or sriracha,,Pantry/Dry Goods,,Pantry,365.0,365.0,365.0,ambient,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,"NDSU ""ketchup, chili sauce, unopened"": 12 months."
+Chilli sauce or sriracha,,Pantry/Dry Goods,,Refrigerated,180.0,180.0,180.0,4 (40F) or below,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,"NDSU ""ketchup, chili sauce, opened"": 6 months (quality guidance)."
+Rose water,,Pantry/Dry Goods,,Refrigerated,180.0,365.0,272.5,4 (40F) or below,NDSU Extension FN579 Food Storage Guide (USDA-based),estimate_needs_local_sourcing,"No NDSU/FDA entry for rose water specifically. Analogy to other opened extracts (NDSU ""other extracts, opened"": 12 months) adjusted down — rose water has no alcohol preservative unlike vanilla/almond extract, so refrigeration after opening and a shorter window is the safer estimate. Flagged for local sourcing."
+Banana leaf,,Pantry/Dry Goods,,Refrigerated,5.0,7.0,6.0,4 (40F) or below,NDSU Extension FN579 Food Storage Guide (USDA-based),estimate_needs_local_sourcing,No food-storage-chart entry (not a food item). Estimate based on common Sri Lankan kitchen practice: fresh leaves kept refrigerated/damp-wrapped stay pliable and usable about a week; can be frozen for months.
+Kenda leaf,,Pantry/Dry Goods,,Refrigerated,5.0,7.0,6.0,4 (40F) or below,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,"Same estimate basis as banana leaf — a wrapping leaf, not a food-storage-chart item."
+Carrots,,Common Foods,,Pantry,21.0,21.0,21.0,ambient,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,NDSU fresh vegetables table.
+Carrots,,Common Foods,,Frozen,300.0,360.0,330.0,-18 (0F) or below,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,NDSU.
+Broccoli,,Common Foods,,Refrigerated,3.0,5.0,4.0,4 (40F) or below,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,NDSU.
+Broccoli,,Common Foods,,Frozen,300.0,360.0,330.0,-18 (0F) or below,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,NDSU.
+Brussels sprouts,,Common Foods,,Refrigerated,3.0,5.0,4.0,4 (40F) or below,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,NDSU.
+Brussels sprouts,,Common Foods,,Frozen,300.0,360.0,330.0,-18 (0F) or below,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,NDSU.
+Cauliflower,,Common Foods,,Refrigerated,3.0,5.0,4.0,4 (40F) or below,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,NDSU.
+Cauliflower,,Common Foods,,Frozen,300.0,360.0,330.0,-18 (0F) or below,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,NDSU.
+Celery,,Common Foods,,Refrigerated,7.0,14.0,10.5,4 (40F) or below,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,NDSU.
+Celery,,Common Foods,,Frozen,300.0,360.0,330.0,-18 (0F) or below,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,NDSU.
+Corn (in husk),,Common Foods,,Refrigerated,1.0,2.0,1.5,4 (40F) or below,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,"NDSU ""corn, in husks""."
+Corn (in husk),,Common Foods,,Frozen,240.0,240.0,240.0,-18 (0F) or below,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,NDSU.
+Cucumbers,,Common Foods,,Refrigerated,4.0,6.0,5.0,4 (40F) or below,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,NDSU. Note: not recommended for freezing.
+Lettuce (head),,Common Foods,,Refrigerated,7.0,14.0,10.5,4 (40F) or below,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,NDSU. Note: not recommended for freezing.
+Spinach (fresh),,Common Foods,,Refrigerated,1.0,4.0,2.5,4 (40F) or below,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,"NDSU ""greens""."
+Spinach (fresh),,Common Foods,,Frozen,300.0,360.0,330.0,-18 (0F) or below,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,NDSU.
+Asparagus,,Common Foods,,Refrigerated,2.0,4.0,3.0,4 (40F) or below,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,NDSU.
+Asparagus,,Common Foods,,Frozen,150.0,150.0,150.0,-18 (0F) or below,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,NDSU.
+Radishes,,Common Foods,,Refrigerated,10.0,14.0,12.0,4 (40F) or below,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,NDSU. Note: freezes poorly.
+Artichokes,,Common Foods,,Pantry,1.0,2.0,1.5,ambient,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,NDSU.
+Artichokes,,Common Foods,,Refrigerated,7.0,14.0,10.5,4 (40F) or below,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,NDSU. Note: freezes poorly.
+Tomatoes (ripe),,Common Foods,,Pantry,7.0,7.0,7.0,ambient,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,NDSU.
+Tomatoes (ripe),,Common Foods,,Frozen,60.0,60.0,60.0,-18 (0F) or below,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,NDSU. Note: not recommended refrigerated.
+Sweet potato,,Common Foods,,Pantry,14.0,21.0,17.5,ambient,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,NDSU. Note: do not refrigerate sweet potatoes — flavor/texture degrade.
+White potato,,Common Foods,,Pantry,7.0,14.0,10.5,ambient,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,NDSU. For longer storage keep below 50F/10C.
+Summer squash,,Common Foods,,Pantry,1.0,5.0,3.0,ambient,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,NDSU.
+Summer squash,,Common Foods,,Refrigerated,4.0,5.0,4.5,4 (40F) or below,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,NDSU.
+Summer squash,,Common Foods,,Frozen,300.0,360.0,330.0,-18 (0F) or below,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,NDSU.
+Winter squash,,Common Foods,,Pantry,14.0,42.0,28.0,ambient,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,NDSU.
+Winter squash,,Common Foods,,Refrigerated,30.0,90.0,60.0,4 (40F) or below,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,NDSU.
+Winter squash,,Common Foods,,Frozen,300.0,360.0,330.0,-18 (0F) or below,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,NDSU.
+Peaches,,Common Foods,,Refrigerated,3.0,5.0,4.0,4 (40F) or below,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,NDSU.
+Peaches,,Common Foods,,Frozen,60.0,60.0,60.0,-18 (0F) or below,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,NDSU.
+Pears,,Common Foods,,Refrigerated,3.0,5.0,4.0,4 (40F) or below,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,NDSU.
+Pears,,Common Foods,,Frozen,60.0,60.0,60.0,-18 (0F) or below,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,NDSU.
+Plums,,Common Foods,,Refrigerated,3.0,5.0,4.0,4 (40F) or below,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,NDSU.
+Plums,,Common Foods,,Frozen,60.0,60.0,60.0,-18 (0F) or below,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,NDSU.
+Nectarines,,Common Foods,,Refrigerated,3.0,5.0,4.0,4 (40F) or below,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,NDSU.
+Nectarines,,Common Foods,,Frozen,60.0,60.0,60.0,-18 (0F) or below,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,NDSU.
+Kiwis,,Common Foods,,Refrigerated,3.0,6.0,4.5,4 (40F) or below,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,NDSU. Note: not recommended for freezing.
+Citrus fruit,,Common Foods,,Pantry,10.0,10.0,10.0,ambient,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,NDSU.
+Citrus fruit,,Common Foods,,Refrigerated,10.0,21.0,15.5,4 (40F) or below,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,NDSU.
+Rhubarb,,Common Foods,,Refrigerated,3.0,7.0,5.0,4 (40F) or below,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,"NDSU. Note: not recommended for freezing (fresh, uncooked)."
+Milk (whole/homogenized),,Common Foods,,Refrigerated,5.0,5.0,5.0,4 (40F) or below,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,NDSU.
+"Hard cheese (cheddar, Swiss, Gouda etc.)",,Common Foods,,Refrigerated,180.0,365.0,272.5,4 (40F) or below,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,"NDSU, unopened large piece: 6-12 months."
+"Hard cheese (cheddar, Swiss, Gouda etc.)",,Common Foods,,Refrigerated,21.0,28.0,24.5,4 (40F) or below,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,"NDSU, opened: 3-4 weeks. (Second row = opened state; same ingredient, different condition — see notes.)"
+Margarine,,Common Foods,,Refrigerated,180.0,180.0,180.0,4 (40F) or below,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,NDSU.
+Margarine,,Common Foods,,Frozen,180.0,270.0,225.0,-18 (0F) or below,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,NDSU.
+Sour cream,,Common Foods,,Refrigerated,14.0,14.0,14.0,4 (40F) or below,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,NDSU. Note: not recommended for freezing.
+Cream cheese,,Common Foods,,Refrigerated,14.0,14.0,14.0,4 (40F) or below,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,NDSU.
+Buttermilk,,Common Foods,,Refrigerated,7.0,14.0,10.5,4 (40F) or below,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,NDSU.
+Buttermilk,,Common Foods,,Frozen,90.0,90.0,90.0,-18 (0F) or below,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,NDSU.
+Cottage/ricotta cheese,,Common Foods,,Refrigerated,7.0,7.0,7.0,4 (40F) or below,NDSU Extension FN579 Food Storage Guide (USDA-based),sourced,NDSU.
+Honey,,Common Foods,,Pantry,730.0,730.0,730.0,ambient,FAO Bulletin 151 Table 5 / NDSU Extension FN579,sourced,NDSU Extension FN579: 2 years. Note: honey is safe indefinitely if it crystallizes — just warm gently to re-liquefy.
+Baking powder,,Common Foods,,Pantry,180.0,540.0,360.0,ambient,FAO Bulletin 151 Table 5 / NDSU Extension FN579,sourced,NDSU: unopened 6-18 months; opened 3-6 months. Using opened figure (the realistic kitchen case).
+Baking soda,,Common Foods,,Pantry,90.0,180.0,135.0,ambient,FAO Bulletin 151 Table 5 / NDSU Extension FN579,sourced,NDSU: unopened 2-3 years; opened 3-6 months. Using opened figure — baking soda absorbs odors/moisture once opened.
+Oranges,,Common Foods,,Refrigerated,56.0,84.0,70.0,4 (40F) or below,FAO Bulletin 151 Table 5 / NDSU Extension FN579,sourced,"FAO Table 5 ""Orange"": 0-9C, 56-84 days."
+Lemons,,Common Foods,,Refrigerated,30.0,180.0,105.0,4 (40F) or below,FAO Bulletin 151 Table 5 / NDSU Extension FN579,sourced,"FAO Table 5 ""Lemon"": 10-13C, 30-180 days."
+Grapefruit,,Common Foods,,Refrigerated,42.0,56.0,49.0,4 (40F) or below,FAO Bulletin 151 Table 5 / NDSU Extension FN579,sourced,"FAO Table 5 ""Grapefruit"": 10-15C, 42-56 days."
+Mandarin/Tangerine,,Common Foods,,Refrigerated,14.0,28.0,21.0,4 (40F) or below,FAO Bulletin 151 Table 5 / NDSU Extension FN579,sourced,"FAO Table 5 ""Mandarin"": 4-7C, 14-28 days."
+Kale,,Common Foods,,Refrigerated,10.0,14.0,12.0,4 (40F) or below,FAO Bulletin 151 Table 5 / NDSU Extension FN579,sourced,"FAO Table 5 direct match: 0C, 10-14 days."
+Red bell pepper,,Common Foods,,Refrigerated,14.0,21.0,17.5,4 (40F) or below,FAO Bulletin 151 Table 5 / NDSU Extension FN579,sourced,"FAO Table 5 ""Pepper (bell)"": 7-13C, 14-21 days. Same crop as the existing green bell pepper entry, ripened stage."
+Yellow bell pepper,,Common Foods,,Refrigerated,14.0,21.0,17.5,4 (40F) or below,FAO Bulletin 151 Table 5 / NDSU Extension FN579,sourced,"FAO Table 5 ""Pepper (bell)"": 7-13C, 14-21 days."
+Bay leaves,,Common Foods,,Pantry,730.0,1460.0,1095.0,ambient,FAO Bulletin 151 Table 5 / NDSU Extension FN579,sourced,"NDSU ""spices and herbs - whole"": 3-4 years. Dried bay leaves behave like a whole dried herb/spice."
+Coconut water,,Common Foods,,Refrigerated,3.0,7.0,5.0,4 (40F) or below,FAO Bulletin 151 Table 5 / NDSU Extension FN579,estimate_needs_local_sourcing,"No FAO/NDSU chart entry — perishable fresh juice. Analogy to NDSU ""juices, pre-mixed full-strength fruit juice, opened/refrigerated"" (~8 days) adjusted down: fresh (non-pasteurized) coconut water ferments faster than bottled juice. Flagged as an estimate."
+Vanilla beans,,Common Foods,,Pantry,730.0,730.0,730.0,ambient,FAO Bulletin 151 Table 5 / NDSU Extension FN579,estimate_needs_local_sourcing,"Analogy to NDSU ""vanilla, unopened extract"": 2 years — whole pods stored airtight are comparably stable to the extract."
+Almonds,,Common Foods,,Pantry,120.0,120.0,120.0,ambient,FAO Bulletin 151 Table 5 / NDSU Extension FN579,sourced,"NDSU ""nuts, in shell, unopened"": 4 months (shelled/vacuum-packed nuts run longer at 12 months unopened — this is the more conservative in-shell/loose figure)."
+Cashews,,Common Foods,,Pantry,120.0,120.0,120.0,ambient,FAO Bulletin 151 Table 5 / NDSU Extension FN579,sourced,"NDSU ""nuts, in shell, unopened"": 4 months."
+Walnuts,,Common Foods,,Pantry,120.0,120.0,120.0,ambient,FAO Bulletin 151 Table 5 / NDSU Extension FN579,sourced,"NDSU ""nuts, in shell, unopened"": 4 months."
+Peanuts,,Common Foods,,Pantry,120.0,120.0,120.0,ambient,FAO Bulletin 151 Table 5 / NDSU Extension FN579,sourced,"NDSU ""nuts, in shell, unopened"": 4 months."

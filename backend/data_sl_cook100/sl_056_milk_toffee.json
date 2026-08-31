@@ -1,0 +1,41 @@
+{
+  "id": "sl_056",
+  "name_en": "Milk Toffee (Kiri Toffee)",
+  "name_si": "කිරි ටොෆී",
+  "regional_origin": "Island-wide",
+  "cuisine": "Sri Lankan",
+  "course": "Dessert",
+  "servings": 8,
+  "prep_time_min": 10,
+  "cook_time_min": 50,
+  "total_time_min": 60,
+  "ingredients": [
+    {"canonical_id": "ing_condensed_milk", "name": "Sweetened condensed milk", "quantity": 395, "unit": "g", "notes": "1 standard tin (397g/14oz); do not use evaporated milk"},
+    {"canonical_id": "ing_sugar", "name": "Caster or granulated sugar", "quantity": 200, "unit": "g", "notes": "1 cup; dissolved in water before adding condensed milk"},
+    {"canonical_id": "ing_water", "name": "Water", "quantity": 125, "unit": "ml", "notes": "1/2 cup; used to dissolve the sugar first"},
+    {"canonical_id": "ing_cashew", "name": "Cashew nuts", "quantity": 60, "unit": "g", "notes": "dry-roasted and coarsely chopped; added near the end"},
+    {"canonical_id": "ing_coconut_oil", "name": "Unsalted butter", "quantity": 30, "unit": "g", "notes": "adds richness and gloss; added near the end"},
+    {"canonical_id": "ing_salt", "name": "Salt", "quantity": 1, "unit": "pinch", "notes": "balances the sweetness"},
+    {"canonical_id": "ing_sugar", "name": "Vanilla extract", "quantity": 1, "unit": "tsp", "notes": "optional but widely used in modern recipes; add at the very end off the heat"}
+  ],
+  "steps": [
+    {"step": 1, "instruction": "Grease an 8x8 inch (20x20cm) baking pan with butter. Line with parchment paper and grease again. Keep a buttered knife and spatula nearby -- you'll need them quickly at the end.", "duration_min": 3},
+    {"step": 2, "instruction": "In a large, heavy-bottomed pan (at least 3x the volume of your ingredients -- the mixture can bubble up), combine the sugar and water. Cook over medium heat, stirring until the sugar dissolves completely.", "duration_min": 5},
+    {"step": 3, "instruction": "Add the condensed milk and stir to combine. Add a pinch of salt. Turn the heat to medium-low. From this point, stir continuously -- do not walk away from the pan.", "duration_min": 2},
+    {"step": 4, "instruction": "Continue cooking and stirring constantly over medium-low heat for 35-45 minutes. The mixture will gradually thicken and deepen in colour from pale cream to a deep golden brown. Do not increase the heat to speed this up -- it will burn.", "duration_min": 40},
+    {"step": 5, "instruction": "Test for doneness: drop a small amount into a glass of cold water -- it should form a soft, pliable ball (soft ball stage, about 116C/240F on a thermometer). Alternatively, the mixture is ready when it leaves the sides of the pan cleanly and holds its shape briefly when a spoon is dragged through it.", "duration_min": 3},
+    {"step": 6, "instruction": "Add the butter, vanilla extract (if using), and chopped cashews. Stir quickly to combine.", "duration_min": 1},
+    {"step": 7, "instruction": "Working fast, pour and scrape the hot toffee mixture into the prepared pan. Spread evenly with a buttered spatula. Score into squares or rectangles immediately with a buttered knife before it sets.", "duration_min": 3},
+    {"step": 8, "instruction": "Leave at room temperature for at least 1 hour until fully set and firm. Cut along the score lines. Store in an airtight container at room temperature for up to 2 weeks, separating layers with parchment paper.", "duration_min": 60}
+  ],
+  "tags": ["dessert", "festival", "new-year-avurudu", "wedding", "vegetarian", "comfort-food", "over-60-min", "crowd-pleaser"],
+  "ayurvedic_balance": "kapha-pacifying",
+  "nutrition_per_serving": {"calories": 290, "protein_g": 5, "carbs_g": 48, "fat_g": 9, "fibre_g": 0},
+  "trust_score": 0.93,
+  "source_url": "https://www.hungrylankan.com/recipes/sri-lankan-milk-toffee/",
+  "source_site": "hungrylankan.com, cross-checked against sbs.com.au, rnz.co.nz, milkmaid.lk, infolanka.com, vinitasfamilyblog.blogspot.com, foodhow.com, and deliciousrecipebook.com",
+  "collection_method": "scraped, cross-checked across 8+ independent sources; highest trust score for a sweet/confection in this collection due to unusually strong agreement on technique across both Sri Lankan and international sources",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "Sri Lankan milk toffee (kiri toffee) is the most universally loved and widely made traditional Sri Lankan sweet -- eaten year-round, not just at New Year, and one of the first things Sri Lankans overseas make when feeling homesick. The dish is essentially a variant of fudge or penuche, with condensed milk replacing cream. Three critical rules shared across all sources: (1) use a large, heavy-bottomed pan as the mixture bubbles up and can boil over; (2) stir constantly on medium-low heat without interruption for the entire 35-45 minute cook time; (3) do not increase heat to hurry it -- this causes burning and a bitter result. A candy thermometer removes the guesswork: soft ball stage is 116C/240F. The vanilla taxonomy entry is repurposed from 'ing_sugar' for consistency with earlier dessert entries; a dedicated 'ing_vanilla' entry should be added to the taxonomy for future dessert recipes."
+}

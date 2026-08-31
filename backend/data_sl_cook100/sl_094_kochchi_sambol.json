@@ -1,0 +1,38 @@
+{
+  "id": "sl_094",
+  "name_en": "Kochchi Sambol (White Coconut and Green Chilli Relish)",
+  "name_si": "කොච්චි සම්බෝල",
+  "regional_origin": "Island-wide",
+  "cuisine": "Sri Lankan",
+  "course": "Condiment",
+  "servings": 4,
+  "prep_time_min": 10,
+  "cook_time_min": 0,
+  "total_time_min": 10,
+  "ingredients": [
+    {"canonical_id": "ing_coconut_grated", "name": "Freshly grated coconut", "quantity": 160, "unit": "g", "notes": "about 2 cups; fresh is essential -- desiccated coconut gives a much drier, less fragrant result"},
+    {"canonical_id": "ing_green_chilli", "name": "Kochchi miris (small hot green chillies)", "quantity": 6, "unit": "count", "notes": "the tiny, intensely hot green bird's eye chillies are traditional; larger green chillies can substitute but will give less heat. Adjust quantity to tolerance."},
+    {"canonical_id": "ing_garlic", "name": "Garlic", "quantity": 2, "unit": "cloves", "notes": "optional; some households omit it"},
+    {"canonical_id": "ing_shallot", "name": "Shallots or red onion", "quantity": 1, "unit": "count", "notes": "small, roughly chopped"},
+    {"canonical_id": "ing_curry_leaves", "name": "Curry leaves", "quantity": 6, "unit": "count", "notes": "adds a distinctive herbal aroma"},
+    {"canonical_id": "ing_maldive_fish", "name": "Maldive fish flakes", "quantity": 1, "unit": "tsp", "notes": "optional; omit for a fully vegan version -- the dish works perfectly without it"},
+    {"canonical_id": "ing_lime", "name": "Lime", "quantity": 1, "unit": "count", "notes": "juiced; essential for the bright citrus finish"},
+    {"canonical_id": "ing_salt", "name": "Salt", "quantity": 0.5, "unit": "tsp", "notes": "to taste"}
+  ],
+  "steps": [
+    {"step": 1, "instruction": "In a mortar and pestle, add the shallots, garlic (if using), salt, and Maldive fish flakes (if using). Pound to a coarse paste.", "duration_min": 2},
+    {"step": 2, "instruction": "Add the kochchi chillies and curry leaves. Pound until the chillies are broken down and the curry leaves are crushed into the mixture -- they should release their aroma visibly.", "duration_min": 3},
+    {"step": 3, "instruction": "Add the grated coconut. Mix by hand or pound lightly until the coconut is well combined with the chilli-onion paste. The sambol should be pale green-white in colour, not orange like pol sambol (sl_016).", "duration_min": 3},
+    {"step": 4, "instruction": "Squeeze in the lime juice. Taste and adjust -- more lime for freshness, more chilli for heat, more salt as needed. Serve immediately. This is a raw, no-cook dish best eaten fresh.", "duration_min": 2}
+  ],
+  "tags": ["condiment", "breakfast", "everyday", "raw", "vegan", "vegetarian", "gluten-free", "dairy-free", "very-spicy", "under-30-min"],
+  "ayurvedic_balance": "pitta-pacifying",
+  "nutrition_per_serving": {"calories": 130, "protein_g": 2, "carbs_g": 6, "fat_g": 12, "fibre_g": 4},
+  "trust_score": 0.93,
+  "source_url": "https://www.hungrylankan.com/recipes/sri-lankan-white-coconut-sambol/",
+  "source_site": "hungrylankan.com, cross-checked against foodcnr.com, islandsmile.org, easypeasycurry.com, topsrilankanrecipe.com, thepeppercook.com, loveandotherspices.com, and TikTok @nipcooks",
+  "collection_method": "scraped, cross-checked across 9+ independent sources; highest trust score for a condiment in the collection -- the recipe is virtually identical across all sources",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "Kochchi sambol is the white, raw-chilli version of pol sambol (sl_016) -- the key difference is that kochchi uses raw green bird's eye chillies (kochchi miris) instead of red chilli powder, giving it a pale green-white colour and a brighter, grassier heat rather than the deep red heat of pol sambol. The name 'kochchi' comes from the Sinhala word for these small, intensely hot green chillies. It is described by hungrylankan.com as 'not as innocent as it looks -- do not get fooled by the colour!' The dish is traditionally paired with manioc (sl_051), thosai (sl_074), and string hoppers, where the white colour visually contrasts beautifully with the bright orange pol sambol to make a classic Sri Lankan breakfast spread. Like pol sambol, it must be eaten fresh -- the lime juice and fresh coconut deteriorate quickly at room temperature."
+}

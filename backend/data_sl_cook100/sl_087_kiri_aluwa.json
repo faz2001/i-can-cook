@@ -1,0 +1,41 @@
+{
+  "id": "sl_087",
+  "name_en": "Kiri Aluwa (Milk Fudge)",
+  "name_si": "කිරි අලුවා",
+  "regional_origin": "Island-wide (Avurudu festival)",
+  "cuisine": "Sri Lankan",
+  "course": "Dessert",
+  "servings": 10,
+  "prep_time_min": 10,
+  "cook_time_min": 30,
+  "total_time_min": 70,
+  "ingredients": [
+    {"canonical_id": "ing_milk_powder", "name": "Full-cream milk powder", "quantity": 300, "unit": "g", "notes": "sifted to remove lumps; the main bulk ingredient"},
+    {"canonical_id": "ing_sugar", "name": "White sugar", "quantity": 200, "unit": "g", "notes": "1 cup"},
+    {"canonical_id": "ing_condensed_milk", "name": "Sweetened condensed milk", "quantity": 100, "unit": "g", "notes": "about 4 tablespoons; adds creaminess and helps bind"},
+    {"canonical_id": "ing_butter", "name": "Unsalted butter", "quantity": 30, "unit": "g", "notes": "2 tablespoons; for richness and a slightly glossy finish"},
+    {"canonical_id": "ing_water", "name": "Water", "quantity": 60, "unit": "ml", "notes": "1/4 cup; for dissolving the sugar"},
+    {"canonical_id": "ing_cardamom", "name": "Cardamom powder", "quantity": 0.5, "unit": "tsp", "notes": ""},
+    {"canonical_id": "ing_cashew", "name": "Cashew nuts", "quantity": 30, "unit": "g", "notes": "coarsely chopped; optional garnish pressed into the top"},
+    {"canonical_id": "ing_salt", "name": "Salt", "quantity": 1, "unit": "pinch", "notes": ""}
+  ],
+  "steps": [
+    {"step": 1, "instruction": "Grease an 8-inch (20cm) square tray or tin with butter and keep near the stove. Sift the milk powder to remove any lumps and set aside.", "duration_min": 3},
+    {"step": 2, "instruction": "In a heavy-bottomed pan, combine the sugar, condensed milk, and water. Cook over medium heat, stirring until the sugar dissolves completely.", "duration_min": 5},
+    {"step": 3, "instruction": "Add the butter and a pinch of salt. Continue cooking over medium-low heat, stirring continuously, until the mixture thickens and reaches the soft ball stage (118C / 244F on a thermometer) -- a drop in cold water should form a soft, pliable ball. This takes about 10-15 minutes.", "duration_min": 12},
+    {"step": 4, "instruction": "Remove from heat. Working quickly, stir in the sifted milk powder and cardamom powder all at once. Mix rapidly and vigorously until fully combined into a smooth, thick dough -- this happens fast and requires quick movement.", "duration_min": 2},
+    {"step": 5, "instruction": "Pour immediately into the prepared tray. Spread evenly with a buttered spatula. Scatter chopped cashews over the top and press in gently.", "duration_min": 2},
+    {"step": 6, "instruction": "Score into squares or diamond shapes with a buttered knife while still warm and pliable -- it firms up quickly once cooled.", "duration_min": 2},
+    {"step": 7, "instruction": "Leave at room temperature for 30-40 minutes until fully set and firm. Cut along scored lines. Store in an airtight container for up to 2 weeks.", "duration_min": 35}
+  ],
+  "tags": ["dessert", "snack", "festival", "new-year-avurudu", "vegetarian", "gluten-free", "comfort-food", "over-60-min"],
+  "ayurvedic_balance": "vata-pacifying",
+  "nutrition_per_serving": {"calories": 225, "protein_g": 6, "carbs_g": 34, "fat_g": 8, "fibre_g": 0},
+  "trust_score": 0.91,
+  "source_url": "https://www.hungrylankan.com/recipes/kiri-aluwa-sri-lankan-milk-fudge/",
+  "source_site": "hungrylankan.com, cross-checked against islandsmile.org, deliciouslypinned.com, elanka.com.au, lakpura.com, foodvoyageur.com, and milkmaid.lk",
+  "collection_method": "scraped, cross-checked across 7+ independent sources; strong agreement on the milk-powder base and the quick-stir technique after removing from heat",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "Kiri aluwa is the milder, creamier cousin of regular aluwa (sl_054) -- it uses milk powder rather than roasted rice flour, giving a softer, melt-in-the-mouth texture that is distinctly different from the crumbly, grainy texture of rice flour aluwa. Like milk toffee (sl_056), it is cooked to the soft ball stage before adding the dry ingredient. The key technique is stirring in the milk powder off the heat, quickly and all at once -- adding it gradually or while still on heat produces lumpy, uneven fudge. Some recipes use only condensed milk (no regular sugar or water), which gives an even richer, denser result. Pink or green food colouring can be added for the traditional bicolour New Year presentation similar to coconut rock (sl_077)."
+}

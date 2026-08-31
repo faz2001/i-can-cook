@@ -1,0 +1,144 @@
+{
+  "id": "sl_025",
+  "name_en": "Drumstick Curry (Murunga Curry)",
+  "name_si": "මුරුංගා කරිය",
+  "regional_origin": "Island-wide (Tamil and Sinhala households)",
+  "cuisine": "Sri Lankan",
+  "course": "Main",
+  "servings": 4,
+  "prep_time_min": 10,
+  "cook_time_min": 20,
+  "total_time_min": 30,
+  "ingredients": [
+    {
+      "canonical_id": "ing_drumstick",
+      "name": "Drumstick (moringa pods)",
+      "quantity": 400,
+      "unit": "g",
+      "notes": "outer skin lightly scraped, cut into 7-8cm pieces"
+    },
+    {
+      "canonical_id": "ing_onion",
+      "name": "Onion",
+      "quantity": 0.5,
+      "unit": "count",
+      "notes": "sliced"
+    },
+    {
+      "canonical_id": "ing_green_chilli",
+      "name": "Green chillies",
+      "quantity": 2,
+      "unit": "count",
+      "notes": "sliced"
+    },
+    {
+      "canonical_id": "ing_curry_leaves",
+      "name": "Curry leaves",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "1 sprig"
+    },
+    {
+      "canonical_id": "ing_pandan",
+      "name": "Pandan leaf",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "small piece"
+    },
+    {
+      "canonical_id": "ing_fenugreek",
+      "name": "Fenugreek seeds",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": "use sparingly -- too much turns the curry bitter"
+    },
+    {
+      "canonical_id": "ing_turmeric",
+      "name": "Turmeric powder",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_curry_powder_unroasted",
+      "name": "Unroasted Sri Lankan curry powder",
+      "quantity": 1.5,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_salt",
+      "name": "Salt",
+      "quantity": 0.75,
+      "unit": "tsp",
+      "notes": "drumstick has some natural saltiness, so add gradually"
+    },
+    {
+      "canonical_id": "ing_coconut_milk",
+      "name": "Thin coconut milk",
+      "quantity": 180,
+      "unit": "ml",
+      "notes": "3/4 cup"
+    },
+    {
+      "canonical_id": "ing_coconut_milk",
+      "name": "Thick coconut milk",
+      "quantity": 60,
+      "unit": "ml",
+      "notes": "added at the end for richness"
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "instruction": "Lightly scrape the tough outer skin of the drumstick pods (don't peel fully). Cut into 7-8cm lengths and wash well.",
+      "duration_min": 8
+    },
+    {
+      "step": 2,
+      "instruction": "Place the drumstick pieces in a saucepan with the onion, green chillies, curry leaves, pandan leaf, fenugreek, turmeric, curry powder, and salt. Mix gently to combine.",
+      "duration_min": 2
+    },
+    {
+      "step": 3,
+      "instruction": "Add the thin coconut milk, enough to cover the drumstick pieces. Bring to a boil, then cover and simmer over medium heat for 12-15 minutes, until the drumstick flesh inside the pods has softened.",
+      "duration_min": 14
+    },
+    {
+      "step": 4,
+      "instruction": "Pour in the thick coconut milk and stir gently. Simmer uncovered for a further 2-3 minutes, until the gravy thickens slightly. Taste and adjust salt.",
+      "duration_min": 3
+    },
+    {
+      "step": 5,
+      "instruction": "Serve hot with rice. To eat, bite into the drumstick piece to crack the tough outer skin, then scrape the soft inner flesh off with your teeth, discarding the fibrous outer shell.",
+      "duration_min": 1
+    }
+  ],
+  "tags": [
+    "lunch",
+    "dinner",
+    "curry",
+    "everyday",
+    "vegan",
+    "vegetarian",
+    "gluten-free",
+    "coconut-milk",
+    "under-30-min"
+  ],
+  "ayurvedic_balance": "vata-pacifying",
+  "nutrition_per_serving": {
+    "calories": 120,
+    "protein_g": 3,
+    "carbs_g": 9,
+    "fat_g": 8,
+    "fibre_g": 3
+  },
+  "trust_score": 0.85,
+  "source_url": "https://www.islandsmile.org/drumstick-curry/",
+  "source_site": "islandsmile.org, cross-checked against foodcnr.com, topsrilankanrecipe.com, and berrychik.com for technique consistency",
+  "collection_method": "scraped, cross-checked across 5+ independent sources for consistent thin-then-thick coconut milk technique",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "Drumstick (moringa) pods have a tough, fibrous outer skin that is never fully eaten -- diners bite into each piece, scrape the soft inner pulp and seeds off with their teeth, and discard the stringy shell, similar to eating a fibrous artichoke leaf. This is normal table etiquette for the dish, not a preparation mistake. A spicier version exists using tamarind and a heavier curry powder hand (closer to a South Indian 'murungakkai kuzhambu' style), while this entry reflects the milder, more commonly home-cooked coconut milk version. Moringa leaves from the same tree are also cooked separately as a nutritious green, distinct from this pod curry."
+}

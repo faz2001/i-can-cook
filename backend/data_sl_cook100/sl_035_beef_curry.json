@@ -1,0 +1,212 @@
+{
+  "id": "sl_035",
+  "name_en": "Sri Lankan Beef Curry",
+  "name_si": "හරක් මස් කරිය",
+  "regional_origin": "Island-wide",
+  "cuisine": "Sri Lankan",
+  "course": "Main",
+  "servings": 4,
+  "prep_time_min": 20,
+  "cook_time_min": 90,
+  "total_time_min": 110,
+  "ingredients": [
+    {
+      "canonical_id": "ing_beef",
+      "name": "Beef (stewing cut, e.g. chuck or shin)",
+      "quantity": 600,
+      "unit": "g",
+      "notes": "cut into 3-4cm cubes; stewing cuts give the best flavour with this long, slow cooking method"
+    },
+    {
+      "canonical_id": "ing_curry_powder_roasted",
+      "name": "Roasted Sri Lankan curry powder",
+      "quantity": 2,
+      "unit": "tbsp",
+      "notes": "see sl_006 Roasted Sri Lankan Curry Powder; stronger roasted powders are traditional for red meat"
+    },
+    {
+      "canonical_id": "ing_chilli_powder",
+      "name": "Red chilli powder",
+      "quantity": 1.5,
+      "unit": "tsp",
+      "notes": "or cayenne pepper; use Kashmiri chilli powder for a milder version"
+    },
+    {
+      "canonical_id": "ing_turmeric",
+      "name": "Turmeric powder",
+      "quantity": 0.25,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_vinegar",
+      "name": "White vinegar",
+      "quantity": 1,
+      "unit": "tbsp",
+      "notes": "or coconut vinegar; for the marinade"
+    },
+    {
+      "canonical_id": "ing_salt",
+      "name": "Salt",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": "for the marinade, plus more to taste"
+    },
+    {
+      "canonical_id": "ing_coconut_oil",
+      "name": "Coconut oil",
+      "quantity": 2,
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_cinnamon",
+      "name": "Cinnamon stick",
+      "quantity": 1,
+      "unit": "count",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_cloves",
+      "name": "Cloves",
+      "quantity": 3,
+      "unit": "count",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_cardamom",
+      "name": "Cardamom pods",
+      "quantity": 3,
+      "unit": "count",
+      "notes": "lightly crushed"
+    },
+    {
+      "canonical_id": "ing_curry_leaves",
+      "name": "Curry leaves",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "1-2 sprigs"
+    },
+    {
+      "canonical_id": "ing_pandan",
+      "name": "Pandan leaf",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "optional, a couple of 5cm pieces"
+    },
+    {
+      "canonical_id": "ing_onion",
+      "name": "Onion",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "sliced"
+    },
+    {
+      "canonical_id": "ing_garlic",
+      "name": "Garlic",
+      "quantity": 5,
+      "unit": "cloves",
+      "notes": "crushed or made into a paste with the ginger"
+    },
+    {
+      "canonical_id": "ing_ginger",
+      "name": "Ginger",
+      "quantity": 1,
+      "unit": "tbsp",
+      "notes": "crushed"
+    },
+    {
+      "canonical_id": "ing_tomato",
+      "name": "Tomato",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "chopped, or 2 tbsp tomato paste"
+    },
+    {
+      "canonical_id": "ing_water",
+      "name": "Water",
+      "quantity": 240,
+      "unit": "ml",
+      "notes": "1 cup, added gradually; more may be needed depending on cut and desired thickness"
+    },
+    {
+      "canonical_id": "ing_coconut_milk",
+      "name": "Coconut milk",
+      "quantity": 240,
+      "unit": "ml",
+      "notes": "1 cup, added once the beef has become tender"
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "instruction": "Cut the beef into 3-4cm cubes. In a bowl, mix the beef with the roasted curry powder, chilli powder, turmeric, vinegar, and salt. Mix well and let marinate for at least 15-30 minutes, or overnight in the fridge for deeper flavour.",
+      "duration_min": 20
+    },
+    {
+      "step": 2,
+      "instruction": "Heat the coconut oil in a heavy-bottomed pot. Add the cinnamon, cloves, cardamom, curry leaves, and pandan leaf, and let them sizzle for about 30 seconds.",
+      "duration_min": 1
+    },
+    {
+      "step": 3,
+      "instruction": "Add the sliced onion and cook until softened and lightly golden, about 5-7 minutes.",
+      "duration_min": 7
+    },
+    {
+      "step": 4,
+      "instruction": "Add the garlic and ginger, and fry until the raw smell disappears, about 1-2 minutes.",
+      "duration_min": 2
+    },
+    {
+      "step": 5,
+      "instruction": "Add the chopped tomato (or tomato paste) and cook for 2-3 minutes until it softens and breaks down.",
+      "duration_min": 3
+    },
+    {
+      "step": 6,
+      "instruction": "Add the marinated beef cubes and stir-fry for about 5 minutes, allowing the meat to sear lightly on the outside.",
+      "duration_min": 5
+    },
+    {
+      "step": 7,
+      "instruction": "Add the water, enough to mostly cover the meat. Bring to a boil, then reduce heat to low, cover, and simmer for 50-60 minutes, checking occasionally and adding a little more water if the pot dries out, until the beef is fork-tender.",
+      "duration_min": 55
+    },
+    {
+      "step": 8,
+      "instruction": "Once the beef is tender, pour in the coconut milk. Stir gently and simmer uncovered for a further 15-20 minutes, until the gravy thickens to a rich, silky consistency. Keep the heat low to prevent the coconut milk from curdling.",
+      "duration_min": 17
+    },
+    {
+      "step": 9,
+      "instruction": "Taste and adjust the salt. Serve hot with rice, roti, or bread to scoop up the gravy.",
+      "duration_min": 1
+    }
+  ],
+  "tags": [
+    "lunch",
+    "dinner",
+    "curry",
+    "spicy",
+    "beef",
+    "coconut-milk",
+    "over-60-min",
+    "comfort-food"
+  ],
+  "ayurvedic_balance": "pitta-pacifying",
+  "nutrition_per_serving": {
+    "calories": 480,
+    "protein_g": 38,
+    "carbs_g": 8,
+    "fat_g": 33,
+    "fibre_g": 2
+  },
+  "trust_score": 0.91,
+  "source_url": "https://www.hungrylankan.com/recipes/sri-lankan-beef-curry/",
+  "source_site": "hungrylankan.com, cross-checked against loveandotherspices.com, theflavorbender.com, and monashfodmap.com for technique and ratio consistency",
+  "collection_method": "scraped, cross-checked across 6+ independent sources; strong agreement on the marinate-sear-simmer-then-finish-with-coconut-milk technique",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "This entry reflects the more common household-style beef curry, distinct from black pork curry (sl_034), which uses a darker spice roast and goraka for a deliberately black colour -- though the same general spice base can be adapted across red meats (beef, mutton, lamb), simply adjusting cooking time for the specific cut. Stewing cuts like chuck or shin are recommended for the best flavour and texture with this longer braise; quicker-cooking cuts like sirloin can be used with a much shorter simmer time if preferred, though the meat will be less deeply infused with the spice flavours. Adding the coconut milk only after the meat is tender, and keeping the heat low afterward, is the most important technique point for preventing the curry from curdling or breaking."
+}

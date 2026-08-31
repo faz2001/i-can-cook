@@ -1,0 +1,35 @@
+{
+  "id": "sl_085",
+  "name_en": "Pol Pani (Sweet Coconut Treacle Filling)",
+  "name_si": "පොල් පැණි",
+  "regional_origin": "Island-wide",
+  "cuisine": "Sri Lankan",
+  "course": "Dessert",
+  "servings": 6,
+  "prep_time_min": 5,
+  "cook_time_min": 15,
+  "total_time_min": 20,
+  "ingredients": [
+    {"canonical_id": "ing_coconut_grated", "name": "Freshly grated coconut", "quantity": 200, "unit": "g", "notes": "about 2.5 cups; fresh is essential -- desiccated coconut does not absorb the treacle in the same way"},
+    {"canonical_id": "ing_treacle_kithul", "name": "Kithul treacle", "quantity": 120, "unit": "ml", "notes": "about 1/2 cup; or substitute kithul jaggery dissolved in 3-4 tablespoons of warm water to the same volume"},
+    {"canonical_id": "ing_cardamom", "name": "Cardamom powder", "quantity": 0.5, "unit": "tsp", "notes": ""},
+    {"canonical_id": "ing_salt", "name": "Salt", "quantity": 1, "unit": "pinch", "notes": "balances the sweetness"}
+  ],
+  "steps": [
+    {"step": 1, "instruction": "Add the grated coconut to a dry pan over medium-low heat. Stir continuously for 2-3 minutes to lightly toast and dry the coconut -- this step prevents the pol pani from becoming watery and helps it keep longer.", "duration_min": 3},
+    {"step": 2, "instruction": "Pour the kithul treacle over the toasted coconut. Add the cardamom and a pinch of salt. Stir well to combine.", "duration_min": 1},
+    {"step": 3, "instruction": "Cook over medium-low heat, stirring constantly, for about 8-10 minutes, until the treacle is fully absorbed into the coconut and the mixture looks glossy, clumps together when pressed, and leaves no liquid in the pan. The mixture should be moist but not wet.", "duration_min": 9},
+    {"step": 4, "instruction": "Remove from heat. Taste and adjust sweetness if needed by adding a little more treacle. Cool before using as a filling.", "duration_min": 3},
+    {"step": 5, "instruction": "Use as the filling for pani pol pancakes (thin crepes filled and rolled), imbul kiribath (milk rice stuffed with pol pani), or lavariya (sweet string hopper dumplings). The pol pani keeps refrigerated in a clean container for 2-3 days.", "duration_min": 1}
+  ],
+  "tags": ["dessert", "festival", "new-year-avurudu", "vegan", "vegetarian", "gluten-free", "dairy-free", "under-30-min", "jaggery"],
+  "ayurvedic_balance": "vata-pacifying",
+  "nutrition_per_serving": {"calories": 175, "protein_g": 1, "carbs_g": 22, "fat_g": 10, "fibre_g": 3},
+  "trust_score": 0.93,
+  "source_url": "https://www.islandsmile.org/pol-pani-sweet-coconut-treacle-filling/",
+  "source_site": "islandsmile.org, cross-checked against hungrylankan.com, rasakama.wordpress.com, peckishme.com, thefoodsnaps.com, and Wikipedia (Pol Pani)",
+  "collection_method": "scraped, cross-checked across 6+ independent sources; highest trust score for a condiment/filling entry -- recipe is virtually identical across all sources",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "Pol pani (literally 'coconut honey/treacle') is one of the most fundamental building blocks of Sri Lankan sweet cookery -- it appears as the filling inside pani pol pancakes, imbul kiribath (stuffed milk rice), lavariya (sweet string hopper dumplings), and various other traditional sweets. This entry documents pol pani as a standalone recipe since it is reused across many dishes. The two-ingredient core (fresh coconut + kithul treacle) is absolutely consistent across all sources; cardamom is the universal flavouring. The lightly toasting the coconut before adding treacle is the key technique that separates a well-made pol pani (firm, clumping, non-watery) from a poorly-made one. Kithul treacle (the Sri Lankan coconut palm's fermented sap) gives the most authentic earthy, complex flavour; plain sugar syrup is an inferior substitute that lacks depth."
+}

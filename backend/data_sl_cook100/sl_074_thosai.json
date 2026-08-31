@@ -1,0 +1,40 @@
+{
+  "id": "sl_074",
+  "name_en": "Thosai (Sri Lankan Dosa / Fermented Rice Crepe)",
+  "name_si": "තෝසේ",
+  "regional_origin": "Tamil Sri Lanka (Northern and Eastern provinces)",
+  "cuisine": "Sri Lankan",
+  "course": "Breakfast",
+  "servings": 4,
+  "prep_time_min": 480,
+  "cook_time_min": 20,
+  "total_time_min": 500,
+  "ingredients": [
+    {"canonical_id": "ing_flour_rice", "name": "Raw white rice", "quantity": 300, "unit": "g", "notes": "about 1.5 cups; long-grain or sona masoori; soaked separately from the dal for 4-6 hours"},
+    {"canonical_id": "ing_urad_dal_whole", "name": "Whole urad dal (black gram)", "quantity": 100, "unit": "g", "notes": "about 1/2 cup; soaked separately from the rice for 4-6 hours; the ratio of rice to urad dal determines the texture -- more rice = crispier thosai"},
+    {"canonical_id": "ing_fenugreek", "name": "Fenugreek seeds", "quantity": 0.5, "unit": "tsp", "notes": "soaked with the urad dal; helps fermentation and adds a characteristic slight bitterness"},
+    {"canonical_id": "ing_water", "name": "Water", "quantity": 120, "unit": "ml", "notes": "cold water for grinding; use as little as possible -- a thick batter ferments better"},
+    {"canonical_id": "ing_salt", "name": "Salt", "quantity": 1, "unit": "tsp", "notes": "added after fermentation, not before"},
+    {"canonical_id": "ing_coconut_oil", "name": "Oil", "quantity": 4, "unit": "tbsp", "notes": "for cooking; coconut oil or sesame oil are traditional"}
+  ],
+  "steps": [
+    {"step": 1, "instruction": "Rinse the rice and urad dal (with fenugreek) separately in several changes of water, then soak them in separate bowls of cold water for 4-6 hours or overnight.", "duration_min": 360},
+    {"step": 2, "instruction": "Drain both separately. Grind the urad dal and fenugreek first with a little cold water in a wet grinder or powerful blender until very smooth, light, and fluffy -- about 10 minutes in a wet grinder, 5-8 minutes in a high-powered blender. The batter should be very smooth and slightly airy.", "duration_min": 10},
+    {"step": 3, "instruction": "Grind the rice separately with a little cold water until smooth but slightly coarser than the urad dal batter.", "duration_min": 8},
+    {"step": 4, "instruction": "Combine both batters in a large bowl. Mix well with your hand or a large spoon. The combined batter should be thick and pourable, similar to a thick pancake batter. Cover loosely and ferment in a warm place for 8-12 hours, or overnight, until the batter rises and small bubbles appear on the surface.", "duration_min": 480},
+    {"step": 5, "instruction": "After fermentation, add the salt and mix gently. Thin the batter with a little water if needed -- it should pour and spread easily but not be watery.", "duration_min": 3},
+    {"step": 6, "instruction": "Heat a flat griddle or non-stick tawa over medium-high heat until very hot. Drizzle a few drops of oil and wipe around with a folded cloth. Pour a ladle of batter into the centre of the hot griddle and immediately spread it in concentric circles using the back of the ladle to make a thin, even crepe about 20-25cm across.", "duration_min": 2},
+    {"step": 7, "instruction": "Drizzle a little oil around the edges and on top. Cook for 2-3 minutes until the bottom is golden and crispy and the edges lift naturally. For a plain thosai, fold in half and serve. For a masala thosai, add a spoonful of spiced potato filling before folding.", "duration_min": 3},
+    {"step": 8, "instruction": "Serve hot with coconut chutney, pol sambol, or sambar. Thosai must be eaten immediately -- they become chewy and soft if left to sit.", "duration_min": 1}
+  ],
+  "tags": ["breakfast", "dinner", "street-food", "everyday", "vegan", "vegetarian", "gluten-free", "dairy-free", "over-60-min", "comfort-food"],
+  "ayurvedic_balance": "vata-pacifying",
+  "nutrition_per_serving": {"calories": 195, "protein_g": 6, "carbs_g": 38, "fat_g": 4, "fibre_g": 2},
+  "trust_score": 0.91,
+  "source_url": "https://www.islandsmile.org/thosai-dosa/",
+  "source_site": "islandsmile.org, cross-checked against hungrylankan.com, topsrilankanrecipe.com, jaffnacuisine.com, sharmispassions.com, vegrecipesofindia.com, and Wikipedia (Dosa)",
+  "collection_method": "scraped, cross-checked across 7+ independent sources from both Sri Lankan and South Indian cuisine given the shared tradition; strong agreement on the 3:1 rice-to-dal ratio for crispy thosai and overnight fermentation",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "Thosai (also spelled dosai or dosa) is the Tamil Sri Lankan name for the South Indian dosa -- the same fermented rice-and-dal crepe eaten across South India. It is a staple breakfast in the Northern and Eastern Tamil-majority provinces and increasingly popular island-wide. The 3:1 rice-to-urad-dal ratio is the standard for a crispy plain thosai (sada thosai); some families use a 2:1 ratio for a softer, thicker texture. The fermentation period is the most critical variable: under-fermented batter produces flat, dense thosai without the characteristic tang; over-fermented batter becomes too sour and may not spread evenly. The total_time_min (500 minutes) includes 8 hours of fermentation. Sri Lankan thosai is typically thinner and crispier than the thick South Indian 'set dosa' style."
+}

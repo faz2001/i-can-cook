@@ -1,0 +1,222 @@
+{
+  "id": "sl_033",
+  "name_en": "Devilled Fish",
+  "name_si": "ඇඹුල් මාළු",
+  "regional_origin": "Colombo (street food / Sri Lankan-Chinese fusion)",
+  "cuisine": "Sri Lankan",
+  "course": "Main",
+  "servings": 4,
+  "prep_time_min": 30,
+  "cook_time_min": 15,
+  "total_time_min": 45,
+  "ingredients": [
+    {
+      "canonical_id": "ing_fish_tuna",
+      "name": "Tuna (yellowfin or skipjack)",
+      "quantity": 500,
+      "unit": "g",
+      "notes": "or any firm fish that won't break apart when stir-fried; cut into 3cm cubes"
+    },
+    {
+      "canonical_id": "ing_turmeric",
+      "name": "Turmeric powder",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": "for the marinade"
+    },
+    {
+      "canonical_id": "ing_chilli_powder",
+      "name": "Chilli powder",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": "for the marinade"
+    },
+    {
+      "canonical_id": "ing_salt",
+      "name": "Salt",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": "for the marinade, plus more to taste"
+    },
+    {
+      "canonical_id": "ing_lime",
+      "name": "Lime",
+      "quantity": 0.5,
+      "unit": "count",
+      "notes": "juiced, for the marinade"
+    },
+    {
+      "canonical_id": "ing_flour_wheat",
+      "name": "Flour",
+      "quantity": 2,
+      "unit": "tbsp",
+      "notes": "for coating before frying; can mix with a little cornflour for extra crispness"
+    },
+    {
+      "canonical_id": "ing_coconut_oil",
+      "name": "Oil for frying",
+      "quantity": 250,
+      "unit": "ml",
+      "notes": "for deep or shallow frying the fish cubes"
+    },
+    {
+      "canonical_id": "ing_ginger",
+      "name": "Ginger",
+      "quantity": 1,
+      "unit": "tbsp",
+      "notes": "finely chopped"
+    },
+    {
+      "canonical_id": "ing_garlic",
+      "name": "Garlic",
+      "quantity": 4,
+      "unit": "cloves",
+      "notes": "finely chopped"
+    },
+    {
+      "canonical_id": "ing_curry_leaves",
+      "name": "Curry leaves",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "1 sprig"
+    },
+    {
+      "canonical_id": "ing_cinnamon",
+      "name": "Cinnamon stick",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "small piece"
+    },
+    {
+      "canonical_id": "ing_chilli_powder",
+      "name": "Chilli flakes",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": "for the sauce, in addition to the marinade chilli powder"
+    },
+    {
+      "canonical_id": "ing_ketchup",
+      "name": "Tomato ketchup",
+      "quantity": 60,
+      "unit": "ml",
+      "notes": "1/4 cup"
+    },
+    {
+      "canonical_id": "ing_chilli_sauce",
+      "name": "Chilli sauce",
+      "quantity": 1,
+      "unit": "tbsp",
+      "notes": "optional; adds extra heat and tang on top of the ketchup"
+    },
+    {
+      "canonical_id": "ing_soy_sauce",
+      "name": "Light soy sauce",
+      "quantity": 2,
+      "unit": "tbsp",
+      "notes": "do not use dark soy sauce, as it dulls the dish's signature red colour"
+    },
+    {
+      "canonical_id": "ing_sugar",
+      "name": "Sugar",
+      "quantity": 1,
+      "unit": "tbsp",
+      "notes": "balances the ketchup's tang"
+    },
+    {
+      "canonical_id": "ing_onion",
+      "name": "Onion",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "cut into wedges or rounds"
+    },
+    {
+      "canonical_id": "ing_bell_pepper_green",
+      "name": "Banana peppers or green bell pepper",
+      "quantity": 2,
+      "unit": "count",
+      "notes": "cut into rounds or strips"
+    },
+    {
+      "canonical_id": "ing_tomato",
+      "name": "Tomato",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "cut into wedges"
+    },
+    {
+      "canonical_id": "ing_water",
+      "name": "Water",
+      "quantity": 60,
+      "unit": "ml",
+      "notes": "1/4 cup, for the sauce"
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "instruction": "Cut the fish into 3cm cubes. Marinate with turmeric, chilli powder, salt, and lime juice for about 15-30 minutes.",
+      "duration_min": 20
+    },
+    {
+      "step": 2,
+      "instruction": "Toss the marinated fish lightly in the flour, shaking off any excess. Heat the oil and deep-fry or shallow-fry the fish cubes until golden and just cooked through, about 3-4 minutes. Avoid overcooking, as the fish will cook again briefly in the sauce. Drain on paper towels and set aside.",
+      "duration_min": 8
+    },
+    {
+      "step": 3,
+      "instruction": "In a separate wok or pan, heat a little oil. Add the cinnamon stick, ginger, garlic, and curry leaves, and sauté until the garlic starts to turn golden at the edges, about 1 minute.",
+      "duration_min": 1
+    },
+    {
+      "step": 4,
+      "instruction": "Add the chilli flakes and stir briefly over low heat until they darken slightly, taking care not to burn them.",
+      "duration_min": 1
+    },
+    {
+      "step": 5,
+      "instruction": "Add the ketchup, chilli sauce (if using), soy sauce, sugar, and water. Mix well and let the sauce heat through and come to a gentle simmer.",
+      "duration_min": 2
+    },
+    {
+      "step": 6,
+      "instruction": "Add the onion and banana peppers (or bell pepper). Stir-fry briefly, about 1 minute, keeping the vegetables crunchy.",
+      "duration_min": 1
+    },
+    {
+      "step": 7,
+      "instruction": "Add the fried fish cubes and tomato wedges. Gently toss everything together over medium heat for 1-2 minutes, until the fish is well coated in the glossy sauce -- handle gently to avoid breaking up the fish pieces.",
+      "duration_min": 2
+    },
+    {
+      "step": 8,
+      "instruction": "Taste and adjust the seasoning -- more ketchup for sweetness, more chilli for heat, salt as needed. Serve hot with rice, bread, or naan.",
+      "duration_min": 1
+    }
+  ],
+  "tags": [
+    "lunch",
+    "dinner",
+    "street-food",
+    "stir-fry",
+    "spicy",
+    "colombo",
+    "fish",
+    "crowd-pleaser",
+    "30-60-min"
+  ],
+  "ayurvedic_balance": "pitta-pacifying",
+  "nutrition_per_serving": {
+    "calories": 330,
+    "protein_g": 28,
+    "carbs_g": 16,
+    "fat_g": 17,
+    "fibre_g": 2
+  },
+  "trust_score": 0.89,
+  "source_url": "https://www.hungrylankan.com/recipes/sri-lankan-devilled-fish/",
+  "source_site": "hungrylankan.com, cross-checked against islandsmile.org, joyofeatingtheworld.com, and pulse.lk for technique and sauce-balance consistency",
+  "collection_method": "scraped, cross-checked across 5+ independent sources; strong agreement on tuna/firm fish as the preferred protein and the same red-sauce technique as devilled chicken",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "Tuna or another firm-fleshed fish (such as sailfish, locally called thalapath) is strongly preferred for this dish, since it holds together through two cooking stages -- first frying, then stir-frying in the sauce -- without flaking apart. Like devilled chicken (sl_032), this is a Sri Lankan-Chinese fusion dish, sharing the same core red-sauce technique built from ketchup, chilli, and soy sauce. Skin-on fish pieces can help further with structural integrity if available. A coconut-milk variant exists for those who want extra gravy, but the dry, sauce-coated version presented here is the more iconic restaurant and home-cooking style."
+}

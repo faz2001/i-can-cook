@@ -1,0 +1,233 @@
+{
+  "id": "sl_045",
+  "name_en": "Lamprais",
+  "name_si": "ලෑම්ප්‍රයිස්",
+  "regional_origin": "Colombo (Dutch Burgher community)",
+  "cuisine": "Sri Lankan",
+  "course": "Main",
+  "servings": 4,
+  "prep_time_min": 120,
+  "cook_time_min": 60,
+  "total_time_min": 180,
+  "ingredients": [
+    {
+      "canonical_id": "ing_rice_white",
+      "name": "Samba or basmati rice",
+      "quantity": 400,
+      "unit": "g",
+      "notes": "2 cups; for the stock-cooked rice base"
+    },
+    {
+      "canonical_id": "ing_coconut_oil",
+      "name": "Ghee or butter",
+      "quantity": 2,
+      "unit": "tbsp",
+      "notes": "for frying the rice spices"
+    },
+    {
+      "canonical_id": "ing_onion",
+      "name": "Onion",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "1 for the rice, plus extra onions for the curry and seeni sambol (see notes)"
+    },
+    {
+      "canonical_id": "ing_cardamom",
+      "name": "Cardamom pods",
+      "quantity": 4,
+      "unit": "count",
+      "notes": "for the rice"
+    },
+    {
+      "canonical_id": "ing_cloves",
+      "name": "Cloves",
+      "quantity": 4,
+      "unit": "count",
+      "notes": "for the rice"
+    },
+    {
+      "canonical_id": "ing_cinnamon",
+      "name": "Cinnamon stick",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "for the rice"
+    },
+    {
+      "canonical_id": "ing_pandan",
+      "name": "Pandan leaf",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "for the rice"
+    },
+    {
+      "canonical_id": "ing_water",
+      "name": "Chicken stock",
+      "quantity": 600,
+      "unit": "ml",
+      "notes": "for cooking the rice; the stock from boiling the curry meat works well here"
+    },
+    {
+      "canonical_id": "ing_chicken",
+      "name": "Bone-in chicken (or a mix of chicken, beef, and pork in the traditional version)",
+      "quantity": 600,
+      "unit": "g",
+      "notes": "cut into small dice; this entry uses chicken-only for simplicity, the more common modern adaptation"
+    },
+    {
+      "canonical_id": "ing_curry_powder_roasted",
+      "name": "Roasted Sri Lankan curry powder",
+      "quantity": 1.5,
+      "unit": "tbsp",
+      "notes": "for the meat curry; should reduce to a thick, dry-ish gravy that won't leak through the banana leaf"
+    },
+    {
+      "canonical_id": "ing_coconut_milk",
+      "name": "Coconut milk",
+      "quantity": 240,
+      "unit": "ml",
+      "notes": "for the meat curry"
+    },
+    {
+      "canonical_id": "ing_eggplant",
+      "name": "Eggplant",
+      "quantity": 200,
+      "unit": "g",
+      "notes": "for the brinjal moju component; see sl_021 for full method"
+    },
+    {
+      "canonical_id": "ing_plantain_ash",
+      "name": "Ash plantain (unripe green plantain)",
+      "quantity": 2,
+      "unit": "count",
+      "notes": "peeled, sliced, and deep-fried until golden; a traditional side component"
+    },
+    {
+      "canonical_id": "ing_chicken",
+      "name": "Ground chicken or beef (for frikkadel meatballs)",
+      "quantity": 250,
+      "unit": "g",
+      "notes": "mixed with breadcrumbs, egg, onion, garlic, and spices, formed into small meatballs, and shallow-fried"
+    },
+    {
+      "canonical_id": "ing_egg",
+      "name": "Eggs",
+      "quantity": 4,
+      "unit": "count",
+      "notes": "hard-boiled, halved -- one common modern addition; not part of the most traditional recipe but very widely included today"
+    },
+    {
+      "canonical_id": "ing_maldive_fish",
+      "name": "Maldive fish flakes",
+      "quantity": 2,
+      "unit": "tbsp",
+      "notes": "for the seeni sambol and/or blachan/prawn relish component"
+    },
+    {
+      "canonical_id": "ing_jaggery",
+      "name": "Jaggery",
+      "quantity": 2,
+      "unit": "tbsp",
+      "notes": "for the seeni sambol's caramelised sweetness"
+    },
+    {
+      "canonical_id": "ing_banana_leaf",
+      "name": "Banana leaves",
+      "quantity": 4,
+      "unit": "count",
+      "notes": "1 large leaf per parcel, warmed over a flame briefly to soften before use"
+    },
+    {
+      "canonical_id": "ing_salt",
+      "name": "Salt",
+      "quantity": 2,
+      "unit": "tsp",
+      "notes": "distributed across the rice and curry components, to taste"
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "instruction": "Several days ahead if possible, prepare the individual components separately, since lamprais is built from many small dishes rather than cooked in one pot: the meat curry, the brinjal moju (sl_021), the seeni sambol (caramelised onion relish with Maldive fish and jaggery), the fried ash plantains, the frikkadel meatballs, and the hard-boiled eggs. Each can be refrigerated for a few days to spread out the work.",
+      "duration_min": 60
+    },
+    {
+      "step": 2,
+      "instruction": "For the meat curry: cook the chicken (or mixed meats) in roasted curry powder, onions, garlic, and coconut milk until the gravy has reduced to a thick, almost dry consistency -- a runny curry will leak through the banana leaf during baking, so cook it down further than you would for a normal curry.",
+      "duration_min": 40
+    },
+    {
+      "step": 3,
+      "instruction": "For the rice: wash the rice until the water runs clear. Heat the ghee in a saucepan, fry the onion until soft, then add the cardamom, cloves, cinnamon, and pandan leaf and cook briefly until fragrant. Add the rice and fry for 1-2 minutes, coating the grains.",
+      "duration_min": 5
+    },
+    {
+      "step": 4,
+      "instruction": "Add the chicken stock and salt to the rice. Bring to a boil, then cover and simmer on low heat for about 20 minutes, until tender. Remove the whole spices once cooked.",
+      "duration_min": 22
+    },
+    {
+      "step": 5,
+      "instruction": "Make the frikkadel: mix ground meat with breadcrumbs, beaten egg, finely chopped onion, garlic, and seasoning. Roll into small marble-sized balls and shallow-fry until deeply golden and cooked through, about 6 minutes, rolling for even browning.",
+      "duration_min": 15
+    },
+    {
+      "step": 6,
+      "instruction": "Peel and slice the ash plantains, season lightly with turmeric and salt, and deep-fry until golden.",
+      "duration_min": 10
+    },
+    {
+      "step": 7,
+      "instruction": "Warm the banana leaves briefly over an open flame or stovetop burner until pliable -- take care not to burn them, just enough heat to soften and bring out their aroma.",
+      "duration_min": 5
+    },
+    {
+      "step": 8,
+      "instruction": "Lay one banana leaf flat, glossy side up, for each parcel. Place a generous scoop of rice (about a teacupful) in the centre. Arrange a portion of each prepared component around and on top of the rice: meat curry, 2 frikkadels, a few slices of fried ash plantain, a spoonful of brinjal moju, a spoonful of seeni sambol, and half a boiled egg (if using).",
+      "duration_min": 8
+    },
+    {
+      "step": 9,
+      "instruction": "Sprinkle a tablespoon of coconut milk over the rice and curries before wrapping -- this prevents the rice from drying out during baking.",
+      "duration_min": 1
+    },
+    {
+      "step": 10,
+      "instruction": "Fold the banana leaf into a neat, tight oblong parcel, with the curries facing up rather than pressed under the rice. Secure the ends with a wooden skewer, toothpick, or kitchen string. Double-wrap with foil if the banana leaves feel fragile.",
+      "duration_min": 8
+    },
+    {
+      "step": 11,
+      "instruction": "Preheat the oven to 170-190C (340-375F). Arrange the parcels on a baking tray and bake for 10-20 minutes, just long enough to heat everything through and let the banana leaf release its aroma into the rice and curry.",
+      "duration_min": 15
+    },
+    {
+      "step": 12,
+      "instruction": "Serve hot, still wrapped -- the parcel is opened at the table, and the best way to eat lamprais is to mix everything together with your fingers, letting the rice, curry gravy, moju, and sambol combine.",
+      "duration_min": 1
+    }
+  ],
+  "tags": [
+    "lunch",
+    "dinner",
+    "festival",
+    "colombo",
+    "over-60-min",
+    "comfort-food",
+    "coconut-milk"
+  ],
+  "ayurvedic_balance": "pitta-pacifying",
+  "nutrition_per_serving": {
+    "calories": 720,
+    "protein_g": 38,
+    "carbs_g": 65,
+    "fat_g": 35,
+    "fibre_g": 4
+  },
+  "trust_score": 0.8,
+  "source_url": "https://toneandtaste.com/recipe/sri-lankan-lamprais/",
+  "source_site": "toneandtaste.com, cross-checked against gourmetforeveryone.com, thefooddictator.com, retrofoodformoderntimes.com, rooeats.com, aasairasai.blogspot.com, webbedfood.wordpress.com, and joyofeatingtheworld.com for component lists and authenticity debates",
+  "collection_method": "scraped and synthesized across 8+ independent sources for this multi-component composite dish; sources disagree meaningfully on which exact components count as 'authentic' (see notes), so this entry represents a defensible, commonly-cited composite rather than one single, undisputed canonical recipe",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "Lamprais is unusually contested for its 'authenticity' even among Sri Lankan home cooks and bloggers -- sources disagree on whether the meat curry must be a three-meat mix (chicken, beef, pork/lamb) or can be a single meat, whether frikkadel (Dutch-style meatballs) or fish/tuna cutlets are more correct, whether a boiled egg belongs in the parcel at all, and whether seeni sambol or a prawn blachan/belacan relish is the 'real' condiment. This entry reflects the most commonly cited modern household composite: chicken curry, brinjal moju, ash plantain, frikkadel, seeni sambol, and a boiled egg, wrapped in stock-cooked rice. The trust_score is set lower than most entries in this collection specifically because of this unusual degree of legitimate disagreement across sources about what counts as correct -- this is not a sourcing weakness so much as a property of the dish itself. The name derives from the Dutch 'lomprijst' ('packet of food'), reflecting the dish's origin with the Dutch Burgher community during Dutch colonial rule (1640-1796), itself likely adapted from the Indonesian snack 'lemper'. Cooking the meat curry down to a thick, dry-ish consistency before wrapping is essential -- a runny curry will leak through the banana leaf during baking."
+}

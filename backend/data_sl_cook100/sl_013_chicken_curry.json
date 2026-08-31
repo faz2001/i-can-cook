@@ -1,0 +1,208 @@
+{
+  "id": "sl_013",
+  "name_en": "Sri Lankan Chicken Curry",
+  "name_si": "කුකුල් මස් කරිය",
+  "regional_origin": "Island-wide",
+  "cuisine": "Sri Lankan",
+  "course": "Dinner",
+  "servings": 4,
+  "prep_time_min": 10,
+  "cook_time_min": 45,
+  "total_time_min": 85,
+  "ingredients": [
+    {
+      "canonical_id": "ing_chicken",
+      "name": "Bone-in chicken thighs",
+      "quantity": 680,
+      "unit": "g",
+      "notes": "skin removed, cut into pieces (about 4 thighs)"
+    },
+    {
+      "canonical_id": "ing_turmeric",
+      "name": "Turmeric powder",
+      "quantity": 0.25,
+      "unit": "tsp",
+      "notes": "for marinating the chicken"
+    },
+    {
+      "canonical_id": "ing_black_pepper",
+      "name": "Crushed black pepper",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": "split: 1/2 tsp for marinade, 1/2 tsp added later"
+    },
+    {
+      "canonical_id": "ing_tamarind",
+      "name": "Tamarind paste",
+      "quantity": 1,
+      "unit": "tbsp",
+      "notes": "for marinating; can substitute 2 tsp white vinegar"
+    },
+    {
+      "canonical_id": "ing_salt",
+      "name": "Salt",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": "for marinade, plus more to taste later"
+    },
+    {
+      "canonical_id": "ing_onion",
+      "name": "Onion",
+      "quantity": 0.33,
+      "unit": "cup",
+      "notes": "chopped"
+    },
+    {
+      "canonical_id": "ing_tomato",
+      "name": "Tomato",
+      "quantity": 0.33,
+      "unit": "cup",
+      "notes": "chopped"
+    },
+    {
+      "canonical_id": "ing_garlic",
+      "name": "Garlic",
+      "quantity": 4,
+      "unit": "cloves",
+      "notes": "large"
+    },
+    {
+      "canonical_id": "ing_ginger",
+      "name": "Ginger",
+      "quantity": 2.5,
+      "unit": "cm",
+      "notes": "1-inch piece"
+    },
+    {
+      "canonical_id": "ing_curry_leaves",
+      "name": "Curry leaves",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "1 sprig"
+    },
+    {
+      "canonical_id": "ing_pandan",
+      "name": "Pandan leaf",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "broken into pieces"
+    },
+    {
+      "canonical_id": "ing_cardamom",
+      "name": "Cardamom",
+      "quantity": 3,
+      "unit": "count",
+      "notes": "whole pods, ground with cloves"
+    },
+    {
+      "canonical_id": "ing_cloves",
+      "name": "Cloves",
+      "quantity": 3,
+      "unit": "count",
+      "notes": "whole, ground with cardamom"
+    },
+    {
+      "canonical_id": "ing_goraka",
+      "name": "Garcinia cambogia (goraka)",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "1 piece; can substitute extra tamarind paste if unavailable"
+    },
+    {
+      "canonical_id": "ing_chilli_powder",
+      "name": "Roasted chilli powder",
+      "quantity": 1,
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_curry_powder_roasted",
+      "name": "Roasted Sri Lankan curry powder",
+      "quantity": 2,
+      "unit": "tsp",
+      "notes": "see sl_006 Roasted Sri Lankan Curry Powder"
+    },
+    {
+      "canonical_id": "ing_coconut_oil",
+      "name": "Coconut oil",
+      "quantity": 1,
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_water",
+      "name": "Water",
+      "quantity": 1,
+      "unit": "cup",
+      "notes": "can substitute thin coconut milk for a creamier curry"
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "instruction": "Marinate the chicken with the turmeric, half the black pepper, tamarind paste, and salt. Cover and refrigerate overnight, or at least 30 minutes if short on time.",
+      "duration_min": 5
+    },
+    {
+      "step": 2,
+      "instruction": "In a mortar and pestle, grind the cardamom and cloves together (shells can be removed first or ground in). Add the ginger and garlic and crush to a coarse paste.",
+      "duration_min": 5
+    },
+    {
+      "step": 3,
+      "instruction": "Heat the coconut oil in a heavy-bottomed pan or clay pot. Add the ginger-garlic paste along with the curry leaves and pandan leaf.",
+      "duration_min": 2
+    },
+    {
+      "step": 4,
+      "instruction": "When the mixture starts to turn brown, add the roasted curry powder and roasted chilli powder. Mix and toast in the oil for about 30 seconds, taking care not to let the spices burn.",
+      "duration_min": 1
+    },
+    {
+      "step": 5,
+      "instruction": "Add the goraka, onions, and tomatoes. Mix well with the spices, then lower the heat, cover, and cook until the onions sweat and the tomatoes turn mushy, stirring occasionally to prevent burning.",
+      "duration_min": 8
+    },
+    {
+      "step": 6,
+      "instruction": "Add the marinated chicken and mix thoroughly. Cook for about a minute, stirring continuously.",
+      "duration_min": 2
+    },
+    {
+      "step": 7,
+      "instruction": "Add the water (or thin coconut milk). Cover and simmer on low heat for 30 minutes.",
+      "duration_min": 30
+    },
+    {
+      "step": 8,
+      "instruction": "After 30 minutes, adjust salt to taste and add the remaining black pepper. Mix, cover again, and simmer for a further 15 minutes until the chicken is tender and the gravy has thickened.",
+      "duration_min": 15
+    }
+  ],
+  "tags": [
+    "lunch",
+    "dinner",
+    "curry",
+    "spicy",
+    "everyday",
+    "festival",
+    "chicken",
+    "over-60-min",
+    "comfort-food"
+  ],
+  "ayurvedic_balance": "pitta-pacifying",
+  "nutrition_per_serving": {
+    "calories": 380,
+    "protein_g": 32,
+    "carbs_g": 8,
+    "fat_g": 24,
+    "fibre_g": 2
+  },
+  "trust_score": 0.9,
+  "source_url": "https://www.hungrylankan.com/recipes/sri-lankan-chicken-curry/",
+  "source_site": "hungrylankan.com, cross-checked against theflavorbender.com and islandsmile.org for ingredient and technique consistency",
+  "collection_method": "scraped, cross-checked across 3 independent sources for consistent core technique and spicing",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "Sri Lanka's most popular meat curry, considered the base of many other dishes (it is also stripped down and used as the chicken filling inside kottu roti, sl_012). Bone-in, skin-removed chicken thighs are strongly preferred over boneless breast for flavour and moisture. This version uses water for a lighter, more traditional gravy; substituting thin coconut milk gives a creamier, richer version equally common in home kitchens. Goraka can be swapped for extra tamarind paste if unavailable, though the flavour profile shifts slightly sharper."
+}

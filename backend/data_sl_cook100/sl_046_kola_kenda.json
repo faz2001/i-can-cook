@@ -1,0 +1,133 @@
+{
+  "id": "sl_046",
+  "name_en": "Kola Kenda (Herbal Rice Porridge)",
+  "name_si": "කොළ කැඳ",
+  "regional_origin": "Island-wide (associated with the Kandy region and Buddhist monastic tradition)",
+  "cuisine": "Sri Lankan",
+  "course": "Breakfast",
+  "servings": 4,
+  "prep_time_min": 15,
+  "cook_time_min": 35,
+  "total_time_min": 50,
+  "ingredients": [
+    {
+      "canonical_id": "ing_rice_red",
+      "name": "Red raw rice",
+      "quantity": 200,
+      "unit": "g",
+      "notes": "1 cup; red rice is preferred and traditional, though other rice can be substituted"
+    },
+    {
+      "canonical_id": "ing_garlic",
+      "name": "Garlic",
+      "quantity": 3,
+      "unit": "cloves",
+      "notes": "minced, added while the rice cooks"
+    },
+    {
+      "canonical_id": "ing_water",
+      "name": "Water",
+      "quantity": 950,
+      "unit": "ml",
+      "notes": "about 4 cups, for cooking the rice; adjust for desired porridge consistency"
+    },
+    {
+      "canonical_id": "ing_gotukola",
+      "name": "Gotukola leaves",
+      "quantity": 100,
+      "unit": "g",
+      "notes": "or a mix with curry leaves, mukunuwenna, or moringa leaves; washed and roughly chopped before blending"
+    },
+    {
+      "canonical_id": "ing_curry_leaves",
+      "name": "Curry leaves",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "1 small handful, optional, blended with the gotukola"
+    },
+    {
+      "canonical_id": "ing_coconut_milk",
+      "name": "Coconut milk",
+      "quantity": 480,
+      "unit": "ml",
+      "notes": "2 cups; light or full-fat both work"
+    },
+    {
+      "canonical_id": "ing_salt",
+      "name": "Salt",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": "to taste"
+    },
+    {
+      "canonical_id": "ing_jaggery",
+      "name": "Jaggery",
+      "quantity": 4,
+      "unit": "count",
+      "notes": "small pieces, served alongside to counter the herbal bitterness; traditionally kithul jaggery"
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "instruction": "Rinse the rice well. Add it to a large pot with the minced garlic and the water. Bring to a boil over medium-high heat.",
+      "duration_min": 5
+    },
+    {
+      "step": 2,
+      "instruction": "Reduce the heat to low and simmer for 30-40 minutes, stirring occasionally, until the rice is very soft and fully broken down into a porridge-like consistency.",
+      "duration_min": 35
+    },
+    {
+      "step": 3,
+      "instruction": "While the rice cooks, wash the gotukola leaves and curry leaves (if using) thoroughly. Add them to a blender with a little water and blend until smooth.",
+      "duration_min": 5
+    },
+    {
+      "step": 4,
+      "instruction": "Strain the blended herb mixture through a fine mesh sieve, pressing to extract as much green juice as possible. Discard the fibrous solids, or reserve them for a mallung.",
+      "duration_min": 4
+    },
+    {
+      "step": 5,
+      "instruction": "Once the rice is fully cooked and soft, add the coconut milk and the strained herbal juice to the pot. Add salt and stir well to combine.",
+      "duration_min": 2
+    },
+    {
+      "step": 6,
+      "instruction": "Simmer gently for a further 3-5 minutes, just until heated through. Remove from the heat as soon as it begins to bubble -- prolonged boiling after adding the herb juice is generally avoided, as overcooking is thought to destroy some of the nutritional value of the fresh herbs.",
+      "duration_min": 4
+    },
+    {
+      "step": 7,
+      "instruction": "Adjust the consistency with a little extra water or coconut milk if needed. Serve hot in bowls or mugs, with a small piece of jaggery on the side to counter the herbal bitterness.",
+      "duration_min": 1
+    }
+  ],
+  "tags": [
+    "breakfast",
+    "everyday",
+    "vegan",
+    "vegetarian",
+    "gluten-free",
+    "dairy-free",
+    "coconut-milk",
+    "30-60-min",
+    "comfort-food"
+  ],
+  "ayurvedic_balance": "tridoshic",
+  "nutrition_per_serving": {
+    "calories": 170,
+    "protein_g": 3,
+    "carbs_g": 28,
+    "fat_g": 6,
+    "fibre_g": 2
+  },
+  "trust_score": 0.91,
+  "source_url": "https://serendipdelights.com/blogs/cuisine/sri-lankan-kola-kanda-herbal-rice-porridge-recipe",
+  "source_site": "serendipdelights.com, cross-checked against justhomemade.net, berrychik.com, mylankanfoodjournal.com, foodcnr.com, backtonature.lk, and the Kola Kanda Wikipedia entry for ingredient and technique consistency",
+  "collection_method": "scraped, cross-checked across 7+ independent sources; strong agreement on red rice, gotukola as the most iconic herb, and straining the blended greens for a smooth texture",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "Kola kenda (also spelled kola kanda or kola kandha) has roots described in ancient Sri Lankan chronicles (the Dipavamsa and Mahavamsa) and is traditionally eaten by Buddhist monks at dawn as their first of two permitted daily meals. The specific herb used varies depending on the intended health benefit -- gotukola is the most iconic and widely used, but curry leaves, mukunuwenna, moringa leaves, welpenela, iramusu, hatawariya, polpala, or ranawara are also used depending on the ailment being addressed, according to traditional practice. Street vendors in Colombo (around Independence Square and Marine Drive) sell this fresh every morning at low cost. Jaggery is traditionally served alongside, not mixed in, specifically to balance the bitterness of the herbal greens -- it is not optional garnish so much as an integral part of how the dish is eaten."
+}

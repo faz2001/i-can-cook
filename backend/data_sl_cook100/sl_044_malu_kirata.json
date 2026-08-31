@@ -1,0 +1,215 @@
+{
+  "id": "sl_044",
+  "name_en": "Malu Kirata (Creamy Coconut Fish Curry)",
+  "name_si": "මාළු කිරට",
+  "regional_origin": "Coastal Sri Lanka",
+  "cuisine": "Sri Lankan",
+  "course": "Main",
+  "servings": 4,
+  "prep_time_min": 20,
+  "cook_time_min": 25,
+  "total_time_min": 45,
+  "ingredients": [
+    {
+      "canonical_id": "ing_fish_mackerel",
+      "name": "Firm white fish (sailfish, kingfish, or mackerel)",
+      "quantity": 600,
+      "unit": "g",
+      "notes": "cut into large steaks or chunks; thalapath (sailfish) is the classic choice in Sri Lanka"
+    },
+    {
+      "canonical_id": "ing_turmeric",
+      "name": "Turmeric powder",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": "for the initial rinse/marinade"
+    },
+    {
+      "canonical_id": "ing_lime",
+      "name": "Lime",
+      "quantity": 0.5,
+      "unit": "count",
+      "notes": "juiced; for the marinade"
+    },
+    {
+      "canonical_id": "ing_salt",
+      "name": "Salt",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": "for the marinade, plus more to taste"
+    },
+    {
+      "canonical_id": "ing_coconut_oil",
+      "name": "Coconut oil",
+      "quantity": 2,
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_mustard_seeds",
+      "name": "Mustard seeds",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_fenugreek",
+      "name": "Fenugreek seeds",
+      "quantity": 0.25,
+      "unit": "tsp",
+      "notes": "if overcooked the fenugreek turns bitter, so cook briefly"
+    },
+    {
+      "canonical_id": "ing_cinnamon",
+      "name": "Cinnamon stick",
+      "quantity": 1,
+      "unit": "count",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_curry_leaves",
+      "name": "Curry leaves",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "1 sprig"
+    },
+    {
+      "canonical_id": "ing_pandan",
+      "name": "Pandan leaf",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "optional"
+    },
+    {
+      "canonical_id": "ing_onion",
+      "name": "Onion",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "sliced"
+    },
+    {
+      "canonical_id": "ing_garlic",
+      "name": "Garlic",
+      "quantity": 4,
+      "unit": "cloves",
+      "notes": "chopped"
+    },
+    {
+      "canonical_id": "ing_ginger",
+      "name": "Ginger",
+      "quantity": 1,
+      "unit": "tbsp",
+      "notes": "chopped"
+    },
+    {
+      "canonical_id": "ing_green_chilli",
+      "name": "Green chillies",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "optional, sliced, for a little heat"
+    },
+    {
+      "canonical_id": "ing_curry_powder_unroasted",
+      "name": "Unroasted Sri Lankan curry powder",
+      "quantity": 1.5,
+      "unit": "tsp",
+      "notes": "this milder, yellow style of fish curry traditionally uses unroasted curry powder"
+    },
+    {
+      "canonical_id": "ing_tomato",
+      "name": "Tomato",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "chopped"
+    },
+    {
+      "canonical_id": "ing_lemongrass",
+      "name": "Lemongrass",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "optional, 5cm piece, bruised"
+    },
+    {
+      "canonical_id": "ing_tamarind",
+      "name": "Tamarind paste",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": "small souring touch; lime juice at the end can substitute or supplement"
+    },
+    {
+      "canonical_id": "ing_coconut_milk",
+      "name": "Full-fat coconut milk",
+      "quantity": 400,
+      "unit": "ml",
+      "notes": "1 tin; do not substitute light coconut milk, as the dish needs the richness for its characteristic creamy body"
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "instruction": "Rinse the fish pieces briefly with the turmeric in water -- do not soak, just a quick rinse -- then drain thoroughly and pat dry. Marinate with the lime juice and a little salt for about 10 minutes.",
+      "duration_min": 12
+    },
+    {
+      "step": 2,
+      "instruction": "Heat the coconut oil in a wide, shallow pan or clay pot over medium heat. Add the mustard seeds and fenugreek seeds, and let them crackle for about 10 seconds.",
+      "duration_min": 1
+    },
+    {
+      "step": 3,
+      "instruction": "Add the cinnamon stick, curry leaves, and pandan leaf (if using). Let them spit and pop for about 15 seconds until fragrant.",
+      "duration_min": 1
+    },
+    {
+      "step": 4,
+      "instruction": "Add the onion, garlic, ginger, and green chilli (if using). Cook over medium heat until the onion softens, about 4-5 minutes.",
+      "duration_min": 5
+    },
+    {
+      "step": 5,
+      "instruction": "Add the curry powder and stir for about 30 seconds until fragrant. Add the chopped tomato and lemongrass (if using), and cook until the tomato softens, about 2-3 minutes.",
+      "duration_min": 3
+    },
+    {
+      "step": 6,
+      "instruction": "Add the tamarind paste and the coconut milk. Stir gently and bring to a bare simmer -- avoid boiling vigorously, as hard boiling can cause the coconut milk to split and turn grainy.",
+      "duration_min": 5
+    },
+    {
+      "step": 7,
+      "instruction": "Carefully add the marinated fish pieces to the gravy. Simmer gently, uncovered or partially covered, for 12-15 minutes, turning the fish pieces once gently halfway through, until just cooked through.",
+      "duration_min": 14
+    },
+    {
+      "step": 8,
+      "instruction": "Taste and adjust salt. Let the curry rest off the heat for a few minutes before serving. Serve hot with steamed white rice.",
+      "duration_min": 3
+    }
+  ],
+  "tags": [
+    "lunch",
+    "dinner",
+    "curry",
+    "everyday",
+    "gluten-free",
+    "coconut-milk",
+    "creamy",
+    "30-60-min",
+    "comfort-food"
+  ],
+  "ayurvedic_balance": "vata-pacifying",
+  "nutrition_per_serving": {
+    "calories": 310,
+    "protein_g": 30,
+    "carbs_g": 7,
+    "fat_g": 19,
+    "fibre_g": 1
+  },
+  "trust_score": 0.89,
+  "source_url": "https://propermasala.com/recipes/sri-lankan-fish-curry/",
+  "source_site": "propermasala.com, cross-checked against islandsmile.org, satyamskitchen.com, and cookrepublic.com for the kirata-vs-ambulthiyal/mirisata distinction and the importance of not boiling the coconut milk hard",
+  "collection_method": "scraped, cross-checked across 4+ independent sources for both technique and the correct dish-naming distinction",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "Sources consistently distinguish two main styles of Sri Lankan fish curry: Kirata, the milder, creamy yellow curry built on coconut milk (this entry), and Mirisata, a spicier red chilli-forward version. This is a separate dish from Ambul Thiyal (sl_014), the dry, sour, goraka-based preservation curry -- the original list label 'Ambul Kirata' appears to conflate these two distinct dishes, so this entry represents the genuine Kirata style rather than attempting to merge incompatible techniques (one is a wet, creamy curry; the other is a dry, intensely sour preserved dish). Using full-fat coconut milk and keeping the heat gentle once it's added are the two most repeated, essential technique points across sources -- both light coconut milk and hard boiling will compromise the dish's signature silky, rich gravy. Thalapath (sailfish) is the most traditional fish for this dish in Sri Lanka, though kingfish, mackerel, or any firm white fish are widely accepted substitutes."
+}

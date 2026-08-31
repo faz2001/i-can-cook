@@ -1,0 +1,140 @@
+{
+  "id": "sl_050",
+  "name_en": "Watalappan (Coconut Jaggery Steamed Pudding)",
+  "name_si": "වටලප්පන්",
+  "regional_origin": "Island-wide (Sri Lankan Muslim / Malay community origin)",
+  "cuisine": "Sri Lankan",
+  "course": "Dessert",
+  "servings": 6,
+  "prep_time_min": 20,
+  "cook_time_min": 50,
+  "total_time_min": 70,
+  "ingredients": [
+    {
+      "canonical_id": "ing_egg",
+      "name": "Eggs",
+      "quantity": 6,
+      "unit": "count",
+      "notes": "room temperature; beaten lightly with a hand whisk only -- do not use an electric beater, which over-aerates and produces a sponge rather than a custard"
+    },
+    {
+      "canonical_id": "ing_treacle_kithul",
+      "name": "Kithul jaggery",
+      "quantity": 250,
+      "unit": "g",
+      "notes": "grated or crumbled; dark brown sugar or palm sugar are acceptable substitutes, but kithul jaggery gives the authentic earthy, slightly fermented flavour"
+    },
+    {
+      "canonical_id": "ing_coconut_milk",
+      "name": "Full-fat coconut milk",
+      "quantity": 400,
+      "unit": "ml",
+      "notes": "1 tin; do not use light coconut milk"
+    },
+    {
+      "canonical_id": "ing_cardamom",
+      "name": "Cardamom powder",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": "freshly ground from pods is best; can use nutmeg alone or a combination"
+    },
+    {
+      "canonical_id": "ing_cloves",
+      "name": "Cloves",
+      "quantity": 2,
+      "unit": "count",
+      "notes": "optional; ground finely along with the cardamom"
+    },
+    {
+      "canonical_id": "ing_cinnamon",
+      "name": "Cinnamon powder",
+      "quantity": 0.25,
+      "unit": "tsp",
+      "notes": "optional"
+    },
+    {
+      "canonical_id": "ing_salt",
+      "name": "Salt",
+      "quantity": 1,
+      "unit": "pinch",
+      "notes": "just a pinch, to balance the sweetness"
+    },
+    {
+      "canonical_id": "ing_cashew",
+      "name": "Cashew nuts",
+      "quantity": 30,
+      "unit": "g",
+      "notes": "scattered on top after steaming as garnish"
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "instruction": "Grate or crumble the kithul jaggery. Combine with the coconut milk in a saucepan over low heat, stirring until the jaggery is completely dissolved. Remove from heat and cool until no longer hot to the touch -- adding a hot mixture to eggs will scramble them.",
+      "duration_min": 8
+    },
+    {
+      "step": 2,
+      "instruction": "In a large bowl, lightly beat the eggs with a hand whisk for about 3-5 minutes until smooth and slightly frothy. Do not use an electric beater -- over-beating produces a sponge-like texture rather than the authentic custard with small honeycomb holes.",
+      "duration_min": 5
+    },
+    {
+      "step": 3,
+      "instruction": "Gradually pour the cooled jaggery-coconut milk into the beaten eggs, whisking continuously. Add the cardamom, cloves (if using), cinnamon (if using), and salt. Whisk until fully combined and uniform in colour.",
+      "duration_min": 3
+    },
+    {
+      "step": 4,
+      "instruction": "Strain the mixture through a fine sieve into a steamer-safe mould or bowl. Do not fill to the brim; the mixture rises slightly during steaming.",
+      "duration_min": 3
+    },
+    {
+      "step": 5,
+      "instruction": "Cover the mould tightly with aluminium foil. Place a thick cloth or tea towel over the steamer lid before closing -- this absorbs condensation and prevents water dripping into the watalappan.",
+      "duration_min": 2
+    },
+    {
+      "step": 6,
+      "instruction": "Steam over medium-low heat for 40-50 minutes, until a skewer inserted in the centre comes out clean. Do not lift the lid during steaming. Check water level at the 25-minute mark and top up with boiling water if needed.",
+      "duration_min": 45
+    },
+    {
+      "step": 7,
+      "instruction": "Remove from the steamer and cool to room temperature. Press cashew nuts gently onto the surface as garnish. Cover and refrigerate for at least 4 hours or overnight -- the flavour improves significantly after chilling.",
+      "duration_min": 5
+    },
+    {
+      "step": 8,
+      "instruction": "Serve chilled, scooped into individual bowls or turned out as a whole pudding. Traditionally served with sliced banana.",
+      "duration_min": 1
+    }
+  ],
+  "tags": [
+    "dessert",
+    "festival",
+    "wedding",
+    "vegetarian",
+    "gluten-free",
+    "dairy-free",
+    "steam",
+    "coconut-milk",
+    "jaggery",
+    "over-60-min",
+    "comfort-food"
+  ],
+  "ayurvedic_balance": "vata-pacifying",
+  "nutrition_per_serving": {
+    "calories": 285,
+    "protein_g": 8,
+    "carbs_g": 39,
+    "fat_g": 11,
+    "fibre_g": 0
+  },
+  "trust_score": 0.92,
+  "source_url": "https://www.hungrylankan.com/recipes/sri-lankan-watalappam/",
+  "source_site": "hungrylankan.com, cross-checked against islandsmile.org, loveandotherspices.com, serendipdelights.com, thebigsweettooth.com, cookingtheglobe.com, recipe52.com, dailylife.lk, and archanaskitchen.com",
+  "collection_method": "scraped, cross-checked across 9+ independent sources; very strong agreement on kithul jaggery, full-fat coconut milk, hand whisking only, and cloth-covered lid technique",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "Watalappan (also watalappam, vattalappam) is believed to have been brought to Sri Lanka by Malay soldiers during Dutch colonial rule (1640-1796) and remains closely associated with the Sri Lankan Muslim community, especially at Eid and weddings. Its key distinction from creme caramel is the deliberately porous, honeycomb-like interior -- small holes filled with syrup -- achieved by steaming at medium rather than gentle heat, and by not over-beating the eggs. Kithul jaggery is essential to authentic flavour; dark brown sugar is an acceptable substitute, but regular white sugar changes the character completely. Refrigerating overnight before serving is strongly recommended by multiple sources -- both flavour and texture improve significantly after chilling."
+}

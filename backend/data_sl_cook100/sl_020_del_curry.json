@@ -1,0 +1,178 @@
+{
+  "id": "sl_020",
+  "name_en": "Breadfruit Curry (Del Curry)",
+  "name_si": "දෙල් කරිය",
+  "regional_origin": "Island-wide",
+  "cuisine": "Sri Lankan",
+  "course": "Main",
+  "servings": 4,
+  "prep_time_min": 20,
+  "cook_time_min": 30,
+  "total_time_min": 50,
+  "ingredients": [
+    {
+      "canonical_id": "ing_breadfruit",
+      "name": "Breadfruit (del)",
+      "quantity": 600,
+      "unit": "g",
+      "notes": "1 medium breadfruit, peeled, core removed, cut into bite-sized cubes"
+    },
+    {
+      "canonical_id": "ing_turmeric",
+      "name": "Turmeric powder",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_curry_powder_unroasted",
+      "name": "Unroasted Sri Lankan curry powder",
+      "quantity": 1,
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_fenugreek",
+      "name": "Fenugreek seeds",
+      "quantity": 0.25,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_cinnamon",
+      "name": "Cinnamon stick",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "small piece"
+    },
+    {
+      "canonical_id": "ing_curry_leaves",
+      "name": "Curry leaves",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "1 sprig"
+    },
+    {
+      "canonical_id": "ing_pandan",
+      "name": "Pandan leaf",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "small piece"
+    },
+    {
+      "canonical_id": "ing_green_chilli",
+      "name": "Green chilli",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "sliced"
+    },
+    {
+      "canonical_id": "ing_onion",
+      "name": "Onion",
+      "quantity": 0.5,
+      "unit": "count",
+      "notes": "sliced"
+    },
+    {
+      "canonical_id": "ing_coconut_milk",
+      "name": "Thin coconut milk",
+      "quantity": 400,
+      "unit": "ml",
+      "notes": "enough to cover the breadfruit while boiling"
+    },
+    {
+      "canonical_id": "ing_coconut_milk",
+      "name": "Thick coconut milk",
+      "quantity": 200,
+      "unit": "ml",
+      "notes": "added once the breadfruit is tender"
+    },
+    {
+      "canonical_id": "ing_salt",
+      "name": "Salt",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": "to taste"
+    },
+    {
+      "canonical_id": "ing_coconut_oil",
+      "name": "Coconut oil",
+      "quantity": 1,
+      "unit": "tbsp",
+      "notes": "for the tempering"
+    },
+    {
+      "canonical_id": "ing_mustard_seeds",
+      "name": "Mustard seeds",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": "for the tempering"
+    },
+    {
+      "canonical_id": "ing_chilli_powder",
+      "name": "Dried red chillies",
+      "quantity": 2,
+      "unit": "count",
+      "notes": "broken into pieces, for the tempering"
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "instruction": "Slice off the top and bottom of the breadfruit. Peel away the green skin until the white flesh is exposed, then cut into quarters and remove the thick woody core -- this must be removed completely as it is hard and inedible. Cut the remaining flesh into bite-sized cubes.",
+      "duration_min": 15
+    },
+    {
+      "step": 2,
+      "instruction": "Place the breadfruit cubes in a cooking pot, ideally a clay pot. Add the turmeric, unroasted curry powder, fenugreek, cinnamon, curry leaves, pandan leaf, green chilli, sliced onion, and salt.",
+      "duration_min": 3
+    },
+    {
+      "step": 3,
+      "instruction": "Add the thin coconut milk, enough to just cover the breadfruit. Cover and cook over medium heat, stirring occasionally to avoid clumping, until the breadfruit is tender, about 15-20 minutes.",
+      "duration_min": 18
+    },
+    {
+      "step": 4,
+      "instruction": "Once the breadfruit is well cooked, pour in the thick coconut milk. Stir gently and simmer for a further 5-10 minutes until the curry thickens slightly. Adjust salt to taste.",
+      "duration_min": 8
+    },
+    {
+      "step": 5,
+      "instruction": "Meanwhile, prepare the tempering: heat the coconut oil in a small pan. Add the mustard seeds and let them pop, then add the dried red chillies and fry briefly until darkened and fragrant.",
+      "duration_min": 2
+    },
+    {
+      "step": 6,
+      "instruction": "Pour the hot tempering over the breadfruit curry and mix well. Serve hot with plain or red rice.",
+      "duration_min": 1
+    }
+  ],
+  "tags": [
+    "lunch",
+    "dinner",
+    "curry",
+    "everyday",
+    "vegan",
+    "vegetarian",
+    "gluten-free",
+    "coconut-milk",
+    "creamy",
+    "30-60-min"
+  ],
+  "ayurvedic_balance": "kapha-pacifying",
+  "nutrition_per_serving": {
+    "calories": 210,
+    "protein_g": 3,
+    "carbs_g": 35,
+    "fat_g": 8,
+    "fibre_g": 5
+  },
+  "trust_score": 0.85,
+  "source_url": "https://foodcnr.com/sri-lankan-breadfruit-curry/",
+  "source_site": "foodcnr.com, cross-checked against islandsmile.org and rasakama.wordpress.com for technique consistency",
+  "collection_method": "scraped, cross-checked across 3 independent sources for consistent coconut-milk-based technique and tempering finish",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "Breadfruit (del) has a starchy texture similar to jackfruit or potato but is easier to clean and prepare since it has no sticky sap or tough rind once peeled, only the thick central core, which must be fully removed as it is woody and unpleasant to chew. Some households omit the final mustard-seed tempering; others (as here) consider it essential for aroma. Breadfruit curry has a natural mild sweetness; a pinch of sugar can be added if this sweetness feels muted. Other ways breadfruit is eaten in Sri Lanka include boiled with coconut sambol, deep-fried as chips with caramelized sugar, or as 'del mallum' (cooked with grated coconut, similar to gotukola sambol's style)."
+}

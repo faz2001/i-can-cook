@@ -1,0 +1,179 @@
+{
+  "id": "sl_018",
+  "name_en": "Cashew Curry (Kaju Maluwa)",
+  "name_si": "කජු මාලුව",
+  "regional_origin": "Island-wide (festive/wedding dish)",
+  "cuisine": "Sri Lankan",
+  "course": "Main",
+  "servings": 4,
+  "prep_time_min": 60,
+  "cook_time_min": 20,
+  "total_time_min": 80,
+  "ingredients": [
+    {
+      "canonical_id": "ing_cashew",
+      "name": "Raw cashew nuts",
+      "quantity": 200,
+      "unit": "g",
+      "notes": "soaked in water for at least 1 hour, or overnight for best texture; drain before use"
+    },
+    {
+      "canonical_id": "ing_coconut_oil",
+      "name": "Coconut oil",
+      "quantity": 2,
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_cinnamon",
+      "name": "Cinnamon stick",
+      "quantity": 2.5,
+      "unit": "cm",
+      "notes": "1-inch piece"
+    },
+    {
+      "canonical_id": "ing_cloves",
+      "name": "Cloves",
+      "quantity": 0.25,
+      "unit": "tsp",
+      "notes": "crushed"
+    },
+    {
+      "canonical_id": "ing_cardamom",
+      "name": "Cardamom pods",
+      "quantity": 4,
+      "unit": "count",
+      "notes": "split"
+    },
+    {
+      "canonical_id": "ing_onion",
+      "name": "Onion",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "medium, sliced"
+    },
+    {
+      "canonical_id": "ing_garlic",
+      "name": "Garlic",
+      "quantity": 3,
+      "unit": "cloves",
+      "notes": "finely chopped"
+    },
+    {
+      "canonical_id": "ing_ginger",
+      "name": "Ginger",
+      "quantity": 2,
+      "unit": "tsp",
+      "notes": "finely chopped"
+    },
+    {
+      "canonical_id": "ing_curry_leaves",
+      "name": "Curry leaves",
+      "quantity": 6,
+      "unit": "count",
+      "notes": "1 sprig"
+    },
+    {
+      "canonical_id": "ing_green_chilli",
+      "name": "Green chilli",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "slit"
+    },
+    {
+      "canonical_id": "ing_black_pepper",
+      "name": "Black pepper powder",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": "to taste; dish is traditionally mild, increase for more heat"
+    },
+    {
+      "canonical_id": "ing_turmeric",
+      "name": "Turmeric powder",
+      "quantity": 0.25,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_curry_powder_roasted",
+      "name": "Roasted Sri Lankan curry powder",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": "see sl_006 Roasted Sri Lankan Curry Powder; added at the very end"
+    },
+    {
+      "canonical_id": "ing_coconut_milk",
+      "name": "Coconut milk",
+      "quantity": 250,
+      "unit": "ml",
+      "notes": "full-fat for the creamiest result"
+    },
+    {
+      "canonical_id": "ing_salt",
+      "name": "Salt",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": "to taste"
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "instruction": "Soak the raw cashews in water for at least 1 hour (or up to overnight for plumper, softer nuts). Drain well before cooking.",
+      "duration_min": 60
+    },
+    {
+      "step": 2,
+      "instruction": "Heat the coconut oil in a pan over medium heat. Add the cinnamon, cloves, and cardamom, and sauté briefly until fragrant.",
+      "duration_min": 2
+    },
+    {
+      "step": 3,
+      "instruction": "Add the onion, garlic, curry leaves, and green chilli. Sauté over medium heat until the onions turn soft and light golden brown, about 4-5 minutes.",
+      "duration_min": 5
+    },
+    {
+      "step": 4,
+      "instruction": "Add the drained cashews, turmeric, and black pepper. Stir-fry for 2-3 minutes until everything is well combined and the spices coat the cashews.",
+      "duration_min": 3
+    },
+    {
+      "step": 5,
+      "instruction": "Pour in the coconut milk and add the salt. Stir well, bring to a boil, then lower the heat and simmer gently for 8-10 minutes, until the cashews are tender (plump but with a slight bite) and the sauce has thickened slightly.",
+      "duration_min": 9
+    },
+    {
+      "step": 6,
+      "instruction": "Turn off the heat and stir in the roasted curry powder. Taste and adjust the salt if needed. Serve hot with plain rice or string hoppers.",
+      "duration_min": 1
+    }
+  ],
+  "tags": [
+    "lunch",
+    "dinner",
+    "curry",
+    "festival",
+    "wedding",
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "coconut-milk",
+    "creamy",
+    "over-60-min"
+  ],
+  "ayurvedic_balance": "vata-pacifying",
+  "nutrition_per_serving": {
+    "calories": 320,
+    "protein_g": 8,
+    "carbs_g": 14,
+    "fat_g": 27,
+    "fibre_g": 2
+  },
+  "trust_score": 0.88,
+  "source_url": "https://www.islandsmile.org/sri-lankan-cashew-kaju-curry/",
+  "source_site": "islandsmile.org, cross-checked against hungrylankan.com, livingrootsusa.com, and 196flavors.com for technique and ratio consistency",
+  "collection_method": "scraped, cross-checked across 4 independent sources for consistent core technique (soak, temper, simmer in coconut milk) and the dish's signature mild spicing",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "Kaju Maluwa is traditionally served at weddings, alms-giving ceremonies (dane), and other festive occasions, since it can be made in large batches and keeps well. Unlike most Sri Lankan curries, it is intentionally mild -- the dish's appeal comes from the cashew's natural sweetness and the rich coconut milk rather than heat, though black pepper or chilli flakes can be increased for those who prefer more spice. Common additions across households include green peas, potato, or fenugreek leaves; this entry reflects the simpler, classic cashew-only version. Cashews labelled 'cooking cashews' in Sri Lankan/South Asian groceries need only a short 15-minute soak; plain raw cashews need the full hour or longer."
+}

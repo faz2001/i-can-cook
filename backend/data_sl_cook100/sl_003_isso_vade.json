@@ -1,0 +1,141 @@
+{
+  "id": "sl_003",
+  "name_en": "Isso Vade (Prawn Fritters)",
+  "name_si": "ඉස්සෝ වඩේ",
+  "regional_origin": "Colombo",
+  "cuisine": "Sri Lankan",
+  "course": "Snack",
+  "servings": 4,
+  "prep_time_min": 10,
+  "cook_time_min": 15,
+  "total_time_min": 25,
+  "ingredients": [
+    {
+      "canonical_id": "ing_lentil_chana",
+      "name": "Split chana (gram) lentils",
+      "quantity": 2,
+      "unit": "cups",
+      "notes": "soaked for at least 6 hours or overnight, then strained"
+    },
+    {
+      "canonical_id": "ing_garlic",
+      "name": "Garlic",
+      "quantity": 5,
+      "unit": "cloves",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_chilli_powder",
+      "name": "Kashmiri chilli powder",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": "more or less to taste"
+    },
+    {
+      "canonical_id": "ing_chilli_powder",
+      "name": "Dried red chilli flakes",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": "optional"
+    },
+    {
+      "canonical_id": "ing_salt",
+      "name": "Salt",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_onion",
+      "name": "Red onion",
+      "quantity": 1,
+      "unit": "medium",
+      "notes": "finely chopped"
+    },
+    {
+      "canonical_id": "ing_green_chilli",
+      "name": "Green bird's eye chillies",
+      "quantity": 3,
+      "unit": "count",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_curry_leaves",
+      "name": "Fresh curry leaves",
+      "quantity": 10,
+      "unit": "count",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_shrimp",
+      "name": "Fresh or frozen raw prawns",
+      "quantity": 300,
+      "unit": "g",
+      "notes": "shell-on small prawns authentic; large peeled prawns work too"
+    },
+    {
+      "canonical_id": "ing_coconut_oil",
+      "name": "Oil for frying",
+      "quantity": 500,
+      "unit": "ml",
+      "notes": "vegetable or coconut oil, about 5cm deep in wok"
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "instruction": "Soak chana lentils in water for at least 6 hours or overnight until soft enough to smash between fingers. Strain well — do not add any water to the processor.",
+      "duration_min": 360
+    },
+    {
+      "step": 2,
+      "instruction": "Place strained lentils in a food processor with garlic, chilli flakes, chilli powder, salt, red onion, green chillies, and curry leaves. Blend to a thick paste without adding water.",
+      "duration_min": 3
+    },
+    {
+      "step": 3,
+      "instruction": "Wet your hands with water. Take a small handful of paste, form into a ball, flatten slightly, and press one prawn firmly into the centre so it holds during frying. Repeat with remaining paste and prawns.",
+      "duration_min": 10
+    },
+    {
+      "step": 4,
+      "instruction": "Heat oil in a wok to 200°C (400°F). Test readiness by placing a wooden chopstick in the oil — if bubbles sizzle from it immediately, the oil is ready.",
+      "duration_min": 5
+    },
+    {
+      "step": 5,
+      "instruction": "Fry vade in small batches of 3, splashing oil over the top with a spoon until lightly golden and the prawn is cooked through, about 3–4 minutes. Transfer to a wire rack or paper towel.",
+      "duration_min": 15
+    },
+    {
+      "step": 6,
+      "instruction": "Serve topped with tamarind sauce or hot sauce and salad vegetables (shredded cabbage, grated carrot, spring onions, tomato).",
+      "duration_min": 2
+    }
+  ],
+  "tags": [
+    "snack",
+    "street-food",
+    "seafood",
+    "deep-fry",
+    "spicy",
+    "colombo",
+    "crowd-pleaser",
+    "30-60-min"
+  ],
+  "ayurvedic_balance": "not-classified",
+  "nutrition_per_serving": {
+    "calories": 87,
+    "protein_g": 8,
+    "carbs_g": 12,
+    "fat_g": 1,
+    "fibre_g": 2
+  },
+  "trust_score": 0.85,
+  "source_url": "https://greatcurryrecipes.net/2022/06/02/isso-vade/",
+  "source_site": "greatcurryrecipes.net",
+  "collection_method": "scraped",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-23",
+  "notes": "Hugely popular street food in Colombo and Negombo. Recipe by Dan Toombs (The Curry Guy), learned on location in Sri Lanka Jan 2022. Authentic versions use small shell-on prawns. Soak time (6h) not included in total_time_min. Note: chana dal = split chickpea lentils, different from ing_lentil_green — update taxonomy."
+}

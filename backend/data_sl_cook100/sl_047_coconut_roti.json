@@ -1,0 +1,132 @@
+{
+  "id": "sl_047",
+  "name_en": "Coconut Roti (Pol Roti)",
+  "name_si": "පොල් රොටි",
+  "regional_origin": "Island-wide",
+  "cuisine": "Sri Lankan",
+  "course": "Breakfast",
+  "servings": 4,
+  "prep_time_min": 20,
+  "cook_time_min": 20,
+  "total_time_min": 40,
+  "ingredients": [
+    {
+      "canonical_id": "ing_flour_wheat",
+      "name": "All-purpose flour",
+      "quantity": 280,
+      "unit": "g",
+      "notes": "about 2 cups; wheat flour (atta) can substitute, though it may need slightly more water"
+    },
+    {
+      "canonical_id": "ing_coconut_grated",
+      "name": "Freshly grated coconut",
+      "quantity": 140,
+      "unit": "g",
+      "notes": "about 1 cup; unsweetened desiccated coconut works as a substitute if fresh is unavailable"
+    },
+    {
+      "canonical_id": "ing_salt",
+      "name": "Salt",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": "to taste"
+    },
+    {
+      "canonical_id": "ing_onion",
+      "name": "Onion or shallots",
+      "quantity": 0.25,
+      "unit": "count",
+      "notes": "finely chopped; optional"
+    },
+    {
+      "canonical_id": "ing_green_chilli",
+      "name": "Green chillies",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "finely sliced; optional, or substitute red chilli flakes"
+    },
+    {
+      "canonical_id": "ing_curry_leaves",
+      "name": "Curry leaves",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "finely sliced, optional"
+    },
+    {
+      "canonical_id": "ing_water",
+      "name": "Water",
+      "quantity": 180,
+      "unit": "ml",
+      "notes": "added gradually; amount needed varies depending on the coconut and flour used"
+    },
+    {
+      "canonical_id": "ing_coconut_oil",
+      "name": "Oil",
+      "quantity": 2,
+      "unit": "tbsp",
+      "notes": "for greasing hands and the pan while shaping and cooking"
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "instruction": "If using desiccated coconut instead of fresh, soak it in a little coconut milk or warm water for about 20-30 minutes beforehand to soften it.",
+      "duration_min": 25
+    },
+    {
+      "step": 2,
+      "instruction": "Sift the flour into a large bowl. Add the grated coconut, salt, chopped onion, green chillies, and curry leaves (if using). Mix well to combine evenly.",
+      "duration_min": 3
+    },
+    {
+      "step": 3,
+      "instruction": "Add the water gradually, mixing with your hands as you go, until the mixture comes together into a soft, slightly tacky dough. It should hold together but not be sticky -- add a little more flour if too wet, or a touch more water if too dry.",
+      "duration_min": 7
+    },
+    {
+      "step": 4,
+      "instruction": "Knead briefly, just until the dough comes together evenly (no need for prolonged kneading, since there's no gluten development required here in the traditional sense). Divide the dough into 8-10 equal portions and roll into balls.",
+      "duration_min": 5
+    },
+    {
+      "step": 5,
+      "instruction": "Grease your hands and a flat surface lightly with oil. Flatten each dough ball by hand or with a rolling pin into a disc about 12-15cm (5-6 inches) wide and roughly 0.5cm thick.",
+      "duration_min": 8
+    },
+    {
+      "step": 6,
+      "instruction": "Heat a dry flat pan or griddle over medium-high heat. Place a flattened roti on the hot pan and cook for about 2-3 minutes per side, until both sides develop golden-brown spots and the roti is cooked through.",
+      "duration_min": 5
+    },
+    {
+      "step": 7,
+      "instruction": "Repeat with the remaining dough, stacking the cooked rotis under a clean cloth to keep them soft and warm. Serve warm with pol sambol, lunu miris, a lentil curry, or any curry of choice -- or simply with butter and jam for a sweeter breakfast.",
+      "duration_min": 1
+    }
+  ],
+  "tags": [
+    "breakfast",
+    "dinner",
+    "everyday",
+    "vegan",
+    "vegetarian",
+    "dairy-free",
+    "30-60-min",
+    "comfort-food"
+  ],
+  "ayurvedic_balance": "kapha-pacifying",
+  "nutrition_per_serving": {
+    "calories": 290,
+    "protein_g": 6,
+    "carbs_g": 40,
+    "fat_g": 12,
+    "fibre_g": 3
+  },
+  "trust_score": 0.92,
+  "source_url": "https://www.theflavorbender.com/sri-lankan-pol-roti-coconut-roti/",
+  "source_site": "theflavorbender.com, cross-checked against islandsmile.org, hungrylankan.com, sidechef.com, borntobespicy.com, today.com, and mycookingjourney.com for ratio and technique consistency",
+  "collection_method": "scraped, cross-checked across 7+ independent sources; very strong agreement on the unleavened flour-coconut-water dough and the importance of using unsweetened coconut",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "Pol roti requires no yeast or chemical leavening agent (baking powder or soda), unlike many other flatbreads, making it one of the simplest and most forgiving breads in Sri Lankan home cooking. The ratio of coconut to flour is flexible and a matter of household preference -- more coconut gives a milkier, softer roti but makes the dough harder to flatten, while less coconut gives a firmer, easier-to-shape dough. If using desiccated coconut rather than fresh, it is critical to confirm it is unsweetened, since sweetened desiccated coconut will not work for this savoury dish. Onion, green chilli, and curry leaves are common but optional additions; a completely plain version with just flour, coconut, salt, and water is equally valid and traditional. The dish is exceptionally versatile, eaten for breakfast, lunch, or dinner, plain with butter and jam, or alongside any curry."
+}

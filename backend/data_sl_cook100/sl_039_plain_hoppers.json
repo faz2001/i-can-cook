@@ -1,0 +1,132 @@
+{
+  "id": "sl_039",
+  "name_en": "Plain Hoppers (Appa)",
+  "name_si": "ආප්ප",
+  "regional_origin": "Island-wide",
+  "cuisine": "Sri Lankan",
+  "course": "Breakfast",
+  "servings": 4,
+  "prep_time_min": 30,
+  "cook_time_min": 30,
+  "total_time_min": 1080,
+  "ingredients": [
+    {
+      "canonical_id": "ing_flour_rice",
+      "name": "Rice flour (plain, not glutinous)",
+      "quantity": 250,
+      "unit": "g",
+      "notes": "about 2 cups; long-grain white rice flour, not Japanese-style glutinous rice flour"
+    },
+    {
+      "canonical_id": "ing_yeast",
+      "name": "Active dry yeast",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": "traditionally palm toddy is used instead of yeast, giving a more tangy, fermented flavour"
+    },
+    {
+      "canonical_id": "ing_water",
+      "name": "Warm water",
+      "quantity": 250,
+      "unit": "ml",
+      "notes": "for mixing the initial dough-like paste; added gradually"
+    },
+    {
+      "canonical_id": "ing_coconut_milk",
+      "name": "Coconut milk",
+      "quantity": 200,
+      "unit": "ml",
+      "notes": "added after the overnight fermentation, gradually until the right consistency is reached"
+    },
+    {
+      "canonical_id": "ing_sugar",
+      "name": "Sugar",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": "added after fermentation, not before, as sugar can interfere with the rise"
+    },
+    {
+      "canonical_id": "ing_salt",
+      "name": "Salt",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": "added after fermentation, not before, as salt can interfere with the rise"
+    },
+    {
+      "canonical_id": "ing_coconut_oil",
+      "name": "Oil",
+      "quantity": 2,
+      "unit": "tsp",
+      "notes": "for greasing the hopper pan between hoppers"
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "instruction": "The night before serving (about 18-20 hours ahead), mix the rice flour, yeast, and warm water into a very thick, dough-like paste using a spoon or fork. Do not add sugar or salt at this stage. Cover and leave in a warm place to ferment for 18-20 hours, until small bubbles appear on the surface and the paste has risen slightly.",
+      "duration_min": 1080
+    },
+    {
+      "step": 2,
+      "instruction": "After fermentation, add the sugar and coconut milk gradually, mixing to form a smooth batter. Add the coconut milk a little at a time -- you may need slightly less or more than the amount listed, depending on the flour. The batter should be thinner than pancake batter, similar to a runny crepe batter.",
+      "duration_min": 10
+    },
+    {
+      "step": 3,
+      "instruction": "Stir in the salt last. Cover the batter again and let it rest for a further 30 minutes before cooking.",
+      "duration_min": 30
+    },
+    {
+      "step": 4,
+      "instruction": "Heat a hopper pan (appachatti) over medium-high heat. Lightly grease with a little oil using a paper towel or brush -- only a thin film is needed, especially on a non-stick pan.",
+      "duration_min": 2
+    },
+    {
+      "step": 5,
+      "instruction": "Once the pan is hot, pour in a small ladleful of batter. Immediately lift the pan and swirl it in a circular motion to spread the batter thinly up the sides, leaving a thicker pool in the centre.",
+      "duration_min": 1
+    },
+    {
+      "step": 6,
+      "instruction": "Cover the pan with a lid and let the hopper cook for about 2-4 minutes, until the edges turn golden, lacy, and crisp, while the thicker centre stays soft and spongy.",
+      "duration_min": 3
+    },
+    {
+      "step": 7,
+      "instruction": "Gently loosen the edges with a spatula or your fingers and lift the hopper out. Repeat with the remaining batter, re-greasing the pan lightly between hoppers if needed.",
+      "duration_min": 1
+    },
+    {
+      "step": 8,
+      "instruction": "Serve warm, plain or with sugar, alongside coconut sambol, lunu miris, or any curry.",
+      "duration_min": 1
+    }
+  ],
+  "tags": [
+    "breakfast",
+    "dinner",
+    "street-food",
+    "everyday",
+    "vegan",
+    "vegetarian",
+    "gluten-free",
+    "dairy-free",
+    "coconut-milk",
+    "over-60-min"
+  ],
+  "ayurvedic_balance": "vata-pacifying",
+  "nutrition_per_serving": {
+    "calories": 180,
+    "protein_g": 3,
+    "carbs_g": 36,
+    "fat_g": 3,
+    "fibre_g": 1
+  },
+  "trust_score": 0.91,
+  "source_url": "https://www.hungrylankan.com/recipes/sri-lankan-hoppers/",
+  "source_site": "hungrylankan.com, cross-checked against greatcurryrecipes.net, joyofeatingtheworld.com, srilankafoods.com, eggs.ca, and authenticworldfood.com for fermentation timing and batter consistency",
+  "collection_method": "scraped, cross-checked across 6+ independent sources; very strong agreement on the long fermentation as essential to authentic flavour, and on adding sugar/salt only after fermentation",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "The total_time_min reflects the full 18-20 hour fermentation period required for authentic flavour, even though active hands-on time is well under an hour; quicker versions using only a few hours of fermentation exist but produce a milder, less tangy result. Traditionally, palm toddy (a fermented coconut sap drink) was used instead of commercial yeast, contributing to the dish's distinctive tang -- modern home recipes substitute yeast for convenience. A genuine hopper pan (appachatti), a small bowl-shaped pan with a lid, is important for achieving the dish's characteristic bowl shape with crisp lacy edges and a soft centre; a small wok can substitute in a pinch but won't produce quite the same shape. This batter is also the base for egg hoppers (sl_040) and several other variants such as sweet hoppers (pani appa) and steamed hoppers (wandu appa)."
+}

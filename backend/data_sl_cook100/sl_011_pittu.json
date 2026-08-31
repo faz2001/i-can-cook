@@ -1,0 +1,110 @@
+{
+  "id": "sl_011",
+  "name_en": "Pittu (Steamed Rice and Coconut Cake)",
+  "name_si": "පිට්ටු",
+  "regional_origin": "Island-wide",
+  "cuisine": "Sri Lankan",
+  "course": "Breakfast",
+  "servings": 4,
+  "prep_time_min": 15,
+  "cook_time_min": 15,
+  "total_time_min": 30,
+  "ingredients": [
+    {
+      "canonical_id": "ing_flour_rice",
+      "name": "Roasted rice flour (red or white)",
+      "quantity": 450,
+      "unit": "g",
+      "notes": "approx. 4 cups; use pre-roasted pittu/string-hopper flour, not plain raw rice flour"
+    },
+    {
+      "canonical_id": "ing_coconut_grated",
+      "name": "Scraped or grated coconut",
+      "quantity": 200,
+      "unit": "g",
+      "notes": "approx. 2.5-3 cups; fresh is best, moistened desiccated coconut works as a substitute"
+    },
+    {
+      "canonical_id": "ing_salt",
+      "name": "Salt",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": "to taste"
+    },
+    {
+      "canonical_id": "ing_water",
+      "name": "Water",
+      "quantity": 150,
+      "unit": "ml",
+      "notes": "added gradually; exact amount depends on how dry the flour is"
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "instruction": "In a large bowl, gently mix the roasted rice flour with the salt.",
+      "duration_min": 1
+    },
+    {
+      "step": 2,
+      "instruction": "Add the scraped coconut to the flour and mix to combine evenly.",
+      "duration_min": 2
+    },
+    {
+      "step": 3,
+      "instruction": "Sprinkle water into the mixture gradually, working it in with your fingertips in a circular rubbing motion. You are aiming for a crumbly texture, like wet sand or breadcrumbs -- moist but not wet, holding together loosely when pressed without becoming sticky or doughy.",
+      "duration_min": 8
+    },
+    {
+      "step": 4,
+      "instruction": "Bring water to a boil in the base of a pittu steamer (or a regular steamer fitted with a bamboo/perforated insert).",
+      "duration_min": 5
+    },
+    {
+      "step": 5,
+      "instruction": "Fill the pittu cylinder with the flour-coconut mixture without pressing it down tightly -- a loose fill allows steam to pass through evenly. If using a bamboo colander instead, line it with a clean damp cloth and spread the mixture on top.",
+      "duration_min": 3
+    },
+    {
+      "step": 6,
+      "instruction": "Place the filled cylinder onto the steamer base. Steam for about 5-6 minutes, until you see steam coming through the top of the pittu and it is firm to the touch.",
+      "duration_min": 6
+    },
+    {
+      "step": 7,
+      "instruction": "Push the cooked pittu out of the cylinder using a wooden dowel or the back of a spoon. Repeat with the remaining mixture in batches.",
+      "duration_min": 4
+    },
+    {
+      "step": 8,
+      "instruction": "Serve warm with warmed coconut milk (lightly salted), lunu miris, or any spicy meat, fish, or vegetable curry.",
+      "duration_min": 1
+    }
+  ],
+  "tags": [
+    "breakfast",
+    "everyday",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "steam",
+    "coconut-milk",
+    "comfort-food",
+    "under-30-min"
+  ],
+  "ayurvedic_balance": "kapha-pacifying",
+  "nutrition_per_serving": {
+    "calories": 310,
+    "protein_g": 5,
+    "carbs_g": 55,
+    "fat_g": 9,
+    "fibre_g": 3
+  },
+  "trust_score": 0.85,
+  "source_url": "https://www.elanka.com.au/sri-lankan-pittu-recipe-by-malsha-elanka/",
+  "source_site": "elanka.com.au, cross-checked against rasakama.wordpress.com and toneandtaste.com for technique and ratio consistency",
+  "collection_method": "scraped, cross-checked across 3 independent sources for consistent flour-to-coconut ratio and crumb texture description",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "Pittu (puttu in South India) is traditionally made in a cylindrical bamboo or metal steamer called a 'pittu bambuwa'. The crumbly texture of the dough -- not a wet dough -- is the single most important technique point; over-wetting produces a dense, gummy result rather than the airy steamed texture pittu is known for. Variations include kurakkan (finger millet) flour pittu, served simply with coconut and jaggery rather than savoury curries."
+}

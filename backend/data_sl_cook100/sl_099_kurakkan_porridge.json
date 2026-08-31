@@ -1,0 +1,39 @@
+{
+  "id": "sl_099",
+  "name_en": "Kurakkan Porridge (Finger Millet Porridge)",
+  "name_si": "කුරක්කන් කැඳ",
+  "regional_origin": "Upcountry Sri Lanka (Kurunegala, Kandy, Hambantota)",
+  "cuisine": "Sri Lankan",
+  "course": "Breakfast",
+  "servings": 4,
+  "prep_time_min": 5,
+  "cook_time_min": 20,
+  "total_time_min": 25,
+  "ingredients": [
+    {"canonical_id": "ing_kurakkan_flour", "name": "Kurakkan flour (finger millet flour / ragi)", "quantity": 100, "unit": "g", "notes": "about 3/4 cup; make sure it is the pre-roasted, finely milled variety for best texture"},
+    {"canonical_id": "ing_water", "name": "Water", "quantity": 750, "unit": "ml", "notes": "3 cups; adjust for thicker or thinner consistency"},
+    {"canonical_id": "ing_coconut_milk", "name": "Thick coconut milk", "quantity": 200, "unit": "ml", "notes": "added at the end; gives richness and balances the millet's earthy flavour"},
+    {"canonical_id": "ing_jaggery", "name": "Kithul jaggery or treacle", "quantity": 4, "unit": "tbsp", "notes": "served alongside, not stirred in -- the traditional way is to dip each spoonful of porridge into the jaggery"},
+    {"canonical_id": "ing_salt", "name": "Salt", "quantity": 0.25, "unit": "tsp", "notes": "just a pinch; enhances flavour"},
+    {"canonical_id": "ing_garlic", "name": "Garlic", "quantity": 2, "unit": "cloves", "notes": "optional; traditional recipes often include a clove or two for its medicinal properties"},
+    {"canonical_id": "ing_ginger", "name": "Ginger", "quantity": 1, "unit": "tsp", "notes": "optional; a small amount for warmth and digestive benefit"}
+  ],
+  "steps": [
+    {"step": 1, "instruction": "In a bowl, mix the kurakkan flour with about 1/2 cup of the water to make a smooth, lump-free paste. Stir until completely combined with no dry flour remaining. This initial mixing prevents lumps forming when the flour hits boiling water.", "duration_min": 3},
+    {"step": 2, "instruction": "Bring the remaining water to a boil in a heavy-bottomed saucepan. Add the garlic and ginger (if using). Let simmer for 2 minutes.", "duration_min": 3},
+    {"step": 3, "instruction": "Reduce the heat to medium-low. Slowly pour the kurakkan paste into the simmering water in a thin, steady stream, stirring constantly with a wooden spoon or whisk. Continuous stirring from this point is essential to prevent lumps and burning.", "duration_min": 2},
+    {"step": 4, "instruction": "Continue cooking over medium-low heat, stirring constantly, for 12-15 minutes until the porridge thickens to a smooth, creamy consistency and the raw flour taste disappears. The porridge should coat the back of a spoon thickly.", "duration_min": 14},
+    {"step": 5, "instruction": "Add the salt and stir through. Pour in the thick coconut milk gradually, stirring as you go. Cook for a further 2-3 minutes until the coconut milk is fully incorporated and the porridge is smooth and glossy.", "duration_min": 3},
+    {"step": 6, "instruction": "Remove from heat. Serve hot in bowls, with kithul jaggery or treacle on the side for dipping or drizzling. Do not stir the jaggery in -- the traditional way is to eat each spoonful dipped in a little jaggery separately.", "duration_min": 1}
+  ],
+  "tags": ["breakfast", "everyday", "vegan", "vegetarian", "gluten-free", "dairy-free", "coconut-milk", "comfort-food", "under-30-min"],
+  "ayurvedic_balance": "tridoshic",
+  "nutrition_per_serving": {"calories": 165, "protein_g": 3, "carbs_g": 28, "fat_g": 6, "fibre_g": 3},
+  "trust_score": 0.91,
+  "source_url": "https://www.hungrylankan.com/recipes/kurakkan-porridge/",
+  "source_site": "hungrylankan.com, cross-checked against foodcnr.com, backtonature.lk, mylankanfoodjournal.com, siddhalepa.com, and ceylonheritage.lk",
+  "collection_method": "scraped, cross-checked across 6+ independent sources; strong agreement on the paste-first technique and serving jaggery separately",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "Kurakkan (finger millet / ragi / Eleusine coracana) is an ancient grain cultivated in Sri Lanka for thousands of years, especially in the dry zone and upcountry regions where paddy rice is harder to grow. Kurakkan porridge is considered one of the most nutritionally complete and medicinally valued Sri Lankan foods -- it is prescribed in Ayurvedic practice for diabetes management, bone strength (high calcium content), and digestive health. The porridge is distinctly different from rice-based kola kenda (sl_046) in flavour and texture -- kurakkan has a deeper, earthier, slightly nutty taste and a darker greyish-brown colour. The paste-first technique (mixing flour with cold water before adding to boiling water) is universally agreed across sources as the only way to achieve lump-free kurakkan porridge. Jaggery served alongside rather than stirred in is considered traditional -- it preserves the porridge's savoury-earthy flavour while adding sweetness bite by bite."
+}

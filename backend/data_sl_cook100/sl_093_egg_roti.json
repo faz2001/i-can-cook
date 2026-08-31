@@ -1,0 +1,43 @@
+{
+  "id": "sl_093",
+  "name_en": "Egg Roti (Sri Lankan Egg-Stuffed Flatbread)",
+  "name_si": "බිත්තර රොටී",
+  "regional_origin": "Island-wide (street food)",
+  "cuisine": "Sri Lankan",
+  "course": "Breakfast",
+  "servings": 4,
+  "prep_time_min": 90,
+  "cook_time_min": 20,
+  "total_time_min": 110,
+  "ingredients": [
+    {"canonical_id": "ing_flour_wheat", "name": "All-purpose flour (maida)", "quantity": 350, "unit": "g", "notes": "about 2.5 cups; the same godamba roti dough (sl_067); refined white flour gives the stretchiest dough"},
+    {"canonical_id": "ing_salt", "name": "Salt", "quantity": 1, "unit": "tsp", "notes": "for the dough, plus a pinch for the egg filling"},
+    {"canonical_id": "ing_water", "name": "Lukewarm water", "quantity": 180, "unit": "ml", "notes": "about 3/4 cup; add gradually"},
+    {"canonical_id": "ing_coconut_oil", "name": "Oil", "quantity": 200, "unit": "ml", "notes": "split: 1 tbsp for the dough, the rest for coating the rested dough balls and for frying"},
+    {"canonical_id": "ing_egg", "name": "Eggs", "quantity": 4, "unit": "count", "notes": "1 per roti; beaten with onion, chilli, and seasoning"},
+    {"canonical_id": "ing_onion", "name": "Onion", "quantity": 0.5, "unit": "count", "notes": "finely chopped; mixed into the beaten eggs"},
+    {"canonical_id": "ing_green_chilli", "name": "Green chilli", "quantity": 1, "unit": "count", "notes": "finely chopped; mixed into the beaten eggs"},
+    {"canonical_id": "ing_curry_leaves", "name": "Curry leaves", "quantity": 4, "unit": "count", "notes": "finely sliced; mixed into the beaten eggs; optional"},
+    {"canonical_id": "ing_black_pepper", "name": "Black pepper", "quantity": 0.5, "unit": "tsp", "notes": "for the egg mixture"},
+    {"canonical_id": "ing_chilli_powder", "name": "Chilli powder", "quantity": 0.25, "unit": "tsp", "notes": "optional; for extra colour and heat in the egg filling"}
+  ],
+  "steps": [
+    {"step": 1, "instruction": "Make the godamba roti dough: combine flour and salt. Add 1 tablespoon of oil and rub through. Gradually add lukewarm water and mix to a smooth, soft dough. Knead vigorously for 8-10 minutes until very elastic. Divide into 4 balls, coat each in oil, and rest covered for at least 1 hour -- this is essential for the dough to stretch thin without tearing. See sl_067 for the full dough method.", "duration_min": 70},
+    {"step": 2, "instruction": "For each roti: beat 1 egg with a small portion of the chopped onion, green chilli, curry leaves (if using), black pepper, chilli powder (if using), and a pinch of salt. Set aside.", "duration_min": 5},
+    {"step": 3, "instruction": "Heat a flat griddle or tawa over medium-high heat. Brush lightly with oil.", "duration_min": 2},
+    {"step": 4, "instruction": "Take one oiled dough ball and stretch it out on a lightly oiled surface as thin as possible -- the dough should be nearly translucent. Press and pull with your fingertips working outward from the centre, until it is roughly 25-30cm across.", "duration_min": 5},
+    {"step": 5, "instruction": "Lay the stretched dough on the hot griddle. Immediately pour the beaten egg mixture into the centre of the thin dough. Quickly fold the edges of the roti over the egg from all four sides to form a square parcel, enclosing the egg inside.", "duration_min": 2},
+    {"step": 6, "instruction": "Press down gently with a spatula. Cook for 2-3 minutes until the bottom is golden and the egg is mostly set. Flip carefully and cook the other side for 1-2 minutes until golden. The egg inside should be just cooked through -- not dry.", "duration_min": 4},
+    {"step": 7, "instruction": "Remove from the griddle. Optionally clap between palms a few times to separate the layers. Serve hot with pol sambol, dhal curry, or any curry.", "duration_min": 1}
+  ],
+  "tags": ["breakfast", "lunch", "street-food", "everyday", "vegetarian", "dairy-free", "comfort-food", "over-60-min", "crowd-pleaser"],
+  "ayurvedic_balance": "vata-pacifying",
+  "nutrition_per_serving": {"calories": 370, "protein_g": 13, "carbs_g": 44, "fat_g": 16, "fibre_g": 2},
+  "trust_score": 0.9,
+  "source_url": "https://www.hungrylankan.com/recipes/sri-lankan-egg-roti/",
+  "source_site": "hungrylankan.com, cross-checked against islandsmile.org, youfoodz.com, ralahami.com, thetinypantry.com, and nipcooks (TikTok)",
+  "collection_method": "scraped, cross-checked across 6+ independent sources; strong agreement on godamba roti dough base, the pour-egg-then-fold technique, and the minimum 1-hour rest for the dough",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "Egg roti (biththara roti) is essentially a godamba roti (sl_067) with a spiced egg mixture sealed inside the folded dough rather than served plain -- it sits between a stuffed paratha and a Sri Lankan egg burrito in concept. It is one of the most popular Sri Lankan street food breakfast items and is made on roadside griddles across the country every morning. The dough is identical to sl_067 godamba roti; this entry cross-references that recipe to avoid duplication. The fold-all-four-sides-over-the-egg technique (making a square parcel) is universally described across sources; some vendors fold into a triangle instead. The egg should be slightly runny in the centre when eaten fresh off the griddle -- the waste heat continues cooking it as you eat. A more elaborate version called 'mutton roti' uses the same technique with a spiced minced mutton filling added alongside the egg."
+}

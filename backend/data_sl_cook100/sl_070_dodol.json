@@ -1,0 +1,40 @@
+{
+  "id": "sl_070",
+  "name_en": "Kalu Dodol (Sri Lankan Black Sticky Sweet)",
+  "name_si": "කලු දොදොල්",
+  "regional_origin": "Island-wide (Malay/Portuguese colonial origin)",
+  "cuisine": "Sri Lankan",
+  "course": "Dessert",
+  "servings": 20,
+  "prep_time_min": 20,
+  "cook_time_min": 120,
+  "total_time_min": 500,
+  "ingredients": [
+    {"canonical_id": "ing_flour_rice", "name": "White rice flour (toasted)", "quantity": 300, "unit": "g", "notes": "dry-roast in a pan until lightly golden before use; sieve to remove any lumps"},
+    {"canonical_id": "ing_coconut_milk", "name": "Thick coconut milk", "quantity": 1500, "unit": "ml", "notes": "from 3 mature coconuts; split -- 500ml reserved to dissolve the jaggery, rest mixed with rice flour"},
+    {"canonical_id": "ing_treacle_kithul", "name": "Kithul jaggery", "quantity": 1000, "unit": "g", "notes": "grated or crumbled; kithul jaggery is essential -- the darker colour and earthy flavour cannot be replicated with ordinary sugar"},
+    {"canonical_id": "ing_sugar", "name": "Brown sugar", "quantity": 200, "unit": "g", "notes": "mixed with the jaggery for easier dissolving and a slightly more stable texture"},
+    {"canonical_id": "ing_cardamom", "name": "Cardamom", "quantity": 1, "unit": "tsp", "notes": "ground; added near the end"},
+    {"canonical_id": "ing_cashew", "name": "Cashew nuts", "quantity": 100, "unit": "g", "notes": "coarsely chopped; added once the dodol thickens and oil begins to separate"},
+    {"canonical_id": "ing_salt", "name": "Salt", "quantity": 0.5, "unit": "tsp", "notes": ""}
+  ],
+  "steps": [
+    {"step": 1, "instruction": "Reserve 500ml of the coconut milk. Dissolve the grated jaggery in this reserved coconut milk by hand, breaking up any large lumps. Add the brown sugar and stir to dissolve. Place over medium-low heat and stir until fully dissolved. Strain through a fine sieve to remove any impurities.", "duration_min": 10},
+    {"step": 2, "instruction": "In a large bowl, whisk the dry-roasted rice flour together with the remaining coconut milk (about 1000ml) until completely smooth and lump-free. Stir well from the bottom before using, as rice flour settles quickly.", "duration_min": 5},
+    {"step": 3, "instruction": "Pour the rice flour-coconut milk mixture into the jaggery-coconut milk syrup. Add salt and cardamom. Set over medium heat and begin stirring. From this point, the stirring must be continuous and never stop -- dodol burns almost instantly if left unattended.", "duration_min": 5},
+    {"step": 4, "instruction": "Stir continuously over medium heat for 60-90 minutes. The mixture will gradually thicken and darken. After about 45-60 minutes it will begin to leave the sides of the pan and pull together into a thick, glossy mass. Keep stirring.", "duration_min": 75},
+    {"step": 5, "instruction": "Once the dodol is very thick and does not stick to the sides of the pan, add the chopped cashews and stir through. At this stage coconut oil will begin to separate and float to the surface -- remove it gently with a spoon as you stir, or it will make the finished dodol greasy.", "duration_min": 15},
+    {"step": 6, "instruction": "Continue stirring until the dodol becomes very thick, dark, and pulls away from the pan cleanly. Transfer to a greased flat tray or banana-leaf-lined surface. Press flat with a greased spatula to an even layer about 2cm thick.", "duration_min": 5},
+    {"step": 7, "instruction": "Leave to cool at room temperature for at least 6 hours, or overnight -- the dodol must cool completely before cutting, which takes many hours. Once firm, cut into small squares or diamond pieces. Store wrapped at room temperature for up to 2 weeks.", "duration_min": 360}
+  ],
+  "tags": ["dessert", "festival", "new-year-avurudu", "wedding", "vegan", "vegetarian", "gluten-free", "dairy-free", "over-60-min", "jaggery"],
+  "ayurvedic_balance": "vata-pacifying",
+  "nutrition_per_serving": {"calories": 195, "protein_g": 2, "carbs_g": 38, "fat_g": 5, "fibre_g": 1},
+  "trust_score": 0.91,
+  "source_url": "https://www.196flavors.com/sri-lanka-kalu-dodol/",
+  "source_site": "196flavors.com, cross-checked against lakpura.com, dailylife.lk, deliciouslypinned.com, topsrilankanrecipe.com, veiyil.com, whetstonemagazine.com, and Wikipedia (Kalu dodol)",
+  "collection_method": "scraped, cross-checked across 9+ independent sources; very strong agreement on the three-ingredient core (rice flour, coconut milk, kithul jaggery) and the non-negotiable continuous stirring",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "Kalu dodol ('black dodol') is Sri Lanka's most labour-intensive traditional sweet -- the 60-90 minute continuous stirring requirement is not exaggeration, and traditionally the task was shared between two or three family members taking turns over a wood fire. The total_time_min includes 6 hours of cooling. Darker colour indicates more kithul jaggery and longer cooking -- both are considered marks of quality. The oil that separates during cooking must be removed or the finished dodol will have an oily, unpleasant mouthfeel. Dodol originated from Malay and Indonesian traders and the Portuguese; 'Moor dodol' (Sri Lankan Muslim version) uses the same base but may include sago (tapioca pearls) for extra chewiness. This recipe yields approximately 2-2.5kg of dodol, reflecting traditional batch sizes made for festivals."
+}

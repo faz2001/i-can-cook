@@ -1,0 +1,212 @@
+{
+  "id": "sl_037",
+  "name_en": "Cuttlefish Curry (Dallo Curry)",
+  "name_si": "දැල්ලෝ කරිය",
+  "regional_origin": "Coastal Sri Lanka",
+  "cuisine": "Sri Lankan",
+  "course": "Main",
+  "servings": 4,
+  "prep_time_min": 20,
+  "cook_time_min": 30,
+  "total_time_min": 50,
+  "ingredients": [
+    {
+      "canonical_id": "ing_cuttlefish",
+      "name": "Cuttlefish or squid, cleaned",
+      "quantity": 500,
+      "unit": "g",
+      "notes": "ink sac removed (Sri Lankan cooking does not use the ink), cut into rings or bite-sized pieces, scored if thick"
+    },
+    {
+      "canonical_id": "ing_turmeric",
+      "name": "Turmeric powder",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": "for cleaning/marinating the cuttlefish"
+    },
+    {
+      "canonical_id": "ing_coconut_oil",
+      "name": "Coconut oil",
+      "quantity": 2,
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_mustard_seeds",
+      "name": "Mustard seeds",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_fenugreek",
+      "name": "Fenugreek seeds",
+      "quantity": 0.25,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_fennel_seeds",
+      "name": "Fennel seeds",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_curry_leaves",
+      "name": "Curry leaves",
+      "quantity": 10,
+      "unit": "count",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_pandan",
+      "name": "Pandan leaf",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "small piece"
+    },
+    {
+      "canonical_id": "ing_onion",
+      "name": "Onion",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "sliced, or use shallots"
+    },
+    {
+      "canonical_id": "ing_garlic",
+      "name": "Garlic",
+      "quantity": 4,
+      "unit": "cloves",
+      "notes": "chopped"
+    },
+    {
+      "canonical_id": "ing_ginger",
+      "name": "Ginger",
+      "quantity": 1,
+      "unit": "tbsp",
+      "notes": "grated or chopped"
+    },
+    {
+      "canonical_id": "ing_green_chilli",
+      "name": "Green chillies",
+      "quantity": 2,
+      "unit": "count",
+      "notes": "sliced"
+    },
+    {
+      "canonical_id": "ing_curry_powder_unroasted",
+      "name": "Unroasted Sri Lankan curry powder",
+      "quantity": 1.5,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_chilli_powder",
+      "name": "Chilli powder",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "canonical_id": "ing_tomato",
+      "name": "Tomato",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "chopped"
+    },
+    {
+      "canonical_id": "ing_tamarind",
+      "name": "Tamarind juice or paste",
+      "quantity": 1,
+      "unit": "tbsp",
+      "notes": "adjust to taste; lime juice can be used as a milder alternative"
+    },
+    {
+      "canonical_id": "ing_sugar",
+      "name": "Sugar",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": "balances the tamarind"
+    },
+    {
+      "canonical_id": "ing_coconut_milk",
+      "name": "Coconut milk",
+      "quantity": 300,
+      "unit": "ml",
+      "notes": "1.25 cups, split between thin and thick stages"
+    },
+    {
+      "canonical_id": "ing_salt",
+      "name": "Salt",
+      "quantity": 0.75,
+      "unit": "tsp",
+      "notes": "to taste"
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "instruction": "Clean the cuttlefish thoroughly, removing the ink sac (Sri Lankan cooking traditionally does not use the ink). Cut into rings or bite-sized pieces. Rinse briefly with the turmeric in water, then drain well and pat dry.",
+      "duration_min": 12
+    },
+    {
+      "step": 2,
+      "instruction": "Heat the coconut oil in a wok or large pan over high heat. When hot, add the mustard seeds, fenugreek, and fennel seeds, and let them sizzle and pop for a few seconds. Add the curry leaves and pandan leaf.",
+      "duration_min": 1
+    },
+    {
+      "step": 3,
+      "instruction": "Add the onion, garlic, ginger, and green chillies. Stir-fry over high heat until the onion softens and starts to brown slightly, about 3-4 minutes.",
+      "duration_min": 4
+    },
+    {
+      "step": 4,
+      "instruction": "Add the curry powder and chilli powder, and stir for about 30 seconds until fragrant. Add the chopped tomato and cook until it softens, about 2 minutes.",
+      "duration_min": 3
+    },
+    {
+      "step": 5,
+      "instruction": "Add the tamarind, sugar, and the thinner half of the coconut milk. Bring to a simmer and let the gravy cook for 5-8 minutes, until it darkens slightly and the flavours meld. Taste and adjust the seasoning at this stage, before adding the cuttlefish.",
+      "duration_min": 7
+    },
+    {
+      "step": 6,
+      "instruction": "Add the cuttlefish pieces to the gravy and stir gently to coat. Reduce the heat to medium-low and simmer for 5-7 minutes -- watch closely, as cuttlefish becomes tough and rubbery if overcooked.",
+      "duration_min": 6
+    },
+    {
+      "step": 7,
+      "instruction": "Pour in the remaining thick coconut milk. Stir gently and simmer for a final 2-3 minutes to warm through and slightly thicken the gravy. Taste and adjust salt.",
+      "duration_min": 3
+    },
+    {
+      "step": 8,
+      "instruction": "Serve hot with rice, string hoppers, pittu, or bread.",
+      "duration_min": 1
+    }
+  ],
+  "tags": [
+    "lunch",
+    "dinner",
+    "curry",
+    "spicy",
+    "coconut-milk",
+    "30-60-min"
+  ],
+  "ayurvedic_balance": "pitta-pacifying",
+  "nutrition_per_serving": {
+    "calories": 240,
+    "protein_g": 23,
+    "carbs_g": 9,
+    "fat_g": 13,
+    "fibre_g": 1
+  },
+  "trust_score": 0.87,
+  "source_url": "https://www.islandsmile.org/calamari-curry-sri-lankan/",
+  "source_site": "islandsmile.org, cross-checked against topsrilankanrecipe.com, theseafoodblog.com, and nekokichi.wordpress.com for technique consistency",
+  "collection_method": "scraped, cross-checked across 6+ independent sources; strong agreement on cooking cuttlefish briefly to avoid toughness, and the absence of squid ink in Sri Lankan preparations",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "Known as dallo, kiri atha, or simply cuttlefish/squid curry depending on the household and region; the same recipe applies interchangeably to squid and cuttlefish. The single most important technique point across all sources is to avoid overcooking the seafood -- cuttlefish and squid turn tough and rubbery very quickly, so they are typically added to an already-developed, well-seasoned gravy rather than simmered for a long time. Unlike most Western preparations, Sri Lankan cooks discard the ink sac entirely rather than using it for colour or flavour. This curry pairs particularly well with a starchy, less spicy side (rice, pittu, or string hoppers) to balance its tangy, spicy gravy."
+}

@@ -1,0 +1,43 @@
+{
+  "id": "sl_059",
+  "name_en": "Ash Plantain Curry (Alu Kesel Curry)",
+  "name_si": "අලු කෙසෙල් කරිය",
+  "regional_origin": "Island-wide",
+  "cuisine": "Sri Lankan",
+  "course": "Main",
+  "servings": 4,
+  "prep_time_min": 15,
+  "cook_time_min": 25,
+  "total_time_min": 40,
+  "ingredients": [
+    {"canonical_id": "ing_plantain_ash", "name": "Ash plantains (raw, unripe)", "quantity": 4, "unit": "count", "notes": "about 500g after peeling; green/raw plantains can substitute if ash plantains unavailable. Have a bowl of turmeric-salted water ready to submerge pieces immediately after cutting to prevent browning."},
+    {"canonical_id": "ing_turmeric", "name": "Turmeric powder", "quantity": 0.5, "unit": "tsp", "notes": "split: 1/4 tsp for soaking water, 1/4 tsp for the curry"},
+    {"canonical_id": "ing_onion", "name": "Onion", "quantity": 1, "unit": "count", "notes": "medium, sliced"},
+    {"canonical_id": "ing_curry_leaves", "name": "Curry leaves", "quantity": 1, "unit": "count", "notes": "1 sprig"},
+    {"canonical_id": "ing_pandan", "name": "Pandan leaf", "quantity": 1, "unit": "count", "notes": "small piece"},
+    {"canonical_id": "ing_cinnamon", "name": "Cinnamon stick", "quantity": 1, "unit": "count", "notes": "2.5cm piece"},
+    {"canonical_id": "ing_mustard_seeds", "name": "Mustard seeds", "quantity": 1, "unit": "tsp", "notes": ""},
+    {"canonical_id": "ing_green_chilli", "name": "Green chillies", "quantity": 2, "unit": "count", "notes": "sliced"},
+    {"canonical_id": "ing_fenugreek", "name": "Fenugreek seeds", "quantity": 0.25, "unit": "tsp", "notes": "optional"},
+    {"canonical_id": "ing_salt", "name": "Salt", "quantity": 0.75, "unit": "tsp", "notes": "to taste"},
+    {"canonical_id": "ing_water", "name": "Water", "quantity": 240, "unit": "ml", "notes": "1 cup, for cooking the plantain before adding coconut milk"},
+    {"canonical_id": "ing_coconut_milk", "name": "Thick coconut milk", "quantity": 240, "unit": "ml", "notes": "1 cup, full-fat"}
+  ],
+  "steps": [
+    {"step": 1, "instruction": "Prepare a bowl of cold water with 1/4 tsp turmeric and a pinch of salt. Peel the ash plantains, removing all traces of the green outer skin, and cut diagonally into 2-3cm pieces, dropping each piece immediately into the turmeric-salt water to prevent browning.", "duration_min": 10},
+    {"step": 2, "instruction": "Drain the plantain pieces. Add them directly to a cooking pot along with the onion, curry leaves, pandan leaf, cinnamon stick, mustard seeds, fenugreek (if using), green chillies, remaining turmeric, and salt.", "duration_min": 2},
+    {"step": 3, "instruction": "Pour in the water. Bring to a boil over medium heat, then cover and simmer for about 15 minutes, until the plantain pieces are just tender when pierced with a fork -- they should be cooked through but still hold their shape.", "duration_min": 15},
+    {"step": 4, "instruction": "Pour in the thick coconut milk. Stir gently and simmer uncovered over low heat for 5-8 minutes, until the gravy thickens slightly and the plantain is fully cooked. Avoid boiling vigorously after adding coconut milk.", "duration_min": 7},
+    {"step": 5, "instruction": "Taste and adjust salt. Serve hot with rice. This is considered a mild 'white curry' (kiri hodi style) so it pairs well alongside spicier dishes.", "duration_min": 1}
+  ],
+  "tags": ["lunch", "dinner", "curry", "everyday", "vegan", "vegetarian", "gluten-free", "dairy-free", "coconut-milk", "under-30-min"],
+  "ayurvedic_balance": "vata-pacifying",
+  "nutrition_per_serving": {"calories": 185, "protein_g": 2, "carbs_g": 32, "fat_g": 7, "fibre_g": 4},
+  "trust_score": 0.9,
+  "source_url": "https://www.islandsmile.org/sri-lankan-ash-plaintain-curry/",
+  "source_site": "islandsmile.org, cross-checked against kitchensimmer.com, joyofeatingtheworld.com, theceylonchef.co.uk, theperfectcurry.com, and infolanka.com",
+  "collection_method": "scraped, cross-checked across 6+ independent sources; universal agreement on immediate submersion in turmeric-salt water and the mild white-curry approach",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "Ash plantain (alu kesel) is a starchy, mildly-flavoured variety of plantain used specifically for cooking savoury dishes in Sri Lanka -- it is never eaten ripe. The immediate submersion in turmeric-salt water after peeling is critical: ash plantain oxidises and browns within seconds of air exposure. The mild, creamy result suits even those who generally avoid spicy food, making it a popular choice for children and elderly family members. A fried variant (badapu alu kesel curry) -- where the slices are first shallow-fried before adding to the gravy -- is also common and forms part of the lamprais set (sl_045). Green plantains widely available outside Sri Lanka are the most reliable substitute."
+}

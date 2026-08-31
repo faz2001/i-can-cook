@@ -1,0 +1,191 @@
+{
+  "id": "sl_015",
+  "name_en": "Dhal Curry (Parippu)",
+  "name_si": "පරිප්පු",
+  "regional_origin": "Island-wide",
+  "cuisine": "Sri Lankan",
+  "course": "Main",
+  "servings": 4,
+  "prep_time_min": 10,
+  "cook_time_min": 25,
+  "total_time_min": 35,
+  "ingredients": [
+    {
+      "canonical_id": "ing_lentil_red",
+      "name": "Red lentils (masoor dhal)",
+      "quantity": 200,
+      "unit": "g",
+      "notes": "about 1 cup, washed until water runs clear"
+    },
+    {
+      "canonical_id": "ing_water",
+      "name": "Water",
+      "quantity": 250,
+      "unit": "ml",
+      "notes": "amount may need adjusting depending on the brand of lentil; add more if the pot dries out before lentils are tender"
+    },
+    {
+      "canonical_id": "ing_onion",
+      "name": "Onion",
+      "quantity": 0.5,
+      "unit": "count",
+      "notes": "sliced thin, split between cooking the lentils and the tempering"
+    },
+    {
+      "canonical_id": "ing_garlic",
+      "name": "Garlic",
+      "quantity": 3,
+      "unit": "cloves",
+      "notes": "sliced, split between cooking and tempering"
+    },
+    {
+      "canonical_id": "ing_green_chilli",
+      "name": "Green chilli",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "slit; optional, omit for a milder curry"
+    },
+    {
+      "canonical_id": "ing_curry_leaves",
+      "name": "Curry leaves",
+      "quantity": 8,
+      "unit": "count",
+      "notes": "split between cooking the lentils and the tempering"
+    },
+    {
+      "canonical_id": "ing_pandan",
+      "name": "Pandan leaf",
+      "quantity": 1,
+      "unit": "count",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_turmeric",
+      "name": "Turmeric powder",
+      "quantity": 0.25,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_cinnamon",
+      "name": "Cinnamon stick",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "small piece"
+    },
+    {
+      "canonical_id": "ing_salt",
+      "name": "Salt",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": "to taste"
+    },
+    {
+      "canonical_id": "ing_coconut_milk",
+      "name": "Coconut milk",
+      "quantity": 200,
+      "unit": "ml",
+      "notes": "full-fat for the best creamy texture"
+    },
+    {
+      "canonical_id": "ing_coconut_oil",
+      "name": "Coconut oil",
+      "quantity": 3,
+      "unit": "tbsp",
+      "notes": "for the tempering"
+    },
+    {
+      "canonical_id": "ing_mustard_seeds",
+      "name": "Mustard seeds",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": "for the tempering"
+    },
+    {
+      "canonical_id": "ing_cumin_seeds",
+      "name": "Cumin seeds",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": "for the tempering, optional"
+    },
+    {
+      "canonical_id": "ing_fenugreek",
+      "name": "Fenugreek seeds",
+      "quantity": 0.25,
+      "unit": "tsp",
+      "notes": "a few seeds for the tempering, optional"
+    },
+    {
+      "canonical_id": "ing_chilli_powder",
+      "name": "Dried red chilli flakes or whole dried chillies",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": "for the tempering"
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "instruction": "Wash the red lentils thoroughly in running water until it runs clear, about 3 times. Drain.",
+      "duration_min": 3
+    },
+    {
+      "step": 2,
+      "instruction": "In a pot, combine the lentils with the water, half the sliced onion, half the garlic, green chilli, half the curry leaves, pandan leaf, turmeric, cinnamon stick, and salt.",
+      "duration_min": 2
+    },
+    {
+      "step": 3,
+      "instruction": "Bring to a boil, then cover and cook on medium heat until the lentils are soft and beginning to break down, about 12-15 minutes. Add a little extra water if the pot dries out before the lentils are tender.",
+      "duration_min": 14
+    },
+    {
+      "step": 4,
+      "instruction": "Once the lentils are cooked, gradually stir in the coconut milk. Lower the heat and simmer gently for a further 5-10 minutes, stirring carefully to avoid the coconut milk curdling from high heat. Do not stir too vigorously or the lentils will turn mushy.",
+      "duration_min": 8
+    },
+    {
+      "step": 5,
+      "instruction": "Meanwhile, make the tempering: heat the coconut oil in a small pan. Add the remaining onion and garlic, and saute for 3-4 minutes until soft. Add the mustard seeds, cumin seeds, fenugreek, remaining curry leaves, and chilli flakes. Cook for a further 2-3 minutes until the mustard seeds start to pop and everything is fragrant.",
+      "duration_min": 6
+    },
+    {
+      "step": 6,
+      "instruction": "Pour most of the tempering directly into the cooked dhal and mix through. Reserve a small amount of the tempering to garnish on top when serving.",
+      "duration_min": 1
+    },
+    {
+      "step": 7,
+      "instruction": "Taste and adjust salt. Serve hot with rice, roti, or string hoppers.",
+      "duration_min": 1
+    }
+  ],
+  "tags": [
+    "lunch",
+    "dinner",
+    "curry",
+    "everyday",
+    "vegan",
+    "vegetarian",
+    "gluten-free",
+    "lentils",
+    "coconut-milk",
+    "comfort-food",
+    "under-30-min"
+  ],
+  "ayurvedic_balance": "tridoshic",
+  "nutrition_per_serving": {
+    "calories": 245,
+    "protein_g": 11,
+    "carbs_g": 26,
+    "fat_g": 11,
+    "fibre_g": 6
+  },
+  "trust_score": 0.9,
+  "source_url": "https://www.theflavorbender.com/dhal-red-lentil-curry/",
+  "source_site": "theflavorbender.com, cross-checked against hungrylankan.com and islandsmile.org for method and ratio consistency",
+  "collection_method": "scraped, cross-checked across 3 independent sources; strong consensus on technique with natural household variation in tempering",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "Parippu is arguably the most-cooked dish in Sri Lankan home kitchens, eaten almost daily alongside rice and curry. What distinguishes Sri Lankan dhal from most Indian dhal is the addition of full-fat coconut milk, giving it a characteristic creaminess. The final tempering ('thel dala') of mustard seeds, cumin, fenugreek, and chilli in hot oil poured over the cooked lentils is considered essential, not optional, by most home cooks, though families vary widely in how heavily they season it. Red lentils need no soaking and cook quickly, breaking down naturally into a creamy texture."
+}

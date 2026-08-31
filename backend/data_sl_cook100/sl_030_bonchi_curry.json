@@ -1,0 +1,182 @@
+{
+  "id": "sl_030",
+  "name_en": "Green Bean Curry (Bonchi Curry)",
+  "name_si": "බෝංචි කරිය",
+  "regional_origin": "Island-wide",
+  "cuisine": "Sri Lankan",
+  "course": "Main",
+  "servings": 4,
+  "prep_time_min": 10,
+  "cook_time_min": 15,
+  "total_time_min": 25,
+  "ingredients": [
+    {
+      "canonical_id": "ing_green_bean",
+      "name": "Green beans",
+      "quantity": 300,
+      "unit": "g",
+      "notes": "trimmed and cut into 2-3cm pieces"
+    },
+    {
+      "canonical_id": "ing_coconut_oil",
+      "name": "Coconut oil",
+      "quantity": 1,
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_mustard_seeds",
+      "name": "Mustard seeds",
+      "quantity": 0.25,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_fennel_seeds",
+      "name": "Fennel seeds",
+      "quantity": 0.25,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_cumin_seeds",
+      "name": "Cumin seeds",
+      "quantity": 0.25,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_shallot",
+      "name": "Shallots",
+      "quantity": 60,
+      "unit": "g",
+      "notes": "sliced; or 1/2 a regular onion"
+    },
+    {
+      "canonical_id": "ing_garlic",
+      "name": "Garlic",
+      "quantity": 3,
+      "unit": "cloves",
+      "notes": "sliced"
+    },
+    {
+      "canonical_id": "ing_curry_leaves",
+      "name": "Curry leaves",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "1 sprig"
+    },
+    {
+      "canonical_id": "ing_tomato",
+      "name": "Tomato",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "chopped"
+    },
+    {
+      "canonical_id": "ing_turmeric",
+      "name": "Turmeric powder",
+      "quantity": 0.25,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_chilli_powder",
+      "name": "Chilli flakes",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": "optional, adjust to taste"
+    },
+    {
+      "canonical_id": "ing_curry_powder_unroasted",
+      "name": "Unroasted Sri Lankan curry powder",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_salt",
+      "name": "Salt",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": "to taste"
+    },
+    {
+      "canonical_id": "ing_water",
+      "name": "Water",
+      "quantity": 45,
+      "unit": "ml",
+      "notes": "3 tablespoons, just enough to help the beans cook"
+    },
+    {
+      "canonical_id": "ing_coconut_milk",
+      "name": "Thick coconut milk",
+      "quantity": 60,
+      "unit": "ml",
+      "notes": "1/4 cup, added at the end"
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "instruction": "Wash the green beans, trim the ends, and cut into 2-3cm pieces.",
+      "duration_min": 6
+    },
+    {
+      "step": 2,
+      "instruction": "Heat the coconut oil in a pan over medium heat. Add the mustard seeds and let them crackle, then add the fennel and cumin seeds.",
+      "duration_min": 1
+    },
+    {
+      "step": 3,
+      "instruction": "Add the shallots, garlic, and curry leaves. Sauté on low heat until the shallots turn soft and translucent, about 3-4 minutes.",
+      "duration_min": 4
+    },
+    {
+      "step": 4,
+      "instruction": "Add the chopped tomato and cook for 1-2 minutes until it softens.",
+      "duration_min": 2
+    },
+    {
+      "step": 5,
+      "instruction": "Add the green beans, water, salt, turmeric, chilli flakes (if using), and curry powder. Stir well to coat the beans.",
+      "duration_min": 1
+    },
+    {
+      "step": 6,
+      "instruction": "Cover and cook over medium heat for about 8-10 minutes, stirring occasionally, until the beans are just tender but still bright and slightly crisp.",
+      "duration_min": 9
+    },
+    {
+      "step": 7,
+      "instruction": "Stir in the thick coconut milk and cook for a final minute, just enough to warm it through without overcooking the beans. Serve hot with rice.",
+      "duration_min": 1
+    }
+  ],
+  "tags": [
+    "lunch",
+    "dinner",
+    "curry",
+    "everyday",
+    "vegan",
+    "vegetarian",
+    "gluten-free",
+    "coconut-milk",
+    "under-30-min"
+  ],
+  "ayurvedic_balance": "vata-pacifying",
+  "nutrition_per_serving": {
+    "calories": 100,
+    "protein_g": 2,
+    "carbs_g": 9,
+    "fat_g": 6,
+    "fibre_g": 4
+  },
+  "trust_score": 0.87,
+  "source_url": "https://www.kannammacooks.com/sri-lankan-green-bean-curry/",
+  "source_site": "kannammacooks.com, cross-checked against islandsmile.org for technique and ratio consistency",
+  "collection_method": "scraped, cross-checked across 2 closely-aligned sources for the shallot-fennel-cumin tempering technique distinctive to this dish",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "This curry is sometimes called 'bonchi curry' generally, though the same method is also used for long beans (yardlong beans) -- a very similar, equally common Sri Lankan vegetable. Some households make a fully dry version with no coconut milk at all, finishing with just grated coconut instead (closer to a mallum style); this entry reflects the lightly creamy version more typical for everyday rice-and-curry meals. The dish should be cooked covered for the bean-tenderizing stage but only briefly once the coconut milk is added, to avoid losing the beans' bright colour and crisp-tender texture."
+}

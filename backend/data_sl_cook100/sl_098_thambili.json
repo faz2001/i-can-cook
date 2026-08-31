@@ -1,0 +1,32 @@
+{
+  "id": "sl_098",
+  "name_en": "Thambili (King Coconut Water)",
+  "name_si": "තඹිලි",
+  "regional_origin": "Island-wide",
+  "cuisine": "Sri Lankan",
+  "course": "Breakfast",
+  "servings": 1,
+  "prep_time_min": 5,
+  "cook_time_min": 0,
+  "total_time_min": 5,
+  "ingredients": [
+    {"canonical_id": "ing_king_coconut", "name": "King coconut (thambili)", "quantity": 1, "unit": "count", "notes": "a whole, fresh king coconut; the orange-shelled variety (Cocos nucifera var. aurantiaca) endemic to Sri Lanka. Choose one that sounds full of water when shaken. A mature thambili has less water but slightly sweeter; a young one has more water and lighter sweetness."},
+    {"canonical_id": "ing_lime", "name": "Lime", "quantity": 0.25, "unit": "count", "notes": "optional; a small squeeze enhances the natural sweetness of the water"},
+    {"canonical_id": "ing_salt", "name": "Salt", "quantity": 1, "unit": "pinch", "notes": "optional; a pinch of salt is a traditional addition by some vendors, as it balances electrolytes and enhances flavour -- particularly recommended as a post-exercise drink"}
+  ],
+  "steps": [
+    {"step": 1, "instruction": "Have a vendor or experienced person open the king coconut using a large sharp knife or machete: hold the thambili firmly on a stable surface and make 4-5 angled chops around the top to create a pentagon-shaped opening. Alternatively, use a specialised thambili opener. Take care -- the shell is very hard and the cutting requires skill and a sharp blade.", "duration_min": 3},
+    {"step": 2, "instruction": "Once opened, the water is ready to drink directly from the shell with a straw. Optionally add a squeeze of lime juice and a pinch of salt to the water inside and stir with the straw before drinking.", "duration_min": 1},
+    {"step": 3, "instruction": "After drinking all the water, use a piece of the cut shell as a makeshift spoon to scoop out the thin, jelly-like king coconut flesh (which is softer and more delicate than regular coconut flesh) and eat it directly. This is considered the best part by many Sri Lankans.", "duration_min": 2}
+  ],
+  "tags": ["breakfast", "everyday", "vegan", "vegetarian", "gluten-free", "dairy-free", "raw", "under-30-min", "comfort-food"],
+  "ayurvedic_balance": "pitta-pacifying",
+  "nutrition_per_serving": {"calories": 45, "protein_g": 0, "carbs_g": 9, "fat_g": 0, "fibre_g": 0},
+  "trust_score": 0.97,
+  "source_url": "https://www.serendipdelights.com/blogs/cuisine/thambili-king-coconut-water-sri-lankas-natural-energy-drink",
+  "source_site": "serendipdelights.com, cross-checked against lakpura.com, ceylonheritage.lk, Wikipedia (Thambili), joyofeatingtheworld.com, foodcnr.com, and backtonature.lk",
+  "collection_method": "scraped, cross-checked across 7+ independent sources; highest trust score in the entire collection -- the recipe cannot be simpler, and sourcing is perfectly consistent",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "Thambili (king coconut) is Sri Lanka's most iconic drink and most immediately recognisable symbol of the island -- the bright orange coconuts sold by roadside vendors are a ubiquitous sight from Colombo to Jaffna. King coconuts are a variety endemic to Sri Lanka (Cocos nucifera var. aurantiaca) and are botanically and commercially distinct from the regular brown coconut -- the water is sweeter, more electrolyte-rich, and considered more medicinally valuable in traditional practice. This entry has the highest trust score in the entire SL-Cook100 dataset (0.97) because the recipe is essentially just 'open a coconut and drink it' -- there is no meaningful technique variation across sources. The gentle lime-and-salt addition is optional but widely practised, especially by athletes and those using it as a rehydration drink. The soft inner flesh (thambili pani pol) that lines the shell after drinking is equally prized and is sometimes used in desserts."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "sl_089",
+  "name_en": "Lavariya (Sweet Stuffed String Hopper Dumplings)",
+  "name_si": "ලැවරියා",
+  "regional_origin": "Island-wide",
+  "cuisine": "Sri Lankan",
+  "course": "Dessert",
+  "servings": 5,
+  "prep_time_min": 30,
+  "cook_time_min": 20,
+  "total_time_min": 50,
+  "ingredients": [
+    {"canonical_id": "ing_flour_rice", "name": "Rice flour (string hopper flour)", "quantity": 250, "unit": "g", "notes": "about 2 cups; the same roasted/pre-steamed flour used for idiyappam (sl_009)"},
+    {"canonical_id": "ing_water", "name": "Boiling water", "quantity": 200, "unit": "ml", "notes": "added gradually; the dough must be made with boiling water so it stays pliable"},
+    {"canonical_id": "ing_salt", "name": "Salt", "quantity": 0.5, "unit": "tsp", "notes": ""},
+    {"canonical_id": "ing_coconut_oil", "name": "Coconut oil", "quantity": 1, "unit": "tsp", "notes": "added to the dough to prevent sticking; also for greasing the string hopper mats"},
+    {"canonical_id": "ing_coconut_grated", "name": "Freshly grated coconut", "quantity": 150, "unit": "g", "notes": "for the pol pani filling"},
+    {"canonical_id": "ing_treacle_kithul", "name": "Kithul treacle or jaggery", "quantity": 100, "unit": "ml", "notes": "for the pol pani filling; see sl_085 Pol Pani for the full filling method"},
+    {"canonical_id": "ing_cardamom", "name": "Cardamom powder", "quantity": 0.25, "unit": "tsp", "notes": "for the pol pani filling"}
+  ],
+  "steps": [
+    {"step": 1, "instruction": "Make the pol pani filling first: combine grated coconut with kithul treacle and cardamom in a pan over medium-low heat. Cook for 8-10 minutes, stirring constantly, until the treacle is fully absorbed and the mixture clumps together. Set aside to cool. See sl_085 for the full pol pani method.", "duration_min": 10},
+    {"step": 2, "instruction": "Make the string hopper dough: mix the rice flour and salt in a bowl. Add the coconut oil. Gradually add the boiling water, mixing constantly with a wooden spoon until a smooth, pliable dough forms -- it should be soft, slightly tacky, and not dry. The dough must be kept warm throughout shaping or it will crack; cover with a damp cloth between uses.", "duration_min": 8},
+    {"step": 3, "instruction": "Lightly oil the string hopper mats or cut pieces of banana leaf or parchment paper. Fill the string hopper press with the warm dough.", "duration_min": 2},
+    {"step": 4, "instruction": "Press the dough through the string hopper press onto each oiled mat (or banana leaf square), moving in a circular motion to create a round nest of noodles about 12-15cm across. Make 10-12 noodle rounds.", "duration_min": 8},
+    {"step": 5, "instruction": "Place a heaped tablespoon of pol pani filling in the centre of each noodle round. Gently fold the noodle round in half to form a half-moon shape, or roll it up into a cylinder around the filling. Press the edges gently to seal -- do not press too hard or the delicate noodle structure will flatten and merge.", "duration_min": 5},
+    {"step": 6, "instruction": "Place the shaped lavariyas carefully on greased steamer trays. Steam over boiling water for 8-12 minutes on medium heat until the noodles are cooked through and firm. Check by pressing gently -- if the dough does not stick to your finger, they are done.", "duration_min": 12},
+    {"step": 7, "instruction": "Remove carefully from the steamer and cool slightly. Serve warm with Ceylon tea and ripe bananas -- the traditional accompaniment.", "duration_min": 1}
+  ],
+  "tags": ["dessert", "breakfast", "snack", "festival", "new-year-avurudu", "vegan", "vegetarian", "gluten-free", "dairy-free", "steam", "jaggery", "under-30-min"],
+  "ayurvedic_balance": "vata-pacifying",
+  "nutrition_per_serving": {"calories": 220, "protein_g": 3, "carbs_g": 40, "fat_g": 6, "fibre_g": 3},
+  "trust_score": 0.91,
+  "source_url": "https://serendipdelights.com/blogs/cuisine/sri-lankan-lavariya-sweet-dumpling-recipe",
+  "source_site": "serendipdelights.com, cross-checked against akkiskitchen.com, cooking4allseasons.com, katatarasak.com, dailylife.lk, mylankanfoodjournal.com, mykitchendiaries.com, sweetrecipesl85.blogspot.com, and Wikipedia (Lavariya)",
+  "collection_method": "scraped, cross-checked across 9+ independent sources; very strong agreement on string hopper noodle base + pol pani filling + steaming, with variation only in folding style (half-moon vs roll)",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "Lavariya is essentially caramelised coconut (pol pani, sl_085) wrapped in a string hopper (idiyappam-style noodle nest, sl_009), then steamed. It is described by Wikipedia as 'a popular traditional Sri Lankan sweet dumpling' served at breakfast or afternoon tea with Ceylon tea and bananas. Two folding styles are documented across sources: the half-moon fold (like a dumpling, as in serendipdelights.com and dailylife.lk) and the cylinder roll (as in katatarasak.com). Both are equally valid and authentic -- the choice is often a matter of family tradition. The key technique challenge is keeping the dough warm and pliable throughout shaping -- cold rice flour dough cracks and splits when pressed, which is why sources consistently recommend keeping it covered with a warm damp cloth between batches. Some recipes add cooked moong dal to the pol pani filling for extra texture (as noted in Wikipedia and cooking4allseasons.com)."
+}

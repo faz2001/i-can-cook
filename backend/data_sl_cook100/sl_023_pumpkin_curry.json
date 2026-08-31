@@ -1,0 +1,190 @@
+{
+  "id": "sl_023",
+  "name_en": "Pumpkin Curry (Wattakka Curry)",
+  "name_si": "වට්ටක්කා කරිය",
+  "regional_origin": "Island-wide",
+  "cuisine": "Sri Lankan",
+  "course": "Main",
+  "servings": 4,
+  "prep_time_min": 15,
+  "cook_time_min": 25,
+  "total_time_min": 40,
+  "ingredients": [
+    {
+      "canonical_id": "ing_pumpkin",
+      "name": "Pumpkin",
+      "quantity": 500,
+      "unit": "g",
+      "notes": "peeled, deseeded, and cut into 3cm cubes; kabocha or kent pumpkin preferred, skin can be left on if using a thin-skinned variety"
+    },
+    {
+      "canonical_id": "ing_onion",
+      "name": "Onion",
+      "quantity": 0.5,
+      "unit": "count",
+      "notes": "sliced"
+    },
+    {
+      "canonical_id": "ing_garlic",
+      "name": "Garlic",
+      "quantity": 2,
+      "unit": "cloves",
+      "notes": "sliced"
+    },
+    {
+      "canonical_id": "ing_fenugreek",
+      "name": "Fenugreek seeds",
+      "quantity": 0.25,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_curry_leaves",
+      "name": "Curry leaves",
+      "quantity": 8,
+      "unit": "count",
+      "notes": "1 sprig"
+    },
+    {
+      "canonical_id": "ing_pandan",
+      "name": "Pandan leaf",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "small piece"
+    },
+    {
+      "canonical_id": "ing_cinnamon",
+      "name": "Cinnamon stick",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "small piece"
+    },
+    {
+      "canonical_id": "ing_turmeric",
+      "name": "Turmeric powder",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_curry_powder_unroasted",
+      "name": "Unroasted Sri Lankan curry powder",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_salt",
+      "name": "Salt",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": "to taste"
+    },
+    {
+      "canonical_id": "ing_water",
+      "name": "Water",
+      "quantity": 240,
+      "unit": "ml",
+      "notes": "1 cup, enough to just cover the pumpkin while it cooks"
+    },
+    {
+      "canonical_id": "ing_coconut_grated",
+      "name": "Scraped coconut",
+      "quantity": 60,
+      "unit": "g",
+      "notes": "for grinding into a paste with the garlic, chilli, and mustard seeds"
+    },
+    {
+      "canonical_id": "ing_green_chilli",
+      "name": "Green chillies",
+      "quantity": 2,
+      "unit": "count",
+      "notes": "for the ground paste"
+    },
+    {
+      "canonical_id": "ing_mustard_seeds",
+      "name": "Mustard seeds",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": "for the ground paste"
+    },
+    {
+      "canonical_id": "ing_coconut_milk",
+      "name": "Thick coconut milk",
+      "quantity": 120,
+      "unit": "ml",
+      "notes": "added once the pumpkin is tender"
+    },
+    {
+      "canonical_id": "ing_curry_powder_roasted",
+      "name": "Roasted Sri Lankan curry powder",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": "see sl_006 Roasted Sri Lankan Curry Powder; for garnish at the end"
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "instruction": "Grind the scraped coconut with the green chillies, mustard seeds, and a little water in a mortar and pestle or small grinder until it forms a smooth, thick paste. Set aside.",
+      "duration_min": 5
+    },
+    {
+      "step": 2,
+      "instruction": "In a pan, add the cubed pumpkin, sliced onion, garlic, fenugreek, curry leaves, pandan leaf, and cinnamon stick.",
+      "duration_min": 3
+    },
+    {
+      "step": 3,
+      "instruction": "Add the turmeric, unroasted curry powder, and salt. Stir to coat the pumpkin pieces evenly with the spices.",
+      "duration_min": 1
+    },
+    {
+      "step": 4,
+      "instruction": "Pour in the water, enough to just cover the pumpkin. Cover and cook over medium heat for 12-15 minutes, until the pumpkin is soft but still holding its shape (not mushy). Check occasionally and add a splash more water if it dries out before the pumpkin is tender.",
+      "duration_min": 14
+    },
+    {
+      "step": 5,
+      "instruction": "Once the pumpkin is tender, reduce the heat to low. Add the ground coconut-chilli-mustard paste and the thick coconut milk. Stir gently to avoid breaking up the pumpkin pieces too much.",
+      "duration_min": 2
+    },
+    {
+      "step": 6,
+      "instruction": "Let the curry simmer gently on low heat for about 5 minutes, without boiling vigorously, to avoid curdling the coconut milk. Taste and adjust salt.",
+      "duration_min": 5
+    },
+    {
+      "step": 7,
+      "instruction": "Remove from heat and sprinkle the roasted curry powder over the top as a final garnish. Serve hot with rice.",
+      "duration_min": 1
+    }
+  ],
+  "tags": [
+    "lunch",
+    "dinner",
+    "curry",
+    "everyday",
+    "vegan",
+    "vegetarian",
+    "gluten-free",
+    "coconut-milk",
+    "creamy",
+    "under-30-min"
+  ],
+  "ayurvedic_balance": "vata-pacifying",
+  "nutrition_per_serving": {
+    "calories": 160,
+    "protein_g": 3,
+    "carbs_g": 16,
+    "fat_g": 10,
+    "fibre_g": 3
+  },
+  "trust_score": 0.88,
+  "source_url": "https://www.islandsmile.org/pumpkin-curry/",
+  "source_site": "islandsmile.org, cross-checked against hungrylankan.com, foodcnr.com, and wandercooks.com for ratio and technique consistency",
+  "collection_method": "scraped, cross-checked across 5+ independent sources; strong consensus on the ground coconut-mustard-chilli paste as the dish's defining thickener",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "This entry reflects the everyday household version of pumpkin curry. A well-known variant called 'wattakka kalu pol' (literally 'pumpkin black coconut') uses dry-roasted, blackened grated coconut and rice ground together as the thickener instead of fresh coconut paste, giving a deeper, nuttier, darker curry -- this is considered a more festive or special-occasion version. Pumpkins that are too watery or carving-style are discouraged; sweeter, meatier varieties like kabocha or kent pumpkin give the best texture and flavour. Overcooking will turn the pumpkin mushy, so check tenderness frequently in the final minutes."
+}

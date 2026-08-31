@@ -1,0 +1,52 @@
+{
+  "id": "sl_004",
+  "name_en": "Sri Lankan Prawn Curry",
+  "name_si": "ඉස්සෝ කරිය",
+  "regional_origin": "Island-wide",
+  "cuisine": "Sri Lankan",
+  "course": "Main",
+  "servings": 4,
+  "prep_time_min": 10,
+  "cook_time_min": 20,
+  "total_time_min": 30,
+  "ingredients": [
+    { "canonical_id": "ing_coconut_oil", "name": "Coconut oil", "quantity": 2, "unit": "tbsp", "notes": "" },
+    { "canonical_id": "ing_onion", "name": "Red onion", "quantity": 0.5, "unit": "medium", "notes": "thinly sliced" },
+    { "canonical_id": "ing_garlic", "name": "Garlic", "quantity": 1, "unit": "tbsp", "notes": "roughly chopped" },
+    { "canonical_id": "ing_ginger", "name": "Ginger", "quantity": 1, "unit": "tbsp", "notes": "roughly chopped" },
+    { "canonical_id": "ing_lemongrass", "name": "Lemongrass", "quantity": 1, "unit": "tbsp", "notes": "thinly sliced" },
+    { "canonical_id": "ing_green_chilli", "name": "Green bird's eye chillies", "quantity": 2, "unit": "count", "notes": "thinly sliced" },
+    { "canonical_id": "ing_curry_leaves", "name": "Curry leaves", "quantity": 20, "unit": "count", "notes": "fresh" },
+    { "canonical_id": "ing_cinnamon", "name": "Cinnamon stick", "quantity": 5, "unit": "cm", "notes": "real cinnamon preferred, can break into sauce" },
+    { "canonical_id": "ing_tomato", "name": "Tomatoes", "quantity": 2, "unit": "medium", "notes": "diced" },
+    { "canonical_id": "ing_chilli_powder", "name": "Dried chilli flakes", "quantity": 1, "unit": "tbsp", "notes": "adjust to taste" },
+    { "canonical_id": "ing_curry_powder_roasted", "name": "Curry powder", "quantity": 1, "unit": "tbsp", "notes": "" },
+    { "canonical_id": "ing_turmeric", "name": "Ground turmeric", "quantity": 0.5, "unit": "tsp", "notes": "" },
+    { "canonical_id": "ing_shrimp", "name": "Raw prawns", "quantity": 450, "unit": "g", "notes": "peeled and deveined" },
+    { "canonical_id": "ing_coconut_milk", "name": "Coconut milk", "quantity": 250, "unit": "ml", "notes": "" },
+    { "canonical_id": "ing_salt", "name": "Salt", "quantity": 0.5, "unit": "tsp", "notes": "to taste" }
+  ],
+  "steps": [
+    { "step": 1, "instruction": "Heat coconut oil in a pan over medium-high heat. Add sliced onion and fry for 2 minutes, then stir in the garlic, ginger, lemongrass and green chillies.", "duration_min": 3 },
+    { "step": 2, "instruction": "Add the curry leaves and cinnamon stick. Fry for another 30 seconds, stirring constantly.", "duration_min": 1 },
+    { "step": 3, "instruction": "Add the curry powder, ground turmeric, chilli flakes and diced tomatoes. Give everything a good stir to combine.", "duration_min": 2 },
+    { "step": 4, "instruction": "Stir in the prawns and cook, stirring regularly, until just cooked through — about 3 minutes depending on prawn size.", "duration_min": 3 },
+    { "step": 5, "instruction": "Pour in the coconut milk, bring to a simmer, and season with salt and pepper to taste. Serve immediately.", "duration_min": 5 }
+  ],
+  "tags": ["dinner", "seafood", "curry", "coconut-milk", "spicy", "everyday", "30-60-min"],
+  "ayurvedic_balance": "pitta-pacifying",
+  "nutrition_per_serving": {
+    "calories": 284,
+    "protein_g": 13,
+    "carbs_g": 21,
+    "fat_g": 17,
+    "fibre_g": 3
+  },
+  "trust_score": 0.85,
+  "source_url": "https://greatcurryrecipes.net/2022/04/13/sri-lankan-prawn-curry/",
+  "source_site": "greatcurryrecipes.net",
+  "collection_method": "scraped",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-23",
+  "notes": "Recipe by Dan Toombs (The Curry Guy), originally learned as a dried sardine curry from hotel chefs in Sri Lanka. Can substitute habanero hot sauce for extra heat. Sauce can be reduced for a drier finish."
+}

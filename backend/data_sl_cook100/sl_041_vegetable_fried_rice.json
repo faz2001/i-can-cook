@@ -1,0 +1,179 @@
+{
+  "id": "sl_041",
+  "name_en": "Vegetable Fried Rice (Sri Lankan Style)",
+  "name_si": "එළවළු ෆ්‍රයිඩ් රයිස්",
+  "regional_origin": "Island-wide (Sri Lankan-Chinese fusion)",
+  "cuisine": "Sri Lankan",
+  "course": "Main",
+  "servings": 4,
+  "prep_time_min": 20,
+  "cook_time_min": 15,
+  "total_time_min": 35,
+  "ingredients": [
+    {
+      "canonical_id": "ing_rice_white",
+      "name": "Cooked, chilled rice",
+      "quantity": 600,
+      "unit": "g",
+      "notes": "about 3 cups; must be cooked and refrigerated beforehand, ideally a day old -- warm, freshly cooked rice will turn the dish mushy"
+    },
+    {
+      "canonical_id": "ing_coconut_oil",
+      "name": "Oil",
+      "quantity": 3,
+      "unit": "tbsp",
+      "notes": "neutral oil, sesame oil, or butter all work"
+    },
+    {
+      "canonical_id": "ing_egg",
+      "name": "Eggs",
+      "quantity": 2,
+      "unit": "count",
+      "notes": "beaten; optional for a fully vegan version"
+    },
+    {
+      "canonical_id": "ing_onion",
+      "name": "Onion",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "sliced"
+    },
+    {
+      "canonical_id": "ing_garlic",
+      "name": "Garlic",
+      "quantity": 3,
+      "unit": "cloves",
+      "notes": "chopped"
+    },
+    {
+      "canonical_id": "ing_carrot",
+      "name": "Carrot",
+      "quantity": 2,
+      "unit": "count",
+      "notes": "julienned or finely diced"
+    },
+    {
+      "canonical_id": "ing_leek",
+      "name": "Leek",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "sliced; a defining ingredient in the Sri Lankan version of this dish"
+    },
+    {
+      "canonical_id": "ing_green_bean",
+      "name": "Green beans",
+      "quantity": 100,
+      "unit": "g",
+      "notes": "finely sliced"
+    },
+    {
+      "canonical_id": "ing_bell_pepper_green",
+      "name": "Green or red bell pepper",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "optional, diced"
+    },
+    {
+      "canonical_id": "ing_peas",
+      "name": "Green peas",
+      "quantity": 60,
+      "unit": "g",
+      "notes": "optional"
+    },
+    {
+      "canonical_id": "ing_curry_leaves",
+      "name": "Curry leaves",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "1 sprig, optional"
+    },
+    {
+      "canonical_id": "ing_soy_sauce",
+      "name": "Soy sauce",
+      "quantity": 2,
+      "unit": "tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "canonical_id": "ing_black_pepper",
+      "name": "Black pepper",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_salt",
+      "name": "Salt",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": "add cautiously, since soy sauce already carries salt"
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "instruction": "Make sure the rice is fully cooked and chilled beforehand, ideally refrigerated overnight, or for at least 2-4 hours spread out on a tray. Using warm or freshly cooked rice will make the fried rice clump and turn soggy.",
+      "duration_min": 1
+    },
+    {
+      "step": 2,
+      "instruction": "Heat half the oil in a large wok over medium heat. Pour in the beaten eggs (if using) and scramble until just set, breaking into small pieces. Remove and set aside.",
+      "duration_min": 3
+    },
+    {
+      "step": 3,
+      "instruction": "Add the remaining oil to the wok. Add the curry leaves (if using), onion, and garlic, and stir-fry over medium-high heat for 2-3 minutes until softened.",
+      "duration_min": 3
+    },
+    {
+      "step": 4,
+      "instruction": "Add the carrot and leek, and stir-fry for 2-3 minutes until they begin to soften but still have some bite.",
+      "duration_min": 3
+    },
+    {
+      "step": 5,
+      "instruction": "Add the green beans, bell pepper, and peas (if using). Stir-fry for a further 1-2 minutes, keeping the vegetables crisp-tender.",
+      "duration_min": 2
+    },
+    {
+      "step": 6,
+      "instruction": "Add the chilled rice to the wok, breaking up any clumps with the back of the spatula. Toss well over high heat to combine with the vegetables, about 3-4 minutes.",
+      "duration_min": 4
+    },
+    {
+      "step": 7,
+      "instruction": "Add the soy sauce, black pepper, and the scrambled egg back into the wok. Toss everything together thoroughly for a further 2-3 minutes, until evenly coated and heated through.",
+      "duration_min": 3
+    },
+    {
+      "step": 8,
+      "instruction": "Taste and adjust salt and soy sauce as needed. Serve hot, on its own or alongside devilled chicken, devilled fish, or another Sri Lankan-Chinese fusion dish.",
+      "duration_min": 1
+    }
+  ],
+  "tags": [
+    "lunch",
+    "dinner",
+    "stir-fry",
+    "street-food",
+    "everyday",
+    "vegetarian",
+    "30-60-min",
+    "crowd-pleaser"
+  ],
+  "ayurvedic_balance": "kapha-pacifying",
+  "nutrition_per_serving": {
+    "calories": 340,
+    "protein_g": 9,
+    "carbs_g": 52,
+    "fat_g": 11,
+    "fibre_g": 4
+  },
+  "trust_score": 0.86,
+  "source_url": "https://www.islandsmile.org/vegetable-fried-ricespicy/",
+  "source_site": "islandsmile.org, cross-checked against savperera.com, srilankacooking.com, and thecurryclubhomecooking.com for the chilled-rice technique and leek-and-carrot signature ingredients",
+  "collection_method": "scraped, cross-checked across 6+ independent sources; while not a traditional Sri Lankan dish (it's a Chinese-influenced import, as multiple sources explicitly note), the heavy use of leek and carrot is consistently cited as the defining Sri Lankan adaptation",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "Fried rice is explicitly noted by several Sri Lankan food bloggers as not being a traditional Sri Lankan dish, but rather a Chinese-influenced import that has become a beloved fixture at weddings, parties, and restaurants island-wide -- it sits in the same Sri Lankan-Chinese fusion category as devilled chicken/fish and kottu roti. The defining local adaptation, repeatedly highlighted across sources, is the heavy use of leek and carrot, which gives Sri Lankan fried rice a distinct flavour from other Asian fried rice styles. Day-old, chilled rice is considered essential, not optional -- freshly cooked rice contains too much surface moisture and will turn the dish gummy rather than achieving the desired separate, slightly chewy grains."
+}

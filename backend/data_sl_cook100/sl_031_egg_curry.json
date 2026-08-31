@@ -1,0 +1,202 @@
+{
+  "id": "sl_031",
+  "name_en": "Egg Curry",
+  "name_si": "බිත්තර කරිය",
+  "regional_origin": "Island-wide",
+  "cuisine": "Sri Lankan",
+  "course": "Main",
+  "servings": 4,
+  "prep_time_min": 15,
+  "cook_time_min": 20,
+  "total_time_min": 35,
+  "ingredients": [
+    {
+      "canonical_id": "ing_egg",
+      "name": "Eggs",
+      "quantity": 6,
+      "unit": "count",
+      "notes": "hard-boiled, peeled; soft or jammy-yolk boiled eggs can be used for a softer-centred version"
+    },
+    {
+      "canonical_id": "ing_coconut_oil",
+      "name": "Coconut oil",
+      "quantity": 1.5,
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_cinnamon",
+      "name": "Cinnamon stick",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "small piece"
+    },
+    {
+      "canonical_id": "ing_cardamom",
+      "name": "Cardamom pods",
+      "quantity": 2,
+      "unit": "count",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_curry_leaves",
+      "name": "Curry leaves",
+      "quantity": 8,
+      "unit": "count",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_onion",
+      "name": "Onion",
+      "quantity": 0.5,
+      "unit": "count",
+      "notes": "finely sliced"
+    },
+    {
+      "canonical_id": "ing_garlic",
+      "name": "Garlic",
+      "quantity": 2,
+      "unit": "cloves",
+      "notes": "sliced"
+    },
+    {
+      "canonical_id": "ing_green_chilli",
+      "name": "Green chilli",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "sliced"
+    },
+    {
+      "canonical_id": "ing_tomato",
+      "name": "Tomato",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "chopped"
+    },
+    {
+      "canonical_id": "ing_fenugreek",
+      "name": "Fenugreek seeds",
+      "quantity": 0.25,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_turmeric",
+      "name": "Turmeric powder",
+      "quantity": 0.25,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_curry_powder_unroasted",
+      "name": "Unroasted Sri Lankan curry powder",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_chilli_powder",
+      "name": "Chilli powder",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": "optional, adjust to taste"
+    },
+    {
+      "canonical_id": "ing_water",
+      "name": "Water",
+      "quantity": 100,
+      "unit": "ml",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_coconut_milk",
+      "name": "Coconut milk",
+      "quantity": 200,
+      "unit": "ml",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_salt",
+      "name": "Salt",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": "to taste"
+    },
+    {
+      "canonical_id": "ing_lime",
+      "name": "Lime",
+      "quantity": 0.5,
+      "unit": "count",
+      "notes": "juiced, added at the end"
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "instruction": "Bring a pot of water to a boil. Gently lower the eggs in and boil for 10-12 minutes for fully hard-boiled eggs (or 6-7 minutes for a jammy centre). Transfer to a bowl of cold or iced water to cool, then peel.",
+      "duration_min": 14
+    },
+    {
+      "step": 2,
+      "instruction": "Heat the coconut oil in a pan over medium heat. Add the cinnamon, cardamom, and curry leaves, and let them sizzle for about 30 seconds.",
+      "duration_min": 1
+    },
+    {
+      "step": 3,
+      "instruction": "Add the onion, garlic, and green chilli. Sauté until the onion turns soft and lightly golden, about 3-4 minutes.",
+      "duration_min": 4
+    },
+    {
+      "step": 4,
+      "instruction": "Add the chopped tomato and cook until it softens and turns mushy, about 2-3 minutes.",
+      "duration_min": 3
+    },
+    {
+      "step": 5,
+      "instruction": "Add the fenugreek, turmeric, curry powder, and chilli powder (if using). Stir well, then add the water. Mix and simmer for 2-3 minutes to let the spices cook through.",
+      "duration_min": 3
+    },
+    {
+      "step": 6,
+      "instruction": "Pour in the coconut milk and salt. Bring to a gentle simmer and cook for 5-8 minutes, stirring occasionally, until the sauce thickens slightly.",
+      "duration_min": 7
+    },
+    {
+      "step": 7,
+      "instruction": "Carefully add the peeled boiled eggs, either whole or halved, spooning some sauce over the top. Simmer gently for 2-3 minutes to warm the eggs through and let them absorb the gravy, taking care not to break them up too much.",
+      "duration_min": 3
+    },
+    {
+      "step": 8,
+      "instruction": "Remove from heat and stir in the lime juice. Taste and adjust salt. Serve hot with rice, string hoppers, or bread.",
+      "duration_min": 1
+    }
+  ],
+  "tags": [
+    "breakfast",
+    "lunch",
+    "dinner",
+    "curry",
+    "everyday",
+    "vegetarian",
+    "gluten-free",
+    "coconut-milk",
+    "comfort-food",
+    "30-60-min"
+  ],
+  "ayurvedic_balance": "pitta-pacifying",
+  "nutrition_per_serving": {
+    "calories": 245,
+    "protein_g": 13,
+    "carbs_g": 7,
+    "fat_g": 18,
+    "fibre_g": 1
+  },
+  "trust_score": 0.89,
+  "source_url": "https://www.islandsmile.org/sri-lankan-egg-curry/",
+  "source_site": "islandsmile.org, cross-checked against mydarlinglemonthyme.com, isabellakitchen.com, and joyofeatingtheworld.com for technique consistency",
+  "collection_method": "scraped, cross-checked across 5+ independent sources for the consistent boil-then-simmer-in-coconut-gravy technique",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "Egg curry (biththara kirata) is a popular, budget-friendly protein dish, often made when meat or fish isn't available, and works well for breakfast, lunch, or dinner. Some versions shallow-fry the boiled eggs in oil until lightly browned before adding them to the gravy, giving a firmer, slightly crisped exterior; this entry reflects the simpler unfried version. Cutting small slits or scoring the eggs before adding them to the curry helps the sauce penetrate and flavour the egg white more deeply. The curry is intentionally milder than most meat or fish curries in this collection, making it a good pairing alongside a spicier dish."
+}

@@ -1,0 +1,42 @@
+{
+  "id": "sl_053",
+  "name_en": "Kokis (Crispy Flower-Shaped Fritters)",
+  "name_si": "කොකිස්",
+  "regional_origin": "Island-wide (Dutch Burgher origin)",
+  "cuisine": "Sri Lankan",
+  "course": "Snack",
+  "servings": 6,
+  "prep_time_min": 15,
+  "cook_time_min": 25,
+  "total_time_min": 40,
+  "ingredients": [
+    {"canonical_id": "ing_flour_rice", "name": "Rice flour", "quantity": 240, "unit": "g", "notes": "about 2 cups; roasted rice flour gives a crispier result"},
+    {"canonical_id": "ing_flour_wheat", "name": "All-purpose flour", "quantity": 30, "unit": "g", "notes": "about 1/4 cup; helps the batter adhere to the mould"},
+    {"canonical_id": "ing_egg", "name": "Egg", "quantity": 1, "unit": "count", "notes": "beaten; optional but helps the kokis release from the mould more easily"},
+    {"canonical_id": "ing_coconut_milk", "name": "Coconut milk", "quantity": 240, "unit": "ml", "notes": "1 cup; add more gradually to reach correct batter thickness"},
+    {"canonical_id": "ing_turmeric", "name": "Turmeric powder", "quantity": 0.25, "unit": "tsp", "notes": "for colour; start with less as colour deepens after frying"},
+    {"canonical_id": "ing_sugar", "name": "Sugar", "quantity": 1, "unit": "tsp", "notes": "a small amount balances the batter; some traditional recipes omit it"},
+    {"canonical_id": "ing_salt", "name": "Salt", "quantity": 0.25, "unit": "tsp", "notes": ""},
+    {"canonical_id": "ing_coconut_oil", "name": "Oil for deep frying", "quantity": 500, "unit": "ml", "notes": "coconut oil gives the best aroma; vegetable oil works"}
+  ],
+  "steps": [
+    {"step": 1, "instruction": "Combine the rice flour, all-purpose flour, turmeric, sugar, and salt in a large bowl and mix well.", "duration_min": 2},
+    {"step": 2, "instruction": "Beat the egg and add to the bowl along with the coconut milk, a little at a time, whisking until a smooth thick batter forms -- slightly thicker than pancake batter. Rest for 5-10 minutes.", "duration_min": 8},
+    {"step": 3, "instruction": "Transfer some batter to a small deep bowl just wide enough for the kokis mould -- keeps the main batch from overheating.", "duration_min": 1},
+    {"step": 4, "instruction": "Heat oil to 160-175C (320-350F). Season the kokis mould by submerging it in the hot oil for 2-3 minutes, then wipe dry.", "duration_min": 5},
+    {"step": 5, "instruction": "Heat the mould in the oil for 15-20 seconds until very hot. Lift out and immediately dip into the batter coating about 3/4 of the mould depth -- do NOT fully submerge, as this makes the kokis impossible to remove.", "duration_min": 1},
+    {"step": 6, "instruction": "Dip the coated mould back into the hot oil. Hold for 45-60 seconds until the batter sets and begins to separate from the mould. Shake gently or use a wooden skewer to ease the kokis off into the oil.", "duration_min": 2},
+    {"step": 7, "instruction": "Fry until golden yellow-brown and crispy, about 1-2 more minutes. Remove and drain on paper towels. Repeat with remaining batter, stirring between batches.", "duration_min": 5},
+    {"step": 8, "instruction": "Cool completely before serving or storing -- kokis achieve their final crispiness only after cooling. Store in an airtight container for up to 2 weeks.", "duration_min": 10}
+  ],
+  "tags": ["snack", "dessert", "festival", "new-year-avurudu", "vegan", "vegetarian", "gluten-free", "dairy-free", "under-30-min"],
+  "ayurvedic_balance": "kapha-pacifying",
+  "nutrition_per_serving": {"calories": 210, "protein_g": 3, "carbs_g": 30, "fat_g": 9, "fibre_g": 1},
+  "trust_score": 0.9,
+  "source_url": "https://www.hungrylankan.com/recipes/sri-lankan-kokis/",
+  "source_site": "hungrylankan.com, cross-checked against islandsmile.org, 196flavors.com, tasty.co, maggi.lk, cuisinesofworld.com, lakpura.com, and dailylife.lk",
+  "collection_method": "scraped, cross-checked across 8+ independent sources; very strong agreement on batter thickness, mould seasoning, and the 3/4-dip rule",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "Kokis is believed to be of Dutch colonial origin (name from Dutch 'koekjes' meaning cookies), one of the few Sri Lankan festival foods with a directly traceable European origin. The kokis mould (kokis achchuwa) is essential -- Scandinavian rosette cookie moulds are nearly identical substitutes. The 3/4-dip rule is the single most consistently repeated critical technique across all sources reviewed."
+}

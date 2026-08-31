@@ -1,0 +1,183 @@
+{
+  "id": "sl_022",
+  "name_en": "Beetroot Curry",
+  "name_si": "බීට්රූට් කරිය",
+  "regional_origin": "Hill country (Nuwara Eliya region)",
+  "cuisine": "Sri Lankan",
+  "course": "Main",
+  "servings": 4,
+  "prep_time_min": 15,
+  "cook_time_min": 20,
+  "total_time_min": 35,
+  "ingredients": [
+    {
+      "canonical_id": "ing_beetroot",
+      "name": "Beetroot",
+      "quantity": 400,
+      "unit": "g",
+      "notes": "peeled and cut into thin matchstick strips, about 3mm thick"
+    },
+    {
+      "canonical_id": "ing_coconut_oil",
+      "name": "Coconut oil",
+      "quantity": 1.5,
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_mustard_seeds",
+      "name": "Mustard seeds",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_fenugreek",
+      "name": "Fenugreek seeds",
+      "quantity": 0.25,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_onion",
+      "name": "Red onion",
+      "quantity": 0.25,
+      "unit": "count",
+      "notes": "large, finely sliced"
+    },
+    {
+      "canonical_id": "ing_garlic",
+      "name": "Garlic",
+      "quantity": 2,
+      "unit": "cloves",
+      "notes": "finely chopped"
+    },
+    {
+      "canonical_id": "ing_green_chilli",
+      "name": "Green chilli",
+      "quantity": 2,
+      "unit": "count",
+      "notes": "sliced"
+    },
+    {
+      "canonical_id": "ing_curry_leaves",
+      "name": "Curry leaves",
+      "quantity": 6,
+      "unit": "count",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_curry_powder_unroasted",
+      "name": "Unroasted Sri Lankan curry powder",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_turmeric",
+      "name": "Turmeric powder",
+      "quantity": 0.25,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_chilli_powder",
+      "name": "Cayenne pepper or chilli powder",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "canonical_id": "ing_salt",
+      "name": "Salt",
+      "quantity": 0.25,
+      "unit": "tsp",
+      "notes": "to taste"
+    },
+    {
+      "canonical_id": "ing_coconut_milk",
+      "name": "Thick coconut milk",
+      "quantity": 120,
+      "unit": "ml",
+      "notes": "full-fat"
+    },
+    {
+      "canonical_id": "ing_water",
+      "name": "Water",
+      "quantity": 120,
+      "unit": "ml",
+      "notes": "add gradually as needed; reduce for a drier curry"
+    },
+    {
+      "canonical_id": "ing_lime",
+      "name": "Lime or lemon",
+      "quantity": 0.5,
+      "unit": "count",
+      "notes": "juiced; cuts through the beetroot's sweetness"
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "instruction": "Peel the beetroot and slice into thin rounds about 3mm thick, then stack and cut into thin matchstick strips, sized as evenly as possible for even cooking.",
+      "duration_min": 10
+    },
+    {
+      "step": 2,
+      "instruction": "Heat the coconut oil in a saucepan over medium heat. Add the mustard seeds and let them splutter, then add the fenugreek seeds and curry leaves.",
+      "duration_min": 1
+    },
+    {
+      "step": 3,
+      "instruction": "Add the sliced onion and fry for 1-2 minutes until starting to soften. Add the garlic and green chillies and cook for another minute.",
+      "duration_min": 2
+    },
+    {
+      "step": 4,
+      "instruction": "Add the beetroot strips, curry powder, turmeric, chilli powder, and salt. Mix well to coat the beetroot evenly in the spices.",
+      "duration_min": 1
+    },
+    {
+      "step": 5,
+      "instruction": "Add the water, stir, and cook covered over medium heat for about 8-10 minutes, stirring occasionally, until the beetroot is nearly tender but still has a slight bite.",
+      "duration_min": 9
+    },
+    {
+      "step": 6,
+      "instruction": "Pour in the thick coconut milk. Stir gently and simmer uncovered for a further 5 minutes, until the gravy thickens slightly and the beetroot is fully tender.",
+      "duration_min": 5
+    },
+    {
+      "step": 7,
+      "instruction": "Remove from heat and stir in the lime juice. Taste and adjust salt. Serve hot with rice alongside a spicier meat, fish, or lentil curry to balance the beetroot's sweetness.",
+      "duration_min": 1
+    }
+  ],
+  "tags": [
+    "lunch",
+    "dinner",
+    "curry",
+    "everyday",
+    "vegan",
+    "vegetarian",
+    "gluten-free",
+    "coconut-milk",
+    "under-30-min",
+    "comfort-food"
+  ],
+  "ayurvedic_balance": "kapha-pacifying",
+  "nutrition_per_serving": {
+    "calories": 110,
+    "protein_g": 2,
+    "carbs_g": 11,
+    "fat_g": 7,
+    "fibre_g": 3
+  },
+  "trust_score": 0.9,
+  "source_url": "https://www.theflavorbender.com/sri-lankan-beetroot-curry/",
+  "source_site": "theflavorbender.com, cross-checked against hungrylankan.com and loveandotherspices.com for ratio and technique consistency",
+  "collection_method": "scraped, cross-checked across 4+ independent sources with strong agreement on the thin-matchstick cut and coconut milk finish",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "A beloved childhood comfort food for many Sri Lankans, often paired specifically with chicken curry and rice as a classic combination. The thin matchstick cut of the beetroot is considered important to the dish, as it allows quick, even cooking and the right texture; thicker pieces will need a longer simmer. The natural sweetness of the beetroot is balanced by lime or vinegar at the end -- some households use vinegar instead of lime for a sharper sourness. Beetroot stains plastic cutting boards and containers, so glass or wood is recommended for prep and storage."
+}

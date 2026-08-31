@@ -1,0 +1,226 @@
+{
+  "id": "sl_012",
+  "name_en": "Chicken Kottu Roti",
+  "name_si": "චිකන් කොත්තු රොටී",
+  "regional_origin": "Batticaloa / Trincomalee (Eastern Province)",
+  "cuisine": "Sri Lankan",
+  "course": "Dinner",
+  "servings": 4,
+  "prep_time_min": 30,
+  "cook_time_min": 20,
+  "total_time_min": 50,
+  "ingredients": [
+    {
+      "canonical_id": "ing_flour_wheat",
+      "name": "Godamba roti (or store-bought frozen parotta)",
+      "quantity": 4,
+      "unit": "count",
+      "notes": "homemade or store-bought; flour tortillas or leftover chapati can substitute"
+    },
+    {
+      "canonical_id": "ing_coconut_oil",
+      "name": "Vegetable or coconut oil",
+      "quantity": 3,
+      "unit": "tbsp",
+      "notes": "for the kottu base"
+    },
+    {
+      "canonical_id": "ing_egg",
+      "name": "Eggs",
+      "quantity": 2,
+      "unit": "count",
+      "notes": "beaten"
+    },
+    {
+      "canonical_id": "ing_onion",
+      "name": "Onion",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "large, finely sliced"
+    },
+    {
+      "canonical_id": "ing_green_chilli",
+      "name": "Green chillies",
+      "quantity": 2,
+      "unit": "count",
+      "notes": "finely chopped"
+    },
+    {
+      "canonical_id": "ing_leek",
+      "name": "Leek",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "large, white and light green parts, finely sliced"
+    },
+    {
+      "canonical_id": "ing_carrot",
+      "name": "Carrot",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "medium, cut into thin matchsticks"
+    },
+    {
+      "canonical_id": "ing_cabbage",
+      "name": "Cabbage",
+      "quantity": 100,
+      "unit": "g",
+      "notes": "finely shredded"
+    },
+    {
+      "canonical_id": "ing_curry_leaves",
+      "name": "Fresh curry leaves",
+      "quantity": 20,
+      "unit": "count",
+      "notes": "about 2 sprigs"
+    },
+    {
+      "canonical_id": "ing_garlic",
+      "name": "Garlic",
+      "quantity": 3,
+      "unit": "cloves",
+      "notes": "finely chopped"
+    },
+    {
+      "canonical_id": "ing_ginger",
+      "name": "Ginger",
+      "quantity": 2.5,
+      "unit": "cm",
+      "notes": "1-inch piece, finely chopped"
+    },
+    {
+      "canonical_id": "ing_curry_powder_roasted",
+      "name": "Sri Lankan roasted curry powder",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": "see sl_006 Roasted Sri Lankan Curry Powder"
+    },
+    {
+      "canonical_id": "ing_chilli_powder",
+      "name": "Chilli flakes or chilli powder",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_turmeric",
+      "name": "Turmeric",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_black_pepper",
+      "name": "Black pepper",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_soy_sauce",
+      "name": "Soy sauce",
+      "quantity": 1,
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_chilli_sauce",
+      "name": "Sri Lankan chilli sauce or sriracha",
+      "quantity": 1,
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_salt",
+      "name": "Salt",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": "to taste"
+    },
+    {
+      "canonical_id": "ing_chicken",
+      "name": "Boneless chicken thigh",
+      "quantity": 250,
+      "unit": "g",
+      "notes": "cut into small pieces; optional for a vegetable kottu"
+    },
+    {
+      "canonical_id": "ing_coconut_milk",
+      "name": "Coconut milk",
+      "quantity": 200,
+      "unit": "ml",
+      "notes": "for the curry sauce served alongside"
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "instruction": "If using fresh chicken, season the pieces with a little turmeric, chilli powder, and salt. Fry in 1 tbsp oil over high heat until cooked through and lightly charred, about 5-6 minutes. Set aside.",
+      "duration_min": 6
+    },
+    {
+      "step": 2,
+      "instruction": "Make the curry sauce: fry a little chopped onion, garlic, and curry leaves in a touch of oil until softened. Add curry powder and turmeric, cook for 1 minute, then pour in the coconut milk. Season with salt and simmer for 10 minutes until slightly thickened. Keep warm.",
+      "duration_min": 12
+    },
+    {
+      "step": 3,
+      "instruction": "Tear the godamba roti (or parotta) into rough strips, approximately 2cm wide and 5cm long.",
+      "duration_min": 5
+    },
+    {
+      "step": 4,
+      "instruction": "Heat a large flat griddle, tawa, or your widest heavy pan over high heat. Add the oil. When smoking, add the curry leaves -- they will crackle and spit.",
+      "duration_min": 1
+    },
+    {
+      "step": 5,
+      "instruction": "Add the garlic and ginger, stir for 15 seconds. Add the onion, leek, carrot, cabbage, and green chillies. Stir-fry over high heat for 2-3 minutes; vegetables should wilt but retain some bite.",
+      "duration_min": 3
+    },
+    {
+      "step": 6,
+      "instruction": "Push the vegetables to one side. Pour the beaten eggs onto the cleared surface and scramble roughly with the spatula, breaking into small pieces as they set.",
+      "duration_min": 2
+    },
+    {
+      "step": 7,
+      "instruction": "Add the curry powder, chilli flakes, black pepper, soy sauce, and chilli sauce. Toss everything together.",
+      "duration_min": 1
+    },
+    {
+      "step": 8,
+      "instruction": "Add the torn roti strips and the cooked chicken. Chop and toss aggressively with the edge of two metal spatulas, combining everything on the hot surface -- this chopping technique is the defining method of kottu. Continue for 2-3 minutes, scraping the bottom to get some charred, crispy bits.",
+      "duration_min": 3
+    },
+    {
+      "step": 9,
+      "instruction": "Taste and adjust salt and chilli. Serve immediately, ideally on a metal plate, with the curry sauce on the side for pouring over.",
+      "duration_min": 1
+    }
+  ],
+  "tags": [
+    "dinner",
+    "street-food",
+    "stir-fry",
+    "spicy",
+    "colombo",
+    "30-60-min",
+    "crowd-pleaser",
+    "comfort-food"
+  ],
+  "ayurvedic_balance": "pitta-pacifying",
+  "nutrition_per_serving": {
+    "calories": 520,
+    "protein_g": 28,
+    "carbs_g": 48,
+    "fat_g": 24,
+    "fibre_g": 4
+  },
+  "trust_score": 0.87,
+  "source_url": "https://propermasala.com/recipes/kottu-roti/",
+  "source_site": "propermasala.com, cross-checked against hungrylankan.com and theflavorbender.com for ingredient and technique consistency",
+  "collection_method": "scraped, cross-checked across 3 independent sources for consistent vegetable mix, spicing, and the defining chop-and-toss technique",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "Kottu roti originated as a street-food innovation in the Eastern Province (Batticaloa/Trincomalee) around the 1960s-70s Tamil community, as a way to use up leftover day-old godamba roti. The defining technique is the aggressive chopping and tossing with two metal spatulas/cleavers on a very hot griddle, which produces the dish's signature sound and mixed texture (some pieces sauce-soaked, others charred and crispy). This entry uses chicken; common variations include beef, egg-only (vegetarian), seafood (using leftover fish curry), and cheese kottu (a modern Colombo addition). The small bowl of thin coconut curry sauce served alongside is considered essential, not optional, to the dish."
+}

@@ -1,0 +1,169 @@
+{
+  "id": "sl_038",
+  "name_en": "Dry Fish Curry (Karawala Hodi)",
+  "name_si": "කරවල හොදි",
+  "regional_origin": "Island-wide (especially upcountry, where fresh fish was historically scarce)",
+  "cuisine": "Sri Lankan",
+  "course": "Main",
+  "servings": 4,
+  "prep_time_min": 40,
+  "cook_time_min": 20,
+  "total_time_min": 60,
+  "ingredients": [
+    {
+      "canonical_id": "ing_dry_fish",
+      "name": "Dried salted fish (katta karawala)",
+      "quantity": 200,
+      "unit": "g",
+      "notes": "soaked in water for 30-40 minutes to remove excess salt and any sand/impurities, then drained and cut into pieces"
+    },
+    {
+      "canonical_id": "ing_onion",
+      "name": "Onion",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "sliced"
+    },
+    {
+      "canonical_id": "ing_garlic",
+      "name": "Garlic",
+      "quantity": 3,
+      "unit": "cloves",
+      "notes": "sliced"
+    },
+    {
+      "canonical_id": "ing_green_chilli",
+      "name": "Green chillies",
+      "quantity": 3,
+      "unit": "count",
+      "notes": "sliced"
+    },
+    {
+      "canonical_id": "ing_tomato",
+      "name": "Tomato",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "sliced"
+    },
+    {
+      "canonical_id": "ing_bell_pepper_green",
+      "name": "Banana pepper or green bell pepper",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "optional, sliced"
+    },
+    {
+      "canonical_id": "ing_potato",
+      "name": "Potato",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "optional, small, cut into cubes, to bulk out the dish"
+    },
+    {
+      "canonical_id": "ing_curry_leaves",
+      "name": "Curry leaves",
+      "quantity": 6,
+      "unit": "count",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_black_pepper",
+      "name": "Black peppercorns",
+      "quantity": 5,
+      "unit": "count",
+      "notes": "whole, or 1/4 tsp ground"
+    },
+    {
+      "canonical_id": "ing_turmeric",
+      "name": "Turmeric powder",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_chilli_powder",
+      "name": "Red chilli powder",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "canonical_id": "ing_water",
+      "name": "Water",
+      "quantity": 240,
+      "unit": "ml",
+      "notes": "1 cup"
+    },
+    {
+      "canonical_id": "ing_coconut_milk",
+      "name": "Coconut milk",
+      "quantity": 240,
+      "unit": "ml",
+      "notes": "1 cup, full-fat"
+    },
+    {
+      "canonical_id": "ing_lime",
+      "name": "Lime",
+      "quantity": 0.5,
+      "unit": "count",
+      "notes": "juiced, added at the end"
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "instruction": "Rinse the dried fish, then soak in water for 30-40 minutes to remove the excess salt layer and any sand or impurities from the drying process. Drain and squeeze out the water, then cut into bite-sized pieces.",
+      "duration_min": 35
+    },
+    {
+      "step": 2,
+      "instruction": "In a pot, combine the soaked dried fish with the onion, garlic, green chillies, tomato, banana pepper (if using), potato (if using), curry leaves, black peppercorns, turmeric, and chilli powder.",
+      "duration_min": 3
+    },
+    {
+      "step": 3,
+      "instruction": "Add the water. Cover and cook on medium-low heat for about 10-12 minutes, until the dried fish softens and the tomato breaks down, stirring occasionally.",
+      "duration_min": 11
+    },
+    {
+      "step": 4,
+      "instruction": "Pour in the coconut milk. Stir well and bring to a gentle simmer over low heat, cooking for a further 5-8 minutes -- avoid boiling vigorously, as this can curdle the coconut milk.",
+      "duration_min": 7
+    },
+    {
+      "step": 5,
+      "instruction": "Taste the curry before adding any salt -- the dried fish is usually salty enough on its own, and most cooks find no extra salt is needed. Add a small pinch only if truly necessary.",
+      "duration_min": 1
+    },
+    {
+      "step": 6,
+      "instruction": "Turn off the heat, let cool slightly, and stir in the lime juice. Serve hot with rice, string hoppers, or coconut roti, alongside coconut sambol to balance the saltiness.",
+      "duration_min": 2
+    }
+  ],
+  "tags": [
+    "lunch",
+    "dinner",
+    "curry",
+    "everyday",
+    "gluten-free",
+    "coconut-milk",
+    "30-60-min",
+    "comfort-food"
+  ],
+  "ayurvedic_balance": "pitta-pacifying",
+  "nutrition_per_serving": {
+    "calories": 220,
+    "protein_g": 18,
+    "carbs_g": 11,
+    "fat_g": 13,
+    "fibre_g": 2
+  },
+  "trust_score": 0.9,
+  "source_url": "https://www.hungrylankan.com/recipes/sri-lankan-dry-fish-curry/",
+  "source_site": "hungrylankan.com, cross-checked against rasakama.wordpress.com, pulse.lk, and foodcnr.com for technique and salt-handling consistency",
+  "collection_method": "scraped, cross-checked across 5+ independent sources; very strong agreement on the salt-removal soak as the essential first step",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "Dried fish (karawala) was historically a preservation method allowing fish to be transported and eaten in upcountry areas without refrigeration, and remains a beloved comfort food, especially paired with pol sambol (sl_016) and rice. The pre-soak is the single most important step in this recipe -- skipping it results in an unpleasantly over-salty dish, and dried fish can also carry sand or grit from open-air drying that needs rinsing away. The variety used here is 'katta karawala', a popular type for curries, but other dried fish varieties (including dried anchovies/Maldive fish-style small fish) can substitute. A completely different, oil-fried version called 'karawala thel dala' (dry fish fry, no coconut milk) is a separate, equally popular preparation not covered by this entry. No salt is listed as an ingredient since nearly all sources agree the dish's own saltiness from the dried fish is sufficient."
+}

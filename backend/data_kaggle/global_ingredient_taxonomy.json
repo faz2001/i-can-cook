@@ -1,0 +1,432 @@
+{
+  "version": "1.0",
+  "description": "Global canonical ingredient taxonomy, added for the Kaggle/Epicurious import -- shares the same ID space and matching logic as the SL-Cook100 taxonomy (see ingredients.source column for provenance).",
+  "ingredients": [
+    {
+      "id": "ing_g_kosher_salt",
+      "name": "Kosher salt",
+      "category": "Seasonings",
+      "unit_default": "tsp"
+    },
+    {
+      "id": "ing_g_sea_salt",
+      "name": "Sea salt",
+      "category": "Seasonings",
+      "unit_default": "tsp"
+    },
+    {
+      "id": "ing_g_olive_oil",
+      "name": "Olive oil",
+      "category": "Oils",
+      "unit_default": "tbsp"
+    },
+    {
+      "id": "ing_g_extra_virgin_olive_oil",
+      "name": "Extra-virgin olive oil",
+      "category": "Oils",
+      "unit_default": "tbsp"
+    },
+    {
+      "id": "ing_g_vegetable_oil",
+      "name": "Vegetable oil",
+      "category": "Oils",
+      "unit_default": "tbsp"
+    },
+    {
+      "id": "ing_g_canola_oil",
+      "name": "Canola oil",
+      "category": "Oils",
+      "unit_default": "tbsp"
+    },
+    {
+      "id": "ing_g_sesame_oil_toasted",
+      "name": "Toasted sesame oil",
+      "category": "Oils",
+      "unit_default": "tsp"
+    },
+    {
+      "id": "ing_g_egg_yolk",
+      "name": "Egg yolk",
+      "category": "Dairy",
+      "unit_default": "count"
+    },
+    {
+      "id": "ing_g_egg_white",
+      "name": "Egg white",
+      "category": "Dairy",
+      "unit_default": "count"
+    },
+    {
+      "id": "ing_g_butter",
+      "name": "Butter",
+      "category": "Dairy",
+      "unit_default": "tbsp"
+    },
+    {
+      "id": "ing_g_whole_milk",
+      "name": "Whole milk",
+      "category": "Dairy",
+      "unit_default": "cup"
+    },
+    {
+      "id": "ing_g_milk",
+      "name": "Milk",
+      "category": "Dairy",
+      "unit_default": "cup"
+    },
+    {
+      "id": "ing_g_heavy_cream",
+      "name": "Heavy cream",
+      "category": "Dairy",
+      "unit_default": "cup"
+    },
+    {
+      "id": "ing_g_heavy_whipping_cream",
+      "name": "Heavy whipping cream",
+      "category": "Dairy",
+      "unit_default": "cup"
+    },
+    {
+      "id": "ing_g_sour_cream",
+      "name": "Sour cream",
+      "category": "Dairy",
+      "unit_default": "cup"
+    },
+    {
+      "id": "ing_g_buttermilk",
+      "name": "Buttermilk",
+      "category": "Dairy",
+      "unit_default": "cup"
+    },
+    {
+      "id": "ing_g_cream_cheese",
+      "name": "Cream cheese",
+      "category": "Dairy",
+      "unit_default": "oz"
+    },
+    {
+      "id": "ing_g_parmesan",
+      "name": "Parmesan cheese",
+      "category": "Dairy",
+      "unit_default": "cup"
+    },
+    {
+      "id": "ing_g_mayonnaise",
+      "name": "Mayonnaise",
+      "category": "Condiments",
+      "unit_default": "cup"
+    },
+    {
+      "id": "ing_g_dijon_mustard",
+      "name": "Dijon mustard",
+      "category": "Condiments",
+      "unit_default": "tbsp"
+    },
+    {
+      "id": "ing_g_worcestershire_sauce",
+      "name": "Worcestershire sauce",
+      "category": "Condiments",
+      "unit_default": "tbsp"
+    },
+    {
+      "id": "ing_g_all_purpose_flour",
+      "name": "All-purpose flour",
+      "category": "Flours",
+      "unit_default": "cup"
+    },
+    {
+      "id": "ing_g_granulated_sugar",
+      "name": "Granulated sugar",
+      "category": "Sweeteners",
+      "unit_default": "cup"
+    },
+    {
+      "id": "ing_g_powdered_sugar",
+      "name": "Powdered sugar",
+      "category": "Sweeteners",
+      "unit_default": "cup"
+    },
+    {
+      "id": "ing_g_light_brown_sugar",
+      "name": "Light brown sugar",
+      "category": "Sweeteners",
+      "unit_default": "cup"
+    },
+    {
+      "id": "ing_g_dark_brown_sugar",
+      "name": "Dark brown sugar",
+      "category": "Sweeteners",
+      "unit_default": "cup"
+    },
+    {
+      "id": "ing_g_light_corn_syrup",
+      "name": "Light corn syrup",
+      "category": "Sweeteners",
+      "unit_default": "cup"
+    },
+    {
+      "id": "ing_g_maple_syrup",
+      "name": "Pure maple syrup",
+      "category": "Sweeteners",
+      "unit_default": "cup"
+    },
+    {
+      "id": "ing_g_baking_soda",
+      "name": "Baking soda",
+      "category": "Leavening",
+      "unit_default": "tsp"
+    },
+    {
+      "id": "ing_g_baking_powder",
+      "name": "Baking powder",
+      "category": "Leavening",
+      "unit_default": "tsp"
+    },
+    {
+      "id": "ing_g_vanilla_extract",
+      "name": "Vanilla extract",
+      "category": "Flavorings",
+      "unit_default": "tsp"
+    },
+    {
+      "id": "ing_g_vanilla_bean",
+      "name": "Vanilla bean",
+      "category": "Flavorings",
+      "unit_default": "count"
+    },
+    {
+      "id": "ing_g_vanilla_ice_cream",
+      "name": "Vanilla ice cream",
+      "category": "Dairy",
+      "unit_default": "cup"
+    },
+    {
+      "id": "ing_g_lemon_juice",
+      "name": "Fresh lemon juice",
+      "category": "Souring agents",
+      "unit_default": "tbsp"
+    },
+    {
+      "id": "ing_g_lemon_zest",
+      "name": "Lemon zest",
+      "category": "Flavorings",
+      "unit_default": "tsp"
+    },
+    {
+      "id": "ing_g_lime_juice",
+      "name": "Fresh lime juice",
+      "category": "Souring agents",
+      "unit_default": "tbsp"
+    },
+    {
+      "id": "ing_g_orange_juice",
+      "name": "Fresh orange juice",
+      "category": "Flavorings",
+      "unit_default": "cup"
+    },
+    {
+      "id": "ing_g_red_wine_vinegar",
+      "name": "Red wine vinegar",
+      "category": "Vinegars",
+      "unit_default": "tbsp"
+    },
+    {
+      "id": "ing_g_white_wine_vinegar",
+      "name": "White wine vinegar",
+      "category": "Vinegars",
+      "unit_default": "tbsp"
+    },
+    {
+      "id": "ing_g_apple_cider_vinegar",
+      "name": "Apple cider vinegar",
+      "category": "Vinegars",
+      "unit_default": "tbsp"
+    },
+    {
+      "id": "ing_g_balsamic_vinegar",
+      "name": "Balsamic vinegar",
+      "category": "Vinegars",
+      "unit_default": "tbsp"
+    },
+    {
+      "id": "ing_g_rice_vinegar",
+      "name": "Rice vinegar",
+      "category": "Vinegars",
+      "unit_default": "tbsp"
+    },
+    {
+      "id": "ing_g_sherry_vinegar",
+      "name": "Sherry vinegar",
+      "category": "Vinegars",
+      "unit_default": "tbsp"
+    },
+    {
+      "id": "ing_g_distilled_white_vinegar",
+      "name": "Distilled white vinegar",
+      "category": "Vinegars",
+      "unit_default": "tbsp"
+    },
+    {
+      "id": "ing_g_scallion",
+      "name": "Scallion",
+      "category": "Vegetables",
+      "unit_default": "count"
+    },
+    {
+      "id": "ing_g_red_onion",
+      "name": "Red onion",
+      "category": "Vegetables",
+      "unit_default": "medium"
+    },
+    {
+      "id": "ing_g_shallot",
+      "name": "Shallot",
+      "category": "Vegetables",
+      "unit_default": "count"
+    },
+    {
+      "id": "ing_g_garlic_clove",
+      "name": "Garlic clove",
+      "category": "Aromatics",
+      "unit_default": "cloves"
+    },
+    {
+      "id": "ing_g_celery_stalk",
+      "name": "Celery stalk",
+      "category": "Vegetables",
+      "unit_default": "count"
+    },
+    {
+      "id": "ing_g_cherry_tomato",
+      "name": "Cherry tomatoes",
+      "category": "Vegetables",
+      "unit_default": "cup"
+    },
+    {
+      "id": "ing_g_radish",
+      "name": "Radish",
+      "category": "Vegetables",
+      "unit_default": "count"
+    },
+    {
+      "id": "ing_g_avocado",
+      "name": "Avocado",
+      "category": "Vegetables",
+      "unit_default": "count"
+    },
+    {
+      "id": "ing_g_corn_tortilla",
+      "name": "Corn tortilla",
+      "category": "Grains",
+      "unit_default": "count"
+    },
+    {
+      "id": "ing_g_lime_wedge",
+      "name": "Lime wedge",
+      "category": "Fruits",
+      "unit_default": "count"
+    },
+    {
+      "id": "ing_g_ground_cumin",
+      "name": "Ground cumin",
+      "category": "Spices",
+      "unit_default": "tsp"
+    },
+    {
+      "id": "ing_g_ground_cinnamon",
+      "name": "Ground cinnamon",
+      "category": "Spices",
+      "unit_default": "tsp"
+    },
+    {
+      "id": "ing_g_ground_coriander",
+      "name": "Ground coriander",
+      "category": "Spices",
+      "unit_default": "tsp"
+    },
+    {
+      "id": "ing_g_cayenne_pepper",
+      "name": "Cayenne pepper",
+      "category": "Spices",
+      "unit_default": "tsp"
+    },
+    {
+      "id": "ing_g_paprika",
+      "name": "Paprika",
+      "category": "Spices",
+      "unit_default": "tsp"
+    },
+    {
+      "id": "ing_g_dried_oregano",
+      "name": "Dried oregano",
+      "category": "Herbs",
+      "unit_default": "tsp"
+    },
+    {
+      "id": "ing_g_thyme",
+      "name": "Thyme",
+      "category": "Herbs",
+      "unit_default": "sprigs"
+    },
+    {
+      "id": "ing_g_rosemary",
+      "name": "Fresh rosemary",
+      "category": "Herbs",
+      "unit_default": "sprigs"
+    },
+    {
+      "id": "ing_g_chives",
+      "name": "Fresh chives",
+      "category": "Herbs",
+      "unit_default": "tbsp"
+    },
+    {
+      "id": "ing_g_cilantro",
+      "name": "Fresh cilantro",
+      "category": "Herbs",
+      "unit_default": "cup"
+    },
+    {
+      "id": "ing_g_italian_parsley",
+      "name": "Fresh Italian parsley",
+      "category": "Herbs",
+      "unit_default": "cup"
+    },
+    {
+      "id": "ing_g_bittersweet_chocolate",
+      "name": "Bittersweet chocolate",
+      "category": "Baking",
+      "unit_default": "oz"
+    },
+    {
+      "id": "ing_g_chicken_broth",
+      "name": "Chicken broth",
+      "category": "Liquids",
+      "unit_default": "cup"
+    },
+    {
+      "id": "ing_g_dry_white_wine",
+      "name": "Dry white wine",
+      "category": "Liquids",
+      "unit_default": "cup"
+    },
+    {
+      "id": "ing_g_ice_cube",
+      "name": "Ice cubes",
+      "category": "Liquids",
+      "unit_default": "count"
+    },
+    {
+      "id": "ing_g_bacon",
+      "name": "Bacon",
+      "category": "Meat",
+      "unit_default": "slices"
+    },
+    {
+      "id": "ing_g_crushed_red_pepper_flakes",
+      "name": "Crushed red pepper flakes",
+      "category": "Spices",
+      "unit_default": "tsp"
+    }
+  ]
+}

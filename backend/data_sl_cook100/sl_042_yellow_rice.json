@@ -1,0 +1,199 @@
+{
+  "id": "sl_042",
+  "name_en": "Yellow Rice (Kaha Bath)",
+  "name_si": "කහ බත්",
+  "regional_origin": "Island-wide (festive dish)",
+  "cuisine": "Sri Lankan",
+  "course": "Main",
+  "servings": 6,
+  "prep_time_min": 15,
+  "cook_time_min": 30,
+  "total_time_min": 45,
+  "ingredients": [
+    {
+      "canonical_id": "ing_rice_white",
+      "name": "Basmati or other long-grain rice",
+      "quantity": 400,
+      "unit": "g",
+      "notes": "about 2 cups; samba or jasmine rice can also be used"
+    },
+    {
+      "canonical_id": "ing_coconut_oil",
+      "name": "Ghee or butter",
+      "quantity": 2,
+      "unit": "tbsp",
+      "notes": "vegetable oil can substitute for a vegan version"
+    },
+    {
+      "canonical_id": "ing_onion",
+      "name": "Onion",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "finely sliced"
+    },
+    {
+      "canonical_id": "ing_garlic",
+      "name": "Garlic",
+      "quantity": 2,
+      "unit": "cloves",
+      "notes": "minced"
+    },
+    {
+      "canonical_id": "ing_ginger",
+      "name": "Ginger",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": "minced"
+    },
+    {
+      "canonical_id": "ing_cinnamon",
+      "name": "Cinnamon stick",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "5cm piece"
+    },
+    {
+      "canonical_id": "ing_cardamom",
+      "name": "Cardamom pods",
+      "quantity": 6,
+      "unit": "count",
+      "notes": "lightly bruised"
+    },
+    {
+      "canonical_id": "ing_cloves",
+      "name": "Cloves",
+      "quantity": 6,
+      "unit": "count",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_black_pepper",
+      "name": "Black peppercorns",
+      "quantity": 8,
+      "unit": "count",
+      "notes": "whole"
+    },
+    {
+      "canonical_id": "ing_curry_leaves",
+      "name": "Curry leaves",
+      "quantity": 4,
+      "unit": "count",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_pandan",
+      "name": "Pandan leaf",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "a few pieces, fresh or frozen; can be omitted if unavailable"
+    },
+    {
+      "canonical_id": "ing_lemongrass",
+      "name": "Lemongrass",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "5cm piece, optional"
+    },
+    {
+      "canonical_id": "ing_turmeric",
+      "name": "Turmeric powder",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": "gives the rice its signature colour; start with less and adjust if a lighter yellow is preferred"
+    },
+    {
+      "canonical_id": "ing_salt",
+      "name": "Salt",
+      "quantity": 1.5,
+      "unit": "tsp",
+      "notes": "to taste"
+    },
+    {
+      "canonical_id": "ing_coconut_milk",
+      "name": "Coconut milk",
+      "quantity": 240,
+      "unit": "ml",
+      "notes": "1 cup; full-fat for the richest flavour"
+    },
+    {
+      "canonical_id": "ing_water",
+      "name": "Water or stock",
+      "quantity": 480,
+      "unit": "ml",
+      "notes": "2 cups; chicken or vegetable stock can be used in place of water for extra flavour"
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "instruction": "Wash the rice under cold running water until the water runs mostly clear, then drain thoroughly.",
+      "duration_min": 5
+    },
+    {
+      "step": 2,
+      "instruction": "Heat the ghee or butter in a large saucepan over medium heat. Add the onion and fry until it turns translucent and just starts to soften, taking care not to let it caramelise.",
+      "duration_min": 5
+    },
+    {
+      "step": 3,
+      "instruction": "Add the garlic, ginger, cinnamon, cardamom, cloves, peppercorns, curry leaves, pandan leaf, and lemongrass (if using). Stir and cook for about 2 minutes until fragrant.",
+      "duration_min": 2
+    },
+    {
+      "step": 4,
+      "instruction": "Add the turmeric powder and salt, and stir for a few seconds to combine.",
+      "duration_min": 1
+    },
+    {
+      "step": 5,
+      "instruction": "Add the drained rice to the pot. Fry the rice with the spice mixture for 2-3 minutes, stirring constantly, until each grain is well coated in the aromatic, turmeric-yellow oil.",
+      "duration_min": 3
+    },
+    {
+      "step": 6,
+      "instruction": "Pour in the coconut milk and water (or stock). Stir once, then bring to a boil.",
+      "duration_min": 5
+    },
+    {
+      "step": 7,
+      "instruction": "Once boiling, reduce the heat to low, cover with a tight-fitting lid, and cook for 20-25 minutes without lifting the lid, until the liquid is fully absorbed and the rice is tender.",
+      "duration_min": 22
+    },
+    {
+      "step": 8,
+      "instruction": "Remove from the heat and let the rice rest, still covered, for 5 minutes. Remove the whole spices (cinnamon stick, cardamom pods, cloves, curry leaves, pandan, lemongrass) before serving, or simply set them visibly aside as you fluff so they're easy to spot and discard.",
+      "duration_min": 5
+    },
+    {
+      "step": 9,
+      "instruction": "Fluff the rice gently with a fork to separate the grains without breaking them. Optionally garnish with fried onions, fried cashews, or cooked green peas. Serve with curries such as devilled chicken, black pork curry, or as part of a lamprais set.",
+      "duration_min": 2
+    }
+  ],
+  "tags": [
+    "lunch",
+    "dinner",
+    "festival",
+    "wedding",
+    "vegetarian",
+    "gluten-free",
+    "coconut-milk",
+    "30-60-min",
+    "crowd-pleaser"
+  ],
+  "ayurvedic_balance": "tridoshic",
+  "nutrition_per_serving": {
+    "calories": 290,
+    "protein_g": 5,
+    "carbs_g": 50,
+    "fat_g": 8,
+    "fibre_g": 1
+  },
+  "trust_score": 0.92,
+  "source_url": "https://www.hungrylankan.com/recipes/easy-sri-lankan-yellow-rice/",
+  "source_site": "hungrylankan.com, cross-checked against islandsmile.org, joyofeatingtheworld.com, globaltableadventure.com, and thatsnerdalicious.com for technique and spice-ratio consistency",
+  "collection_method": "scraped, cross-checked across 8+ independent sources; very strong agreement on the fry-spices-then-rice-then-simmer technique and the importance of not lifting the lid during cooking",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "Kaha bath translates directly as 'turmeric rice' (kaha = turmeric, bath = cooked rice) and is considered a festive dish, traditionally served at celebrations, weddings, and as the centrepiece starch of a lamprais set (sl_043). Not lifting the lid during the final simmering stage is repeatedly emphasised across sources as critical -- doing so releases steam and can result in unevenly cooked or undercooked rice. Garnishes like fried onions, fried cashews, and green peas are common but optional flourishes for special occasions; everyday versions are often served plain. The whole spices (cinnamon, cardamom, cloves, curry leaves, pandan) are meant to be removed or avoided when eating, not consumed whole."
+}

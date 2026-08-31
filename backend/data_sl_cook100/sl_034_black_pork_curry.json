@@ -1,0 +1,215 @@
+{
+  "id": "sl_034",
+  "name_en": "Black Pork Curry (Kalu Uru Mas)",
+  "name_si": "කලු ඌරු මස් කරිය",
+  "regional_origin": "Island-wide (especially Western/Southern provinces with Catholic and Burgher communities)",
+  "cuisine": "Sri Lankan",
+  "course": "Main",
+  "servings": 4,
+  "prep_time_min": 30,
+  "cook_time_min": 70,
+  "total_time_min": 100,
+  "ingredients": [
+    {
+      "canonical_id": "ing_pork",
+      "name": "Pork shoulder or belly (with fat)",
+      "quantity": 700,
+      "unit": "g",
+      "notes": "cut into 3-4cm cubes; fatty cuts give the best tender, melt-in-the-mouth texture"
+    },
+    {
+      "canonical_id": "ing_curry_powder_roasted",
+      "name": "Roasted Sri Lankan curry powder",
+      "quantity": 2,
+      "unit": "tbsp",
+      "notes": "see sl_006; the dark, smoky base of the dish's colour and flavour"
+    },
+    {
+      "canonical_id": "ing_turmeric",
+      "name": "Turmeric powder",
+      "quantity": 0.25,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_black_pepper",
+      "name": "Black pepper, freshly ground",
+      "quantity": 1.5,
+      "unit": "tsp",
+      "notes": "a key contributor to the dish's dark colour and pungency"
+    },
+    {
+      "canonical_id": "ing_salt",
+      "name": "Salt",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": "for the marinade, plus more to taste"
+    },
+    {
+      "canonical_id": "ing_goraka",
+      "name": "Goraka",
+      "quantity": 3,
+      "unit": "count",
+      "notes": "soaked in warm water and ground to a paste; can substitute 2 tbsp tamarind paste, though the colour will be less deep black"
+    },
+    {
+      "canonical_id": "ing_coconut_oil",
+      "name": "Coconut oil",
+      "quantity": 2,
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_onion",
+      "name": "Onion",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "sliced"
+    },
+    {
+      "canonical_id": "ing_garlic",
+      "name": "Garlic",
+      "quantity": 5,
+      "unit": "cloves",
+      "notes": "crushed"
+    },
+    {
+      "canonical_id": "ing_ginger",
+      "name": "Ginger",
+      "quantity": 1,
+      "unit": "tbsp",
+      "notes": "crushed"
+    },
+    {
+      "canonical_id": "ing_curry_leaves",
+      "name": "Curry leaves",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "1-2 sprigs"
+    },
+    {
+      "canonical_id": "ing_pandan",
+      "name": "Pandan leaf",
+      "quantity": 1,
+      "unit": "count",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_lemongrass",
+      "name": "Lemongrass",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "1 stalk, crushed"
+    },
+    {
+      "canonical_id": "ing_cinnamon",
+      "name": "Cinnamon stick",
+      "quantity": 1,
+      "unit": "count",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_cardamom",
+      "name": "Cardamom pods",
+      "quantity": 3,
+      "unit": "count",
+      "notes": "crushed"
+    },
+    {
+      "canonical_id": "ing_cloves",
+      "name": "Cloves",
+      "quantity": 4,
+      "unit": "count",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_green_chilli",
+      "name": "Green chillies",
+      "quantity": 2,
+      "unit": "count",
+      "notes": "split"
+    },
+    {
+      "canonical_id": "ing_chilli_powder",
+      "name": "Chilli powder",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "canonical_id": "ing_water",
+      "name": "Water",
+      "quantity": 200,
+      "unit": "ml",
+      "notes": "added gradually as the curry cooks down; more may be needed"
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "instruction": "Soak the goraka pieces in warm water until softened, then grind to a paste in a mortar and pestle or small blender.",
+      "duration_min": 10
+    },
+    {
+      "step": 2,
+      "instruction": "In a large bowl, combine the pork with the roasted curry powder, turmeric, black pepper, salt, and the goraka paste (with a little of its soaking water). Mix thoroughly so every piece is well coated. Marinate for at least 1 hour at room temperature, or up to 4 hours refrigerated for deeper flavour.",
+      "duration_min": 20
+    },
+    {
+      "step": 3,
+      "instruction": "Heat the coconut oil in a heavy-bottomed pot. Add the onion and cook until softened and lightly golden, about 5-7 minutes.",
+      "duration_min": 7
+    },
+    {
+      "step": 4,
+      "instruction": "Add the garlic and ginger, and cook for another minute until fragrant. Add the curry leaves, pandan leaf, lemongrass, cinnamon, cardamom, cloves, and green chillies. Stir for about 30 seconds to release their aroma.",
+      "duration_min": 1
+    },
+    {
+      "step": 5,
+      "instruction": "Add the marinated pork to the pot. Stir well and fry for 5-7 minutes, until the pork pieces start to brown on the outside.",
+      "duration_min": 7
+    },
+    {
+      "step": 6,
+      "instruction": "Add the chilli powder and mix well. Add the water, just enough to cover the meat. Cover the pot and cook on very low heat for about 30 minutes, stirring occasionally to prevent sticking.",
+      "duration_min": 30
+    },
+    {
+      "step": 7,
+      "instruction": "Uncover, check the liquid level (add a splash more water if drying out), taste and adjust the salt. Cover again and continue cooking on very low heat for a further 25-30 minutes, until the pork is tender enough to break apart easily with a fork and the gravy has thickened and darkened considerably.",
+      "duration_min": 28
+    },
+    {
+      "step": 8,
+      "instruction": "Serve hot with rice, coconut roti, or string hoppers, alongside coconut sambol or a lentil curry to balance the richness.",
+      "duration_min": 1
+    }
+  ],
+  "tags": [
+    "lunch",
+    "dinner",
+    "curry",
+    "festival",
+    "spicy",
+    "pork",
+    "goraka",
+    "over-60-min",
+    "comfort-food"
+  ],
+  "ayurvedic_balance": "pitta-pacifying",
+  "nutrition_per_serving": {
+    "calories": 520,
+    "protein_g": 35,
+    "carbs_g": 6,
+    "fat_g": 40,
+    "fibre_g": 2
+  },
+  "trust_score": 0.91,
+  "source_url": "https://www.hungrylankan.com/recipes/black-pork-curry-kalu-uru-mas-curry/",
+  "source_site": "hungrylankan.com, cross-checked against eathealthy365.com, theflavorbender.com, greatcurryrecipes.net, and elanka.com.au for technique consistency",
+  "collection_method": "scraped, cross-checked across 6+ independent sources; very strong agreement on roasted curry powder, goraka, and black pepper as the three pillars of the dish's signature dark colour",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "The 'black' colour comes from three compounding factors: dark roasted curry powder (badapu thuna paha), goraka, and a generous amount of black pepper, intensified further by the long, slow cooking time -- the longer it cooks, the darker and more tender it becomes. Fatty cuts like pork shoulder or belly are strongly preferred over lean cuts, since the rendered fat is central to the dish's signature melt-in-the-mouth texture; lean pork will turn dry and chewy with this long a cook time. Tamarind can substitute for goraka if unavailable, but will not achieve quite the same depth of black colour. This same spice base and technique is also commonly adapted for beef, mutton, or lamb, with adjusted cooking times for tougher cuts."
+}

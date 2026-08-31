@@ -1,0 +1,194 @@
+{
+  "id": "sl_028",
+  "name_en": "Bitter Gourd Curry (Karawila Curry)",
+  "name_si": "කරවිල කරිය",
+  "regional_origin": "Island-wide",
+  "cuisine": "Sri Lankan",
+  "course": "Main",
+  "servings": 4,
+  "prep_time_min": 25,
+  "cook_time_min": 20,
+  "total_time_min": 45,
+  "ingredients": [
+    {
+      "canonical_id": "ing_bitter_gourd",
+      "name": "Bitter gourd (karawila)",
+      "quantity": 400,
+      "unit": "g",
+      "notes": "halved lengthwise, deseeded, and sliced into half-moons"
+    },
+    {
+      "canonical_id": "ing_turmeric",
+      "name": "Turmeric powder",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": "for soaking the bitter gourd before cooking"
+    },
+    {
+      "canonical_id": "ing_salt",
+      "name": "Salt",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": "split: for soaking the bitter gourd, plus more to taste"
+    },
+    {
+      "canonical_id": "ing_onion",
+      "name": "Onion",
+      "quantity": 0.5,
+      "unit": "count",
+      "notes": "sliced"
+    },
+    {
+      "canonical_id": "ing_garlic",
+      "name": "Garlic",
+      "quantity": 2,
+      "unit": "cloves",
+      "notes": "sliced"
+    },
+    {
+      "canonical_id": "ing_green_chilli",
+      "name": "Green chilli",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "sliced"
+    },
+    {
+      "canonical_id": "ing_curry_leaves",
+      "name": "Curry leaves",
+      "quantity": 8,
+      "unit": "count",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_fenugreek",
+      "name": "Fenugreek seeds",
+      "quantity": 0.25,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_mustard_seeds",
+      "name": "Mustard seeds",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_curry_powder_unroasted",
+      "name": "Unroasted Sri Lankan curry powder",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_chilli_powder",
+      "name": "Chilli powder",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_tomato",
+      "name": "Tomato",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "chopped; the sourness helps balance the bitterness"
+    },
+    {
+      "canonical_id": "ing_tamarind",
+      "name": "Tamarind paste or juice",
+      "quantity": 1,
+      "unit": "tbsp",
+      "notes": "optional, for extra sourness to offset the bitterness"
+    },
+    {
+      "canonical_id": "ing_coconut_oil",
+      "name": "Coconut oil",
+      "quantity": 1.5,
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_coconut_milk",
+      "name": "Thick coconut milk",
+      "quantity": 120,
+      "unit": "ml",
+      "notes": "1/2 cup"
+    },
+    {
+      "canonical_id": "ing_sugar",
+      "name": "Sugar",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": "balances the bitterness"
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "instruction": "Halve the bitter gourd lengthwise, scoop out the seeds and pith with a spoon, then slice into half-moon pieces.",
+      "duration_min": 10
+    },
+    {
+      "step": 2,
+      "instruction": "Toss the sliced bitter gourd with the turmeric and about half the salt. Let sit for 10-15 minutes, then squeeze out and discard the released liquid -- this step significantly reduces the natural bitterness.",
+      "duration_min": 15
+    },
+    {
+      "step": 3,
+      "instruction": "Heat the coconut oil in a pan. Add the mustard seeds and let them splutter, then add the onion, garlic, green chilli, curry leaves, and fenugreek. Sauté until the onion softens, about 3-4 minutes.",
+      "duration_min": 4
+    },
+    {
+      "step": 4,
+      "instruction": "Add the curry powder and chilli powder, and stir for a few seconds. Add the chopped tomato and cook until it softens and turns mushy, about 2-3 minutes.",
+      "duration_min": 3
+    },
+    {
+      "step": 5,
+      "instruction": "Add the squeezed bitter gourd pieces. Mix well to coat in the spice-tomato base, and cook for 3-4 minutes.",
+      "duration_min": 4
+    },
+    {
+      "step": 6,
+      "instruction": "Add the tamarind paste (if using), remaining salt, and sugar. Mix well and cook covered for a further 5 minutes, until the bitter gourd is tender.",
+      "duration_min": 5
+    },
+    {
+      "step": 7,
+      "instruction": "Pour in the thick coconut milk. Stir gently and simmer uncovered for 2-3 minutes until the gravy thickens slightly. Taste and adjust salt and sugar to balance the bitterness.",
+      "duration_min": 3
+    },
+    {
+      "step": 8,
+      "instruction": "Serve hot with rice, ideally alongside a milder curry, since this dish carries a distinctly bitter note even after the reduction steps.",
+      "duration_min": 1
+    }
+  ],
+  "tags": [
+    "lunch",
+    "dinner",
+    "curry",
+    "everyday",
+    "vegan",
+    "vegetarian",
+    "gluten-free",
+    "coconut-milk",
+    "30-60-min"
+  ],
+  "ayurvedic_balance": "pitta-pacifying",
+  "nutrition_per_serving": {
+    "calories": 115,
+    "protein_g": 2,
+    "carbs_g": 10,
+    "fat_g": 8,
+    "fibre_g": 3
+  },
+  "trust_score": 0.86,
+  "source_url": "https://foodcnr.com/sri-lankan-style-bitter-gourd-curry/",
+  "source_site": "foodcnr.com, cross-checked against topsrilankanrecipe.com, infolanka.com, and maggi.lk for technique consistency on bitterness reduction and tomato/tamarind balancing",
+  "collection_method": "scraped, cross-checked across 5+ independent sources; strong agreement on salting/squeezing as the key bitterness-reduction technique",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "Bitter gourd is widely considered one of the more challenging vegetables to cook well precisely because of its intense bitterness; the salt-and-squeeze pre-treatment is the single most important technique for making the dish palatable, and skipping it is the most common reason home cooks (especially beginners) end up disliking the dish. The tomato and a touch of sugar are traditional ways to round out the bitterness rather than mask it entirely -- the curry is meant to retain some bitter character, valued in Sri Lankan and broader South Asian cooking for its digestive and diabetic-friendly properties. An alternative preparation, deep-fried bitter gourd salad (karawila sambol), skips the curry entirely in favour of crispy fried rings tossed with onion, lime, and chilli."
+}

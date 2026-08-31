@@ -1,0 +1,90 @@
+@import "tailwindcss";
+
+/*
+  Design concept: "The Pass" -- the expediting station in a restaurant
+  kitchen where tickets come in and get checked off before food leaves the
+  kitchen. The consumer app ("front of house") is light, warm cream and
+  glossy. This tool is where the actual moderation work happens, so it gets
+  the back-of-house treatment: dark, low-glare, functional, ticket-rail
+  cards instead of soft SaaS panels. The ember accent is shared with the
+  consumer app's primary color so the two feel like the same product family.
+*/
+
+@theme {
+  --color-backstage: #1b1815;
+  --color-backstage-raised: #242019;
+  --color-backstage-high: #2d2820;
+  --color-rail: #14120f;
+  --color-ticket: #f3eee4;
+  --color-ticket-dim: #a79c8c;
+  --color-ticket-faint: #766c5e;
+  --color-line: #3a342b;
+  --color-ember: #e8820c;
+  --color-ember-dim: #b9640a;
+  --color-ember-container: #3a2a10;
+  --color-mint: #6cbf8b;
+  --color-mint-container: #1e3226;
+  --color-rust: #e2685a;
+  --color-rust-container: #3a201b;
+
+  --radius-ticket: 0.75rem;
+}
+
+@layer base {
+  body {
+    font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Space Grotesk', 'Inter', sans-serif;
+  }
+
+  :focus-visible {
+    outline: 2px solid #e8820c;
+    outline-offset: 2px;
+  }
+}
+
+.font-display {
+  font-family: 'Space Grotesk', sans-serif;
+}
+
+.font-mono-ticket {
+  font-family: 'IBM Plex Mono', ui-monospace, monospace;
+}
+
+/* Ticket / chit card: a perforated top edge, like a torn order slip. */
+.chit {
+  position: relative;
+  background: var(--color-backstage-raised);
+  border: 1px solid var(--color-line);
+  border-radius: var(--radius-ticket);
+}
+
+.chit::before {
+  content: '';
+  position: absolute;
+  top: -1px;
+  left: 1rem;
+  right: 1rem;
+  height: 1px;
+  background-image: repeating-linear-gradient(
+    to right,
+    var(--color-ticket-faint) 0,
+    var(--color-ticket-faint) 5px,
+    transparent 5px,
+    transparent 10px
+  );
+}
+
+/* Rubber-stamp style badge used for moderation/status verdicts. */
+.stamp {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  border: 1.5px solid currentColor;
+  border-radius: 0.4rem;
+  padding: 0.15rem 0.55rem;
+  transform: rotate(-2deg);
+  letter-spacing: 0.04em;
+}

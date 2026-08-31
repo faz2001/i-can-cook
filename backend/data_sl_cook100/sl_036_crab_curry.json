@@ -1,0 +1,204 @@
+{
+  "id": "sl_036",
+  "name_en": "Crab Curry (Kakuluwo Curry)",
+  "name_si": "කකුළුවෝ කරිය",
+  "regional_origin": "Coastal Sri Lanka, especially Jaffna and Negombo/Chilaw",
+  "cuisine": "Sri Lankan",
+  "course": "Main",
+  "servings": 4,
+  "prep_time_min": 30,
+  "cook_time_min": 30,
+  "total_time_min": 60,
+  "ingredients": [
+    {
+      "canonical_id": "ing_crab",
+      "name": "Crab (mud crab or blue swimmer)",
+      "quantity": 4,
+      "unit": "count",
+      "notes": "large; cleaned, gills removed, split down the middle, shell lightly cracked so the gravy can penetrate"
+    },
+    {
+      "canonical_id": "ing_rice_raw_uncooked",
+      "name": "Raw white rice",
+      "quantity": 1,
+      "unit": "tbsp",
+      "notes": "for toasting with the coconut as a thickener"
+    },
+    {
+      "canonical_id": "ing_coconut_grated",
+      "name": "Grated coconut",
+      "quantity": 4,
+      "unit": "tbsp",
+      "notes": "for toasting with the rice; fresh is best, desiccated coconut works as a substitute"
+    },
+    {
+      "canonical_id": "ing_coconut_oil",
+      "name": "Coconut oil",
+      "quantity": 2,
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_cinnamon",
+      "name": "Cinnamon stick",
+      "quantity": 1,
+      "unit": "count",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_curry_leaves",
+      "name": "Curry leaves",
+      "quantity": 8,
+      "unit": "count",
+      "notes": "1 sprig"
+    },
+    {
+      "canonical_id": "ing_pandan",
+      "name": "Pandan leaf",
+      "quantity": 1,
+      "unit": "count",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_onion",
+      "name": "Onion",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "finely chopped, or use shallots"
+    },
+    {
+      "canonical_id": "ing_garlic",
+      "name": "Garlic",
+      "quantity": 5,
+      "unit": "cloves",
+      "notes": "finely chopped"
+    },
+    {
+      "canonical_id": "ing_ginger",
+      "name": "Ginger",
+      "quantity": 1,
+      "unit": "tbsp",
+      "notes": "finely chopped"
+    },
+    {
+      "canonical_id": "ing_green_chilli",
+      "name": "Green chillies",
+      "quantity": 2,
+      "unit": "count",
+      "notes": "sliced"
+    },
+    {
+      "canonical_id": "ing_curry_powder_unroasted",
+      "name": "Unroasted Sri Lankan curry powder",
+      "quantity": 1.5,
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_chilli_powder",
+      "name": "Cayenne pepper or chilli powder",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "canonical_id": "ing_tamarind",
+      "name": "Tamarind paste",
+      "quantity": 1,
+      "unit": "tbsp",
+      "notes": "soaked and strained, or use lime juice as a milder alternative"
+    },
+    {
+      "canonical_id": "ing_sugar",
+      "name": "Sugar",
+      "quantity": 2,
+      "unit": "tsp",
+      "notes": "balances the tamarind's sourness"
+    },
+    {
+      "canonical_id": "ing_coconut_milk",
+      "name": "Coconut milk",
+      "quantity": 400,
+      "unit": "ml",
+      "notes": "1.5 cups, split between the initial cook and the final thickening stage"
+    },
+    {
+      "canonical_id": "ing_salt",
+      "name": "Salt",
+      "quantity": 0.75,
+      "unit": "tsp",
+      "notes": "to taste; crab meat already carries some natural saltiness"
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "instruction": "If using live crabs, place them in the freezer for about an hour to immobilize. Remove the bottom shell and gills, rinse well, then split each crab down the middle and lightly crack the larger claws/legs so the gravy can penetrate the shell.",
+      "duration_min": 20
+    },
+    {
+      "step": 2,
+      "instruction": "In a dry pan over low heat, toast the raw rice and grated coconut together, stirring constantly, until lightly browned and fragrant. Grind in a mortar and pestle or spice grinder to a coarse powder. Set aside -- this becomes the curry's signature thickener.",
+      "duration_min": 8
+    },
+    {
+      "step": 3,
+      "instruction": "Heat the coconut oil in a large pot (large enough to comfortably stir the crab pieces). Add the cinnamon stick, curry leaves, and pandan leaf, and let sizzle for 30 seconds.",
+      "duration_min": 1
+    },
+    {
+      "step": 4,
+      "instruction": "Add the onion and cook until softened, about 3-4 minutes. Add the garlic, ginger, and green chillies, and cook for another minute until fragrant.",
+      "duration_min": 5
+    },
+    {
+      "step": 5,
+      "instruction": "Add the curry powder and chilli powder, and cook for 1-2 minutes until the spices become fragrant and slightly darker.",
+      "duration_min": 2
+    },
+    {
+      "step": 6,
+      "instruction": "Add the tamarind paste, sugar, and about half the coconut milk. Bring to a boil, then season with a little salt.",
+      "duration_min": 2
+    },
+    {
+      "step": 7,
+      "instruction": "Place the prepared crab pieces into the sauce, gently turning to coat them. Bring back to a boil, then lower the heat to medium, cover, and simmer for 15-20 minutes until the crabs are cooked through, turning the pieces halfway through to ensure even coating.",
+      "duration_min": 18
+    },
+    {
+      "step": 8,
+      "instruction": "Stir in the toasted rice-and-coconut mixture along with the remaining coconut milk. Simmer for a further 5-10 minutes, stirring occasionally, until the gravy thickens and darkens to a rich brown colour.",
+      "duration_min": 8
+    },
+    {
+      "step": 9,
+      "instruction": "Taste and adjust salt, sugar, and tamarind as needed. Remove the cinnamon stick before serving. Serve hot with plenty of rice or bread to mop up the gravy.",
+      "duration_min": 1
+    }
+  ],
+  "tags": [
+    "lunch",
+    "dinner",
+    "curry",
+    "festival",
+    "spicy",
+    "crowd-pleaser",
+    "30-60-min"
+  ],
+  "ayurvedic_balance": "pitta-pacifying",
+  "nutrition_per_serving": {
+    "calories": 290,
+    "protein_g": 24,
+    "carbs_g": 12,
+    "fat_g": 17,
+    "fibre_g": 2
+  },
+  "trust_score": 0.89,
+  "source_url": "https://greatcurryrecipes.net/2022/01/29/sri-lankan-crab-curry/",
+  "source_site": "greatcurryrecipes.net, cross-checked against theflavorbender.com, villagevoice.com, and gzrecipes.com for the toasted rice-coconut thickener technique consistency",
+  "collection_method": "scraped, cross-checked across 6+ independent sources; very strong agreement on the toasted rice-and-coconut paste as the dish's defining thickening technique",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "Kakuluwo curry is widely regarded as a celebratory, special-occasion dish in Sri Lanka -- crab being more expensive and seasonal than other proteins, serving it signals a more festive meal. The Jaffna-style version (from the northern coast) is especially famous and tends to be drier and spicier; coastal versions further south often lean creamier. The toasted-rice-and-coconut paste, ground after dry roasting, is the dish's most distinctive technique and gives the curry its characteristic thick, clinging gravy and deep brown colour -- this differs from most other curries in this collection, which rely on coconut milk alone for body. Eating crab curry is traditionally a hands-on, messy affair: diners crack shells and pick out the meat by hand rather than eating with cutlery."
+}

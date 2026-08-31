@@ -1,0 +1,197 @@
+{
+  "id": "sl_049",
+  "name_en": "Fish Cutlets",
+  "name_si": "මාළු කට්ලට්",
+  "regional_origin": "Island-wide (Colombo short-eat culture)",
+  "cuisine": "Sri Lankan",
+  "course": "Snack",
+  "servings": 5,
+  "prep_time_min": 35,
+  "cook_time_min": 20,
+  "total_time_min": 55,
+  "ingredients": [
+    {
+      "canonical_id": "ing_fish_mackerel",
+      "name": "Canned mackerel or tuna",
+      "quantity": 425,
+      "unit": "g",
+      "notes": "1 large can; drained thoroughly, large bones and dark skin removed"
+    },
+    {
+      "canonical_id": "ing_potato",
+      "name": "Starchy potatoes",
+      "quantity": 350,
+      "unit": "g",
+      "notes": "boiled in salted water until just fork-tender, drained, cooled before mashing"
+    },
+    {
+      "canonical_id": "ing_onion",
+      "name": "Onion",
+      "quantity": 0.5,
+      "unit": "count",
+      "notes": "finely chopped; the finer the chop, the less likely cutlets are to crack"
+    },
+    {
+      "canonical_id": "ing_garlic",
+      "name": "Garlic",
+      "quantity": 2,
+      "unit": "cloves",
+      "notes": "minced"
+    },
+    {
+      "canonical_id": "ing_ginger",
+      "name": "Ginger",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": "minced"
+    },
+    {
+      "canonical_id": "ing_green_chilli",
+      "name": "Green chillies",
+      "quantity": 2,
+      "unit": "count",
+      "notes": "finely chopped; deseed for milder cutlets"
+    },
+    {
+      "canonical_id": "ing_curry_leaves",
+      "name": "Curry leaves",
+      "quantity": 8,
+      "unit": "count",
+      "notes": "finely sliced"
+    },
+    {
+      "canonical_id": "ing_chilli_powder",
+      "name": "Chilli powder",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_turmeric",
+      "name": "Turmeric powder",
+      "quantity": 0.25,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_black_pepper",
+      "name": "Black pepper",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": "freshly ground; a generous amount is important to the flavour"
+    },
+    {
+      "canonical_id": "ing_lime",
+      "name": "Lime",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "juiced"
+    },
+    {
+      "canonical_id": "ing_salt",
+      "name": "Salt",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": "to taste; canned fish already carries salt"
+    },
+    {
+      "canonical_id": "ing_egg",
+      "name": "Eggs",
+      "quantity": 2,
+      "unit": "count",
+      "notes": "beaten, for coating"
+    },
+    {
+      "canonical_id": "ing_flour_wheat",
+      "name": "Plain flour",
+      "quantity": 4,
+      "unit": "tbsp",
+      "notes": "for a thin pre-coat before the egg wash"
+    },
+    {
+      "canonical_id": "ing_breadcrumbs",
+      "name": "Fine dry breadcrumbs",
+      "quantity": 1.5,
+      "unit": "cup",
+      "notes": "fine breadcrumbs preferred over coarse for an even, crack-resistant crust"
+    },
+    {
+      "canonical_id": "ing_coconut_oil",
+      "name": "Oil for deep frying",
+      "quantity": 500,
+      "unit": "ml",
+      "notes": "heat to 165-170C (330-340F); this lower temperature reduces cracking"
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "instruction": "Boil the potatoes in salted water until just fork-tender, about 15-18 minutes. Drain and leave in the warm pot briefly to dry off excess moisture. Peel and mash until smooth. Set aside to cool completely.",
+      "duration_min": 22
+    },
+    {
+      "step": 2,
+      "instruction": "Drain the canned fish thoroughly, pressing out all liquid. Remove large bones and dark skin. Break into flakes.",
+      "duration_min": 5
+    },
+    {
+      "step": 3,
+      "instruction": "Heat a little oil in a pan. Saute the onion until soft, 3-4 minutes. Add garlic and ginger, cook 1 minute. Add the flaked fish, chilli powder, turmeric, black pepper, and green chillies. Stir and cook 2 minutes.",
+      "duration_min": 7
+    },
+    {
+      "step": 4,
+      "instruction": "Add the cooled mashed potato and curry leaves. Mix until cohesive. Add lime juice and salt. Cook 1-2 minutes until dry and holds together -- a wet filling causes cutlets to crack.",
+      "duration_min": 3
+    },
+    {
+      "step": 5,
+      "instruction": "Remove from heat and cool completely before shaping -- shaping warm filling significantly increases cracking risk.",
+      "duration_min": 20
+    },
+    {
+      "step": 6,
+      "instruction": "Set up a breading station: flour, beaten egg, breadcrumbs. Roll the cooled filling into balls of about 30-40g each.",
+      "duration_min": 8
+    },
+    {
+      "step": 7,
+      "instruction": "Coat each ball in flour, dip in egg, roll in breadcrumbs pressing firmly. For a crack-resistant crust, double-coat: dip in egg again and roll in breadcrumbs a second time.",
+      "duration_min": 10
+    },
+    {
+      "step": 8,
+      "instruction": "Refrigerate the coated cutlets for 10-15 minutes before frying -- this firms up the coating and reduces cracking.",
+      "duration_min": 15
+    },
+    {
+      "step": 9,
+      "instruction": "Heat oil to 165-170C (330-340F). Fry in small batches for 3-4 minutes, turning gently, until deep golden all over. Drain on paper towels. Serve hot with ketchup, chilli sauce, or lime.",
+      "duration_min": 8
+    }
+  ],
+  "tags": [
+    "snack",
+    "lunch",
+    "street-food",
+    "festival",
+    "30-60-min",
+    "crowd-pleaser",
+    "meal-prep-friendly"
+  ],
+  "ayurvedic_balance": "pitta-pacifying",
+  "nutrition_per_serving": {
+    "calories": 290,
+    "protein_g": 18,
+    "carbs_g": 28,
+    "fat_g": 12,
+    "fibre_g": 2
+  },
+  "trust_score": 0.93,
+  "source_url": "https://www.loveandotherspices.com/sri-lankan-fish-cutlets/",
+  "source_site": "loveandotherspices.com, cross-checked against theflavorbender.com, hungrylankan.com, islandsmile.org, kannammacooks.com, berrychik.com, and mylankanfoodjournal.com",
+  "collection_method": "scraped, cross-checked across 7+ independent sources; highest-confidence entry for a deep-fried snack, with very strong agreement on anti-cracking technique",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "Sri Lankan fish cutlets (maalu cutlets) are essentially croquettes -- a 'short eat' served at parties, high tea, and roadside cafes. Cracking during frying is the single most discussed failure mode across all sources; the agreed solutions are: cool the filling completely before shaping, keep the filling dry, use fine breadcrumbs, double-coat, and fry at 165-170C rather than 180-190C. Cutlets freeze extremely well unfried (single layer first, then container); fry straight from frozen when needed. Mackerel gives a stronger, more traditional flavour; tuna gives a milder result."
+}

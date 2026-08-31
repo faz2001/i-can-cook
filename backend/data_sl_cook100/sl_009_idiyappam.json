@@ -1,0 +1,110 @@
+{
+  "id": "sl_009",
+  "name_en": "Idiyappam (String Hoppers)",
+  "name_si": "ඉඳිආප්ප",
+  "regional_origin": "Island-wide",
+  "cuisine": "Sri Lankan",
+  "course": "Breakfast",
+  "servings": 3,
+  "prep_time_min": 15,
+  "cook_time_min": 20,
+  "total_time_min": 35,
+  "ingredients": [
+    {
+      "canonical_id": "ing_flour_rice",
+      "name": "String hopper flour (steamed/roasted rice flour, red or white)",
+      "quantity": 350,
+      "unit": "g",
+      "notes": "use specific string hopper flour, not regular raw rice flour, for best texture"
+    },
+    {
+      "canonical_id": "ing_salt",
+      "name": "Salt",
+      "quantity": 6,
+      "unit": "g",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_water",
+      "name": "Lukewarm water",
+      "quantity": 400,
+      "unit": "ml",
+      "notes": "may need slightly more depending on how dry the flour is"
+    },
+    {
+      "canonical_id": "ing_coconut_oil",
+      "name": "Cooking oil",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": "for greasing the string hopper trays"
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "instruction": "Add the string hopper flour and salt to a bowl. Mix briefly with a wooden spoon.",
+      "duration_min": 1
+    },
+    {
+      "step": 2,
+      "instruction": "Add the lukewarm water to the bowl little by little, mixing with the wooden spoon until the flour forms lumps of dough.",
+      "duration_min": 3
+    },
+    {
+      "step": 3,
+      "instruction": "Mix the dough with your hand into one soft, pliable dough. It should be a little tacky but not sticky, holding its shape when squeezed without crumbling or sticking to your fingers. Adjust with a little more water if too dry, or a little more flour if too wet.",
+      "duration_min": 3
+    },
+    {
+      "step": 4,
+      "instruction": "Lay out the string hopper trays and apply a thin coating of oil over their surface to prevent sticking.",
+      "duration_min": 2
+    },
+    {
+      "step": 5,
+      "instruction": "Fill the string hopper press with dough, up to about 80% of its volume. Press the dough through the press onto each tray in a circular motion, covering the tray with strings, then cut the strings off with your finger.",
+      "duration_min": 8
+    },
+    {
+      "step": 6,
+      "instruction": "Place the filled trays into the steamer basket, layering with minimal overlap for even steaming.",
+      "duration_min": 2
+    },
+    {
+      "step": 7,
+      "instruction": "Steam for 5-6 minutes, or until the string hoppers are firm, springy to the touch, and not sticky.",
+      "duration_min": 6
+    },
+    {
+      "step": 8,
+      "instruction": "Remove the trays from the steamer and gently lift the string hoppers off. Stack in a covered bowl to keep them from drying out while steaming the remaining batches. Serve warm with coconut sambol, dhal curry, or any preferred curry.",
+      "duration_min": 2
+    }
+  ],
+  "tags": [
+    "breakfast",
+    "dinner",
+    "everyday",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "steam",
+    "soft",
+    "30-60-min"
+  ],
+  "ayurvedic_balance": "vata-pacifying",
+  "nutrition_per_serving": {
+    "calories": 280,
+    "protein_g": 5,
+    "carbs_g": 62,
+    "fat_g": 1,
+    "fibre_g": 1
+  },
+  "trust_score": 0.88,
+  "source_url": "https://www.hungrylankan.com/recipes/sri-lankan-string-hoppers-%E0%B6%89%E0%B6%B3%E0%B7%92%E0%B6%86%E0%B6%B4%E0%B7%8A%E0%B6%B4/",
+  "source_site": "hungrylankan.com",
+  "collection_method": "scraped, single well-documented primary source written by a Sri Lankan home cook with precise gram measurements",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "Known by many names across South Asia (idiyappam, nool puttu, noolappam, string hoppers); this entry reflects the Sri Lankan home-cooking method using a dedicated string hopper press and trays. A bamboo steamer basket with parchment paper can substitute for trays if unavailable. Quantities above make about 25-30 thick string hoppers, serving roughly 3 people as a main meal portion."
+}

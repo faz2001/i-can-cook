@@ -1,0 +1,41 @@
+{
+  "id": "sl_090",
+  "name_en": "Imbul Kiribath (Stuffed Milk Rice with Pol Pani)",
+  "name_si": "ඉඹුල් කිරිබත්",
+  "regional_origin": "Island-wide (Avurudu festival)",
+  "cuisine": "Sri Lankan",
+  "course": "Dessert",
+  "servings": 8,
+  "prep_time_min": 15,
+  "cook_time_min": 35,
+  "total_time_min": 50,
+  "ingredients": [
+    {"canonical_id": "ing_rice_white", "name": "Short-grain or samba rice", "quantity": 400, "unit": "g", "notes": "about 2 cups; the same rice as kiribath (sl_008); washed until water runs clear"},
+    {"canonical_id": "ing_water", "name": "Water", "quantity": 480, "unit": "ml", "notes": "2 cups; for the initial rice cooking"},
+    {"canonical_id": "ing_coconut_milk", "name": "Thick coconut milk", "quantity": 400, "unit": "ml", "notes": "1 tin; full-fat; added once the water is absorbed"},
+    {"canonical_id": "ing_salt", "name": "Salt", "quantity": 0.5, "unit": "tsp", "notes": ""},
+    {"canonical_id": "ing_coconut_grated", "name": "Freshly grated coconut", "quantity": 180, "unit": "g", "notes": "for the pol pani filling"},
+    {"canonical_id": "ing_treacle_kithul", "name": "Kithul treacle or jaggery", "quantity": 120, "unit": "ml", "notes": "for the pol pani filling; see sl_085 Pol Pani for the full filling method"},
+    {"canonical_id": "ing_cardamom", "name": "Cardamom powder", "quantity": 0.5, "unit": "tsp", "notes": "for the pol pani filling"},
+    {"canonical_id": "ing_coconut_oil", "name": "Coconut oil", "quantity": 1, "unit": "tsp", "notes": "for greasing the mould or banana leaf"}
+  ],
+  "steps": [
+    {"step": 1, "instruction": "Make the pol pani filling: combine grated coconut with kithul treacle and cardamom in a pan. Cook over medium-low heat for 8-10 minutes, stirring continuously, until the treacle is fully absorbed and the mixture is sticky and clumps together. Set aside. See sl_085 for the full pol pani method.", "duration_min": 10},
+    {"step": 2, "instruction": "Cook the milk rice: wash rice until the water runs clear. Cook with 2 cups of water over medium heat, covered, for 15-18 minutes until all the water is absorbed and the rice is tender.", "duration_min": 18},
+    {"step": 3, "instruction": "Add the thick coconut milk and salt to the cooked rice. Stir well, then cook uncovered over low heat for a further 8-10 minutes, stirring occasionally, until the coconut milk is fully absorbed and the rice is thick, glossy, and holds together when pressed.", "duration_min": 9},
+    {"step": 4, "instruction": "While the milk rice is still hot and pliable, begin shaping. Place a square of banana leaf, puwak kola (areca sheath), or greased parchment paper on a flat surface. Spread 3-4 tablespoons of milk rice in a thin, even layer about 15x10cm on the leaf.", "duration_min": 5},
+    {"step": 5, "instruction": "Place a line of pol pani filling along the centre of the rice rectangle. Using the leaf as a guide, roll the rice firmly around the filling to form a cylinder, pressing both ends shut like a wrapped toffee. Twist the ends of the leaf in opposite directions to compact the shape.", "duration_min": 3},
+    {"step": 6, "instruction": "Repeat until all the milk rice and filling are used. Unwrap each roll when ready to serve -- the imbul kiribath should hold its cylindrical shape firmly.", "duration_min": 5},
+    {"step": 7, "instruction": "Serve at room temperature. Imbul kiribath can be made a few hours in advance and kept wrapped at room temperature; it does not need refrigeration unless stored overnight.", "duration_min": 1}
+  ],
+  "tags": ["dessert", "breakfast", "festival", "new-year-avurudu", "vegan", "vegetarian", "gluten-free", "dairy-free", "coconut-milk", "jaggery", "30-60-min", "comfort-food"],
+  "ayurvedic_balance": "kapha-pacifying",
+  "nutrition_per_serving": {"calories": 285, "protein_g": 4, "carbs_g": 46, "fat_g": 10, "fibre_g": 3},
+  "trust_score": 0.92,
+  "source_url": "https://www.dailylife.lk/kitchen/imbul-kiribath/",
+  "source_site": "dailylife.lk, cross-checked against infolanka.com, kitchensimmer.com, ammiskitchennz.blogspot.com, notonlymuffins.blogspot.com, baconismagic.ca, propermasala.com, and Wikipedia (Kiribath)",
+  "collection_method": "scraped, cross-checked across 8+ independent sources; very strong agreement on the milk rice base (sl_008 technique), pol pani filling (sl_085), and the leaf-roll shaping method",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "Imbul kiribath is the sweet stuffed variant of kiribath (sl_008) -- the base milk rice is identical, but instead of being pressed flat and cut into diamonds, it is wrapped around a pol pani filling (sl_085) and rolled into cylinders using banana leaf or puwak kola (areca palm sheath). Wikipedia describes it as 'a sweet variation of the original' where 'a banana leaf is folded and rolled vertically and pressed firmly, giving it its unusual cylindrical shape.' Traditionally puwak kola (dried areca sheath) was used as the wrapping material and is still considered the most authentic; banana leaf is the most widely available substitute. The rolling technique produces a different shape from lavariya (sl_089) even though both use pol pani -- lavariya is made from string hopper noodles and steamed, while imbul kiribath is made from cooked milk rice and served at room temperature without further cooking. An alternative modern presentation (noted in ammiskitchennz.blogspot.com and kitchensimmer.com) layers milk rice and pol pani in stacked discs rather than rolling."
+}

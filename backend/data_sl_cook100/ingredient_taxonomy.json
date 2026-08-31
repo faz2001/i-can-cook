@@ -1,0 +1,678 @@
+{
+  "version": "1.0",
+  "description": "Canonical ingredient taxonomy for SL-Cook50/100",
+  "ingredients": [
+    {
+      "id": "ing_rice_white",
+      "name": "White rice",
+      "category": "Grains",
+      "unit_default": "cups"
+    },
+    {
+      "id": "ing_rice_red",
+      "name": "Red rice",
+      "category": "Grains",
+      "unit_default": "cups"
+    },
+    {
+      "id": "ing_coconut_milk",
+      "name": "Coconut milk",
+      "category": "Dairy-alt",
+      "unit_default": "ml"
+    },
+    {
+      "id": "ing_coconut_grated",
+      "name": "Grated coconut",
+      "category": "Dairy-alt",
+      "unit_default": "cups"
+    },
+    {
+      "id": "ing_coconut_oil",
+      "name": "Coconut oil",
+      "category": "Oils",
+      "unit_default": "tbsp"
+    },
+    {
+      "id": "ing_chicken",
+      "name": "Chicken",
+      "category": "Meat",
+      "unit_default": "g"
+    },
+    {
+      "id": "ing_beef",
+      "name": "Beef",
+      "category": "Meat",
+      "unit_default": "g"
+    },
+    {
+      "id": "ing_mutton",
+      "name": "Mutton",
+      "category": "Meat",
+      "unit_default": "g"
+    },
+    {
+      "id": "ing_fish_tuna",
+      "name": "Tuna (fresh/canned)",
+      "category": "Seafood",
+      "unit_default": "g"
+    },
+    {
+      "id": "ing_fish_mackerel",
+      "name": "Mackerel",
+      "category": "Seafood",
+      "unit_default": "g"
+    },
+    {
+      "id": "ing_shrimp",
+      "name": "Shrimp / Prawns",
+      "category": "Seafood",
+      "unit_default": "g"
+    },
+    {
+      "id": "ing_lentil_red",
+      "name": "Red lentils (masoor dal)",
+      "category": "Legumes",
+      "unit_default": "cups"
+    },
+    {
+      "id": "ing_lentil_green",
+      "name": "Green gram (mung dal)",
+      "category": "Legumes",
+      "unit_default": "cups"
+    },
+    {
+      "id": "ing_chickpea",
+      "name": "Chickpeas",
+      "category": "Legumes",
+      "unit_default": "cups"
+    },
+    {
+      "id": "ing_potato",
+      "name": "Potato",
+      "category": "Vegetables",
+      "unit_default": "g"
+    },
+    {
+      "id": "ing_onion",
+      "name": "Onion",
+      "category": "Vegetables",
+      "unit_default": "medium"
+    },
+    {
+      "id": "ing_shallot",
+      "name": "Shallots (small onion)",
+      "category": "Vegetables",
+      "unit_default": "count"
+    },
+    {
+      "id": "ing_tomato",
+      "name": "Tomato",
+      "category": "Vegetables",
+      "unit_default": "medium"
+    },
+    {
+      "id": "ing_garlic",
+      "name": "Garlic",
+      "category": "Aromatics",
+      "unit_default": "cloves"
+    },
+    {
+      "id": "ing_ginger",
+      "name": "Ginger",
+      "category": "Aromatics",
+      "unit_default": "inch"
+    },
+    {
+      "id": "ing_green_chilli",
+      "name": "Green chilli",
+      "category": "Aromatics",
+      "unit_default": "count"
+    },
+    {
+      "id": "ing_pandan",
+      "name": "Pandan leaves (rampe)",
+      "category": "Aromatics",
+      "unit_default": "leaves"
+    },
+    {
+      "id": "ing_curry_leaves",
+      "name": "Curry leaves",
+      "category": "Aromatics",
+      "unit_default": "sprigs"
+    },
+    {
+      "id": "ing_lemongrass",
+      "name": "Lemongrass",
+      "category": "Aromatics",
+      "unit_default": "stalks"
+    },
+    {
+      "id": "ing_curry_powder_roasted",
+      "name": "Roasted curry powder",
+      "category": "Spices",
+      "unit_default": "tsp"
+    },
+    {
+      "id": "ing_curry_powder_unroasted",
+      "name": "Unroasted curry powder",
+      "category": "Spices",
+      "unit_default": "tsp"
+    },
+    {
+      "id": "ing_chilli_powder",
+      "name": "Chilli powder",
+      "category": "Spices",
+      "unit_default": "tsp"
+    },
+    {
+      "id": "ing_turmeric",
+      "name": "Turmeric powder",
+      "category": "Spices",
+      "unit_default": "tsp"
+    },
+    {
+      "id": "ing_cinnamon",
+      "name": "Cinnamon stick",
+      "category": "Spices",
+      "unit_default": "inch"
+    },
+    {
+      "id": "ing_cardamom",
+      "name": "Cardamom pods",
+      "category": "Spices",
+      "unit_default": "count"
+    },
+    {
+      "id": "ing_cloves",
+      "name": "Cloves",
+      "category": "Spices",
+      "unit_default": "count"
+    },
+    {
+      "id": "ing_mustard_seeds",
+      "name": "Mustard seeds",
+      "category": "Spices",
+      "unit_default": "tsp"
+    },
+    {
+      "id": "ing_cumin_seeds",
+      "name": "Cumin seeds",
+      "category": "Spices",
+      "unit_default": "tsp"
+    },
+    {
+      "id": "ing_fenugreek",
+      "name": "Fenugreek seeds",
+      "category": "Spices",
+      "unit_default": "tsp"
+    },
+    {
+      "id": "ing_goraka",
+      "name": "Goraka (Gamboge)",
+      "category": "Souring agents",
+      "unit_default": "pieces"
+    },
+    {
+      "id": "ing_tamarind",
+      "name": "Tamarind",
+      "category": "Souring agents",
+      "unit_default": "g"
+    },
+    {
+      "id": "ing_lime",
+      "name": "Lime",
+      "category": "Souring agents",
+      "unit_default": "count"
+    },
+    {
+      "id": "ing_salt",
+      "name": "Salt",
+      "category": "Seasonings",
+      "unit_default": "tsp"
+    },
+    {
+      "id": "ing_sugar",
+      "name": "Sugar",
+      "category": "Seasonings",
+      "unit_default": "tsp"
+    },
+    {
+      "id": "ing_jaggery",
+      "name": "Jaggery (hakuru)",
+      "category": "Sweeteners",
+      "unit_default": "g"
+    },
+    {
+      "id": "ing_flour_wheat",
+      "name": "Wheat flour",
+      "category": "Flours",
+      "unit_default": "cups"
+    },
+    {
+      "id": "ing_flour_rice",
+      "name": "Rice flour",
+      "category": "Flours",
+      "unit_default": "cups"
+    },
+    {
+      "id": "ing_semolina",
+      "name": "Semolina (rawa)",
+      "category": "Flours",
+      "unit_default": "cups"
+    },
+    {
+      "id": "ing_egg",
+      "name": "Egg",
+      "category": "Dairy",
+      "unit_default": "count"
+    },
+    {
+      "id": "ing_water",
+      "name": "Water",
+      "category": "Liquids",
+      "unit_default": "ml"
+    },
+    {
+      "id": "ing_gotukola",
+      "name": "Gotu kola (pennywort / Centella asiatica)",
+      "category": "Herbs",
+      "unit_default": "bunch"
+    },
+    {
+      "id": "ing_leek",
+      "name": "Leek",
+      "category": "Vegetables",
+      "unit_default": "count"
+    },
+    {
+      "id": "ing_bell_pepper_green",
+      "name": "Green bell pepper",
+      "category": "Vegetables",
+      "unit_default": "count"
+    },
+    {
+      "id": "ing_mint",
+      "name": "Mint leaves",
+      "category": "Herbs",
+      "unit_default": "g"
+    },
+    {
+      "id": "ing_cashew",
+      "name": "Cashew nuts",
+      "category": "Nuts",
+      "unit_default": "g"
+    },
+    {
+      "id": "ing_green_bean",
+      "name": "Green beans",
+      "category": "Vegetables",
+      "unit_default": "g"
+    },
+    {
+      "id": "ing_coriander_seeds",
+      "name": "Coriander seeds",
+      "category": "Spices",
+      "unit_default": "g"
+    },
+    {
+      "id": "ing_fennel_seeds",
+      "name": "Fennel seeds",
+      "category": "Spices",
+      "unit_default": "g"
+    },
+    {
+      "id": "ing_coriander_leaves",
+      "name": "Coriander leaves",
+      "category": "Herbs",
+      "unit_default": "g"
+    },
+    {
+      "id": "ing_rice_raw_uncooked",
+      "name": "Uncooked long-grain or basmati rice",
+      "category": "Grains",
+      "unit_default": "tbsp"
+    },
+    {
+      "id": "ing_kurakkan_flour",
+      "name": "Kurakkan flour (finger millet flour)",
+      "category": "Flours",
+      "unit_default": "g"
+    },
+    {
+      "id": "ing_kenda_leaf",
+      "name": "Kenda leaf",
+      "category": "Wrapping leaves",
+      "unit_default": "count"
+    },
+    {
+      "id": "ing_treacle_kithul",
+      "name": "Kithul treacle",
+      "category": "Sweeteners",
+      "unit_default": "cup"
+    },
+    {
+      "id": "ing_carrot",
+      "name": "Carrot",
+      "category": "Vegetables",
+      "unit_default": "count"
+    },
+    {
+      "id": "ing_cabbage",
+      "name": "Cabbage",
+      "category": "Vegetables",
+      "unit_default": "g"
+    },
+    {
+      "id": "ing_black_pepper",
+      "name": "Black pepper",
+      "category": "Spices",
+      "unit_default": "tsp"
+    },
+    {
+      "id": "ing_soy_sauce",
+      "name": "Soy sauce",
+      "category": "Condiments",
+      "unit_default": "tbsp"
+    },
+    {
+      "id": "ing_chilli_sauce",
+      "name": "Chilli sauce or sriracha",
+      "category": "Condiments",
+      "unit_default": "tbsp"
+    },
+    {
+      "id": "ing_maldive_fish",
+      "name": "Maldive fish flakes (dried tuna)",
+      "category": "Seafood",
+      "unit_default": "tbsp"
+    },
+    {
+      "id": "ing_jackfruit_young",
+      "name": "Young/green jackfruit (polos)",
+      "category": "Vegetables",
+      "unit_default": "g"
+    },
+    {
+      "id": "ing_breadfruit",
+      "name": "Breadfruit (del)",
+      "category": "Vegetables",
+      "unit_default": "g"
+    },
+    {
+      "id": "ing_eggplant",
+      "name": "Eggplant (brinjal/aubergine)",
+      "category": "Vegetables",
+      "unit_default": "g"
+    },
+    {
+      "id": "ing_vinegar",
+      "name": "Vinegar (white or coconut vinegar)",
+      "category": "Condiments",
+      "unit_default": "tbsp"
+    },
+    {
+      "id": "ing_beetroot",
+      "name": "Beetroot",
+      "category": "Vegetables",
+      "unit_default": "g"
+    },
+    {
+      "id": "ing_pumpkin",
+      "name": "Pumpkin",
+      "category": "Vegetables",
+      "unit_default": "g"
+    },
+    {
+      "id": "ing_snake_gourd",
+      "name": "Snake gourd (pathola)",
+      "category": "Vegetables",
+      "unit_default": "g"
+    },
+    {
+      "id": "ing_drumstick",
+      "name": "Drumstick (moringa pods)",
+      "category": "Vegetables",
+      "unit_default": "g"
+    },
+    {
+      "id": "ing_kohila",
+      "name": "Kohila (lasia spinosa root/stem)",
+      "category": "Vegetables",
+      "unit_default": "g"
+    },
+    {
+      "id": "ing_winged_bean",
+      "name": "Winged bean (dambala)",
+      "category": "Vegetables",
+      "unit_default": "g"
+    },
+    {
+      "id": "ing_bitter_gourd",
+      "name": "Bitter gourd (karawila)",
+      "category": "Vegetables",
+      "unit_default": "g"
+    },
+    {
+      "id": "ing_okra",
+      "name": "Okra (bandakka)",
+      "category": "Vegetables",
+      "unit_default": "g"
+    },
+    {
+      "id": "ing_ketchup",
+      "name": "Tomato ketchup",
+      "category": "Condiments",
+      "unit_default": "tbsp"
+    },
+    {
+      "id": "ing_pork",
+      "name": "Pork (fatty cuts, e.g. shoulder or belly)",
+      "category": "Meat",
+      "unit_default": "g"
+    },
+    {
+      "id": "ing_crab",
+      "name": "Crab (mud crab or blue swimmer, whole)",
+      "category": "Seafood",
+      "unit_default": "count"
+    },
+    {
+      "id": "ing_cuttlefish",
+      "name": "Cuttlefish or squid (cleaned)",
+      "category": "Seafood",
+      "unit_default": "g"
+    },
+    {
+      "id": "ing_dry_fish",
+      "name": "Dried salted fish (karawala)",
+      "category": "Seafood",
+      "unit_default": "g"
+    },
+    {
+      "id": "ing_yeast",
+      "name": "Active dry yeast (or palm toddy as a traditional alternative)",
+      "category": "Leavening",
+      "unit_default": "tsp"
+    },
+    {
+      "id": "ing_peas",
+      "name": "Green peas",
+      "category": "Vegetables",
+      "unit_default": "g"
+    },
+    {
+      "id": "ing_mukunuwenna",
+      "name": "Mukunuwenna (sessile joyweed) or substitute leafy green (kale, spinach)",
+      "category": "Greens",
+      "unit_default": "g"
+    },
+    {
+      "id": "ing_banana_leaf",
+      "name": "Banana leaf",
+      "category": "Wrapping leaves",
+      "unit_default": "count"
+    },
+    {
+      "id": "ing_plantain_ash",
+      "name": "Ash plantain (unripe green plantain)",
+      "category": "Vegetables",
+      "unit_default": "count"
+    },
+    {
+      "id": "ing_urad_dal",
+      "name": "Urad dal (split black lentils / white lentils)",
+      "category": "Legumes",
+      "unit_default": "g"
+    },
+    {
+      "id": "ing_manioc",
+      "name": "Manioc (cassava/tapioca root)",
+      "category": "Vegetables",
+      "unit_default": "g"
+    },
+    {
+      "id": "ing_breadcrumbs",
+      "name": "Fine dry breadcrumbs",
+      "category": "Coatings",
+      "unit_default": "cup"
+    },
+    {
+      "id": "ing_condensed_milk",
+      "name": "Sweetened condensed milk",
+      "category": "Dairy",
+      "unit_default": "g"
+    },
+    {
+      "id": "ing_banana_flower",
+      "name": "Banana flower (banana blossom / kesel muwa)",
+      "category": "Vegetables",
+      "unit_default": "count"
+    },
+    {
+      "id": "ing_lentil_chana",
+      "name": "Chana dal (split chickpea lentils)",
+      "category": "Legumes",
+      "unit_default": "cups"
+    },
+    {
+      "id": "ing_kankun",
+      "name": "Kankun (water spinach / Ipomoea aquatica)",
+      "category": "Greens",
+      "unit_default": "g"
+    },
+    {
+      "id": "ing_long_bean",
+      "name": "Long bean / yard-long bean (ma karal)",
+      "category": "Vegetables",
+      "unit_default": "g"
+    },
+    {
+      "id": "ing_ridge_gourd",
+      "name": "Ridge gourd / luffa (watakolu)",
+      "category": "Vegetables",
+      "unit_default": "g"
+    },
+    {
+      "id": "ing_dates",
+      "name": "Dried dates",
+      "category": "Dried fruits",
+      "unit_default": "g"
+    },
+    {
+      "id": "ing_rose_water",
+      "name": "Rose water",
+      "category": "Flavorings",
+      "unit_default": "tbsp"
+    },
+    {
+      "id": "ing_honey",
+      "name": "Honey",
+      "category": "Sweeteners",
+      "unit_default": "tbsp"
+    },
+    {
+      "id": "ing_butter",
+      "name": "Unsalted butter",
+      "category": "Dairy",
+      "unit_default": "g"
+    },
+    {
+      "id": "ing_lotus_root",
+      "name": "Lotus root (nelum ala)",
+      "category": "Vegetables",
+      "unit_default": "g"
+    },
+    {
+      "id": "ing_urad_dal_whole",
+      "name": "Whole urad dal (black gram, for thosai batter)",
+      "category": "Legumes",
+      "unit_default": "g"
+    },
+    {
+      "id": "ing_sprats",
+      "name": "Dried sprats (halmasso / dried anchovies)",
+      "category": "Seafood",
+      "unit_default": "g"
+    },
+    {
+      "id": "ing_milk_powder",
+      "name": "Full-cream milk powder",
+      "category": "Dairy",
+      "unit_default": "tbsp"
+    },
+    {
+      "id": "ing_mushroom",
+      "name": "Mushrooms (oyster, button, or cremini)",
+      "category": "Vegetables",
+      "unit_default": "g"
+    },
+    {
+      "id": "ing_mango_raw",
+      "name": "Raw green mango (unripe)",
+      "category": "Fruits",
+      "unit_default": "count"
+    },
+    {
+      "id": "ing_sesame_seeds",
+      "name": "Sesame seeds (white or black)",
+      "category": "Seeds",
+      "unit_default": "tbsp"
+    },
+    {
+      "id": "ing_thibbatu",
+      "name": "Thibbatu (turkey berry / pea eggplant / Solanum torvum)",
+      "category": "Vegetables",
+      "unit_default": "g"
+    },
+    {
+      "id": "ing_yogurt",
+      "name": "Plain yogurt (curd)",
+      "category": "Dairy",
+      "unit_default": "g"
+    },
+    {
+      "id": "ing_cornflour",
+      "name": "Cornflour (cornstarch)",
+      "category": "Thickeners",
+      "unit_default": "tbsp"
+    },
+    {
+      "id": "ing_garam_masala",
+      "name": "Garam masala powder",
+      "category": "Spices",
+      "unit_default": "tsp"
+    },
+    {
+      "id": "ing_wood_apple",
+      "name": "Wood apple / bael fruit (diwul / limonia acidissima)",
+      "category": "Fruits",
+      "unit_default": "count"
+    },
+    {
+      "id": "ing_king_coconut",
+      "name": "King coconut (thambili)",
+      "category": "Fruits",
+      "unit_default": "count"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "sl_083",
+  "name_en": "Atharasa (Sri Lankan Tamil Deep-Fried Rice Sweet)",
+  "name_si": "අතිරස",
+  "regional_origin": "Tamil Sri Lanka (Northern and Eastern provinces) / Island-wide festival",
+  "cuisine": "Sri Lankan",
+  "course": "Dessert",
+  "servings": 8,
+  "prep_time_min": 150,
+  "cook_time_min": 20,
+  "total_time_min": 170,
+  "ingredients": [
+    {"canonical_id": "ing_rice_white", "name": "Raw white rice", "quantity": 200, "unit": "g", "notes": "soaked in cold water for at least 2 hours; drained and spread on a cloth to dry to just-damp (not fully wet, not fully dry) before grinding -- this moisture level is essential for the correct dough texture"},
+    {"canonical_id": "ing_jaggery", "name": "Jaggery or kithul treacle", "quantity": 180, "unit": "g", "notes": "grated or crumbled; dissolved in just enough water to make a thick syrup"},
+    {"canonical_id": "ing_water", "name": "Water", "quantity": 60, "unit": "ml", "notes": "for dissolving the jaggery; just enough to make a thick syrup"},
+    {"canonical_id": "ing_cardamom", "name": "Cardamom powder", "quantity": 0.5, "unit": "tsp", "notes": ""},
+    {"canonical_id": "ing_sesame_seeds", "name": "Sesame seeds", "quantity": 1, "unit": "tbsp", "notes": "optional; mixed into the dough or scattered on top before frying"},
+    {"canonical_id": "ing_coconut_oil", "name": "Oil for deep frying", "quantity": 500, "unit": "ml", "notes": "traditional coconut oil for best flavour; temperature should be moderate, not very hot"}
+  ],
+  "steps": [
+    {"step": 1, "instruction": "Soak the raw rice in cold water for at least 2-3 hours. Drain well and spread on a clean cloth in the shade (not in sunlight or near heat). Allow to dry until the rice is just slightly damp -- still has some moisture but is no longer wet. This in-between state is critical for grinding to the right texture.", "duration_min": 150},
+    {"step": 2, "instruction": "Grind the just-damp rice in a wet grinder or powerful blender until it forms a fine, slightly moist powder or paste. It should hold together when pressed but not be sticky. Sift if needed.", "duration_min": 8},
+    {"step": 3, "instruction": "Dissolve the jaggery in the water over low heat, stirring until fully melted. Strain through a sieve to remove impurities. Let cool slightly until just warm.", "duration_min": 5},
+    {"step": 4, "instruction": "Pour the warm jaggery syrup into the rice flour gradually, mixing as you go with your hands or a spoon, until a thick, firm dough forms. Add the cardamom and sesame seeds (if using). The dough should be firm enough to shape into a flat disc without crumbling -- if too wet, add a little more rice flour; if too dry, add a teaspoon more jaggery syrup at a time.", "duration_min": 8},
+    {"step": 5, "instruction": "Divide the dough into 12-15 portions. Flatten each between your palms or on a greased surface into a round disc about 1cm thick and 6cm across. Work on a greased banana leaf or parchment for best results.", "duration_min": 8},
+    {"step": 6, "instruction": "Heat the oil to a moderate temperature -- around 160C (320F). The oil must not be too hot, as atharasa need slow, gentle frying to cook through evenly without browning too fast on the outside.", "duration_min": 5},
+    {"step": 7, "instruction": "Gently slide 2-3 atharasa at a time into the oil. Fry slowly for 3-4 minutes per side, turning carefully, until deep golden brown on both sides. Press down gently with a slotted spoon during frying to help them puff slightly. Drain on paper towels.", "duration_min": 8},
+    {"step": 8, "instruction": "Allow to cool completely before serving or storing. Atharasa become firmer and better-textured once cooled. Store in an airtight container for up to 1 week.", "duration_min": 20}
+  ],
+  "tags": ["dessert", "snack", "festival", "new-year-avurudu", "vegan", "vegetarian", "gluten-free", "dairy-free", "over-60-min"],
+  "ayurvedic_balance": "vata-pacifying",
+  "nutrition_per_serving": {"calories": 165, "protein_g": 2, "carbs_g": 32, "fat_g": 4, "fibre_g": 0},
+  "trust_score": 0.84,
+  "source_url": "https://www.goya.in/blog/atharas-a-rice-and-jaggery-delicacy",
+  "source_site": "goya.in, cross-checked against Wikipedia (Athirasa), TasteAtlas (Athirasa), archanaskitchen.com, slurrp.com, and robotrecipes.co",
+  "collection_method": "scraped, cross-checked across 6+ independent sources; moderate trust score reflects that the just-damp rice technique is tricky to convey precisely and the dish has significantly different versions across South India and Sri Lanka",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "Atharasa (also spelled athirasa, athirasam) is a shared sweet across South India and Sri Lanka, particularly beloved in Tamil Hindu communities and made for Diwali, Pongal, and Sinhala/Tamil New Year. The name is said to derive from 'amuta rasam' (nectar taste) in Tamil. The most technically challenging aspect is getting the rice to exactly the right level of dryness before grinding -- too wet produces a sticky, unworkable dough; too dry produces a crumbly dough that falls apart. The authentic method takes even longer: some sources describe fermenting the dough for 2-5 days to develop a slight tang, similar to kavum. This entry reflects the simpler, more accessible same-day version. The slow, moderate-temperature frying is also repeatedly emphasised across sources -- high heat causes the outside to char while the inside remains uncooked."
+}

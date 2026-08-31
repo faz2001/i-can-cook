@@ -1,0 +1,224 @@
+{
+  "id": "sl_019",
+  "name_en": "Jackfruit Curry (Polos Curry)",
+  "name_si": "පොලොස් ඇඹුල",
+  "regional_origin": "Island-wide",
+  "cuisine": "Sri Lankan",
+  "course": "Main",
+  "servings": 4,
+  "prep_time_min": 20,
+  "cook_time_min": 40,
+  "total_time_min": 60,
+  "ingredients": [
+    {
+      "canonical_id": "ing_jackfruit_young",
+      "name": "Young/green jackfruit (polos)",
+      "quantity": 500,
+      "unit": "g",
+      "notes": "fresh, peeled and cubed, or canned young jackfruit in brine, drained"
+    },
+    {
+      "canonical_id": "ing_onion",
+      "name": "Onion",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "large, sliced"
+    },
+    {
+      "canonical_id": "ing_garlic",
+      "name": "Garlic",
+      "quantity": 3,
+      "unit": "cloves",
+      "notes": "crushed"
+    },
+    {
+      "canonical_id": "ing_ginger",
+      "name": "Ginger",
+      "quantity": 2.5,
+      "unit": "cm",
+      "notes": "1-inch piece, crushed"
+    },
+    {
+      "canonical_id": "ing_green_chilli",
+      "name": "Green chillies",
+      "quantity": 2,
+      "unit": "count",
+      "notes": "slit"
+    },
+    {
+      "canonical_id": "ing_curry_leaves",
+      "name": "Curry leaves",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "1 sprig"
+    },
+    {
+      "canonical_id": "ing_pandan",
+      "name": "Pandan leaf",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "small piece"
+    },
+    {
+      "canonical_id": "ing_cinnamon",
+      "name": "Cinnamon stick",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "small piece"
+    },
+    {
+      "canonical_id": "ing_cardamom",
+      "name": "Cardamom pods",
+      "quantity": 2,
+      "unit": "count",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_cloves",
+      "name": "Cloves",
+      "quantity": 3,
+      "unit": "count",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_curry_powder_roasted",
+      "name": "Roasted Sri Lankan curry powder",
+      "quantity": 1.5,
+      "unit": "tbsp",
+      "notes": "see sl_006 Roasted Sri Lankan Curry Powder"
+    },
+    {
+      "canonical_id": "ing_turmeric",
+      "name": "Turmeric powder",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_chilli_powder",
+      "name": "Chilli powder",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_black_pepper",
+      "name": "Black pepper powder",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_goraka",
+      "name": "Goraka",
+      "quantity": 2,
+      "unit": "count",
+      "notes": "small pieces, soaked; can substitute 1 tbsp tamarind juice if unavailable"
+    },
+    {
+      "canonical_id": "ing_coconut_milk",
+      "name": "Thin coconut milk",
+      "quantity": 240,
+      "unit": "ml",
+      "notes": "1 cup, or enough to cover the jackfruit while it simmers"
+    },
+    {
+      "canonical_id": "ing_coconut_milk",
+      "name": "Thick coconut milk",
+      "quantity": 240,
+      "unit": "ml",
+      "notes": "1 cup, added near the end for richness"
+    },
+    {
+      "canonical_id": "ing_coconut_oil",
+      "name": "Coconut oil",
+      "quantity": 2,
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_mustard_seeds",
+      "name": "Mustard seeds",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_salt",
+      "name": "Salt",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": "to taste"
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "instruction": "If using fresh young jackfruit, peel and cut into bite-sized cubes, washing away the sticky sap. If using canned, drain the brine well.",
+      "duration_min": 15
+    },
+    {
+      "step": 2,
+      "instruction": "Heat the coconut oil in a pot over medium heat. Add the mustard seeds, cinnamon, cardamom, cloves, and curry leaves, and fry until fragrant.",
+      "duration_min": 2
+    },
+    {
+      "step": 3,
+      "instruction": "Add the sliced onion and green chillies. Cook until the onions soften, about 2-3 minutes. Add the garlic and ginger and cook until the raw smell disappears.",
+      "duration_min": 3
+    },
+    {
+      "step": 4,
+      "instruction": "Add the roasted curry powder, turmeric, chilli powder, black pepper, and salt. Mix well with the aromatics.",
+      "duration_min": 1
+    },
+    {
+      "step": 5,
+      "instruction": "Add the jackfruit pieces and the pandan leaf. Mix well so the jackfruit is coated in the spice paste.",
+      "duration_min": 2
+    },
+    {
+      "step": 6,
+      "instruction": "Add the goraka (or tamarind juice) and the thin coconut milk -- enough to just cover the jackfruit. Cover and simmer over medium-low heat for 20-25 minutes, until the jackfruit is tender.",
+      "duration_min": 23
+    },
+    {
+      "step": 7,
+      "instruction": "Pour in the thick coconut milk. Stir gently and simmer uncovered for a further 5-8 minutes, until the gravy thickens to your liking -- continue longer and on lower heat for a drier, darker traditional-style curry.",
+      "duration_min": 7
+    },
+    {
+      "step": 8,
+      "instruction": "Taste and adjust salt. Serve hot with rice, alongside a dhal curry and pol sambol for a classic Sri Lankan rice-and-curry meal.",
+      "duration_min": 1
+    }
+  ],
+  "tags": [
+    "lunch",
+    "dinner",
+    "curry",
+    "everyday",
+    "vegan",
+    "vegetarian",
+    "gluten-free",
+    "coconut-milk",
+    "meal-prep-friendly",
+    "goraka",
+    "over-60-min"
+  ],
+  "ayurvedic_balance": "pitta-pacifying",
+  "nutrition_per_serving": {
+    "calories": 230,
+    "protein_g": 4,
+    "carbs_g": 18,
+    "fat_g": 16,
+    "fibre_g": 4
+  },
+  "trust_score": 0.86,
+  "source_url": "https://www.theflavorbender.com/sri-lankan-jackfruit-curry-polos/",
+  "source_site": "theflavorbender.com, cross-checked against islandsmile.org, helafood.com, and hungrylankan.com for ingredient and technique consistency",
+  "collection_method": "scraped, cross-checked across 5+ independent sources; strong agreement on the goraka/curry-powder/coconut-milk core with natural household variation in spice ratios",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "Polos curry is widely cited by Sri Lankans abroad as one of the dishes they miss most -- often described as the best vegan 'meat alternative' in the cuisine, since cooked young jackfruit has a fibrous, almost shreddable texture similar to pulled meat. There are two broad styles: this version (polos ambula/curry, sour and spiced) and a milder, sweeter version called 'kiri kos' made with just coconut milk and no goraka or chilli. Traditionally cooked for hours in a clay pot over a wood fire to develop a dark, deeply reduced gravy ('borey'); the simmer times here reflect a realistic modern stovetop version. Goraka should not be substituted with plain tamarind paste in large quantities, as it changes the dish's characteristic sourness; a smaller amount of tamarind juice is an acceptable approximation if goraka is truly unavailable."
+}

@@ -1,0 +1,173 @@
+{
+  "id": "sl_014",
+  "name_en": "Fish Ambul Thiyal (Sour Fish Curry)",
+  "name_si": "මාළු ඇඹුල් තියල්",
+  "regional_origin": "Southern coastal Sri Lanka (Matara/Galle)",
+  "cuisine": "Sri Lankan",
+  "course": "Main",
+  "servings": 4,
+  "prep_time_min": 20,
+  "cook_time_min": 30,
+  "total_time_min": 50,
+  "ingredients": [
+    {
+      "canonical_id": "ing_fish_tuna",
+      "name": "Tuna (yellowfin or skipjack)",
+      "quantity": 500,
+      "unit": "g",
+      "notes": "or any firm fish such as kingfish or sailfish; cut into 3cm cubes"
+    },
+    {
+      "canonical_id": "ing_goraka",
+      "name": "Goraka (Garcinia cambogia/gamboge)",
+      "quantity": 10,
+      "unit": "count",
+      "notes": "dried pieces, soaked in warm water for 10-15 minutes before grinding"
+    },
+    {
+      "canonical_id": "ing_black_pepper",
+      "name": "Black pepper",
+      "quantity": 2,
+      "unit": "tbsp",
+      "notes": "freshly ground, adjust to taste"
+    },
+    {
+      "canonical_id": "ing_chilli_powder",
+      "name": "Chilli powder",
+      "quantity": 1,
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_curry_powder_roasted",
+      "name": "Roasted curry powder",
+      "quantity": 1,
+      "unit": "tbsp",
+      "notes": "see sl_006 Roasted Sri Lankan Curry Powder"
+    },
+    {
+      "canonical_id": "ing_turmeric",
+      "name": "Turmeric powder",
+      "quantity": 0.25,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_garlic",
+      "name": "Garlic",
+      "quantity": 4,
+      "unit": "cloves",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_curry_leaves",
+      "name": "Curry leaves",
+      "quantity": 4,
+      "unit": "count",
+      "notes": "3-4 sprigs, plus extra to line the pot"
+    },
+    {
+      "canonical_id": "ing_pandan",
+      "name": "Pandan leaf",
+      "quantity": 1,
+      "unit": "count",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_cinnamon",
+      "name": "Cinnamon stick",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "small piece"
+    },
+    {
+      "canonical_id": "ing_onion",
+      "name": "Onion",
+      "quantity": 0.5,
+      "unit": "count",
+      "notes": "sliced"
+    },
+    {
+      "canonical_id": "ing_salt",
+      "name": "Salt",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": "to taste"
+    },
+    {
+      "canonical_id": "ing_water",
+      "name": "Water",
+      "quantity": 0.5,
+      "unit": "cup",
+      "notes": "for grinding the goraka paste; total liquid about 2-3 cups depending on pan size"
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "instruction": "Soak the goraka pieces in warm water for 10-15 minutes until softened. Drain, then grind to a fine paste using a little water to help the grinding process.",
+      "duration_min": 15
+    },
+    {
+      "step": 2,
+      "instruction": "Grind the garlic, black pepper, curry leaves, pandan leaf, chilli powder, and turmeric powder together into a fine spice paste.",
+      "duration_min": 5
+    },
+    {
+      "step": 3,
+      "instruction": "Combine the goraka paste and the spice paste. Taste and adjust salt and pepper -- the mixture should taste sour, hot, and salty in balance.",
+      "duration_min": 2
+    },
+    {
+      "step": 4,
+      "instruction": "Wash and cut the fish into 3cm cubes. Coat each piece thoroughly with the combined paste, being careful not to break the fish pieces.",
+      "duration_min": 8
+    },
+    {
+      "step": 5,
+      "instruction": "Line the bottom of a clay pot (or any heavy-bottomed pot) with curry leaves, and a piece of banana leaf if available -- this helps prevent excessive charring and adds aroma.",
+      "duration_min": 2
+    },
+    {
+      "step": 6,
+      "instruction": "Arrange the coated fish pieces in a single layer in the pot, without overcrowding. Add the sliced onion, cinnamon stick, and roasted curry powder over the top, along with any remaining paste.",
+      "duration_min": 3
+    },
+    {
+      "step": 7,
+      "instruction": "Cover and cook over low heat, without stirring -- shake the pot gently instead if needed to avoid breaking the fish. Cook for 20-25 minutes, flipping the pieces gently halfway through, until the liquid has reduced into a thick, dark, almost dry coating on the fish.",
+      "duration_min": 23
+    },
+    {
+      "step": 8,
+      "instruction": "Let the curry sit for a few minutes off the heat before serving to let the flavours deepen. Serve with plain rice, yellow rice, or coconut roti, alongside a dhal or potato curry since this is a dry curry.",
+      "duration_min": 2
+    }
+  ],
+  "tags": [
+    "lunch",
+    "dinner",
+    "curry",
+    "spicy",
+    "dry",
+    "fish",
+    "meal-prep-friendly",
+    "30-60-min",
+    "goraka"
+  ],
+  "ayurvedic_balance": "pitta-pacifying",
+  "nutrition_per_serving": {
+    "calories": 210,
+    "protein_g": 30,
+    "carbs_g": 4,
+    "fat_g": 8,
+    "fibre_g": 1
+  },
+  "trust_score": 0.88,
+  "source_url": "https://www.islandsmile.org/ambulthiyal-sri-lankan-sour-fish/",
+  "source_site": "islandsmile.org, cross-checked against hungrylankan.com and foodcnr.com for technique and ingredient consistency",
+  "collection_method": "scraped, cross-checked across 3 independent sources, all agreeing on goraka/pepper as the essential sour-spicy core",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "An ancient preservation technique from Sri Lanka's southern coast -- the goraka acts as a natural preservative, traditionally allowing the curry to be kept at room temperature for up to a week or refrigerated much longer, originally developed for fishing communities needing to store catch without refrigeration. Unlike most Sri Lankan curries, this is a dry, gravy-less dish with no coconut milk. Goraka should not be substituted with tamarind, as tamarind's sourness is sharper and changes the dish's signature flavour; if goraka is genuinely unavailable, increase tamarind cautiously and taste as you go. A simpler 'Southern style' version uses only goraka, black pepper, and salt as the core paste, omitting the curry powder, chilli powder, and onion used in this richer household variant."
+}

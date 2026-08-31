@@ -1,0 +1,41 @@
+{
+  "id": "sl_054",
+  "name_en": "Aluwa (Sri Lankan Rice Flour Fudge)",
+  "name_si": "අලුවා",
+  "regional_origin": "Island-wide (Avurudu festival)",
+  "cuisine": "Sri Lankan",
+  "course": "Dessert",
+  "servings": 8,
+  "prep_time_min": 15,
+  "cook_time_min": 20,
+  "total_time_min": 35,
+  "ingredients": [
+    {"canonical_id": "ing_flour_rice", "name": "Rice flour", "quantity": 300, "unit": "g", "notes": "dry-roasted in a pan on low heat for 5-7 minutes until very lightly golden and smelling nutty; sift before use"},
+    {"canonical_id": "ing_sugar", "name": "Sugar", "quantity": 200, "unit": "g", "notes": "white caster or granulated; some recipes use jaggery or treacle instead for a darker, more earthy version"},
+    {"canonical_id": "ing_coconut_milk", "name": "Thick coconut milk", "quantity": 240, "unit": "ml", "notes": "1 cup; full-fat"},
+    {"canonical_id": "ing_cashew", "name": "Cashew nuts", "quantity": 60, "unit": "g", "notes": "coarsely chopped"},
+    {"canonical_id": "ing_cardamom", "name": "Cardamom powder", "quantity": 0.5, "unit": "tsp", "notes": "freshly ground for best flavour"},
+    {"canonical_id": "ing_salt", "name": "Salt", "quantity": 1, "unit": "pinch", "notes": ""},
+    {"canonical_id": "ing_coconut_oil", "name": "Butter or coconut oil", "quantity": 2, "unit": "tbsp", "notes": "for greasing the tray"}
+  ],
+  "steps": [
+    {"step": 1, "instruction": "Dry-roast the rice flour in a heavy pan over low-medium heat for 5-7 minutes, stirring constantly, until it smells nutty and turns very lightly golden. Sift thoroughly and set aside.", "duration_min": 7},
+    {"step": 2, "instruction": "Grease a flat tray or baking pan (about 8x8 inches) with butter or oil and dust lightly with a little of the roasted rice flour. Set near the stove, as you'll need to move quickly once the mixture is ready.", "duration_min": 2},
+    {"step": 3, "instruction": "In a heavy-bottomed pan, combine the sugar and coconut milk. Cook over medium heat, stirring continuously, until the sugar dissolves and the mixture begins to thicken to a syrup consistency -- when a spoon lifted from the mixture has the last drop stretching and hanging for about 1cm before dropping, the syrup is ready.", "duration_min": 10},
+    {"step": 4, "instruction": "Add the cardamom and cashew nuts to the syrup and stir through.", "duration_min": 1},
+    {"step": 5, "instruction": "Remove the pan from the heat. Quickly sift the roasted rice flour into the hot syrup, stirring vigorously and continuously. Work fast -- the mixture thickens almost immediately and becomes difficult to mix if you hesitate.", "duration_min": 3},
+    {"step": 6, "instruction": "While still pliable, pour and scrape the mixture onto the prepared tray. Spread quickly with the back of a wet spatula to an even thickness of about 1.5-2cm.", "duration_min": 2},
+    {"step": 7, "instruction": "Dust the top lightly with extra roasted rice flour to prevent sticking. While still slightly warm and before it hardens, cut into diamond or square shapes using a sharp knife. Work quickly.", "duration_min": 3},
+    {"step": 8, "instruction": "Allow to cool completely until firm before separating the pieces and lifting from the tray. Store in an airtight container at room temperature for up to one week.", "duration_min": 20}
+  ],
+  "tags": ["dessert", "snack", "festival", "new-year-avurudu", "vegan", "vegetarian", "gluten-free", "dairy-free", "under-30-min", "comfort-food"],
+  "ayurvedic_balance": "vata-pacifying",
+  "nutrition_per_serving": {"calories": 195, "protein_g": 3, "carbs_g": 36, "fat_g": 5, "fibre_g": 1},
+  "trust_score": 0.88,
+  "source_url": "https://foodcnr.com/aluwa-a-sri-lankan-traditional-sweet/",
+  "source_site": "foodcnr.com, cross-checked against foodvoyageur.com, lakpura.com, deliciouslypinned.com, elanka.com.au, and maggi.lk",
+  "collection_method": "scraped, cross-checked across 6+ independent sources; strong agreement on roasting flour, the string-test for syrup consistency, and the need to work quickly",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "Aluwa has the texture of a crumbly, melt-in-the-mouth fudge and holds a significant place on the Avurudu (New Year) sweet table alongside kokis, kavum, and kiribath. The string-test for syrup consistency is the critical technique: when a drop of syrup from a lifted spoon hangs and stretches about 1cm before falling, it is ready -- undercooking results in sticky aluwa that won't hold its shape; overcooking results in a rock-hard slab. Speed is essential after adding the flour, as the mixture stiffens within seconds. Variants include kiri aluwa (made with condensed milk instead of coconut milk, slightly creamier), pani aluwa (made with treacle instead of sugar, dark brown and more strongly flavoured), and rulang aluwa (made with semolina instead of rice flour)."
+}

@@ -1,0 +1,205 @@
+{
+  "id": "sl_032",
+  "name_en": "Devilled Chicken",
+  "name_si": "ඇඹුල් කුකුල් මස්",
+  "regional_origin": "Colombo (street food / Sri Lankan-Chinese fusion)",
+  "cuisine": "Sri Lankan",
+  "course": "Main",
+  "servings": 4,
+  "prep_time_min": 30,
+  "cook_time_min": 20,
+  "total_time_min": 50,
+  "ingredients": [
+    {
+      "canonical_id": "ing_chicken",
+      "name": "Boneless chicken thighs or breast",
+      "quantity": 600,
+      "unit": "g",
+      "notes": "cut into strips or bite-sized pieces; bone-in pieces are traditional but boneless is easier to eat"
+    },
+    {
+      "canonical_id": "ing_salt",
+      "name": "Salt",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": "for the marinade, plus more to taste"
+    },
+    {
+      "canonical_id": "ing_chilli_powder",
+      "name": "Red chilli powder",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": "Kashmiri for mild heat and colour; use cayenne for more heat"
+    },
+    {
+      "canonical_id": "ing_black_pepper",
+      "name": "Black pepper",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": "for the marinade"
+    },
+    {
+      "canonical_id": "ing_vinegar",
+      "name": "Vinegar",
+      "quantity": 1,
+      "unit": "tbsp",
+      "notes": "for the marinade"
+    },
+    {
+      "canonical_id": "ing_coconut_oil",
+      "name": "Oil for frying",
+      "quantity": 250,
+      "unit": "ml",
+      "notes": "for deep or shallow frying the chicken; can substitute air-frying"
+    },
+    {
+      "canonical_id": "ing_ginger",
+      "name": "Ginger",
+      "quantity": 1,
+      "unit": "tbsp",
+      "notes": "minced"
+    },
+    {
+      "canonical_id": "ing_garlic",
+      "name": "Garlic",
+      "quantity": 4,
+      "unit": "cloves",
+      "notes": "minced"
+    },
+    {
+      "canonical_id": "ing_chilli_powder",
+      "name": "Chilli flakes",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": "for the sauce, in addition to the marinade chilli powder; adjust to taste"
+    },
+    {
+      "canonical_id": "ing_soy_sauce",
+      "name": "Soy sauce",
+      "quantity": 1,
+      "unit": "tbsp",
+      "notes": "light soy sauce, not dark, to keep the sauce's characteristic red colour"
+    },
+    {
+      "canonical_id": "ing_ketchup",
+      "name": "Tomato ketchup",
+      "quantity": 3,
+      "unit": "tbsp",
+      "notes": "the main red-sauce base of the dish"
+    },
+    {
+      "canonical_id": "ing_sugar",
+      "name": "Sugar",
+      "quantity": 1,
+      "unit": "tbsp",
+      "notes": "balances the tanginess of the ketchup; do not skip"
+    },
+    {
+      "canonical_id": "ing_onion",
+      "name": "Onion",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "cut into wedges or rings; kept crunchy, not overcooked"
+    },
+    {
+      "canonical_id": "ing_bell_pepper_green",
+      "name": "Banana peppers or green bell pepper",
+      "quantity": 2,
+      "unit": "count",
+      "notes": "cut into rounds or strips"
+    },
+    {
+      "canonical_id": "ing_green_chilli",
+      "name": "Green chilli",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "sliced, for extra heat"
+    },
+    {
+      "canonical_id": "ing_tomato",
+      "name": "Tomato",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "cut into wedges; add near the end so it doesn't turn mushy"
+    },
+    {
+      "canonical_id": "ing_water",
+      "name": "Water",
+      "quantity": 60,
+      "unit": "ml",
+      "notes": "1/4 cup, to loosen the sauce; adjust for desired gravy thickness"
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "instruction": "Cut the chicken into strips or bite-sized pieces. Marinate with salt, chilli powder, black pepper, and vinegar for at least 30 minutes (longer in the fridge gives better flavour).",
+      "duration_min": 30
+    },
+    {
+      "step": 2,
+      "instruction": "Heat the oil for frying. Fry the marinated chicken pieces until golden brown and cooked through, working in batches if needed. Drain on paper towels and set aside. (Alternatively, air-fry at 200C/400F for about 14-18 minutes, flipping once.)",
+      "duration_min": 12
+    },
+    {
+      "step": 3,
+      "instruction": "In a separate pan, heat a little oil. Add the ginger and garlic, and sauté on low heat for about a minute, taking care not to burn them.",
+      "duration_min": 1
+    },
+    {
+      "step": 4,
+      "instruction": "Add the chilli flakes and stir for a few seconds over low heat until they darken slightly -- do not let them burn or the sauce will taste bitter.",
+      "duration_min": 1
+    },
+    {
+      "step": 5,
+      "instruction": "Add the soy sauce and ketchup, and mix well. Pour in the water and let the sauce come to a gentle simmer.",
+      "duration_min": 2
+    },
+    {
+      "step": 6,
+      "instruction": "Add the sugar and stir until dissolved. Taste and adjust the balance of sweet, sour, salty, and spicy -- add more sugar, vinegar, chilli, or salt as needed.",
+      "duration_min": 1
+    },
+    {
+      "step": 7,
+      "instruction": "Add the onion and banana peppers (or bell pepper) and green chilli. Stir-fry briefly, about 1-2 minutes, keeping the vegetables crunchy rather than fully softened.",
+      "duration_min": 2
+    },
+    {
+      "step": 8,
+      "instruction": "Add the fried chicken pieces and tomato wedges. Toss everything together over medium-high heat for 2-3 minutes, until the chicken is well coated in the glossy red sauce and everything is heated through.",
+      "duration_min": 3
+    },
+    {
+      "step": 9,
+      "instruction": "Serve hot as a main dish with rice or naan, or as an appetiser on its own.",
+      "duration_min": 1
+    }
+  ],
+  "tags": [
+    "lunch",
+    "dinner",
+    "street-food",
+    "stir-fry",
+    "spicy",
+    "colombo",
+    "crowd-pleaser",
+    "30-60-min"
+  ],
+  "ayurvedic_balance": "pitta-pacifying",
+  "nutrition_per_serving": {
+    "calories": 360,
+    "protein_g": 30,
+    "carbs_g": 18,
+    "fat_g": 18,
+    "fibre_g": 2
+  },
+  "trust_score": 0.9,
+  "source_url": "https://www.hungrylankan.com/recipes/sri-lankan-devilled-chicken/",
+  "source_site": "hungrylankan.com, cross-checked against islandsmile.org, loveandotherspices.com, and samstern.co.uk for technique and sauce-balance consistency",
+  "collection_method": "scraped, cross-checked across 6+ independent sources; very strong agreement on the fry-then-toss-in-sweet-sour-sauce technique",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "Devilled dishes are a Sri Lankan-Chinese fusion category (also applied to fish, prawns, pork, beef, and even soya chunks) and are considered some of the most popular restaurant and street-food items in the country, especially around Galle Face Green in Colombo. The 'devilled' name refers to the fiery heat, not literal devil imagery. Light soy sauce (not dark) is important to preserve the dish's signature bright red colour from the ketchup; dark soy will muddy it. Keeping onions and peppers slightly crunchy, rather than fully cooked down, is considered essential to the texture -- overcooking the vegetables is one of the most common mistakes home cooks make with this dish."
+}

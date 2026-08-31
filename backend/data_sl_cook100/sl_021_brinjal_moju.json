@@ -1,0 +1,183 @@
+{
+  "id": "sl_021",
+  "name_en": "Brinjal Moju (Wambatu Moju)",
+  "name_si": "වැඹටු මෝජු",
+  "regional_origin": "Island-wide (festive dish)",
+  "cuisine": "Sri Lankan",
+  "course": "Condiment",
+  "servings": 6,
+  "prep_time_min": 25,
+  "cook_time_min": 25,
+  "total_time_min": 50,
+  "ingredients": [
+    {
+      "canonical_id": "ing_eggplant",
+      "name": "Eggplant (long, slender variety)",
+      "quantity": 500,
+      "unit": "g",
+      "notes": "about 2 medium eggplants, cut into thick strips or 1-inch cubes"
+    },
+    {
+      "canonical_id": "ing_turmeric",
+      "name": "Turmeric powder",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": "for coating the eggplant before frying"
+    },
+    {
+      "canonical_id": "ing_salt",
+      "name": "Salt",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": "split: for the eggplant before frying, plus more to taste"
+    },
+    {
+      "canonical_id": "ing_coconut_oil",
+      "name": "Oil for deep frying",
+      "quantity": 500,
+      "unit": "ml",
+      "notes": "approx. 2 cups; vegetable oil is more typical than coconut oil for the deep-frying step"
+    },
+    {
+      "canonical_id": "ing_shallot",
+      "name": "Shallots or pearl onions",
+      "quantity": 150,
+      "unit": "g",
+      "notes": "peeled, left whole or halved if large"
+    },
+    {
+      "canonical_id": "ing_green_chilli",
+      "name": "Green chillies",
+      "quantity": 4,
+      "unit": "count",
+      "notes": "slit lengthwise"
+    },
+    {
+      "canonical_id": "ing_garlic",
+      "name": "Garlic",
+      "quantity": 3,
+      "unit": "cloves",
+      "notes": "finely chopped or grated"
+    },
+    {
+      "canonical_id": "ing_ginger",
+      "name": "Ginger",
+      "quantity": 1,
+      "unit": "tbsp",
+      "notes": "finely grated"
+    },
+    {
+      "canonical_id": "ing_curry_leaves",
+      "name": "Curry leaves",
+      "quantity": 10,
+      "unit": "count",
+      "notes": "generous, fresh"
+    },
+    {
+      "canonical_id": "ing_mustard_seeds",
+      "name": "Mustard seeds, ground",
+      "quantity": 1.5,
+      "unit": "tbsp",
+      "notes": "ground to a powder, or 1 tbsp whole mustard seeds blistered in oil first"
+    },
+    {
+      "canonical_id": "ing_chilli_powder",
+      "name": "Chilli powder",
+      "quantity": 1,
+      "unit": "tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "canonical_id": "ing_vinegar",
+      "name": "Vinegar (white or coconut vinegar)",
+      "quantity": 80,
+      "unit": "ml",
+      "notes": "about 1/3 cup; the souring agent that defines the dish"
+    },
+    {
+      "canonical_id": "ing_sugar",
+      "name": "Sugar",
+      "quantity": 2,
+      "unit": "tbsp",
+      "notes": "balances the vinegar's sourness; adjust to taste"
+    },
+    {
+      "canonical_id": "ing_maldive_fish",
+      "name": "Maldive fish flakes",
+      "quantity": 1,
+      "unit": "tbsp",
+      "notes": "optional but adds traditional umami depth; omit for a vegetarian/vegan moju"
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "instruction": "Cut the eggplant into thick, even strips or 1-inch cubes, sized consistently so they fry evenly.",
+      "duration_min": 8
+    },
+    {
+      "step": 2,
+      "instruction": "Toss the eggplant with the turmeric and half the salt. Let sit for 10-15 minutes, then gently squeeze out any released liquid.",
+      "duration_min": 15
+    },
+    {
+      "step": 3,
+      "instruction": "Heat the oil in a wok or deep pan until hot but not smoking. Fry the eggplant in small batches until deep golden brown on all sides, turning frequently. Drain well on paper towels or a clean cloth -- thorough draining keeps the moju from spoiling quickly.",
+      "duration_min": 12
+    },
+    {
+      "step": 4,
+      "instruction": "In the same oil, quickly fry the shallots for about 30 seconds until lightly softened, then the green chillies for about a minute. Drain both on paper towels.",
+      "duration_min": 2
+    },
+    {
+      "step": 5,
+      "instruction": "If using Maldive fish flakes, fry them briefly in the oil until crisp and golden, then drain.",
+      "duration_min": 1
+    },
+    {
+      "step": 6,
+      "instruction": "In a bowl, combine the ground mustard, chilli powder, garlic, ginger, sugar, remaining salt, and vinegar. Mix until the sugar dissolves into a smooth sauce. Taste and adjust until sour, sweet, and salty flavours feel balanced.",
+      "duration_min": 5
+    },
+    {
+      "step": 7,
+      "instruction": "Heat a tablespoon of the frying oil in a clean pan. Pour in the mustard-vinegar sauce and bring to a brief simmer, about a minute, to take the raw edge off the vinegar and mustard.",
+      "duration_min": 2
+    },
+    {
+      "step": 8,
+      "instruction": "Add the fried eggplant, shallots, green chillies, curry leaves, and Maldive fish flakes (if using) to the simmering sauce. Stir well to coat everything evenly, and cook for about a minute more.",
+      "duration_min": 2
+    },
+    {
+      "step": 9,
+      "instruction": "Remove from heat and let cool completely. For the best flavour, let the moju rest for at least a few hours, or ideally 1-2 days, before serving, allowing the eggplant to fully absorb the vinegar and mustard. Store in a clean, dry glass jar.",
+      "duration_min": 1
+    }
+  ],
+  "tags": [
+    "condiment",
+    "festival",
+    "wedding",
+    "vegetarian",
+    "spicy",
+    "meal-prep-friendly",
+    "30-60-min"
+  ],
+  "ayurvedic_balance": "pitta-pacifying",
+  "nutrition_per_serving": {
+    "calories": 175,
+    "protein_g": 2,
+    "carbs_g": 14,
+    "fat_g": 13,
+    "fibre_g": 3
+  },
+  "trust_score": 0.86,
+  "source_url": "https://www.islandsmile.org/sri-lankan-eggplant-wambatu-moju/",
+  "source_site": "islandsmile.org, cross-checked against hungrylankan.com, notquitenigella.com, and themadscientistskitchen.com for technique and flavour-balance consistency",
+  "collection_method": "scraped, cross-checked across 4 independent sources for consistent fry-then-pickle technique and the essential sweet-sour-salty balance",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "Brinjal/wambatu moju is considered an essential component of any proper Sri Lankan rice-and-curry spread and a near-mandatory dish at weddings and festive events. Maldive fish flakes are traditional but optional; omitting them makes the dish fully vegan. The dish is not truly 'pickled' in the long-fermentation sense -- it is a quick vinegar-mustard relish that develops flavour over hours to a couple of days, and can keep at room temperature for about a week if the eggplant was fried and drained thoroughly, or longer if refrigerated. Some family recipes add ground cinnamon, cloves, and cardamom to the mustard-vinegar sauce for a more complex, warmly spiced version; this entry reflects the simpler, more common household version."
+}

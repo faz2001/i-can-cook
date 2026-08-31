@@ -1,0 +1,109 @@
+{
+  "id": "sl_002",
+  "name_en": "Gotu Kola Sambol",
+  "name_si": "ගොටු කොල සම්බෝල",
+  "regional_origin": "Island-wide",
+  "cuisine": "Sri Lankan",
+  "course": "Condiment",
+  "servings": 4,
+  "prep_time_min": 10,
+  "cook_time_min": 0,
+  "total_time_min": 10,
+  "ingredients": [
+    {
+      "canonical_id": "ing_gotukola",
+      "name": "Gotu kola (pennywort) or parsley/spinach/rocket",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "large bunch, leaves and part of stems finely chopped"
+    },
+    {
+      "canonical_id": "ing_onion",
+      "name": "Red onion",
+      "quantity": 1,
+      "unit": "medium",
+      "notes": "finely chopped"
+    },
+    {
+      "canonical_id": "ing_tomato",
+      "name": "Cherry tomatoes",
+      "quantity": 8,
+      "unit": "count",
+      "notes": "roughly chopped"
+    },
+    {
+      "canonical_id": "ing_green_chilli",
+      "name": "Green chilli",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "finely sliced"
+    },
+    {
+      "canonical_id": "ing_coconut_grated",
+      "name": "Fresh grated coconut or desiccated coconut (unsweetened)",
+      "quantity": 2,
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_lime",
+      "name": "Lime",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "juiced"
+    },
+    {
+      "canonical_id": "ing_salt",
+      "name": "Salt",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": "to taste"
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "instruction": "Wash gotu kola and pat dry. Finely chop the leaves and partway down the stems, discarding the thick lower stems. Place in a large mixing bowl.",
+      "duration_min": 5
+    },
+    {
+      "step": 2,
+      "instruction": "Add the finely chopped red onion, roughly chopped cherry tomatoes and green chilli to the bowl.",
+      "duration_min": 2
+    },
+    {
+      "step": 3,
+      "instruction": "Sprinkle over the coconut and using your hands mix all ingredients together well.",
+      "duration_min": 2
+    },
+    {
+      "step": 4,
+      "instruction": "Add lime juice and salt, mix again, and let the sambol rest for a few minutes before serving alongside your favourite curries.",
+      "duration_min": 1
+    }
+  ],
+  "tags": [
+    "everyday",
+    "vegetarian",
+    "vegan",
+    "condiment",
+    "under-30-min",
+    "mild",
+    "gotukola"
+  ],
+  "ayurvedic_balance": "pitta-pacifying",
+  "nutrition_per_serving": {
+    "calories": 45,
+    "protein_g": 1,
+    "carbs_g": 6,
+    "fat_g": 2,
+    "fibre_g": 2
+  },
+  "trust_score": 0.85,
+  "source_url": "https://tootingmama.com/gotu_kola_sambol/",
+  "source_site": "tootingmama.com",
+  "collection_method": "scraped",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-23",
+  "notes": "Gotu kola (Centella asiatica / pennywort) is a medicinal herb widely used in Sri Lankan cooking. Substitute with parsley if unavailable. Recipe by Ranji Thangiah (Tooting Mama). Can be served as a side salad or condiment."
+}

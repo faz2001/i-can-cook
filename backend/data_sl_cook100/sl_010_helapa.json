@@ -1,0 +1,139 @@
+{
+  "id": "sl_010",
+  "name_en": "Helapa (Kurakkan Sweet Wrapped in Kenda Leaf)",
+  "name_si": "හැලප",
+  "regional_origin": "Hambantota / rural Sinhala villages",
+  "cuisine": "Sri Lankan",
+  "course": "Dessert",
+  "servings": 7,
+  "prep_time_min": 15,
+  "cook_time_min": 20,
+  "total_time_min": 35,
+  "ingredients": [
+    {
+      "canonical_id": "ing_kurakkan_flour",
+      "name": "Kurakkan flour (finger millet flour)",
+      "quantity": 240,
+      "unit": "g",
+      "notes": "approx. 1 cup; sieve before use for a finer dough"
+    },
+    {
+      "canonical_id": "ing_coconut_grated",
+      "name": "Finely scraped coconut",
+      "quantity": 80,
+      "unit": "g",
+      "notes": "approx. 1 cup"
+    },
+    {
+      "canonical_id": "ing_treacle_kithul",
+      "name": "Kithul treacle",
+      "quantity": 0.75,
+      "unit": "cup",
+      "notes": "can substitute sugar syrup, coconut treacle, jaggery (melted), or date paste"
+    },
+    {
+      "canonical_id": "ing_flour_wheat",
+      "name": "All-purpose flour",
+      "quantity": 30,
+      "unit": "g",
+      "notes": "approx. 1/4 cup; helps bind the dough and keep it soft"
+    },
+    {
+      "canonical_id": "ing_salt",
+      "name": "Salt",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": "adjust to preference"
+    },
+    {
+      "canonical_id": "ing_sugar",
+      "name": "Sugar",
+      "quantity": 2,
+      "unit": "tbsp",
+      "notes": "adjust to preference"
+    },
+    {
+      "canonical_id": "ing_cardamom",
+      "name": "Cardamom",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "1 pod, crushed"
+    },
+    {
+      "canonical_id": "ing_kenda_leaf",
+      "name": "Fresh kenda leaves",
+      "quantity": 7,
+      "unit": "count",
+      "notes": "washed and dried; banana leaf or foil can substitute if unavailable, though flavour will differ"
+    },
+    {
+      "canonical_id": "ing_water",
+      "name": "Water",
+      "quantity": 0.4,
+      "unit": "cup",
+      "notes": "added gradually, about 1/4 to 1/2 cup total, just enough for a soft moldable dough"
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "instruction": "In a medium-sized bowl, add the kurakkan flour, scraped coconut, kithul treacle, all-purpose flour, sugar, crushed cardamom, and salt.",
+      "duration_min": 2
+    },
+    {
+      "step": 2,
+      "instruction": "Mix well, adding water a little at a time, until a smooth dough forms. The dough should be a little wet and sticky -- if too dry, add a touch more treacle or water; if too wet, add a little more flour.",
+      "duration_min": 5
+    },
+    {
+      "step": 3,
+      "instruction": "Divide the dough into about 6-7 small portions.",
+      "duration_min": 2
+    },
+    {
+      "step": 4,
+      "instruction": "Wash and dry the kenda leaves. Place one portion of dough onto each leaf and flatten it gently on one side only, leaving a small border around the edges.",
+      "duration_min": 8
+    },
+    {
+      "step": 5,
+      "instruction": "Fold each leaf in half over the dough and press down firmly to seal. Trim away any dough that spills out of the edges.",
+      "duration_min": 5
+    },
+    {
+      "step": 6,
+      "instruction": "Place the wrapped leaves into a steamer and steam for 15-20 minutes, until firm.",
+      "duration_min": 18
+    },
+    {
+      "step": 7,
+      "instruction": "Let cool to room temperature before unwrapping. Serve with a cup of plain Ceylon tea.",
+      "duration_min": 10
+    }
+  ],
+  "tags": [
+    "dessert",
+    "snack",
+    "everyday",
+    "vegetarian",
+    "gluten-free",
+    "jaggery",
+    "steam",
+    "comfort-food"
+  ],
+  "ayurvedic_balance": "vata-pacifying",
+  "nutrition_per_serving": {
+    "calories": 145,
+    "protein_g": 2,
+    "carbs_g": 27,
+    "fat_g": 4,
+    "fibre_g": 2
+  },
+  "trust_score": 0.82,
+  "source_url": "https://thefoodsnaps.com/halapa-a-traditional-sri-lankan-delicacy/",
+  "source_site": "thefoodsnaps.com, cross-checked against shankiikitchen.wordpress.com and peckishme.com for method consistency",
+  "collection_method": "scraped, cross-checked across 3 independent sources; this version uses treacle as in the primary source, with jaggery noted as the traditional substitute matching the dish's classic description",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-25",
+  "notes": "Helapa (also spelled Halapa) is a rural Sinhala village sweet, historically associated with Hambantota district where kurakkan (finger millet) is most commonly grown. The dish exists in two styles: dough mixed throughout with the sweetener (used here, the simpler method), or dough wrapped around a separate sweet coconut-treacle filling called 'pani pol' (a more traditional but fiddlier method). Kenda leaf (Macaranga peltata) is essential to the dish's signature aroma; banana leaf or foil are workable substitutes but change the flavour profile noticeably. Jaggery can directly replace the kithul treacle if preferred, melted slightly before mixing in."
+}

@@ -1,0 +1,198 @@
+{
+  "id": "sl_007",
+  "name_en": "Sri Lankan Green Bean, Potato and Cashew Nut Curry",
+  "name_si": "කජු, අල සහ බෝංචි කරිය",
+  "regional_origin": "Galle",
+  "cuisine": "Sri Lankan",
+  "course": "Main",
+  "servings": 4,
+  "prep_time_min": 30,
+  "cook_time_min": 25,
+  "total_time_min": 55,
+  "ingredients": [
+    {
+      "canonical_id": "ing_cashew",
+      "name": "Unsalted cashew nuts",
+      "quantity": 300,
+      "unit": "g",
+      "notes": "soaked in hot water for 30 minutes, drained"
+    },
+    {
+      "canonical_id": "ing_coconut_oil",
+      "name": "Coconut oil",
+      "quantity": 2,
+      "unit": "tbsp",
+      "notes": "or vegetable oil"
+    },
+    {
+      "canonical_id": "ing_cinnamon",
+      "name": "Cinnamon stick",
+      "quantity": 7.5,
+      "unit": "cm",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_onion",
+      "name": "Onion",
+      "quantity": 150,
+      "unit": "g",
+      "notes": "finely chopped"
+    },
+    {
+      "canonical_id": "ing_garlic",
+      "name": "Garlic",
+      "quantity": 15,
+      "unit": "g",
+      "notes": "crushed"
+    },
+    {
+      "canonical_id": "ing_ginger",
+      "name": "Ginger",
+      "quantity": 25,
+      "unit": "g",
+      "notes": "peeled and finely grated"
+    },
+    {
+      "canonical_id": "ing_green_chilli",
+      "name": "Green cayenne chillies",
+      "quantity": 2,
+      "unit": "count",
+      "notes": "thinly sliced"
+    },
+    {
+      "canonical_id": "ing_turmeric",
+      "name": "Turmeric powder",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_curry_powder_roasted",
+      "name": "Roasted Sri Lankan curry powder",
+      "quantity": 2,
+      "unit": "tsp",
+      "notes": "see sl_006 Roasted Sri Lankan Curry Powder"
+    },
+    {
+      "canonical_id": "ing_coconut_milk",
+      "name": "Coconut milk",
+      "quantity": 400,
+      "unit": "ml",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_lemongrass",
+      "name": "Lemongrass stalks",
+      "quantity": 2,
+      "unit": "count",
+      "notes": "fat stalks, core thinly sliced"
+    },
+    {
+      "canonical_id": "ing_pandan",
+      "name": "Pandan leaf",
+      "quantity": 4,
+      "unit": "count",
+      "notes": "3cm pieces"
+    },
+    {
+      "canonical_id": "ing_curry_leaves",
+      "name": "Curry leaves",
+      "quantity": 11,
+      "unit": "count",
+      "notes": "10-12 fresh leaves"
+    },
+    {
+      "canonical_id": "ing_potato",
+      "name": "Baby new potatoes",
+      "quantity": 150,
+      "unit": "g",
+      "notes": "halved if large; optional addition to bulk out the dish"
+    },
+    {
+      "canonical_id": "ing_green_bean",
+      "name": "Green beans",
+      "quantity": 150,
+      "unit": "g",
+      "notes": "trimmed, cut into 3-4cm pieces"
+    },
+    {
+      "canonical_id": "ing_jaggery",
+      "name": "Jaggery or palm sugar",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_lime",
+      "name": "Lime",
+      "quantity": 1,
+      "unit": "tbsp",
+      "notes": "juiced"
+    },
+    {
+      "canonical_id": "ing_coriander_leaves",
+      "name": "Coriander leaves",
+      "quantity": 10,
+      "unit": "g",
+      "notes": "small handful, roughly chopped"
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "instruction": "Put the cashew nuts into a bowl, cover with hot water, and leave to soak for 30 minutes. Drain before use.",
+      "duration_min": 2
+    },
+    {
+      "step": 2,
+      "instruction": "Heat the coconut oil in a medium-sized pan. Add the cinnamon stick and let it sizzle for a few seconds, then add the onion and garlic and fry gently for 5 minutes until soft and just beginning to brown.",
+      "duration_min": 5
+    },
+    {
+      "step": 3,
+      "instruction": "Stir in the ginger, green chillies, turmeric and curry powder, and cook for 1 minute until fragrant.",
+      "duration_min": 1
+    },
+    {
+      "step": 4,
+      "instruction": "Add the coconut milk, lemongrass, pandan leaf and curry leaves. Add the drained cashew nuts and potatoes, bring to a gentle simmer, cover, and cook for about 10 minutes.",
+      "duration_min": 10
+    },
+    {
+      "step": 5,
+      "instruction": "Uncover, add the green beans, and continue to cook for a further 10 minutes, or until both the cashew nuts and beans are tender. Uncover towards the end of cooking to reduce the sauce slightly if needed.",
+      "duration_min": 10
+    },
+    {
+      "step": 6,
+      "instruction": "Stir in the jaggery, lime juice and coriander leaves, and serve immediately.",
+      "duration_min": 2
+    }
+  ],
+  "tags": [
+    "dinner",
+    "lunch",
+    "curry",
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "coconut-milk",
+    "creamy",
+    "30-60-min"
+  ],
+  "ayurvedic_balance": "vata-pacifying",
+  "nutrition_per_serving": {
+    "calories": 412,
+    "protein_g": 9,
+    "carbs_g": 22,
+    "fat_g": 33,
+    "fibre_g": 5
+  },
+  "trust_score": 0.85,
+  "source_url": "https://www.getaway.co.za/food/sri-lankan-green-bean-potato-and-cashew-nut-curry-recipe/",
+  "source_site": "getaway.co.za, cross-checked against foodblogandthedog.wordpress.com (both independently reproducing the same published recipe)",
+  "collection_method": "scraped, cross-checked across 2 independent blog reproductions for ingredient and method consistency",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-25",
+  "notes": "Originally published as a cashew nut curry in Rick Stein's 'Far Eastern Odyssey', inspired by his 2008 filming trip to Sri Lanka where he was introduced to Sri Lankan cuisine by Chef Publis Silva. The original recipe used 300g cashew nuts without potato; the potato addition is a common blogger adaptation to bulk out the dish and is marked optional here. As with sl_006, the personal authorship link to Chef Publis specifically (versus other Sri Lankan cooks credited in the same book/series) is contextual rather than fully confirmed -- verify against the physical cookbook for a definitive authorship attribution if required."
+}

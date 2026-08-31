@@ -1,0 +1,184 @@
+{
+  "id": "sl_005",
+  "name_en": "Devilled Prawns with Tomatoes",
+  "name_si": "ඉස්සෝ දෙවල්ඩ්",
+  "regional_origin": "Colombo (Mount Lavinia)",
+  "cuisine": "Sri Lankan",
+  "course": "Main",
+  "servings": 4,
+  "prep_time_min": 15,
+  "cook_time_min": 20,
+  "total_time_min": 35,
+  "ingredients": [
+    {
+      "canonical_id": "ing_shrimp",
+      "name": "Prawns",
+      "quantity": 500,
+      "unit": "g",
+      "notes": "peeled and deveined"
+    },
+    {
+      "canonical_id": "ing_turmeric",
+      "name": "Turmeric powder",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": "for tossing with prawns"
+    },
+    {
+      "canonical_id": "ing_salt",
+      "name": "Salt",
+      "quantity": 1.5,
+      "unit": "tsp",
+      "notes": "split: 0.5 tsp for prawns, 1 tsp for the tomato mixture"
+    },
+    {
+      "canonical_id": "ing_tomato",
+      "name": "Tomatoes",
+      "quantity": 4,
+      "unit": "count",
+      "notes": "half finely chopped, half cut into wedges"
+    },
+    {
+      "canonical_id": "ing_coconut_oil",
+      "name": "Coconut oil",
+      "quantity": 3,
+      "unit": "tbsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_shallot",
+      "name": "Shallots",
+      "quantity": 8,
+      "unit": "count",
+      "notes": "or 1 large onion, sliced"
+    },
+    {
+      "canonical_id": "ing_garlic",
+      "name": "Garlic",
+      "quantity": 4,
+      "unit": "cloves",
+      "notes": "crushed or finely chopped"
+    },
+    {
+      "canonical_id": "ing_ginger",
+      "name": "Ginger",
+      "quantity": 1,
+      "unit": "tbsp",
+      "notes": "finely chopped"
+    },
+    {
+      "canonical_id": "ing_pandan",
+      "name": "Pandan leaf",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "small piece"
+    },
+    {
+      "canonical_id": "ing_curry_leaves",
+      "name": "Curry leaves",
+      "quantity": 1,
+      "unit": "tbsp",
+      "notes": "a small sprig"
+    },
+    {
+      "canonical_id": "ing_chilli_powder",
+      "name": "Dried crushed chillies",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": "Kashmiri-style for colour and mild heat"
+    },
+    {
+      "canonical_id": "ing_cinnamon",
+      "name": "Cinnamon stick",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "small piece, about 2cm"
+    },
+    {
+      "canonical_id": "ing_green_chilli",
+      "name": "Green chilli",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "sliced"
+    },
+    {
+      "canonical_id": "ing_leek",
+      "name": "Leek",
+      "quantity": 0.5,
+      "unit": "count",
+      "notes": "sliced"
+    },
+    {
+      "canonical_id": "ing_bell_pepper_green",
+      "name": "Green bell pepper",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "deseeded and cut into strips"
+    },
+    {
+      "canonical_id": "ing_lime",
+      "name": "Lime",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "juiced"
+    },
+    {
+      "canonical_id": "ing_mint",
+      "name": "Mint leaves",
+      "quantity": 10,
+      "unit": "g",
+      "notes": "a small handful, scattered to finish"
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "instruction": "Toss the prawns with the turmeric and half a teaspoon of salt and set aside to marinate briefly. Finely chop half the tomatoes and cut the remaining tomatoes into wedges; set both aside separately.",
+      "duration_min": 5
+    },
+    {
+      "step": 2,
+      "instruction": "Heat the coconut oil in a large, deep frying pan over medium heat. Add the shallots (or onion) and fry for about 5 minutes until soft and translucent.",
+      "duration_min": 5
+    },
+    {
+      "step": 3,
+      "instruction": "Add the garlic, ginger, pandan leaf and curry leaves, and stir-fry for about a minute. Add the crushed dried chillies and cinnamon, and stir-fry for a further 2 minutes until the mixture turns fragrant.",
+      "duration_min": 3
+    },
+    {
+      "step": 4,
+      "instruction": "Add the finely chopped tomatoes, green chilli, leek, black pepper and the remaining 1 teaspoon of salt. Stir-fry for about 5 minutes until the tomatoes soften into the base.",
+      "duration_min": 5
+    },
+    {
+      "step": 5,
+      "instruction": "Add the marinated prawns, green pepper strips and tomato wedges. Cook for a further 5 minutes, stirring occasionally, until the prawns are just cooked through. Stir in the lime juice, scatter over the mint leaves, and serve immediately.",
+      "duration_min": 5
+    }
+  ],
+  "tags": [
+    "dinner",
+    "seafood",
+    "stir-fry",
+    "spicy",
+    "colombo",
+    "30-60-min",
+    "crowd-pleaser"
+  ],
+  "ayurvedic_balance": "pitta-pacifying",
+  "nutrition_per_serving": {
+    "calories": 215,
+    "protein_g": 22,
+    "carbs_g": 9,
+    "fat_g": 11,
+    "fibre_g": 2
+  },
+  "trust_score": 0.9,
+  "source_url": "https://www.hokeystokey.com/devilled-prawns-with-tomatoes-4/",
+  "source_site": "hokeystokey.com (recipe attributed to Chef Publis Silva, originally published in Rick Stein's 'Far Eastern Odyssey')",
+  "collection_method": "scraped, cross-checked against second independent source listing (eatyourbooks.com) for ingredient list accuracy",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-25",
+  "notes": "A Portuguese-influenced dish credited to Chef (Dr.) Publis Silva of the Mount Lavinia Hotel, Colombo — published in Rick Stein's cookbook 'Far Eastern Odyssey' following his BBC series visit to Sri Lanka. Quantities have been estimated from the published method and standard recipe proportions for 4 servings, since the original source page did not display its ingredient-quantity table; treat exact amounts as best-effort estimates rather than the chef's verified originals. Recommend verifying against a physical copy of 'Far Eastern Odyssey' if exact precision is required for publication-grade accuracy."
+}

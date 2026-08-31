@@ -1,0 +1,41 @@
+{
+  "id": "sl_088",
+  "name_en": "Pani Pol Pancake (Coconut Treacle Crepe)",
+  "name_si": "පැණි පොල් පෑන්කේක්",
+  "regional_origin": "Island-wide",
+  "cuisine": "Sri Lankan",
+  "course": "Dessert",
+  "servings": 5,
+  "prep_time_min": 15,
+  "cook_time_min": 20,
+  "total_time_min": 35,
+  "ingredients": [
+    {"canonical_id": "ing_flour_wheat", "name": "All-purpose flour", "quantity": 120, "unit": "g", "notes": "about 1 cup; sifted"},
+    {"canonical_id": "ing_egg", "name": "Egg", "quantity": 1, "unit": "count", "notes": "beaten"},
+    {"canonical_id": "ing_coconut_milk", "name": "Coconut milk", "quantity": 180, "unit": "ml", "notes": "3/4 cup; makes a richer, more flavourful crepe than plain milk"},
+    {"canonical_id": "ing_water", "name": "Water", "quantity": 60, "unit": "ml", "notes": "1/4 cup; thin the batter to a pourable consistency"},
+    {"canonical_id": "ing_turmeric", "name": "Turmeric powder", "quantity": 0.25, "unit": "tsp", "notes": "gives the crepe its characteristic pale yellow colour"},
+    {"canonical_id": "ing_salt", "name": "Salt", "quantity": 0.25, "unit": "tsp", "notes": ""},
+    {"canonical_id": "ing_coconut_oil", "name": "Coconut oil", "quantity": 2, "unit": "tsp", "notes": "for greasing the pan between crepes"},
+    {"canonical_id": "ing_coconut_grated", "name": "Freshly grated coconut", "quantity": 200, "unit": "g", "notes": "for the pol pani filling (see sl_085 for method)"},
+    {"canonical_id": "ing_treacle_kithul", "name": "Kithul treacle", "quantity": 120, "unit": "ml", "notes": "1/2 cup; combined with the coconut to make pol pani filling"}
+  ],
+  "steps": [
+    {"step": 1, "instruction": "Make the pol pani filling first: combine the grated coconut with the kithul treacle in a pan over medium-low heat. Cook for 8-10 minutes, stirring continuously, until the treacle is fully absorbed and the mixture is sticky, glossy, and clumps together. Add a pinch of cardamom. Set aside to cool. See sl_085 for the full pol pani method.", "duration_min": 10},
+    {"step": 2, "instruction": "Make the crepe batter: whisk together the flour, beaten egg, coconut milk, water, turmeric, and salt until smooth and lump-free. The batter should be thinner than pancake batter -- similar to a thin crepe batter that coats the back of a spoon lightly. Rest for 5 minutes.", "duration_min": 8},
+    {"step": 3, "instruction": "Heat a small non-stick pan (about 20cm) over medium heat. Lightly grease with a few drops of coconut oil. Pour a small ladle of batter and swirl immediately to coat the pan in a thin, even layer. Cook for about 1 minute until the surface is set and the edges begin to lift.", "duration_min": 2},
+    {"step": 4, "instruction": "Flip carefully and cook the other side for 30 seconds. Slide onto a plate. Repeat with remaining batter, stacking the crepes between pieces of parchment to prevent sticking.", "duration_min": 10},
+    {"step": 5, "instruction": "To assemble: lay a crepe flat. Place 2-3 tablespoons of the pol pani filling in a line across the lower third of the crepe. Roll up firmly into a cylinder, or fold into quarters (like a folded handkerchief shape). Repeat with remaining crepes and filling.", "duration_min": 5},
+    {"step": 6, "instruction": "Serve immediately at room temperature. Pani pol pancakes are best eaten fresh -- the crepe softens if left too long. If storing, keep the crepes and filling separate and assemble just before eating.", "duration_min": 1}
+  ],
+  "tags": ["dessert", "snack", "breakfast", "festival", "new-year-avurudu", "vegetarian", "dairy-free", "under-30-min", "comfort-food"],
+  "ayurvedic_balance": "vata-pacifying",
+  "nutrition_per_serving": {"calories": 255, "protein_g": 4, "carbs_g": 32, "fat_g": 14, "fibre_g": 3},
+  "trust_score": 0.92,
+  "source_url": "https://www.hungrylankan.com/recipes/pani-pol-pancake/",
+  "source_site": "hungrylankan.com, cross-checked against islandsmile.org, rasakama.wordpress.com, thetinypantry.com, thefoodsnaps.com, and infolanka.com",
+  "collection_method": "scraped, cross-checked across 6+ independent sources; very strong agreement on the turmeric-coloured coconut-milk crepe and the pol pani filling (sl_085)",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "Pani pol pancake (also called pani pol crepe or simply 'pancake' in Sri Lanka) is a beloved breakfast and dessert item made by rolling a thin, pale yellow coconut-milk crepe around the pol pani filling (sl_085). The turmeric is what gives the crepe its distinctive pale yellow colour -- it is not optional aesthetically, as the yellow crepe around the dark filling is considered the signature look of the dish. Using coconut milk in the batter instead of regular milk gives a richer, slightly coconutty flavour that complements the pol pani filling. This dish shares a structural similarity with the French crepe suzette and Malaysian kuih dadar, reflecting the shared influence of Malay traders on Sri Lankan food culture. Pani pol is also used as the filling in imbul kiribath (stuffed milk rice) and lavariya (sweet string hopper dumplings)."
+}

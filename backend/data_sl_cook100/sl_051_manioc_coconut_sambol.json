@@ -1,0 +1,132 @@
+{
+  "id": "sl_051",
+  "name_en": "Manioc with Coconut Sambol (Boiled Cassava)",
+  "name_si": "මඤ්ඤොක්කා සමග පොල් සම්බෝල",
+  "regional_origin": "Island-wide",
+  "cuisine": "Sri Lankan",
+  "course": "Breakfast",
+  "servings": 4,
+  "prep_time_min": 15,
+  "cook_time_min": 25,
+  "total_time_min": 40,
+  "ingredients": [
+    {
+      "canonical_id": "ing_manioc",
+      "name": "Manioc (cassava root)",
+      "quantity": 600,
+      "unit": "g",
+      "notes": "peeled and cut into 5-6cm chunks; drop into salted water immediately after peeling to prevent browning"
+    },
+    {
+      "canonical_id": "ing_turmeric",
+      "name": "Turmeric powder",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": "added to the boiling water"
+    },
+    {
+      "canonical_id": "ing_salt",
+      "name": "Salt",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": "added to the boiling water, plus a little more for the sambol"
+    },
+    {
+      "canonical_id": "ing_coconut_grated",
+      "name": "Freshly grated coconut",
+      "quantity": 120,
+      "unit": "g",
+      "notes": "for the sambol"
+    },
+    {
+      "canonical_id": "ing_shallot",
+      "name": "Red onion or shallots",
+      "quantity": 0.5,
+      "unit": "count",
+      "notes": "finely chopped, for the sambol"
+    },
+    {
+      "canonical_id": "ing_green_chilli",
+      "name": "Green chillies",
+      "quantity": 2,
+      "unit": "count",
+      "notes": "finely sliced, for the sambol"
+    },
+    {
+      "canonical_id": "ing_chilli_powder",
+      "name": "Chilli powder",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": "for the sambol; adjust to taste"
+    },
+    {
+      "canonical_id": "ing_maldive_fish",
+      "name": "Maldive fish flakes",
+      "quantity": 1,
+      "unit": "tbsp",
+      "notes": "optional; omit for a fully vegan version"
+    },
+    {
+      "canonical_id": "ing_lime",
+      "name": "Lime",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "juiced, for the sambol"
+    },
+    {
+      "canonical_id": "ing_water",
+      "name": "Water",
+      "quantity": 1500,
+      "unit": "ml",
+      "notes": "enough to submerge the cassava; cook uncovered throughout"
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "instruction": "Peel the cassava using a sharp knife: cut off the hard ends, then remove the tough outer brown skin and the waxy inner pinkish layer beneath it -- both layers must come off completely, leaving only the pure white flesh. Cut into 5-6cm chunks and drop immediately into a bowl of salted water to prevent browning.",
+      "duration_min": 10
+    },
+    {
+      "step": 2,
+      "instruction": "Bring a large pot of water to a boil. Add the turmeric and salt. Add the drained cassava chunks. Cook uncovered over medium heat -- do NOT cover the pot, as covering causes the cassava to remain hard in the centre. Boil for 20-25 minutes until completely soft and cooked through, testing by pressing a piece with a fork.",
+      "duration_min": 23
+    },
+    {
+      "step": 3,
+      "instruction": "While the cassava cooks, make the sambol: combine the grated coconut, chopped onion, green chillies, chilli powder, and Maldive fish flakes (if using) in a bowl. Rub together with your fingertips until the coconut takes on the colour of the chilli. Squeeze in the lime juice and mix well. Taste and adjust salt and lime.",
+      "duration_min": 8
+    },
+    {
+      "step": 4,
+      "instruction": "Drain the boiled cassava. Arrange on a serving plate and serve alongside the coconut sambol. Eat by pulling apart the cassava with your fingers, scooping up sambol with each piece.",
+      "duration_min": 2
+    }
+  ],
+  "tags": [
+    "breakfast",
+    "lunch",
+    "everyday",
+    "vegan",
+    "vegetarian",
+    "gluten-free",
+    "dairy-free",
+    "under-30-min",
+    "comfort-food"
+  ],
+  "ayurvedic_balance": "kapha-pacifying",
+  "nutrition_per_serving": {
+    "calories": 295,
+    "protein_g": 4,
+    "carbs_g": 52,
+    "fat_g": 9,
+    "fibre_g": 4
+  },
+  "trust_score": 0.92,
+  "source_url": "https://www.islandsmile.org/manioc-cassava-coconut-curry/",
+  "source_site": "islandsmile.org (boiling technique), cross-checked against rasakama.wordpress.com, foodcnr.com, brownceylonesefood.com, and hungrylankan.com for sambol pairing and the cook-uncovered rule",
+  "collection_method": "scraped, cross-checked across 5+ independent sources; universal agreement on cooking uncovered and removing both skin layers",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "Boiled manioc with coconut sambol is one of the most elemental Sri Lankan comfort meals -- simple, cheap, filling, and eaten by all communities. The single most common mistake is covering the pot while boiling, which consistently results in cassava that stays hard in the centre; all sources agree it must cook uncovered. The second critical step is removing BOTH the outer brown skin and the pinkish waxy inner layer -- only the pure white flesh should remain, as the waxy layer contains traces of cyanogenic compounds that are eliminated by thorough cooking. The coconut sambol here is essentially pol sambol (sl_016); this entry documents the classic serving pairing rather than a new sambol. Lunu miris (sl_017) or kochchi sambol (white coconut + raw green chilli) are equally traditional accompaniments."
+}

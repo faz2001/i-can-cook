@@ -1,0 +1,131 @@
+{
+  "id": "sl_043",
+  "name_en": "Mallung (Mukunuwenna Mallung)",
+  "name_si": "මුකුණුවැන්න මැල්ලුම",
+  "regional_origin": "Island-wide",
+  "cuisine": "Sri Lankan",
+  "course": "Main",
+  "servings": 4,
+  "prep_time_min": 15,
+  "cook_time_min": 8,
+  "total_time_min": 23,
+  "ingredients": [
+    {
+      "canonical_id": "ing_mukunuwenna",
+      "name": "Mukunuwenna (sessile joyweed)",
+      "quantity": 300,
+      "unit": "g",
+      "notes": "leaves and tender stems, washed and finely shredded; kale or spinach can substitute if unavailable, though the flavour and texture will differ"
+    },
+    {
+      "canonical_id": "ing_coconut_grated",
+      "name": "Grated coconut",
+      "quantity": 100,
+      "unit": "g",
+      "notes": "fresh is best; rehydrated desiccated coconut works as a substitute"
+    },
+    {
+      "canonical_id": "ing_shallot",
+      "name": "Shallots or small red onion",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "finely chopped"
+    },
+    {
+      "canonical_id": "ing_garlic",
+      "name": "Garlic",
+      "quantity": 1,
+      "unit": "clove",
+      "notes": "crushed, optional"
+    },
+    {
+      "canonical_id": "ing_green_chilli",
+      "name": "Green chillies",
+      "quantity": 2,
+      "unit": "count",
+      "notes": "finely chopped; adjust to taste"
+    },
+    {
+      "canonical_id": "ing_turmeric",
+      "name": "Turmeric powder",
+      "quantity": 0.25,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_maldive_fish",
+      "name": "Maldive fish flakes (powdered)",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": "optional; omit for a fully vegan mallung"
+    },
+    {
+      "canonical_id": "ing_salt",
+      "name": "Salt",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": "to taste"
+    },
+    {
+      "canonical_id": "ing_lime",
+      "name": "Lime",
+      "quantity": 0.5,
+      "unit": "count",
+      "notes": "juiced, added at the end"
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "instruction": "Wash the mukunuwenna leaves and tender stems thoroughly. Stack the leaves and slice into very fine shreds -- the finer the shred, the better the texture of the finished dish.",
+      "duration_min": 10
+    },
+    {
+      "step": 2,
+      "instruction": "In a bowl, mix the shredded greens with the grated coconut, shallots, garlic (if using), green chillies, turmeric, Maldive fish powder (if using), and salt. Use your fingertips to rub everything together so the coconut and seasonings coat the leaves evenly.",
+      "duration_min": 5
+    },
+    {
+      "step": 3,
+      "instruction": "Heat a dry pan (no oil needed, though a small amount can be used) over medium heat. Add the mixture and cook, stirring frequently, for about 5-7 minutes.",
+      "duration_min": 6
+    },
+    {
+      "step": 4,
+      "instruction": "Cook just until the greens have wilted and softened but are still bright green -- do not overcook, as this turns the leaves brown and dulls both the colour and the nutrients.",
+      "duration_min": 2
+    },
+    {
+      "step": 5,
+      "instruction": "Remove from heat and stir in the lime juice. Taste and adjust salt. Serve warm or at room temperature as part of a rice and curry meal.",
+      "duration_min": 1
+    }
+  ],
+  "tags": [
+    "lunch",
+    "dinner",
+    "everyday",
+    "vegan",
+    "vegetarian",
+    "gluten-free",
+    "dairy-free",
+    "raw",
+    "under-30-min",
+    "comfort-food"
+  ],
+  "ayurvedic_balance": "tridoshic",
+  "nutrition_per_serving": {
+    "calories": 95,
+    "protein_g": 3,
+    "carbs_g": 6,
+    "fat_g": 7,
+    "fibre_g": 4
+  },
+  "trust_score": 0.89,
+  "source_url": "https://www.loveandotherspices.com/sri-lankan-kale-mallung/",
+  "source_site": "loveandotherspices.com, cross-checked against hive.blog, myspicykitchen.net, sundaytimes.lk, easypeasycurry.com, and the Mallung Wikipedia entry for ingredient and technique consistency",
+  "collection_method": "scraped, cross-checked across 6+ independent sources; very strong agreement on the core technique of mixing shredded greens with coconut and seasonings before a brief dry saute",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "Mallung (also spelled mallum) means 'mixed up' in Sinhala and is one of the most common side dishes in Sri Lankan home cooking, eaten at nearly every meal alongside rice and curry. Mukunuwenna is considered the most iconic and beloved green for this dish -- ask any Sri Lankan about mallung and they will likely mention mukunuwenna first. The same technique applies to many other greens (gotukola, kankun/water spinach, cabbage, even shredded green beans or young jackfruit), all generically called mallung once prepared this way. Outside Sri Lanka, kale or spinach are common substitutes for mukunuwenna, though both food bloggers and reference sources note the flavour and texture differ somewhat from the original. Avoiding overcooking is the most repeated technique tip across sources -- the dish should retain a bright green colour and some textural bite, not turn into a soft, dull mush."
+}

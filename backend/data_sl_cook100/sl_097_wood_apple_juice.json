@@ -1,0 +1,37 @@
+{
+  "id": "sl_097",
+  "name_en": "Wood Apple Juice (Diwul Kiri)",
+  "name_si": "දිවුල් කිරි",
+  "regional_origin": "Island-wide (especially Southern and Western provinces)",
+  "cuisine": "Sri Lankan",
+  "course": "Dessert",
+  "servings": 4,
+  "prep_time_min": 70,
+  "cook_time_min": 0,
+  "total_time_min": 70,
+  "ingredients": [
+    {"canonical_id": "ing_wood_apple", "name": "Ripe wood apple (diwul)", "quantity": 2, "unit": "count", "notes": "choose ripe fruits -- they should smell strongly aromatic (earthy, slightly fermented) and feel slightly soft when pressed. Unripe wood apple is intensely sour and barely palatable."},
+    {"canonical_id": "ing_water", "name": "Water", "quantity": 480, "unit": "ml", "notes": "2 cups; for soaking the pulp"},
+    {"canonical_id": "ing_coconut_milk", "name": "Thin coconut milk", "quantity": 240, "unit": "ml", "notes": "1 cup; the distinctly Sri Lankan addition that turns this from a tart fruit juice into a creamy, rich drink called 'kiri' (milk)"},
+    {"canonical_id": "ing_jaggery", "name": "Kithul jaggery or sugar", "quantity": 4, "unit": "tbsp", "notes": "adjust to the tartness of the fruit; kithul jaggery gives a more complex, earthy sweetness traditional to this drink"},
+    {"canonical_id": "ing_cardamom", "name": "Cardamom powder", "quantity": 0.25, "unit": "tsp", "notes": "optional"},
+    {"canonical_id": "ing_salt", "name": "Salt", "quantity": 1, "unit": "pinch", "notes": "balances the sweetness and enhances flavour"}
+  ],
+  "steps": [
+    {"step": 1, "instruction": "Crack open the hard shell of each wood apple by tapping firmly with a rolling pin, hammer, or the back of a heavy knife. The shell is very hard -- it may take several firm strikes. The interior is dark brown, sticky pulp with many seeds embedded throughout.", "duration_min": 5},
+    {"step": 2, "instruction": "Scoop out all the dark pulp into a bowl using a spoon. Pick out and discard any large shell fragments. Add 2 cups of water to the pulp and stir well, mashing with a fork to break up the pulp into the water. Cover and refrigerate for at least 1 hour, or overnight -- the soaking softens the fibrous pulp and makes straining easier.", "duration_min": 65},
+    {"step": 3, "instruction": "After soaking, strain the mixture through a fine mesh sieve, pressing firmly with the back of a spoon to extract as much juice as possible. Discard the seeds and fibrous solids -- take care to remove all seeds, as they are very bitter and will ruin the drink if left in.", "duration_min": 5},
+    {"step": 4, "instruction": "Add the thin coconut milk, jaggery (or sugar), cardamom (if using), and a pinch of salt to the strained juice. Stir or blend until the jaggery dissolves completely and the mixture is smooth and uniform.", "duration_min": 3},
+    {"step": 5, "instruction": "Taste and adjust sweetness -- wood apples vary considerably in tartness, so some fruits need more jaggery than others. The finished drink should be tart, sweet, slightly earthy, and creamy. Serve chilled over ice, or at room temperature.", "duration_min": 2}
+  ],
+  "tags": ["dessert", "breakfast", "everyday", "vegan", "vegetarian", "gluten-free", "dairy-free", "coconut-milk", "jaggery", "over-60-min"],
+  "ayurvedic_balance": "pitta-pacifying",
+  "nutrition_per_serving": {"calories": 120, "protein_g": 1, "carbs_g": 22, "fat_g": 4, "fibre_g": 2},
+  "trust_score": 0.91,
+  "source_url": "https://www.elanka.com.au/delicious-sri-lankan-wood-apple-juice-recipe-by-malsha-elanka-2/",
+  "source_site": "elanka.com.au, cross-checked against foodcnr.com, anediblemosaic.com, infolanka.com, mydiversekitchen.com, srilankancuisine.org, and top10travel.asia",
+  "collection_method": "scraped, cross-checked across 8+ independent sources; strong agreement on the soak-then-strain method and the coconut milk addition as the defining Sri Lankan characteristic",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "Diwul kiri (literally 'wood apple milk') is one of the most distinctive Sri Lankan drinks -- wood apple has a very unusual flavour described by anediblemosaic.com as 'a mixture of sweet apples, exotic fruit, dried fruit like raisins, citrus, and tamarind, with an underlying over-ripe, slightly sour, earthy, musky flavour.' The coconut milk addition is the specifically Sri Lankan characteristic that differentiates this from other South Asian wood apple drinks, which typically use plain water. The overnight soak is consistently recommended across sources -- foodcnr.com notes that blending directly (without soaking) makes seed removal difficult and risks bitterness from the seeds. Wood apple is also consumed as a tea (beli mal thé) from the dried flowers of the bael tree (Aegle marmelos), a separate but related preparation. The total_time_min (70 minutes) reflects the minimum 1-hour soak time."
+}

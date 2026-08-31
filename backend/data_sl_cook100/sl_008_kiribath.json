@@ -1,0 +1,106 @@
+{
+  "id": "sl_008",
+  "name_en": "Kiribath (Milk Rice)",
+  "name_si": "කිරිබත්",
+  "regional_origin": "Island-wide",
+  "cuisine": "Sri Lankan",
+  "course": "Breakfast",
+  "servings": 6,
+  "prep_time_min": 10,
+  "cook_time_min": 30,
+  "total_time_min": 40,
+  "ingredients": [
+    {
+      "canonical_id": "ing_rice_white",
+      "name": "Short-grain or medium-grain white rice",
+      "quantity": 500,
+      "unit": "g",
+      "notes": "samba rice is traditional; sushi or risotto rice work as substitutes. Avoid basmati or long-grain rice."
+    },
+    {
+      "canonical_id": "ing_water",
+      "name": "Water",
+      "quantity": 600,
+      "unit": "ml",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_coconut_milk",
+      "name": "Thick coconut milk",
+      "quantity": 400,
+      "unit": "ml",
+      "notes": "one full tin, full-fat, shaken or stirred well before use"
+    },
+    {
+      "canonical_id": "ing_salt",
+      "name": "Salt",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "instruction": "Wash the rice in several changes of water until the water runs mostly clear. Drain well.",
+      "duration_min": 3
+    },
+    {
+      "step": 2,
+      "instruction": "Put the rice and water in a heavy-bottomed pot. Bring to a boil, stir once, then cover tightly and reduce heat to the lowest setting. Cook for 15 minutes until the water is absorbed and the rice is tender. Do not lift the lid during this time.",
+      "duration_min": 15
+    },
+    {
+      "step": 3,
+      "instruction": "Uncover the rice. Pour the full tin of thick coconut milk over the rice. Add the salt. Stir gently with a wooden spoon or rice paddle, folding the coconut milk through the rice without mashing it.",
+      "duration_min": 2
+    },
+    {
+      "step": 4,
+      "instruction": "Return to low heat, uncovered. Cook for another 8-10 minutes, stirring occasionally, until the coconut milk is fully absorbed and the rice is thick, glossy, and holds together when pressed.",
+      "duration_min": 9
+    },
+    {
+      "step": 5,
+      "instruction": "While the rice is still hot, transfer it to a flat tray, baking sheet, or banana leaf. Press it firmly with the back of a spoon or a water-moistened spatula into an even layer about 2cm thick. Smooth the surface.",
+      "duration_min": 3
+    },
+    {
+      "step": 6,
+      "instruction": "Let it cool for 10-15 minutes until it sets firm enough to cut cleanly. Cut into diamond shapes using a sharp knife dipped in water: make parallel diagonal cuts in one direction, then cross them in the opposite direction.",
+      "duration_min": 12
+    },
+    {
+      "step": 7,
+      "instruction": "Serve the kiribath diamonds at room temperature, traditionally with lunu miris (chilli onion sambol) alongside, or with a sprinkle of sugar or a piece of jaggery for a sweet version.",
+      "duration_min": 1
+    }
+  ],
+  "tags": [
+    "breakfast",
+    "festival",
+    "new-year-avurudu",
+    "everyday",
+    "vegetarian",
+    "gluten-free",
+    "dairy-free",
+    "coconut-milk",
+    "comfort-food",
+    "30-60-min"
+  ],
+  "ayurvedic_balance": "kapha-pacifying",
+  "nutrition_per_serving": {
+    "calories": 285,
+    "protein_g": 5,
+    "carbs_g": 42,
+    "fat_g": 11,
+    "fibre_g": 1
+  },
+  "trust_score": 0.92,
+  "source_url": "https://propermasala.com/recipes/kiribath/",
+  "source_site": "propermasala.com",
+  "collection_method": "scraped, single well-documented and internally consistent primary source",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "Kiribath is Sri Lanka's national dish, traditionally the first food cooked in a new home and made on Sinhala/Tamil New Year morning. The 2-ingredient core (rice + coconut milk) is universal across sources; the rice type (short/medium-grain, not basmati) is the single most important variable for getting the sliceable 'slab' texture right. This entry covers the plain version; lunu miris (the traditional savoury accompaniment) and sweet variants like imbul kiribath are separate dishes and not included in this record."
+}

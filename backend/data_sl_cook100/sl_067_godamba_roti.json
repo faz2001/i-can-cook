@@ -1,0 +1,38 @@
+{
+  "id": "sl_067",
+  "name_en": "Godamba Roti (Sri Lankan Layered Flatbread)",
+  "name_si": "ගොඩම්බා රොටී",
+  "regional_origin": "Island-wide (origin traced to Malay/Singaporean influence)",
+  "cuisine": "Sri Lankan",
+  "course": "Main",
+  "servings": 4,
+  "prep_time_min": 90,
+  "cook_time_min": 20,
+  "total_time_min": 110,
+  "ingredients": [
+    {"canonical_id": "ing_flour_wheat", "name": "All-purpose flour (maida)", "quantity": 450, "unit": "g", "notes": "3 cups; maida (refined white flour) is preferred over wholemeal; bread flour is not recommended as it develops too much gluten"},
+    {"canonical_id": "ing_salt", "name": "Salt", "quantity": 1, "unit": "tsp", "notes": ""},
+    {"canonical_id": "ing_water", "name": "Lukewarm water", "quantity": 240, "unit": "ml", "notes": "1 cup; exact amount depends on flour; add gradually"},
+    {"canonical_id": "ing_coconut_oil", "name": "Oil (vegetable or coconut)", "quantity": 240, "unit": "ml", "notes": "1 cup; split: 1 tbsp for the dough, the rest for coating the balls and greasing the griddle. Oil is essential and not optional -- it is what creates the layers."}
+  ],
+  "steps": [
+    {"step": 1, "instruction": "Combine the flour and salt in a bowl. Add 1 tablespoon of oil and rub it through the flour with your fingertips. Gradually add the lukewarm water, mixing as you go, until a soft but not sticky dough forms.", "duration_min": 5},
+    {"step": 2, "instruction": "Knead the dough vigorously for 8-10 minutes until it is very smooth, elastic, and stretchy. The dough needs significant gluten development to stretch paper-thin without tearing.", "duration_min": 10},
+    {"step": 3, "instruction": "Divide the dough into 8-10 equal balls. Place them in a shallow tray and pour the remaining oil over them, turning to coat each ball completely. Cover with cling film and rest for at least 1 hour -- 2-3 hours gives even better stretch. Do not skip this rest; it is what relaxes the gluten enough to stretch the dough paper-thin.", "duration_min": 60},
+    {"step": 4, "instruction": "To shape: take one oiled dough ball and place it on a lightly oiled flat surface. Using your palm, press and stretch it out from the centre. Continue stretching it thinner and wider using the backs of your fingers and a gentle pulling motion, working around the dough until it is almost translucent -- roughly 30-35cm across. Alternatively, roll it thin with a rolling pin then stretch gently by hand.", "duration_min": 5},
+    {"step": 5, "instruction": "Fold the stretched dough into thirds or quarters like a letter, then roll up to create layers. This folding creates the characteristic layered structure.", "duration_min": 2},
+    {"step": 6, "instruction": "Heat a flat griddle or tawa over medium-high heat. Brush lightly with oil. Cook the folded roti for 2-3 minutes per side, pressing down gently with a spatula, until both sides are golden with brown spots.", "duration_min": 4},
+    {"step": 7, "instruction": "Remove from the griddle and immediately scrunch / clap the roti between your palms several times -- this separates the internal layers and creates the flaky, shredded texture that defines a good godamba roti. Wrap in a cloth to keep warm while you cook the rest.", "duration_min": 1},
+    {"step": 8, "instruction": "Serve hot with dhal curry, chicken curry, or pol sambol. Can also be torn into pieces for kottu roti (sl_012).", "duration_min": 1}
+  ],
+  "tags": ["breakfast", "dinner", "street-food", "everyday", "vegan", "vegetarian", "dairy-free", "over-60-min", "comfort-food", "crowd-pleaser"],
+  "ayurvedic_balance": "kapha-pacifying",
+  "nutrition_per_serving": {"calories": 380, "protein_g": 7, "carbs_g": 55, "fat_g": 15, "fibre_g": 2},
+  "trust_score": 0.9,
+  "source_url": "https://propermasala.com/recipes/godamba-roti/",
+  "source_site": "propermasala.com, cross-checked against polsambol.wordpress.com, kravingsfoodadventures.com, ammiskitchennz.blogspot.com, asianfoodsdaily.com, and tastemade.com",
+  "collection_method": "scraped, cross-checked across 6+ independent sources; strong agreement on the 1-hour minimum oil-soak rest, vigorous kneading for gluten development, and the post-cook scrunch technique",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "Godamba roti (also spelled gothamba, gothambu) is Sri Lanka's version of the Malaysian roti canai / South Indian parotta -- all are cousins of the same oil-laminated, stretched flatbread family brought by Malay and Indian Muslim traders. The post-cook scrunch (clapping between palms) is the technique that distinguishes a properly made godamba roti from a flat disc -- it takes 2 seconds and is non-negotiable for the characteristic flaky, shredded layers. The 1-hour minimum oil-soak rest for the dough balls is equally non-negotiable -- without it the gluten is too tense and the dough tears rather than stretching thin. Total time of 110 minutes includes 60 minutes of passive resting. Godamba roti is the structural base for kottu roti (sl_012); leftover or day-old godamba roti is what is traditionally chopped on the griddle to make kottu."
+}

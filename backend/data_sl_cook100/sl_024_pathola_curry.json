@@ -1,0 +1,171 @@
+{
+  "id": "sl_024",
+  "name_en": "Snake Gourd Curry (Pathola Curry)",
+  "name_si": "පතෝල කරිය",
+  "regional_origin": "Island-wide",
+  "cuisine": "Sri Lankan",
+  "course": "Main",
+  "servings": 4,
+  "prep_time_min": 15,
+  "cook_time_min": 20,
+  "total_time_min": 35,
+  "ingredients": [
+    {
+      "canonical_id": "ing_snake_gourd",
+      "name": "Snake gourd (pathola)",
+      "quantity": 500,
+      "unit": "g",
+      "notes": "1 medium snake gourd; scrape off the white outer layer, halve, scoop out the spongy seeded core, then slice into thin half-moons"
+    },
+    {
+      "canonical_id": "ing_onion",
+      "name": "Onion",
+      "quantity": 0.5,
+      "unit": "count",
+      "notes": "sliced fine"
+    },
+    {
+      "canonical_id": "ing_garlic",
+      "name": "Garlic",
+      "quantity": 3,
+      "unit": "cloves",
+      "notes": "sliced"
+    },
+    {
+      "canonical_id": "ing_green_chilli",
+      "name": "Green chillies",
+      "quantity": 2,
+      "unit": "count",
+      "notes": "chopped"
+    },
+    {
+      "canonical_id": "ing_curry_leaves",
+      "name": "Curry leaves",
+      "quantity": 8,
+      "unit": "count",
+      "notes": "a handful"
+    },
+    {
+      "canonical_id": "ing_pandan",
+      "name": "Pandan leaf",
+      "quantity": 1,
+      "unit": "count",
+      "notes": "1-inch piece"
+    },
+    {
+      "canonical_id": "ing_fenugreek",
+      "name": "Fenugreek seeds",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": "optional"
+    },
+    {
+      "canonical_id": "ing_turmeric",
+      "name": "Turmeric powder",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "canonical_id": "ing_chilli_powder",
+      "name": "Red chilli powder",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "notes": "optional, for a slightly spicier version; this curry is traditionally very mild"
+    },
+    {
+      "canonical_id": "ing_maldive_fish",
+      "name": "Maldive fish flakes",
+      "quantity": 1,
+      "unit": "tbsp",
+      "notes": "optional, for umami depth; omit for vegan"
+    },
+    {
+      "canonical_id": "ing_water",
+      "name": "Water",
+      "quantity": 120,
+      "unit": "ml",
+      "notes": "1/2 cup"
+    },
+    {
+      "canonical_id": "ing_coconut_milk",
+      "name": "Thick coconut milk",
+      "quantity": 120,
+      "unit": "ml",
+      "notes": "1/2 cup"
+    },
+    {
+      "canonical_id": "ing_salt",
+      "name": "Salt",
+      "quantity": 0.75,
+      "unit": "tsp",
+      "notes": "to taste"
+    },
+    {
+      "canonical_id": "ing_lime",
+      "name": "Lime",
+      "quantity": 0.5,
+      "unit": "count",
+      "notes": "juiced, added at the end"
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "instruction": "Wash the snake gourd and scrape off the white, snowy outer layer with a knife to expose the green skin beneath. Split it lengthwise and scrape out the spongy, seeded core with a spoon.",
+      "duration_min": 8
+    },
+    {
+      "step": 2,
+      "instruction": "Slice the cleaned snake gourd into thin half-moon slices. Rinse briefly and drain.",
+      "duration_min": 4
+    },
+    {
+      "step": 3,
+      "instruction": "Place the sliced snake gourd, onion, garlic, green chillies, curry leaves, pandan leaf, fenugreek (if using), turmeric, chilli powder (if using), Maldive fish (if using), and salt into a saucepan. Mix everything together gently.",
+      "duration_min": 2
+    },
+    {
+      "step": 4,
+      "instruction": "Add the water and bring to a simmer over medium heat. Cover and cook for about 6-8 minutes, until the snake gourd is just tender but not falling apart.",
+      "duration_min": 7
+    },
+    {
+      "step": 5,
+      "instruction": "Pour in the thick coconut milk. Stir gently and simmer uncovered for a further 3-5 minutes, stirring occasionally to prevent the coconut milk from curdling. Avoid letting it boil vigorously.",
+      "duration_min": 4
+    },
+    {
+      "step": 6,
+      "instruction": "Remove from heat and stir in the lime juice. Taste and adjust salt. Serve warm with rice or pol roti.",
+      "duration_min": 1
+    }
+  ],
+  "tags": [
+    "lunch",
+    "dinner",
+    "curry",
+    "everyday",
+    "vegan",
+    "vegetarian",
+    "gluten-free",
+    "coconut-milk",
+    "comfort-food",
+    "under-30-min"
+  ],
+  "ayurvedic_balance": "pitta-pacifying",
+  "nutrition_per_serving": {
+    "calories": 95,
+    "protein_g": 2,
+    "carbs_g": 8,
+    "fat_g": 7,
+    "fibre_g": 2
+  },
+  "trust_score": 0.87,
+  "source_url": "https://www.islandsmile.org/snake-gourd-coconut-curry-pathola/",
+  "source_site": "islandsmile.org, cross-checked against 196flavors.com and magical-ingredients.com for technique consistency",
+  "collection_method": "scraped, cross-checked across 4+ independent sources for consistent mild white-curry technique",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "Pathola maluwa is also called 'pathola kiri hodi' (snake gourd white curry) due to its pale, creamy colour and very mild spicing -- it is considered an everyday, gentle dish suitable even for children or anyone avoiding heavy spice. Snake gourd is closely related to loofah/calabash in taste and texture once cooked. Some cooks remove the inner spongy core and seeds before cooking (as in this recipe), while others leave it in for a softer, more textured curry; both are valid household preferences. Maldive fish flakes are optional, but many cooks consider them important for rounding out the dish's otherwise very mild flavour -- omit for a fully vegan version."
+}

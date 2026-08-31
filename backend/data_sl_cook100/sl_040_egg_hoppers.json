@@ -1,0 +1,146 @@
+{
+  "id": "sl_040",
+  "name_en": "Egg Hoppers (Biththara Appa)",
+  "name_si": "බිත්තර ආප්ප",
+  "regional_origin": "Island-wide",
+  "cuisine": "Sri Lankan",
+  "course": "Breakfast",
+  "servings": 4,
+  "prep_time_min": 30,
+  "cook_time_min": 30,
+  "total_time_min": 1080,
+  "ingredients": [
+    {
+      "canonical_id": "ing_flour_rice",
+      "name": "Rice flour (plain, not glutinous)",
+      "quantity": 250,
+      "unit": "g",
+      "notes": "about 2 cups; same fermented batter as plain hoppers (sl_039)"
+    },
+    {
+      "canonical_id": "ing_yeast",
+      "name": "Active dry yeast",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": "traditionally palm toddy is used instead"
+    },
+    {
+      "canonical_id": "ing_water",
+      "name": "Warm water",
+      "quantity": 250,
+      "unit": "ml",
+      "notes": "for the initial overnight ferment"
+    },
+    {
+      "canonical_id": "ing_coconut_milk",
+      "name": "Coconut milk",
+      "quantity": 200,
+      "unit": "ml",
+      "notes": "added after fermentation, gradually until the batter reaches a thin, pourable consistency"
+    },
+    {
+      "canonical_id": "ing_sugar",
+      "name": "Sugar",
+      "quantity": 1,
+      "unit": "tsp",
+      "notes": "added after fermentation"
+    },
+    {
+      "canonical_id": "ing_salt",
+      "name": "Salt",
+      "quantity": 0.75,
+      "unit": "tsp",
+      "notes": "split: a little in the batter, a pinch on top of each egg before covering"
+    },
+    {
+      "canonical_id": "ing_egg",
+      "name": "Eggs",
+      "quantity": 4,
+      "unit": "count",
+      "notes": "1 per hopper; use as many as the number of hoppers you intend to make as egg hoppers"
+    },
+    {
+      "canonical_id": "ing_coconut_oil",
+      "name": "Oil",
+      "quantity": 2,
+      "unit": "tsp",
+      "notes": "for greasing the hopper pan"
+    },
+    {
+      "canonical_id": "ing_black_pepper",
+      "name": "Black pepper",
+      "quantity": 0.25,
+      "unit": "tsp",
+      "notes": "optional, a small pinch over the egg before covering"
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "instruction": "The night before serving (about 18-20 hours ahead), mix the rice flour, yeast, and warm water into a thick paste. Cover and leave in a warm place to ferment for 18-20 hours until bubbly and slightly risen.",
+      "duration_min": 1080
+    },
+    {
+      "step": 2,
+      "instruction": "After fermentation, add the sugar and coconut milk gradually to form a smooth, thin, pourable batter. Stir in the salt last. Cover and let rest for a further 30 minutes.",
+      "duration_min": 35
+    },
+    {
+      "step": 3,
+      "instruction": "Heat a hopper pan over medium-high heat. Lightly grease with a little oil.",
+      "duration_min": 2
+    },
+    {
+      "step": 4,
+      "instruction": "Pour in a small ladleful of batter. Immediately lift and swirl the pan in a circular motion to coat the sides thinly, leaving a thicker pool of batter in the centre.",
+      "duration_min": 1
+    },
+    {
+      "step": 5,
+      "instruction": "Crack one egg directly into the centre of the hopper while it is still in the pan. You can gently break the yolk and spread it slightly, or leave it whole for a runny centre.",
+      "duration_min": 1
+    },
+    {
+      "step": 6,
+      "instruction": "Sprinkle a small pinch of salt and black pepper (if using) over the egg. Cover with a lid and cook for about 3-4 minutes, until the egg white sets, the edges turn golden and crisp, and the yolk is cooked to your preference (soft or firm).",
+      "duration_min": 4
+    },
+    {
+      "step": 7,
+      "instruction": "Carefully loosen the edges with a spatula and lift the egg hopper out, keeping the bowl shape intact. Repeat with the remaining batter and eggs.",
+      "duration_min": 2
+    },
+    {
+      "step": 8,
+      "instruction": "Serve hot, traditionally alongside several plain hoppers, with lunu miris, pol sambol, or a curry of choice.",
+      "duration_min": 1
+    }
+  ],
+  "tags": [
+    "breakfast",
+    "dinner",
+    "street-food",
+    "everyday",
+    "vegetarian",
+    "gluten-free",
+    "dairy-free",
+    "coconut-milk",
+    "comfort-food",
+    "over-60-min"
+  ],
+  "ayurvedic_balance": "vata-pacifying",
+  "nutrition_per_serving": {
+    "calories": 245,
+    "protein_g": 9,
+    "carbs_g": 36,
+    "fat_g": 7,
+    "fibre_g": 1
+  },
+  "trust_score": 0.92,
+  "source_url": "https://www.joyofeatingtheworld.com/how-to-make-egg-hoppers-biththara-appa-tips-video/",
+  "source_site": "joyofeatingtheworld.com, cross-checked against eggs.ca, simplift.online, smartrestro.com, and authenticworldfood.com for the egg-cracking and covering technique",
+  "collection_method": "scraped, cross-checked across 5+ independent sources; very strong agreement that egg hoppers use the identical batter to plain hoppers, simply with an egg added during cooking",
+  "annotated_by": "Fawaaz",
+  "annotation_date": "2026-06-26",
+  "notes": "Egg hoppers are simply plain hoppers (sl_039) with an egg cracked into the centre during cooking -- they share an identical fermented batter, so this entry reuses the same total_time_min to reflect the overnight ferment. Egg hoppers are typically served as part of a stack that includes both plain and egg hoppers together, with diners often eating 3-10 plain hoppers alongside just one or two egg hoppers per person. Timing the lid-covered cooking stage is the key skill: too short and the egg white stays raw, too long and the yolk overcooks past the soft, slightly runny centre most people prefer. A well-seasoned, dedicated hopper pan that is never washed with soap (only wiped and oiled) is traditionally considered essential for the best non-stick results over time."
+}
